@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="magento-id">
+    <property file="deploy.properties"/>
+    
+    <target name="deploy"
+		description="Deploy translation pack files to $server config. Useful during development.">
+		<exec executable="rsync">
+			<arg line="-vza app ${server.user}@${server.host}:${server.dir}/" />
+		</exec>
+    </target>
+    
+</project>
