@@ -1,0 +1,1 @@
+server = [host: 'geulis.local', user: 'ceefour', dir: 'public_html/sandbox1']
