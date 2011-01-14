@@ -1,4 +1,5 @@
-.project
+.gradle
+.settings
 /config.gradle
 .ant
 deploy.properties
