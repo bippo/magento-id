@@ -262,7 +262,7 @@
 "Inventory","Stok"
 "Is Default","Adalah Patokan"
 "Is Required","Is Required"
-"Items %s to %s of %s total","Barang ke %s sampai ke %s dari total %s"
+"Items %s to %s of %s total","Produk %s-%s dari %s"
 "Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","Barang yang tidak ingin anda tampilkan dalam katalog dan pencarian harus memiliki status ""Tidak Aktif"" pada toko yang diinginkan."
 "Label","Label"
 "Last Name","Nama Belakang"
