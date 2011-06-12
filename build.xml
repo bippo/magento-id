@@ -9,4 +9,9 @@
 		</exec>
     </target>
     
+	<target name="symlink" description="Create symlink in ${magento.dir}. It will not overwrite existing files/links.">
+		<fail unless="magento.dir"/>
+		<symlink link="${magento.dir}/app/locale/" resource="${basedir}/app/locale/id_ID" failonerror="false"/>
+	</target>
+    
 </project>
