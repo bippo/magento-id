@@ -1,1222 +1,1222 @@
-" The customer doesn't exist in the system anymore","Pelanggan ini sudah tidak ada lagi di sistem"
-" and "," and "
-" note that the URLs provided below are the correct values for your current website): "," note that the URLs provided below are the correct values for your current website): "
-"%s (Default Template from Locale)","%s (Default Template from Locale)"
-"%s cache type(s) disabled.","%s cache type(s) disabled."
-"%s cache type(s) enabled.","%s cache type(s) enabled."
-"%s cache type(s) refreshed.","%s cache type(s) refreshed."
-"(For Type ""Local Server"" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)","(For Type ""Local Server"" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
-"(For US 2-letter state names)","(Untuk AS gunakan 2 huruf untuk negara bagian)"
-"(If left empty will be auto-generated)","(Jika ditinggalkan kosong akan digenerate secara otomatis)"
-"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)","(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-"(Leave empty for first spreadsheet)","(Tinggalkan kosong untuk spreadsheet pertama)"
-"(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)","(Produk akan ditambah/diubah pada toko ini jika kolom 'toko' dibiarkan kosong atau hilang pada file import.)"
-"(Shift-)Click or drag to change value","(Shift-)Click or drag to change value"
-"(Starting with)","(Dimulai dengan)"
-"(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)","(Ketika 'Tidak', hanya field yang dipetakan yang akan diimport. Ketika memetakan, gunakan 'column1', 'column2', etc.)"
-"(You have to increase php memory_limit before changing this value)","(You have to increase php memory_limit before changing this value)"
-"(\t for tab)","(\t for tab)"
-"* - If indexing is in progress, it will be killed and new indexing process will start","* - If indexing is in progress, it will be killed and new indexing process will start"
-"- Click on any of the time parts to increase it","- Click on any of the time parts to increase it"
-"- Hold mouse button on any of the above buttons for faster selection.","- Hold mouse button on any of the above buttons for faster selection."
-"- Use the %s buttons to select month","- Use the %s buttons to select month"
-"- Use the %s, %s buttons to select year","- Use the %s, %s buttons to select year"
-"- or Shift-click to decrease it","- or Shift-click to decrease it"
-"- or click and drag for faster selection.","- or click and drag for faster selection."
-"-- Please Select --","-- Silahkan Pilih --"
-"-- Please select --","-- Please select --"
-"-- Please select a category --","-- Silahkan pilih kategori --"
-"--Please Select--","--Silahkan Pilih--"
-"1 Hour","1 Hour"
-"10:40 AM","10:40 AM"
-"12 Hours","12 Hours"
-"12h AM/PM","12h AM/PM"
-"2 Hours","2 Hours"
-"24 Hours","24 Hours"
-"24h","24h"
-"2YTD","2YTD"
-"6 Hours","6 Hours"
-"80px x 80px","80px x 80px"
-"80x80 px","80x80 px"
-"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 Error</h1><p>Halaman tidak ditemukan..</p>"
-"A new password was sent to your email address. Please check your email and click Back to Login.","A new password was sent to your email address. Please check your email and click Back to Login."
-"A user with the same user name or email aleady exists.","A user with the same user name or email aleady exists."
-"API Key","API Key"
-"API Key Confirmation","API Key Confirmation"
-"ASCII","ASCII"
-"Abandoned Carts","Abandoned Carts"
-"About the calendar","About the calendar"
-"Access Denied.","Akses Ditolak."
-"Access Deny","Akses Ditolak"
-"Account Created in:","Akun Dibuat di:"
-"Account Created on (%s):","Account Created on (%s):"
-"Account Created on:","Akun Dibuat pada:"
-"Account Information","Informasi Akun"
-"Account Status","Status Akun"
-"Account status","Status akun"
-"Action","Aksi"
-"Actions","Aksi"
-"Actions XML","Actions XML"
-"Activate","Aktifkan"
-"Active","Aktif"
-"Add","Tambah"
-"Add Contents Path","Add Contents Path"
-"Add Exception","Add Exception"
-"Add Field Mapping","Tambah Peta Field"
-"Add Field with URL:","Add Field with URL:"
-"Add Maintainer","Add Maintainer"
-"Add New Image","Tambah Gambar Baru"
-"Add New Profile","Tambah Profile Baru"
-"Add New Role","Tambah Role Baru"
-"Add New Template","Tambah Template Baru"
-"Add New Urlrewrite","Tambah Urlrewrite Baru"
-"Add New User","Tambah User Baru"
-"Add New osCommerce Profile","Add New osCommerce Profile"
-"Add PHP Extension dependency","Add PHP Extension dependency"
-"Add Package dependency","Add Package dependency"
-"Add Subpackage dependency","Add Subpackage dependency"
-"Add Urlrewrite","Add Urlrewrite"
-"Add Urlrewrite for a Category","Add Urlrewrite for a Category"
-"Add Urlrewrite for a Product","Add Urlrewrite for a Product"
-"Add after","Add after"
-"Add to Cart","Add to Cart"
-"Add to Wishlist","Add to Wishlist"
-"Additional Cache Management","Additional Cache Management"
-"Address Type:","Jenis Alamat:"
-"Admin","Admin"
-"Advanced Admin Section","Advanced Admin Section"
-"Advanced Profiles","Pofil Lanjutan"
-"Advanced Section","Advanced Section"
-"AirMail Template Preview","AirMail Template Preview"
-"All","Semua"
-"All Allowed Countries","Semua Negara yang Diperbolehkan"
-"All Cache","Semua Cache"
-"All Files","Semua File"
-"All Reviews","Semua Review"
-"All Store Views","Semua Store View"
-"All Tags","Semua Tag"
-"All Websites","Semua Website"
-"All countries","Semua negara"
-"All fields","Semua field"
-"All locations","Semua lokasi"
-"All possible rates were fetched, please click on ""Save"" to apply","All possible rates were fetched, please click on ""Save"" to apply"
-"All rates were fetched, please click on ""Save"" to apply","All rates were fetched, please click on ""Save"" to apply"
-"All valid rates have been saved.","All valid rates have been saved."
-"Amounts","Jumlah"
-"An error has occured while syncronizing media storages.","An error has occured while syncronizing media storages."
-"An error occurred while clearing the JavaScript/CSS cache.","An error occurred while clearing the JavaScript/CSS cache."
-"An error occurred while clearing the image cache.","An error occurred while clearing the image cache."
-"An error occurred while creating the backup.","An error occurred while creating the backup."
-"An error occurred while deleting email template data. Please review log and try again.","An error occurred while deleting email template data. Please review log and try again."
-"An error occurred while deleting this role.","An error occurred while deleting this role."
-"An error occurred while deleting this set.","An error occurred while deleting this set."
-"An error occurred while deleting this template.","An error occurred while deleting this template."
-"An error occurred while finishing process. Please refresh the cache","An error occurred while finishing process. Please refresh the cache"
-"An error occurred while rebuilding the CatalogInventory Stock Status.","An error occurred while rebuilding the CatalogInventory Stock Status."
-"An error occurred while rebuilding the catalog index.","An error occurred while rebuilding the catalog index."
-"An error occurred while rebuilding the flat catalog category.","An error occurred while rebuilding the flat catalog category."
-"An error occurred while rebuilding the flat product catalog.","An error occurred while rebuilding the flat product catalog."
-"An error occurred while rebuilding the search index.","An error occurred while rebuilding the search index."
-"An error occurred while refreshing the Catalog Rewrites.","An error occurred while refreshing the Catalog Rewrites."
-"An error occurred while refreshing the Layered Navigation indices.","An error occurred while refreshing the Layered Navigation indices."
-"An error occurred while refreshing the catalog rewrites.","An error occurred while refreshing the catalog rewrites."
-"An error occurred while refreshing the layered navigation indices.","An error occurred while refreshing the layered navigation indices."
-"An error occurred while saving account.","An error occurred while saving account."
-"An error occurred while saving the customer.","An error occurred while saving the customer."
-"An error occurred while saving this configuration:","An error occurred while saving this configuration:"
-"An error occurred while saving this role.","An error occurred while saving this role."
-"An error occurred while saving this template.","An error occurred while saving this template."
-"An error occurred while updating the selected review(s).","An error occurred while updating the selected review(s)."
-"Any","Apapun"
-"Any Attribute Set","Attribute Set Apapun"
-"Any Group","Kelompok Apapun"
-"Any Status","Status Apapun"
-"Any Store","Store Apapun"
-"Any Type","Jenis Apapun"
-"Any Visibility","Visibility Apapun"
-"Archive file name:","Archive file name:"
-"Are you sure that you want to delete this template?","Are you sure that you want to delete this template?"
-"Are you sure that you want to strip tags?","Are you sure that you want to strip tags?"
-"Are you sure you want to do this?","Are you sure you want to do this?"
-"Area","Area"
-"As low as:","As low as:"
-"Assigned","Assigned"
-"Attribute Set Name:","Nama Set Atribut:"
-"Attribute set successfully saved.","Set atribut berhasil di simpan."
-"Attribute set was successfully removed.","Set atribut telah berhasil dibuang."
-"Attributes","Attributes"
-"Authors","Authors"
-"Automatic","Otomatis"
-"Available Products","Produk Terseda"
-"Average Order Amount","Average Order Amount"
-"Average Orders","Average Orders"
-"BINARY","BINARY"
-"Back","Kembali"
-"Back to Login","Kembali ke Login"
-"Backup","Backup"
-"Backup record was deleted","Record backup berhasil dihapus"
-"Backup successfully created","Backup berhasil dibuat"
-"Backups","Backup"
-"Base currency","Mata Uang Dasar"
-"Bcc","Bcc"
-"Bestsellers","Terlaris"
-"Big Image","Gambar Besar"
-"Billing Address","Alamat Tagihan"
-"Billing Address: ","Alamat Tagihan: "
-"Billing Agreement","Kontrak Tagihan"
-"Billing Agreements","Kontrak Tagihan"
-"Block Information","Block Information"
-"Both (without and with tax)","Both (without and with tax)"
-"Both IPN and PDT","Both IPN and PDT"
-"Browse Files...","Jelajah File..."
-"Bundle Items","Bundle Items"
-"Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.","Bundle with dynamic pricing cannot include custom defined options. Options will not be saved."
-"CRITICAL","CRITICAL"
-"CSV","CSV"
-"CSV / Tab separated","CSV / dipisahkan oleh Tab"
-"Cache Control","Cache Control"
-"Cache Control (beta)","Cache Control (beta)"
-"Cache Management","Cache Management"
-"Can not add new comment.","Can not add new comment."
-"Can not add tracking number.","Can not add tracking number."
-"Can not delete tracking number.","Can not delete tracking number."
-"Can not do credit memo for order","Can not do credit memo for order"
-"Can not do invoice for order","Can not do invoice for order"
-"Can not do shipment for order.","Can not do shipment for order."
-"Can not initialize shipment for adding tracking number.","Can not initialize shipment for adding tracking number."
-"Can not initialize shipment for delete tracking number.","Can not initialize shipment for delete tracking number."
-"Can not load track with retrieving identifier.","Can not load track with retrieving identifier."
-"Can not retrieve tracking number detail.","Can not retrieve tracking number detail."
-"Can not save credit memo","Can not save credit memo"
-"Can not save invoice","Can not save invoice"
-"Can not save shipment.","Can not save shipment."
-"Can not send shipment information.","Can not send shipment information."
-"Can not update item qty","Can not update item qty"
-"Can't delete design change","Tidak dapat menghapus perubahan desain"
-"Can't find email address.","Tidak dapat menemukan alamat email."
-"Cancel","Batal"
-"Cancel URL: ","URL Batal: "
-"Cannot add new comment.","Cannot add new comment."
-"Cannot add tracking number.","Cannot add tracking number."
-"Cannot create an invoice without products.","Cannot create an invoice without products."
-"Cannot create credit memo for the order.","Cannot create credit memo for the order."
-"Cannot delete the design change.","Cannot delete the design change."
-"Cannot delete tracking number.","Cannot delete tracking number."
-"Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice."
-"Cannot do shipment for the order.","Cannot do shipment for the order."
-"Cannot find the email address.","Cannot find the email address."
-"Cannot initialize shipment for adding tracking number.","Cannot initialize shipment for adding tracking number."
-"Cannot initialize shipment for delete tracking number.","Cannot initialize shipment for delete tracking number."
-"Cannot load track with retrieving identifier.","Cannot load track with retrieving identifier."
-"Cannot retrieve tracking number detail.","Cannot retrieve tracking number detail."
-"Cannot save shipment.","Cannot save shipment."
-"Cannot save the credit memo.","Cannot save the credit memo."
-"Cannot send shipment information.","Cannot send shipment information."
-"Cannot update item quantity.","Cannot update item quantity."
-"Cannot update the item\'s quantity.","Cannot update the item\'s quantity."
-"Card Verification Number","Card Verification Number"
-"Carrier","Carrier"
-"Catalog","Catalog"
-"Catalog Price Rules","Catalog Price Rules"
-"Catalog Rewrites","Catalog Rewrites"
-"Catalog Rewrites was refreshed successfully","Catalog Rewrites was refreshed successfully"
-"Catalog Rewrites were refreshed successfully","Catalog Rewrites were refreshed successfully"
-"CatalogInventory Stock Status rebuild error. Please try again later","CatalogInventory Stock Status rebuild error. Please try again later"
-"CatalogInventory Stock Status was rebuilt successfully","CatalogInventory Stock Status was rebuilt successfully"
-"Category","Kategori"
-"Category:","Category:"
-"Chairs","Chairs"
-"Change Orientation","Change Orientation"
-"Changes have been saved to theme.","Changes have been saved to theme."
-"Channel","Channel"
-"Chart is disabled. If you want to enable chart, click <a href=""%s"">here</a>.","Chart is disabled. If you want to enable chart, click <a href=""%s"">here</a>."
-"Checkbox","Checkbox"
-"Child Transactions","Child Transactions"
-"Choose Store View","Choose Store View"
-"Choose a selection...","Choose a selection..."
-"Choose an attribute","Choose an attribute"
-"Chosen category does not associated with any website, ","Chosen category does not associated with any website, "
-"Chosen product does not associated with any website, ","Chosen product does not associated with any website, "
-"Clear","Bersihkan"
-"Close","Tutup"
-"Comment text field can not be empty.","Comment text field can not be empty."
-"Comments History","Comments History"
-"Complete","Selesai"
-"Configuration","Konfigurasi"
-"Configuration successfully saved","Konfigurasi berhasil disimpan"
-"Confirmed email:","Confirmed email:"
-"Connect with the Magento Community","Connect with the Magento Community"
-"Contents","Contents"
-"Continue","Continue"
-"Convert to Plain Text","Convert to Plain Text"
-"Cookie (unsafe)","Cookie (unsafe)"
-"Country","Negara"
-"Country:","Negara:"
-"Coupons","Voucher"
-"Create","Buat"
-"Create DB Backup","Buat DB Backup"
-"Create New Attribute","Buat Atribut Baru"
-"Create URL Rewrite:","Buat URL Rewrite:"
-"Created At","Created At"
-"Credit Card %s","Credit Card %s"
-"Credit Card Number","Credit Card Number"
-"Credit Card Number: xxxx-%s","Credit Card Number: xxxx-%s"
-"Credit Card Type","Credit Card Type"
-"Credit Card Type: %s","Credit Card Type: %s"
-"Credit Memo History","Credit Memo History"
-"Credit Memo Totals","Credit Memo Totals"
-"Credit Memos","Credit Memos"
-"Credit memo #%s comment added","Credit memo #%s comment added"
-"Credit memo #%s created","Credit memo #%s created"
-"Credit memo\'s total must be positive.","Credit memo\'s total must be positive."
-"Currency","Currency"
-"Currency Information","Informasi Mata Uang"
-"Currency Setup Section","Bagian Setting Mata Uang"
-"Current Configuration Scope:","Cakupan Konfigurasi Sekarang:"
-"Current Release Information","Informasi Rilis Sekarang"
-"Custom","Custom"
-"Custom Colors","Custom Colors"
-"Custom Variable ""%s""","Custom Variable ""%s"""
-"Custom Variables","Custom Variables"
-"Customer","Pelanggan"
-"Customer Group:","Kelompok Pelanggan:"
-"Customer Groups","Kelompok Pelanggan"
-"Customer Name","Nama Pelanggan"
-"Customer Reviews","Review Pelanggan"
-"Customer Shopping Carts","Customer Shopping Carts"
-"Customer Since:","Customer Since:"
-"Customer Tax Classes","Customer Tax Classes"
-"Customer with the same email already exists.","Customer with the same email already exists."
-"Customers","Pelanggan"
-"Customers by Number of Orders","Customers by Number of Orders"
-"Customers by Orders Total","Customers by Orders Total"
-"DHTML Date/Time Selector","DHTML Date/Time Selector"
-"Dashboard","Dasbor"
-"Data Format","Data Format"
-"Data transfer:","Data transfer:"
-"Database","Database"
-"Dataflow - Advance Profiles","Dataflow - Advance Profiles"
-"Dataflow - Advanced Profiles","Dataflow - Advanced Profiles"
-"Dataflow - Profiles","Dataflow - Profiles"
-"Date","Tanggal"
-"Date & Time","Tanggal & Waktu"
-"Date Added","Tanggal Ditambahkan"
-"Date Updated","Tanggal Diperbaharui"
-"Date selection:","Date selection:"
-"Date selector","Pemilihan tanggal"
-"Date:","Tanggal:"
-"Day","Hari"
-"Decimal separator:","Decimal separator:"
-"Default (Admin) Values","Nilai Acuan (Admin)"
-"Default Config","Konfigurasi Acuan"
-"Default Template from Locale","Default Template from Locale"
-"Default Values","Nilai Acuan (Admin)"
-"Default display currency ""%s"" is not available in allowed currencies","Default display currency ""%s"" is not available in allowed currencies"
-"Default scope","Skope acuan"
-"Delete","Hapus"
-"Delete %s","Hapus %s"
-"Delete %s '%s'","Hapus %s '%s'"
-"Delete File","Hapus File"
-"Delete Image","Hapus Image"
-"Delete Profile","Hapus Profile"
-"Delete Role","Hapus Role"
-"Delete Store","Hapus Store"
-"Delete Store View","Hapus Store View"
-"Delete Template","Hapus Template"
-"Delete User","Hapus User"
-"Delete Website","Hapus Website"
-"Description","Keterangan"
-"Deselect All","Tak Pilih Semua"
-"Design","Desain"
-"Design Section","Bagian Desain"
-"Design change deleted","Perubahan desain dihapus"
-"Design change saved","Perubahan desain disimpan"
-"Developer Section","Developer Section"
-"Direction:","Arahan:"
-"Disable","Dinonaktifkan"
-"Disabled","Non Aktif"
-"Discount Amount","Besaran Diskon"
-"Display %s first","Display %s first"
-"Display default currency","Tampilkan matauang acuan"
-"Distributed under GNU LGPL. See %s for details.","Distributed under GNU LGPL. See %s for details."
-"Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.","Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode."
-"Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.","Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout."
-"Do you really want to KILL parallel process and start new indexing process?","Do you really want to KILL parallel process and start new indexing process?"
-"Download","Download"
-"Downloads","Downloads"
-"Drag to move","Drag to move"
-"Drop-down","Drop-down"
-"Edit","Edit"
-"Edit Design Change","Edit Design Change"
-"Edit Email Template","Edit Email Template"
-"Edit Filter","Edit Filter"
-"Edit Poll","Edit Poll"
-"Edit Queue","Edit Queue"
-"Edit Review","Edit Review"
-"Edit Role","Edit Role"
-"Edit Store View","Edit Store View"
-"Edit System Template","Ubah Template Sistem"
-"Edit Tag","Edit Tag"
-"Edit Template","Edit Template"
-"Edit Urlrewrite","Edit Urlrewrite"
-"Edit User","Edit User"
-"Edit User '%s'","Edit User '%s'"
-"Edit Website","Edit Website"
-"Email","Email"
-"Email Address:","Alamat Email:"
-"Email Preview","Tamplan Email"
-"Email address is empty.","Alamat email kosong."
-"Email to a Friend","Email to a Friend"
-"Email:","Email:"
-"Enable","Aktifkan"
-"Enable Secure Token:","Enable Secure Token:"
-"Enabled","Aktif"
-"Enclose Values In:","Enclose Values In:"
-"Entity Attributes","Entity Attributes"
-"Entity Type","Entity Type"
-"Entity type:","Entity type:"
-"Error","Error"
-"Excel XML","Excel XML"
-"Excl. Tax","Excl. Tax"
-"Exclude","Tidak disertakan"
-"Exclude (comma separated)","Tidak disertakan (dipisahkan oleh koma)"
-"Expiration Date","Tanggal Kadaluarsa"
-"Expiration Date: %s/%s","Tanggal Kadaluarsa: %s/%s"
-"Export","Export"
-"Export CSV","Export CSV"
-"Export FAQ","Export FAQ"
-"Export Filters","Export Filters"
-"Export to:","Export to:"
-"Export:","Export:"
-"Extension","Extension"
-"Extensions","Extensions"
-"FILTERS APPLIED","FILTERS APPLIED"
-"FTP Host[:Port]","FTP Host[:Port]"
-"Failed to add a product to cart by id ""%s"".","Failed to add a product to cart by id ""%s""."
-"Failed to cancel the billing agreement.","Failed to cancel the billing agreement."
-"Failed to clear the JavaScript/CSS cache.","Failed to clear the JavaScript/CSS cache."
-"Failed to delete the billing agreement.","Failed to delete the billing agreement."
-"Failed to update the profile.","Failed to update the profile."
-"Field","Field"
-"Field Mapping","Pemetaan Filed"
-"File","File"
-"File Information","File Information"
-"File System","File System"
-"File mode","File mode"
-"File name:","File name:"
-"File size should be more than 0 bytes","File size should be more than 0 bytes"
-"Files","Files"
-"Final Price","Final Price"
-"Finished items creation.","Finished items creation."
-"Finished profile execution.","Eksekusi profile selesai."
-"First Name","Nama Depan"
-"First Name:","Nama Depan:"
-"Firstname","Nama Depan"
-"Fixed","Fixed"
-"Flat Catalog Category rebuild error","Flat Catalog Category rebuild error"
-"Flat Catalog Category was rebuilt successfully","Flat Catalog Category was rebuilt successfully"
-"Flat Catalog Product rebuild error. Please try again later","Flat Catalog Product rebuild error. Please try again later"
-"Flat Catalog Product was rebuilt successfully","Flat Catalog Product was rebuilt successfully"
-"For category","For category"
-"For latest version visit: %s","For latest version visit: %s"
-"For product","For product"
-"Forgot your password?","Lupa password anda?"
-"Forgot your user name or password?","Lupa username atau password anda?"
-"From","Dari"
-"Gb","Gb"
-"General Information","Informasi Umum"
-"General Section","General Section"
-"Get Image Base64","Dapatkan Gambar Base64"
-"Get help for this page","Dapatkan pertolongan untuk halaman ini"
-"Global Attribute","Atribut Umum"
-"Global Record Search","Cari Global"
-"Global Search","Cari Global"
-"Go Today","Go Today"
-"Go to messages inbox","Go to messages inbox"
-"Go to notifications","Go to notifications"
-"Google Base","Google Base"
-"Google Base Items","Google Base Items"
-"Grand Total","Total Semuanya"
-"Grid (default) / List","Kisi (acuan) / Daftar"
-"Grid only","Hanya Kisi"
-"Group:","Kelompok"
-"Guest","Tamu"
-"HTTP (unsecure)","HTTP (Tidak Aman)"
-"HTTPS (SSL)","HTTPS (SSL)"
-"Help Us Keep Magento Healthy - Report All Bugs","Help Us Keep Magento Healthy - Report All Bugs"
-"Helper attributes should not be used in custom layout updates.","Helper attributes should not be used in custom layout updates."
-"Helper for options rendering doesn't implement required interface.","Helper for options rendering doesn't implement required interface."
-"Home","Beranda"
-"ID","ID"
-"ID Path","ID Path"
-"IP Address","IP Address"
-"IPN (Instant Payment Notification) Only","IPN (Instant Payment Notification) Only"
-"If this message persists, please contact the store owner.","If this message persists, please contact the store owner."
-"If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.","If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website."
-"Ignore","Ignore"
-"Images","Images"
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)"
-"Images Cache","Images Cache"
-"Import","Import"
-"Import / Export FAQ (Frequently Asked Questions)","Import / Export FAQ (Frequently Asked Questions)"
-"Import FAQ","Import FAQ"
-"Import Service","Import Service"
-"Import and Export","Import and Export"
-"Import and Export Tax Rates","Import and Export Tax Rates"
-"Import/Export","Import/Export"
-"Import/Export Advanced","Import/Export Advanced"
-"Import/Export Profile","Import/Export Profile"
-"Important: ","Important: "
-"Imported <strong>%s</strong> records","Imported <strong>%s</strong> records"
-"In","Di"
-"In Database:","In Database:"
-"In File:","In File:"
-"In Stock","In Stock"
-"Inactive","Inactive"
-"Inactive Tabs","Inactive Tabs"
-"Incl. Tax","Incl. Tax"
-"Include","Sertakan"
-"Incoming Message","Incoming Message"
-"Individual Item","Barang Satuan"
-"Install","Install"
-"Install Package File","Install File Paket"
-"Installed As","Install Sebagai"
-"Installed Extension Info","Info Ekstensi yang Terinstall"
-"Installed Version","Versi yang Terinstall"
-"Installing $pkg, please wait...","Menginstall $pkg, harap tunggu..."
-"Installing selected packages, please wait...","Mengisntall paket yang dipilih, harap tunggu..."
-"Instant Payment Notification (IPN)","Instant Payment Notification (IPN)"
-"Interactive","Interaktif"
-"Interface Locale: %s","Interface Lokal: %s"
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page."
-"Invalid Import Service Specified","Import Servis yang Dispesifikasikan tidak Valid"
-"Invalid POST data (please check post_max_size and upload_max_filesize settings in you php.ini file)","Invalid POST data (please check post_max_size and upload_max_filesize settings in you php.ini file)"
-"Invalid Secret Key. Please refresh the page.","Invalid Secret Key. Please refresh the page."
-"Invalid Username or Password.","Invalid Username or Password."
-"Invalid directory: %s","Invalid directory: %s"
-"Invalid email address ""%s"".","Invalid email address ""%s""."
-"Invalid file: %s","Invalid file: %s"
-"Invalid input data for %s => %s rate","Invalid input data for %s => %s rate"
-"Invalid parent block for this block","Invalid parent block for this block"
-"Invalid parent block for this block.","Invalid parent block for this block."
-"Invalid sender name ""%s"". Please use only visible characters and spaces.","Invalid sender name ""%s"". Please use only visible characters and spaces."
-"Invalid timezone","Invalid timezone"
-"Invalidated","Invalidated"
-"Inventory Stock Status","Inventory Stock Status"
-"Invoice #%s comment added","Komentar invoice #%s telah ditambahkan"
-"Invoice #%s created","Invoice #%s telah dibuat"
-"Invoice History","Sejarah Invoice"
-"Invoice Totals","Total Invoice"
-"Invoice and shipment was successfully created.","Invoice and shipment was successfully created."
-"Invoice cancel error.","Invoice cancel error."
-"Invoice capture error","Invoice capture error"
-"Invoice void error","Invoice void error"
-"Invoice was successfully canceled.","Invoice was successfully canceled."
-"Invoice was successfully captured","Invoice was successfully captured"
-"Invoice was successfully created.","Invoice was successfully created."
-"Invoice was successfully voided","Invoice was successfully voided"
-"Issue Number","Nomer Isu"
-"Issuer: %s","Issuer: %s"
-"Items","Barang"
-"Items to merge","Items to merge"
-"Kb","Kb"
-"Last 24 hours","24 jam terakhir"
-"Last 5 Orders","5 pembelian terakhir"
-"Last 5 Search Terms","5 istilah pencarian terakhir"
-"Last 7 days","7 hari terakhir"
-"Last Logged In (%s):","Last Logged In (%s):"
-"Last Logged In:","Login terakhir di:"
-"Last Month","Bulan Kemarin"
-"Last Name","Nama Akhir"
-"Last Name:","Nama Akhir:"
-"Lastname","namaakhir"
-"Latest Message:","Latest Message:"
-"Layered Navigation Indices","Layered Navigation Indices"
-"Layered Navigation Indices was refreshed successfully","Layered Navigation Indices was refreshed successfully"
-"Layered Navigation Indices were refreshed successfully","Layered Navigation Indices were refreshed successfully"
-"Layered Navigation indexing queue cancelled","Layered Navigation indexing queue cancelled"
-"Layered Navigation indexing queued","Layered Navigation indexing queued"
-"Layered Navigation process queued to be killed","Layered Navigation process queued to be killed"
-"Leave empty to use tax identifier","Leave empty to use tax identifier"
-"Level","Level"
-"License","Lisensi"
-"License URI","URL lisensi"
-"License:","Lisensi:"
-"Lifetime Sales","Penjualan Seumur Hidup"
-"Links","Links"
-"List (default) / Grid","Daftar (default) / Kisi"
-"List only","Hanya Daftar"
-"Load Template","Load Template"
-"Load default template","Load default template"
-"Loading Preview...","Loading Preview..."
-"Loading...","Loading..."
-"Local Server","Local Server"
-"Local/Remote Server","Local/Remote Server"
-"Locale","Locale"
-"Log In","Masuk"
-"Log Out","Keluar"
-"Log in to Admin Panel","Masuk ke Admin Panel"
-"Log into Magento Admin Page","Masuk ke Admin Page"
-"Logged in as %s","Masuk sebagai %s"
-"Login","Masuk"
-"Low Stock","Low Stock"
-"MAJOR","MAJOR"
-"MINOR","MINOR"
-"MS Excel XML","MS Excel XML"
-"Magento Admin","Admin Magento"
-"Magento Commerce - Administrative Panel","Magento Commerce - Panel Administrasi"
-"Magento Connect","Magento Connect"
-"Magento Connect Manager","Magento Connect Manager"
-"Magento Logo","Logo Magento"
-"Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.","Magento adalah merek dagang dari Irubin Consulting Inc. DBA Varien. Hak mengkopi &copy; %s Irubin Consulting Inc."
-"Magento ver. %s","Magento ver. %s"
-"Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.","Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc."
-"Main Tabs","Main Tabs"
-"Make Inactive","Make Inactive"
-"Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).","Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI)."
-"Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.","Make sure that you configure the design settings for the Payflow Link form in your Payflow link account."
-"Manage Attribute Sets","Kelola Set Atribut"
-"Manage Attributes","Kelola Atribut"
-"Manage Categories","Kelola Kategori"
-"Manage Content","Kelola Konten"
-"Manage Currency Rates","Kelola Kurs Valas"
-"Manage Customers","Kelola Pelanggan"
-"Manage Ratings","Kelola Rating"
-"Manage Stores","Kelola Toko"
-"Manage osCommerce Orders","Manage osCommerce Orders"
-"Manage osCommerce Profiles","Manage osCommerce Profiles"
-"Manual","Manual"
-"Matched Expression","Matched Expression"
-"Max","Max"
-"Mb","Mb"
-"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)"
-"Media storages synchronization has completed!","Media storages synchronization has completed!"
-"Messages Inbox","Messages Inbox"
-"Min","Min"
-"Minimum","Minimum"
-"Module version conflict!","Module version conflict!"
-"Month","Bulan"
-"More Tabs","More Tabs"
-"Most Viewed","Most Viewed"
-"Most Viewed Products","Most Viewed Products"
-"Multiple Select","Multiple Select"
-"My Account","Akun Saya"
-"N/A","N/A"
-"NOTICE","NOTICE"
-"Name","Nama"
-"Name on Card","Nama pada Kartu"
-"Name on the Card: %s","Nama pada Kartu: %s"
-"Name:","Nama:"
-"New Accounts","Akun Baru"
-"New Api Key","Api Key Baru"
-"New Customers","Pelanggan Baru"
-"New Email Template","Template Email Baru"
-"New Extension","Extension Baru"
-"New Item Type","Jenis Item Baru"
-"New Password","Kata Kunci Baru"
-"New Profile","Profil Baru"
-"New Store View","Store View Baru"
-"New System Template","Template Sistem Baru"
-"New Tag","Tag Baru"
-"New Template","Template Baru"
-"New User","User Baru"
-"New Website","Website Baru"
-"New admin password","Kata kunci baru admin"
-"Next month (hold for menu)","Next month (hold for menu)"
-"Next page","Halaman Selanjutnya"
-"Next year (hold for menu)","Next year (hold for menu)"
-"No","Tidak"
-"No (price without tax)","No (price without tax)"
-"No Data Found","No Data Found"
-"No Templates Found","No Templates Found"
-"No change","No change"
-"No customer id defined.","No customer id defined."
-"No information available.","No information available."
-"No profile loaded...","No profile loaded..."
-"No records found for this period.","No records found for this period."
-"No records found.","No records found."
-"No report code specified.","No report code specified."
-"No search keywords.","No search keywords."
-"No search modules were registered","No search modules were registered"
-"No wishlist item id defined.","No wishlist item id defined."
-"None","Tidak Ada"
-"Note:","Note:"
-"Notes","Notes"
-"Notifications","Notifications"
-"Number of Orders","Number of Orders"
-"Number of Uses","Number of Uses"
-"Number of records:","Number of records:"
-"Old rate:","Old rate:"
-"On my website","On my website"
-"Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below"
-"One or more media files failed to be synchronized during the media storages syncronization process. Refer to the log file for details.","One or more media files failed to be synchronized during the media storages syncronization process. Refer to the log file for details."
-"One or more of the Cache Types are invalidated:","One or more of the Cache Types are invalidated:"
-"Online Customers","Online Customers"
-"Only attributes with scope ""Global"", input type ""Dropdown"" and Use To Create Configurable Product ""Yes"" are available.","Only attributes with scope ""Global"", input type ""Dropdown"" and Use To Create Configurable Product ""Yes"" are available."
-"Only mapped fields","Only mapped fields"
-"Optional","Optional"
-"Options","Options"
-"Options menu items","Options menu items"
-"Order","Order"
-"Order #%s","Order #%s"
-"Order #%s (%s)","Order #%s (%s)"
-"Order Created Date","Order Created Date"
-"Order ID","Order ID"
-"Order Totals","Order Totals"
-"Order Updated Date","Order Updated Date"
-"Order Updated Date report is real-time, does not need statistics refreshing.","Order Updated Date report is real-time, does not need statistics refreshing."
-"Order cannot be placed.","Order cannot be placed."
-"Orders","Orders"
-"Original Magento attribute names in first row:","Original Magento attribute names in first row:"
-"Out of stock","Out of stock"
-"PDT (Payment Data Transfer) Only","PDT (Payment Data Transfer) Only"
-"Package","Package"
-"Package Extensions","Package Extensions"
-"Packages","Packages"
-"Page","Halaman"
-"Pages","Halaman"
-"Parent Product Thumbnail","Parent Product Thumbnail"
-"Parent Transaction ID","Parent Transaction ID"
-"Passive mode","Passive mode"
-"Password","Password"
-"Password Confirmation","Password Confirmation"
-"Password confirmation must be same as password.","Password confirmation must be same as password."
-"Password must be at least of %d characters.","Password must be at least of %d characters."
-"Password must include both numeric and alphabetic characters.","Password must include both numeric and alphabetic characters."
-"Password:","Password:"
-"Path","Path"
-"Path:","Path:"
-"PayPal Email","Email PayPal"
-"Payment Data Transfer (PDT)","Transfer Data Pembayaran (PDT)"
-"Payment method must be specified","Metode pembayaran harus dispesifikasikan"
-"Pending Tags","Tag tertunda"
-"Pending installation...","Pemasangan tertunda..."
-"Per Item","Per barang"
-"Per Order","Per Pembelian"
-"Percent","Percent"
-"Performed At","Dilakukan Pada"
-"Period","Periode"
-"Permanent (301)","Permanent (301)"
-"Permissions","Otorisasi"
-"Personal Information","Informasi Pribadi"
-"Phone:","Telefon:"
-"Please confirm site switching. All data that hasn't been saved will be lost.","Harap konfirmasikan pergantian situs. Sema data yang tidak disimpan akan hilang."
-"Please enter 6 or more characters.","Harap masukkan 6 atau lebih karakter."
-"Please enter a number greater than 0 in this field.","Harap masukkan angka lebih besar dari 0 untuk field ini."
-"Please enter a valid $ amount. For example $100.00.","Harap masukkan jumlah $ dengan benar. Seperti $100.00."
-"Please enter a valid URL. For example http://www.example.com or www.example.com","Harap masukkan URL dengan benar. Seperti http://www.example.com atau www.example.com"
-"Please enter a valid URL. http:// is required","Harap masukkan URL dengan benar. Sertakan http:// "
-"Please enter a valid credit card number.","Harap masukkan nomer kartu kredit dengan benar."
-"Please enter a valid date.","Harap masukkan tanggal dengan benar."
-"Please enter a valid email address. For example johndoe@domain.com.","Harap masukkan alamat email dengan benar. Seperti johndoe@domain.com."
-"Please enter a valid number in this field.","Harap masukkan angka dengan benar untuk field ini."
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Harap masukkan nomer telefon dengan benar. Seperti (123) 456-7890 atau 123-456-7890."
-"Please enter a valid social security number. For example 123-45-6789.","Harap masukkan nomer keamaan sosial. Seperti 123-45-6789."
-"Please enter a valid value from list","Please enter a valid value from list"
-"Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30"
-"Please enter a valid zip code.","Please enter a valid zip code."
-"Please enter a valid zip code. For example 90602 or 90602-1234.","Please enter a valid zip code. For example 90602 or 90602-1234."
-"Please enter another credit card number to complete your purchase.","Please enter another credit card number to complete your purchase."
-"Please enter valid password.","Please enter valid password."
-"Please make sure that all global admin search modules are installed and activated.","Please make sure that all global admin search modules are installed and activated."
-"Please make sure that your changes were saved before running the profile.","Please make sure that your changes were saved before running the profile."
-"Please make sure your passwords match.","Please make sure your passwords match."
-"Please select State/Province.","Please select State/Province."
-"Please select a customer.","Please select a customer."
-"Please select a store.","Please select a store."
-"Please select an option.","Please select an option."
-"Please select catalog searches.","Please select catalog searches."
-"Please select customer(s).","Please select customer(s)."
-"Please select message(s).","Please select message(s)."
-"Please select one of the above options.","Please select one of the above options."
-"Please select one of the options.","Please select one of the options."
-"Please select review(s).","Please select review(s)."
-"Please select tag(s).","Please select tag(s)."
-"Please specify at least start or end date.","Please specify at least start or end date."
-"Please specify the admin custom URL.","Please specify the admin custom URL."
-"Please try to logout and sign in again.","Please try to logout and sign in again."
-"Please use in this field only ""a-z,0-9,_"".","Please use in this field only ""a-z,0-9,_""."
-"Please use letters only (a-z) in this field.","Please use letters only (a-z) in this field."
-"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas."
-"Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed."
-"Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.","Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field."
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006."
-"Please wait while the indexes are being refreshed.","Please wait while the indexes are being refreshed."
-"Please wait, loading...","Please wait, loading..."
-"Please wait...","Please wait..."
-"Please, add some answers to this poll first.","Please, add some answers to this poll first."
-"Please, select ""Visible in Stores"" for this poll first.","Please, select ""Visible in Stores"" for this poll first."
-"Poll Manager","Poll Manager"
-"Polls","Polling"
-"Popular","Populer"
-"Position of Watermark for %s","Position of Watermark for %s"
-"Pregenerated product images files.","Pregenerated product images files."
-"Preset Theme","Preset Theme"
-"Prev. month (hold for menu)","Prev. month (hold for menu)"
-"Prev. year (hold for menu)","Prev. year (hold for menu)"
-"Preview","Preview"
-"Preview Template","Preview Template"
-"Previous page","Halaman sebelumnya"
-"Price","Harga"
-"Price alert subscription was saved.","Price alert subscription was saved."
-"Price:","Harga:"
-"Processed <strong>%s%% %s/%d</strong> records","Processed <strong>%s%% %s/%d</strong> records"
-"Product","Produk"
-"Product Name3 ","Product Name3 "
-"Product Name3 1","Product Name3 1"
-"Product Name3 2","Product Name3 2"
-"Product Reviews","Product Reviews"
-"Product Thumbnail Itself","Product Thumbnail Itself"
-"Product is not loaded.","Product is not loaded."
-"Product:","Produk:"
-"Products","Produk"
-"Profile Action","Profile Action"
-"Profile Actions XML","Aksi Profile XML"
-"Profile Direction","Arahan Profil"
-"Profile History","Sejarah Profil"
-"Profile Information","Informasi Paket"
-"Profile Name","Profil Nama"
-"Profile Wizard","Wizard Profil"
-"Profile was deleted","Profil telah dihapus"
-"Profile was successfully saved","Profil telah disimpan"
-"Profiles","Profil"
-"Promo","Promo"
-"Promotions","Promosi"
-"Provided Files","File Tersedia"
-"Qty","Qty"
-"Qty:","Qty:"
-"Quantity","Kuantitas"
-"Queue Refresh","Queue Refresh"
-"Queued... Cancel","Queued... Cancel"
-"Radio Buttons","Radio Buttons"
-"Rates","Kurs"
-"Rating was successfully deleted","Rating telah berhasil dihapus"
-"Rating was successfully saved","Rating telah berhasil disimpan"
-"Read details","Read details"
-"Rebuild","Rebuild"
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category"
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product"
-"Recent Orders","Pembelian Terbaru"
-"Recommended","Rekomendasi"
-"Recursive Dir","Recursive Dir"
-"Redirect","Redirect"
-"Refresh","Refresh"
-"Refresh Now*","Refresh Now*"
-"Refresh Statistics","Refresh Statistics"
-"Region/State","Region/State"
-"Regular Price:","Regular Price:"
-"Release","Release"
-"Release Stability","Release Stability"
-"Release Version","Release Version"
-"Remote FTP","Remote FTP"
-"Remote URL:","Remote URL:"
-"Remove","Buang"
-"Reports","Report"
-"Request Path","Request Path"
-"Required","Required"
-"Required settings","Required settings"
-"Reset","Reset"
-"Reset Filter","Reset Filter"
-"Reset theme to default","Reset theme to default"
-"Resize","Resize"
-"Resource Access","Resource Access"
-"Resources","Resources"
-"Results","Results"
-"Retrieve Password","Retrieve Password"
-"Return Html Version","Return Html Version"
-"Return URL: ","Return URL: "
-"Revenue","Revenue"
-"Role","Role"
-"Role ID","ID Role"
-"Role Info","Info Role"
-"Role Information","Informasi Role"
-"Role Name","Nama Role"
-"Role Resources","Cakupan Resource"
-"Role Users","Cakupan User"
-"Role successfully deleted.","Role berhasil dihapus."
-"Role successfully saved.","Role berhasil disimpan."
-"Roles","Role"
-"Roles Resources","Roles Resources"
-"Rotate CCW","Rotate CCW"
-"Rotate CW","Rotate CW"
-"Run","Run"
-"Run Profile","Jalankan Profile"
-"Run Profile In Popup","Jalankan Profile di Popup"
-"Run Profile Inside This Window","Jalankan Profile dalam Jendela Ini"
-"Run in popup","Janlankan di Popup"
-"Running... Kill","Running... Kill"
-"Running:","Berjalan:"
-"SKU","SKU"
-"SKU:","SKU:"
-"SORT BY:","SORT BY:"
-"SSL Error: Invalid or self-signed certificate","SSL Error: Invalid or self-signed certificate"
-"Sales Report","Laporan Penjualan"
-"Samples","Samples"
-"Save","Simpan"
-"Save & Generate","Save & Generate"
-"Save Account","Simpan Akun"
-"Save Cache Settings","Simpan Setting Cache"
-"Save Config","Simpan Konfigurasi"
-"Save Currency Rates","Simpan Kurs Valas"
-"Save Profile","Simpan Profil"
-"Save Role","Simpan Role"
-"Save Template","Simpan Template"
-"Save Theme","Simpan Theme"
-"Save User","Simpan User"
-"Save and Continue Edit","Simpan dan Tetap Edit"
-"Screens:","Screens:"
-"Search","Cari"
-"Search Index","Search Index"
-"Search Term","Search Term"
-"Search Terms","Search Terms"
-"Select","Pilih"
-"Select All","Pilih Semua"
-"Select Category","Pilih Kategori"
-"Select Date","Pilih Tanggal"
-"Select Range","Pilih Rentang"
-"Select Visible","Pilih Tampak"
-"Select date","Pilih tanggal"
-"Selected allowed currency ""%s"" is not available in installed currencies.","Selected allowed currency ""%s"" is not available in installed currencies."
-"Selected base currency is not available in installed currencies.","Selected base currency is not available in installed currencies."
-"Selected default display currency is not available in allowed currencies.","Selected default display currency is not available in allowed currencies."
-"Selected default display currency is not available in installed currencies.","Selected default display currency is not available in installed currencies."
-"Self-assigned roles cannot be deleted.","Self-assigned roles cannot be deleted."
-"Sender","Pengirim"
-"Separate Email","Separate Email"
-"Shipment #%s comment added","Shipment #%s comment added"
-"Shipment #%s created","Shipment #%s created"
-"Shipment Comments","Shipment Comments"
-"Shipment History","Shipment History"
-"Shipments","Pengiriman"
-"Shipping","Pengiriman"
-"Shipping Address","Shipping Address"
-"Shipping Address: ","Shipping Address: "
-"Shipping Origin","Shipping Origin"
-"Shipping Price","Shipping Price"
-"Shipping address selection is not applicable","Shipping address selection is not applicable"
-"Shipping method must be specified","Metode pengiriman harus dispesifikasikan"
-"Shipping method selection is not applicable","Shipping method selection is not applicable"
-"Shopping Cart","Troli"
-"Shopping Cart Price Rules","Shopping Cart Price Rules"
-"Shopping Cart from %s","Shopping Cart from %s"
-"Show By","Lihat"
-"Show Report For","Show Report For"
-"Show Reviews","Show Reviews"
-"Show confirmation page: ","Show confirmation page: "
-"Silent Post URL:","Silent Post URL:"
-"Sitemap Information","Sitemap Information"
-"Size for %s","Size for %s"
-"Skip Category Selection","Skip Category Selection"
-"Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.","Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created."
-"Some of the ordered items do not exist in the catalog anymore and will be removed if you try to edit the order.","Some of the ordered items do not exist in the catalog anymore and will be removed if you try to edit the order."
-"Some other FAQ","Some other FAQ"
-"Sorry, this feature is coming soon...","Sorry, this feature is coming soon..."
-"Sort Order","Sort Order"
-"Special Price:","Harga Spesial:"
-"Specific Countries","Specific Countries"
-"Specified","Specified"
-"Specified profile does not exist.","Specified profile does not exist."
-"Spreadsheet Name:","Spreadsheet Name:"
-"Start Date","Tanggal Awal"
-"Start/Reset Validation...","Start/Reset Validation..."
-"Starting profile execution, please wait...","Starting profile execution, please wait..."
-"State/Province:","State/Province:"
-"Static Blocks","Static Blocks"
-"Status","Status"
-"Status:","Status:"
-"Stock Quantity:","Kuantitas Stok:"
-"Stock notification was saved successfully","Notifikasi stok berhasil disimpan"
-"Store","Toko"
-"Store Email Addresses Section","Bagian Alamat Email Toko"
-"Store View","Store View"
-"Store:","Toko:"
-"Store: ","Toko: "
-"Subject","Subyek"
-"Submit","Kirim"
-"Subpackage","Subpaket"
-"Subpackage can't be conflicting","Subpaket tidak boleh konflik"
-"Subpackages","Subpaket"
-"Subtotal","Subtotal"
-"Subtotal Amount","Nilai Subtotal"
-"Summary","Ringkasan"
-"Summary:","Ringkasan:"
-"Switch/Solo Only","Switch/Solo Only"
-"Switch/Solo card issue number: %s","Switch/Solo card issue number: %s"
-"Switch/Solo card start Date: %s/%s","Switch/Solo card start Date: %s/%s"
-"Switch/Solo/Maestro Only","Switch/Solo/Maestro Only"
-"Switch/Solo/Maestro(UK Domestic) Only","Switch/Solo/Maestro(UK Domestic) Only"
-"Switch/Solo/Maestro(UK Domestic) card issue number: %s","Switch/Solo/Maestro(UK Domestic) card issue number: %s"
-"Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s","Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s"
-"Synchronization is required.","Synchronization is required."
-"Synchronization of media storages has been successfully completed.","Synchronization of media storages has been successfully completed."
-"Synchronize","Synchronize"
-"Synchronizing %s to %s","Synchronizing %s to %s"
-"Synchronizing...","Synchronizing..."
-"System","Sistem"
-"System Section","Bagian Sistem"
-"System busy","Sistem sibuk"
-"T-Shirts","T-Shirts"
-"Tags","Tag"
-"Target","Target"
-"Target Path","Target Path"
-"Tax","Pajak"
-"Tb","Tb"
-"Tell a Friend","Berbagi ke Teman"
-"Template","Template"
-"Template Content","Konten Template"
-"Template Information","Informasi Template"
-"Template Name","Nama Template"
-"Template Subject","Subyek Template"
-"Template Type","Tipe Template"
-"Temporary (302)","Temporary (302)"
-"Text","Teks"
-"The archive can be uncompressed with <a href=""%s"">%s</a> on Windows systems","The archive can be uncompressed with <a href=""%s"">%s</a> on Windows systems"
-"The attribute set has been removed.","The attribute set has been removed."
-"The backup has been created.","The backup has been created."
-"The billing agreement has been canceled.","The billing agreement has been canceled."
-"The billing agreement has been deleted.","The billing agreement has been deleted."
-"The cache storage has been flushed.","The cache storage has been flushed."
-"The card has failed verification with the issuer bank.","The card has failed verification with the issuer bank."
-"The carrier needs to be specified.","The carrier needs to be specified."
-"The catalog index has been rebuilt.","The catalog index has been rebuilt."
-"The catalog rewrites have been refreshed.","The catalog rewrites have been refreshed."
-"The configuration has been saved.","The configuration has been saved."
-"The credit memo has been canceled.","The credit memo has been canceled."
-"The credit memo has been created.","The credit memo has been created."
-"The credit memo has been voided.","The credit memo has been voided."
-"The custom variable has been deleted.","The custom variable has been deleted."
-"The custom variable has been saved.","The custom variable has been saved."
-"The customer has been deleted.","The customer has been deleted."
-"The customer has been saved.","The customer has been saved."
-"The design change has been deleted.","The design change has been deleted."
-"The design change has been saved.","The design change has been saved."
-"The email address is empty.","The email address is empty."
-"The email template has been deleted.","The email template has been deleted."
-"The email template has been saved.","The email template has been saved."
-"The flat catalog category has been rebuilt.","The flat catalog category has been rebuilt."
-"The group node name must be specified with field node name.","The group node name must be specified with field node name."
-"The image cache was cleaned.","The image cache was cleaned."
-"The image cache was cleared.","The image cache was cleared."
-"The information in this tab has been changed.","The information in this tab has been changed."
-"The invoice and shipment have been created.","The invoice and shipment have been created."
-"The invoice has been canceled.","The invoice has been canceled."
-"The invoice has been captured.","The invoice has been captured."
-"The invoice has been created.","The invoice has been created."
-"The invoice has been voided.","The invoice has been voided."
-"The invoice no longer exists.","The invoice no longer exists."
-"The order does not allow creating an invoice.","The order does not allow creating an invoice."
-"The order no longer exists.","The order no longer exists."
-"The poll has been deleted.","The poll has been deleted."
-"The poll has been saved.","The poll has been saved."
-"The profile has been deleted.","The profile has been deleted."
-"The profile has been saved.","The profile has been saved."
-"The profile has been updated.","The profile has been updated."
-"The profile has no changes.","The profile has no changes."
-"The profile you are trying to save no longer exists","The profile you are trying to save no longer exists"
-"The rating has been deleted.","The rating has been deleted."
-"The rating has been saved.","The rating has been saved."
-"The role has been deleted.","The role has been deleted."
-"The role has been saved.","The role has been saved."
-"The role has been successfully saved.","The role has been successfully saved."
-"The search index has been rebuilt.","The search index has been rebuilt."
-"The shipment has been created.","The shipment has been created."
-"The shipment has been sent.","The shipment has been sent."
-"The tag has been deleted.","The tag has been deleted."
-"The tag has been saved.","The tag has been saved."
-"The user has been deleted.","The user has been deleted."
-"The user has been saved.","The user has been saved."
-"Theme configurations are successfully reset.","Theme configurations are successfully reset."
-"Themes JavaScript and CSS files combined to one file.","Themes JavaScript and CSS files combined to one file."
-"There has been wrong payment information submitted or time limit has expired. Please, try again.","There has been wrong payment information submitted or time limit has expired. Please, try again."
-"There is an error in one of the option rows.","There is an error in one of the option rows."
-"This Account is","This Account is"
-"This Email template no longer exists.","This Email template no longer exists."
-"This Role no longer exists","This Role no longer exists"
-"This Role no longer exists.","This Role no longer exists."
-"This account is","This account is"
-"This account is inactive.","This account is inactive."
-"This attribute set don't have attributes which we can use for configurable product","Atribut set ini tidak memiliki atribut yang dapat digunakan pada produk yang bisa dikonfigurasikan"
-"This attribute shares the same value in all the stores","Atribut ini berbagi nilai yang sama pada semua toko"
-"This is a required field.","Field ini dibutuhkan."
-"This product is currently disabled","This product is currently disabled"
-"This section is not allowed.","This section is not allowed."
-"This tab contains invalid data. Please solve the problem before saving.","Tab ini mengangund data yang salah. Harap perbaiki sebelum disimpan"
-"This user no longer exists","Pemaikai sudah tidak ada lagi"
-"Thumbnail","Thumbnail"
-"Time","Waktu"
-"Time selection:","Time selection:"
-"Time:","Waktu:"
-"Timeout limit for response from synchronize process was reached.","Timeout limit for response from synchronize process was reached."
-"Title bar","Title bar"
-"To","Ke"
-"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.","To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel."
-"To use Payflow Link, you must configure your Payflow Link account on the Paypal website.","To use Payflow Link, you must configure your Payflow Link account on the Paypal website."
-"Toggle Editor","Toggle Editor"
-"Tools","Peralatan"
-"Top 5 Search Terms","5 Istilah Pencarian Teratas"
-"Total","Total"
-"Total %d records found","Total %d records found"
-"Total Invoiced","Total Invoiced"
-"Total Order Amount","Total Order Amount"
-"Total Refunded","Total Refunded"
-"Total of %d record(s) have been deleted.","Total of %d record(s) have been deleted."
-"Total of %d record(s) have been updated.","Total of %d record(s) have been updated."
-"Total of %d record(s) were canceled.","Total of %d record(s) were canceled."
-"Track Order","Track Order"
-"Track this shipment","Track this shipment"
-"Tracking number %s for %s assigned","Tracking number %s for %s assigned"
-"Tracking number cannot be empty.","Tracking number cannot be empty."
-"Transaction Data","Transaction Data"
-"Transaction Details","Transaction Details"
-"Transaction ID","Transaction ID"
-"Transaction Type","Transaction Type"
-"Transactional Emails","Transactional Emails"
-"Transactions","Transactions"
-"Try Magento Go for Free","Try Magento Go for Free"
-"Type","Jenis"
-"Type:","Jenis:"
-"URL Rewrite","URL Rewrite"
-"URL Rewrite Information","URL Rewrite Information"
-"URL Rewrite Management","URL Rewrite Management"
-"Unable to cancel the credit memo.","Unable to cancel the credit memo."
-"Unable to find a Email Template to delete.","Unable to find a Email Template to delete."
-"Unable to find a poll to delete.","Unable to find a poll to delete."
-"Unable to find a tag to delete.","Unable to find a tag to delete."
-"Unable to find a user to delete.","Unable to find a user to delete."
-"Unable to initialize import model","Unable to initialize import model"
-"Unable to refresh lifetime statistics.","Unable to refresh lifetime statistics."
-"Unable to refresh recent statistics.","Unable to refresh recent statistics."
-"Unable to save the cron expression.","Unable to save the cron expression."
-"Unable to save the invoice.","Unable to save the invoice."
-"Unable to send the invoice email.","Unable to send the invoice email."
-"Unable to send the shipment email.","Unable to send the shipment email."
-"Unable to void the credit memo.","Unable to void the credit memo."
-"Unknown","Unknown"
-"Unknown Error","Unknown Error"
-"Unknown Error.","Unknown Error."
-"Unlimited","Unlimited"
-"Unselect All","Unselect All"
-"Unselect Visible","Unselect Visible"
-"Update","Update"
-"Update Preview","Update Preview"
-"Updated At","Updated At"
-"Upload File","Upload File"
-"Upload Files","Upload Files"
-"Upload HTTP Error","Upload HTTP Error"
-"Upload I/O Error","Upload I/O Error"
-"Upload Local File","Upload Lokal File"
-"Upload Security Error","Upload Keamanan Error"
-"Upload and Install","Upload dan Install"
-"Upload import file","Upload Impor File"
-"Upload local file:","Upload lokal file:"
-"Url Rewrite Management","Url Rewrite Management"
-"Urlrewrite Information","Urlrewrite Information"
-"Use Config Settings","Use Config Settings"
-"Use Default","Use Default"
-"Use Default Value","Use Default Value"
-"Use Default Variable Values","Use Default Variable Values"
-"Use Silent Post:","Use Silent Post:"
-"Use Website","Use Website"
-"Used Currently For","Used Currently For"
-"Used as Default For","Used as Default For"
-"User","User"
-"User Email","Email User"
-"User ID","User ID"
-"User Info","User Info"
-"User Information","User Information"
-"User Name","User Name"
-"User Name is required field.","User Name is required field."
-"User Name:","User Name:"
-"User Role","User Role"
-"User Roles","User Roles"
-"User Roles Information","User Roles Information"
-"User name","User name"
-"Users","Users"
-"Validation Results","Validation Results"
-"Value","Value"
-"Value Delimiter:","Value Delimiter:"
-"Variable","Variable"
-"Variable Code","Variable Code"
-"Variable HTML Value","Variable HTML Value"
-"Variable ID","Variable ID"
-"Variable Name","Variable Name"
-"Variable Plain Value","Variable Plain Value"
-"Verification Failed","Verification Failed"
-"Verification Successful","Verification Successful"
-"Verification cannot be processed","Verification cannot be processed"
-"View","View"
-"View Actions XML","View Actions XML"
-"View Details","View Details"
-"View Full Size","View Full Size"
-"View Gallery","View Gallery"
-"View Memo","View Memo"
-"View Memo for #%s","View Memo for #%s"
-"View Shipment","View Shipment"
-"View Statistics For","View Statistics For"
-"Visibility:","Visibility:"
-"Warning! Empty value can cause problems with CSV format.","Warning! Empty value can cause problems with CSV format."
-"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-"Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?","Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?"
-"Warning: Please do not close the window during importing/exporting data","Warning: Please do not close the window during importing/exporting data"
-"Watermark File for %s","Watermark File for %s"
-"We appreciate our merchants\' feedback, please <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">take our survey</a> to provide insight on the features you would like included in Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Remove this notification</a>","We appreciate our merchants\' feedback, please <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">take our survey</a> to provide insight on the features you would like included in Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Remove this notification</a>"
-"We detected that your JavaScript seem to be disabled.","We detected that your JavaScript seem to be disabled."
-"We\'re in our typing table, coding away more features for Magento. Thank you for your patience.","We\'re in our typing table, coding away more features for Magento. Thank you for your patience."
-"Web Section","Web Section"
-"Web Services","Web Services"
-"Web services","Web services"
-"Website","Website"
-"What is this?","What is this?"
-"Wishlist Report","Wishlist Report"
-"Wishlist item is not loaded.","Wishlist item is not loaded."
-"Wrong billing agreement ID specified.","Wrong billing agreement ID specified."
-"Wrong column format.","Wrong column format."
-"Wrong newsletter template.","Wrong newsletter template."
-"Wrong quote item.","Wrong quote item."
-"Wrong tab configuration.","Wrong tab configuration."
-"Wrong tag was specified.","Wrong tag was specified."
-"Wrong transaction ID specified.","Wrong transaction ID specified."
-"XML","XML"
-"XML data is invalid.","XML data is invalid."
-"XML object is not instance of ""Varien_Simplexml_Element"".","XML object is not instance of ""Varien_Simplexml_Element""."
-"YTD","YTD"
-"Year","Tahun"
-"Yes","Ya"
-"Yes (301 Moved Permanently)","Yes (301 Moved Permanently)"
-"Yes (302 Found)","Yes (302 Found)"
-"Yes (only price with tax)","Yes (only price with tax)"
-"You cannot delete your own account.","You cannot delete your own account."
-"You have %s unread message(s).","You have %s unread message(s)."
-"You have logged out.","You have logged out."
-"You have not enough permissions to use this functionality.","You have not enough permissions to use this functionality."
-"You must have JavaScript enabled in your browser to utilize the functionality of this website.","You must have JavaScript enabled in your browser to utilize the functionality of this website."
-"You need to specify order items.","You need to specify order items."
-"Your answers contain duplicates.","Your answers contain duplicates."
-"Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.","Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files."
-"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider."
-"Zip/Postal Code","Zip/Postal Code"
-"Zip/Postal Code:","Zip/Postal Code:"
-"[ deleted ]","[ deleted ]"
-"[GLOBAL]","[GLOBAL]"
-"[STORE VIEW]","[STORE VIEW]"
-"[WEBSITE]","[WEBSITE]"
-"b","b"
-"close","tutup"
-"critical","critical"
-"example: ""sitemap/"" or ""/"" for base path (path must be writeable)","example: ""sitemap/"" or ""/"" for base path (path must be writeable)"
-"example: sitemap.xml","example: sitemap.xml"
-"from","from"
-"images/logo.gif","images/logo.gif"
-"items selected","barang yang terpilih"
-"major","major"
-"md5sum","md5sum"
-"minor","minor"
-"notice","notice"
-"of %s pages","dari %s halaman"
-"per page","per halaman"
-"so url rewrite is not possible.","so url rewrite is not possible."
-"store(%s) scope","store(%s) scope"
-"to","ke"
-"website(%s) scope","website(%s) scope"
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%s"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%s"">configuration</a>."
+" The customer doesn't exist in the system anymore,""Pelanggan ini sudah tidak ada lagi di sistem"";;;;",,,
+" and ,"" dan "";;;;",,,
+" note that the URLs provided below are the correct values for your current website): ,""di catat bahwa URL yang di berikan di bawah ini adalah nilai yang benar untuk situs Anda saat ini): "";;;;",,,
+"%s (Default Template from Locale),""%s (Default Template from Locale)"";;;;",,,
+"%s cache type(s) disabled.,""%s Tipe cache(s) dinonaktifkan."";;;;",,,
+"%s cache type(s) enabled.,""%s Tipe Cache(s) di nonaktifkan."";;;;",,,
+"%s cache type(s) refreshed.,""%s tipe cache(s) diperbarui."";;;;",,,
+"(For Type ""Local Server"" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir),""(Untuk jenis """"Server Lokal"""" perlu menggunakan jalur relatif Ke install Magento var/ekspor or var/impor, contoh. var/ekspor, var/impor, var/ekspor/beberapa/dir, var/impor/beberapa/dir)"";;;;",,,
+"(For US 2-letter state names),""(Untuk AS gunakan 2 huruf untuk negara bagian)"";;;;",,,
+"(If left empty will be auto-generated),""(Jika ditinggalkan kosong akan digenerate secara otomatis)"";;;;",,,
+"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.),""(Termasuk Banyak Negara Yang tercantum di bawah ini.Sebagai Pemilik Aplikasi, Anda Bertanggung Jawab Untuk Mematuhi Hukum Negara Tertentu Terkait Deangan Distribusi Atau Penjualan Aplikasi Anda Ke Negara Tersebut, Termasuk Negara Anda.)"";;;;",,,
+"(Leave empty for first spreadsheet),""(Tinggalkan kosong untuk spreadsheet pertama)"";;;;",,,
+"(Products will be added/updated to this store if 'store' column is blank or missing in the import file.),""(Produk akan ditambah/diubah pada toko ini jika kolom 'toko' dibiarkan kosong atau hilang pada file import.)"";;;;",,,
+"(Shift-)Click or drag to change value,""(Shift-)Klik atau geser untuk merubah nilai"";;;;",,,
+"(Starting with),""(Dimulai dengan)"";;;;",,,
+"(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.),""(Ketika 'Tidak', hanya field yang dipetakan yang akan diimport. Ketika memetakan, gunakan 'column1', 'column2', etc.)"";;;;",,,
+"(You have to increase php memory_limit before changing this value),""(Anda harus menambah memori batas_Php sebelum merubah nilai)"";;;;",,,
+"(\t for tab),""(\t untuk  tab)"";;;;",,,
+"* - If indexing is in progress, it will be killed and new indexing process will start,""* - Apabila Pengindekan dalam progress, ini akan menonaktifkan dan akan memulai proses pengindekan baru"";;;;",,,
+"Click on any of the time parts to increase it,""Klik dimana saja pada bagian waktu untuk meningkat nya"";;;;",,,
+"Hold mouse button on any of the above buttons for faster selection.,"" Tahan tombol Mouse pada tombol apa saja diatas untuk memilih lebih cepat."";;;;",,,
+"Use the %s buttons to select month,""- gunakan tombol %s untuk memilih bulan"";;;;",,,
+"Use the %s, %s buttons to select year,""-gunakan tombol %s, %s untuk memilih tahun"";;;;",,,
+"or Shift-click to decrease it,""- atau Shift-klik untuk mengurangi nya"";;;;",,,
+"or click and drag for faster selection.,""- atau klik dan geser untuk memilih lebih cepat."";;;;",,,
+"-- Please Select --,""-- Silahkan Pilih --"";;;;",,,
+" Please select --,""-- silakan piliht --"";;;;",,,
+"-- Please select a category --,""-- Silahkan pilih kategori --"";;;;",,,
+"--Please Select--,""--Silahkan Pilih--"";;;;",,,
+"1 Hour,""1 Jam"";;;;",,,
+"10:40 AM,""10:40 AM"";;;;",,,
+"12 Hours,""12 Jam"";;;;",,,
+"12h AM/PM,""12h AM/PM"";;;;",,,
+"2 Hours,""2 Jam"";;;;",,,
+"24 Hours,""24 Jam"";;;;",,,
+"24h,""24h"";;;;",,,
+"2YTD,""2YTD"";;;;",,,
+"6 Hours,""6 Hours"";;;;",,,
+"80px x 80px,""80px x 80px"";;;;",,,
+"80x80 px,""80x80 px"";;;;",,,
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>,""<h1 class=""""page-heading"""">404 Error</h1><p>Halaman tidak ditemukan..</p>"";;;;",,,
+"A new password was sent to your email address. Please check your email and click Back to Login.,""Kata Sandi Baru dikirim ke alamat email Anda. Silakan cek email Anda dan klik kembali untuk masuk ."";;;;",,,
+"A user with the same user name or email already exists.,""Pengguna Dengan nama pengguna atau email yang sama sudah ada ."";;;;",,,
+"API Key,""API Kunci"";;;;",,,
+"API Key Confirmation,""API konfirmasi Kunci"";;;;",,,
+"ASCII,""ASCII"";;;;",,,
+"Abandoned Carts,""Keranjang Yang Diabaikan"";;;;",,,
+"About the calendar,""Tentang penanggalan"";;;;",,,
+"Access Denied.,""Akses Ditolak."";;;;",,,
+"Access Deny,""Akses Ditolak"";;;;",,,
+"Account Created in:,""Akun Dibuat di:"";;;;",,,
+"Account Created on (%s):,""Akun di buat pada (%s):"";;;;",,,
+"Account Created on:,""Akun Dibuat pada:"";;;;",,,
+"Account Information,""Informasi Akun"";;;;",,,
+"Account Status,""Status Akun"";;;;",,,
+"Account status,""Status akun"";;;;",,,
+"Action,""Aksi"";;;;",,,
+"Actions,""Aksi"";;;;",,,
+"Actions XML,""Actions XML"";;;;",,,
+"Activate,""Aktifkan"";;;;",,,
+"Active,""Aktif"";;;;",,,
+"Add,""Tambah"";;;;",,,
+"Add Contents Path,""Tambah Jalur Isi"";;;;",,,
+"Add Exception,""menambahkan pengecualian"";;;;",,,
+"Add Field Mapping,""Tambah Peta Bidang"";;;;",,,
+"Add Field with URL:,""Tambahkan bidang denganURL:"";;;;",,,
+"Add Maintainer,""Tambahkan Pengelola"";;;;",,,
+"Add New Image,""Tambah Gambar Baru"";;;;",,,
+"Add New Profile,""Tambah Profile Baru"";;;;",,,
+"Add New Role,""Tambah Peran Baru"";;;;",,,
+"Add New Template,""Tambah Kerangka Baru"";;;;",,,
+"Add New Urlrewrite,""Tambah UrlTulisulang Baru"";;;;",,,
+"Add New User,""Tambah User Baru"";;;;",,,
+"Add New osCommerce Profile,""Tambah profil OsCommerce baru"";;;;",,,"""Tambah profil os Comerce"";;;;"
+"Add PHP Extension dependency,""menambah ketergantungan ekstensi php"";;;;",,,
+"Add Package dependency,""tambah paket dependensi"";;;;",,,
+"Add Subpackage dependency,""Tambah Subpaket dependensi"";;;;",,,
+"Add Urlrewrite,""Tambah Tulis Ulang URL"";;;;",,,
+"Add Urlrewrite for a Category,""Tambah Tulis Ulang URL Untuk Sebuah Kategori"";;;;",,,
+"Add Urlrewrite for a Product,""Tambah URL Tulis Ulang Untuk Sebuah Produk"";;;;",,,
+"Add after,""Tambah Setelah"";;;;",,,
+"Add to Cart,""Tambah ke daftar Belanja"";;;;",,,
+"Add to Wishlist,""Tambah ke Daftar Rencana Beli"";;;;",,,
+"Additional Cache Management,""Tambahan Manajemen Cache"";;;;",,,
+"Address Type:,""Jenis Alamat:"";;;;",,,
+"Admin,""Admin"";;;;",,,
+"Advanced Admin Section,""Lanjutan Bagian Admin"";;;;",,,
+"Advanced Profiles,""Pofil Lanjutan"";;;;",,,
+"Advanced Section,""Seksi Lanjutan"";;;;",,,
+"AirMail Template Preview,""Peninjauan Contoh Surat"";;;;",,,
+"All,""Semua"";;;;",,,
+"All Allowed Countries,""Semua Negara yang Diperbolehkan"";;;;",,,
+"All Cache,""Semua Cache"";;;;",,,
+"All Files,""Semua File"";;;;",,,
+"All Reviews,""Semua Review"";;;;",,,
+"All Store Views,""Semua Store View"";;;;",,,
+"All Tags,""Semua Tag"";;;;",,,
+"All Websites,""Semua Situs Jejaring"";;;;",,,
+"All countries,""Semua negara"";;;;",,,
+"All fields,""Semua Bidang"";;;;",,,
+"All locations,""Semua lokasi"";;;;",,,
+"All possible rates were fetched, please click on ""Save"" to apply,""Semua harga yang mungkin diambil, silakan klik pada """" Simpan """" untuk menerapkan"";;;;",,,
+"All rates were fetched, please click on ""Save"" to apply,""All rates were fetched, please click on """"Save"""" to apply"";;;;",,,
+"All valid rates have been saved.,""Semua Harga Yang Berlaku Telah Di simpan."";;;;",,,
+"Amounts,""Jumlah"";;;;",,,
+"An error has occured while syncronizing media storages.,""Terjadi Galat ketika sinkronisasi Media penyimpanan."";;;;",,,
+"An error occurred while clearing the JavaScript/CSS cache.,""Terjadi galat saat kliring JavaScript / CSS Cache."";;;;",,,
+"An error occurred while clearing the image cache.,""Terjadi Galat ketika membersihkan cache gambar."";;;;",,,
+"An error occurred while creating the backup.,""Terjadi Galat ketika Membuat Backup."";;;;",,,
+"An error occurred while deleting email template data. Please review log and try again.,""Terjadi galat saat menghapus data email template. Harap tinjau log dan coba lagi."";;;;",,,
+"An error occurred while deleting this role.,""Terjadi galat saat menghapus tugas ini."";;;;",,,
+"An error occurred while deleting this set.,""Terjadi galat saat menghapus set ini."";;;;",,,
+"An error occurred while deleting this template.,""Terjadi galat saat menghapus kerangka ini."";;;;",,,
+"An error occurred while finishing process. Please refresh the cache,""Terjadi galat saat finishing. Mohon Perbarui cache"";;;;",,,
+"An error occurred while rebuilding the CatalogInventory Stock Status.,""Terjadi galat saat membangun kembali Status Stock CatalogInventory."";;;;",,,
+"An error occurred while rebuilding the catalog index.,""Terjadi galat saat membangun kembali indeks katalog."";;;;",,,
+"An error occurred while rebuilding the flat catalog category.,""Terjadi galat saat membangun kembali kategori katalog datar."";;;;",,,
+"An error occurred while rebuilding the flat product catalog.,""Terjadi galat saat membangun kembali katalog produk datar."";;;;",,,
+"An error occurred while rebuilding the search index.,""Terjadi galat saat membangun kembali indeks pencarian."";;;;",,,
+"An error occurred while refreshing the Catalog Rewrites.,""Terjadi galat saat memperbaruhi Katalog Penulisan ulang."";;;;",,,
+"An error occurred while refreshing the Layered Navigation indices.,""Terjadi galat ketika memperbaruhi Indeks Navigasi Berlapis."";;;;",,,
+"An error occurred while refreshing the catalog rewrites.,""Terjadi Galat ketika memperbaruhi katalog penulisan ulang."";;;;",,,
+"An error occurred while refreshing the layered navigation indices.,""Terjadi galat ketika memperbaruhi Indeks Navigasi Berlapis."";;;;",,,
+"An error occurred while saving account.,""Terjadi galat ketika menyimpan akun."";;;;",,,
+"An error occurred while saving the customer.,""Terjadi galat ketika menyimpan pelanggan."";;;;",,,
+"An error occurred while saving this configuration:,""Terjadi galat ketika menyimpan konfigurasi ini:"";;;;",,,
+"An error occurred while saving this role.,""Terjadi galat saat menyimpan peranan ini."";;;;",,,
+"An error occurred while saving this template.,""Terjadi galat saat menyimpan kerangka ini."";;;;",,,
+"An error occurred while updating the selected review(s).,""Terjadi galat saat memperbarui tinjauan yang dipilih."";;;;",,,
+"Any,""Apapun"";;;;",,,
+"Any Attribute Set,""Setiap Set Atribut"";;;;",,,
+"Any Group,""Setiap Kelompok"";;;;",,,
+"Any Status,""Setiap Status"";;;;",,,
+"Any Store,""Setiap Penyimpanan"";;;;",,,
+"Any Type,""Setiap Jenis"";;;;",,,
+"Any Visibility,""Setiap Visibilitas"";;;;",,,
+"Archive file name:,""Arsip nama file:"";;;;",,,
+"Are you sure that you want to delete this template?,""Apakah Anda yakin ingin menghapus kerangka ini?"";;;;",,,
+"Are you sure that you want to strip tags?,""Apakah Anda yakin bahwa Anda ingin memotong tag?"";;;;",,,
+"Are you sure you want to do this?,""Apakah Anda yakin ingin melakukan ini?"";;;;",,,
+"Area,""Area"";;;;",,,
+"As low as:,""Serendah:"";;;;",,,
+"Assigned,""ditugaskan"";;;;",,,
+"Attribute Set Name:,""Nama Set Atribut:"";;;;",,,
+"Attribute set successfully saved.,""Set atribut berhasil di simpan."";;;;",,,
+"Attribute set was successfully removed.,""Set atribut telah berhasil dibuang."";;;;",,,
+"Attributes,""Atribut"";;;;",,,
+"Authors,""Penulis"";;;;",,,
+"Automatic,""Otomatis"";;;;",,,
+"Available Products,""Produk Tersedia"";;;;",,,
+"Average Order Amount,""Jumlah Oerder Rata-rata"";;;;",,,
+"Average Orders,""Rata-rata Order"";;;;",,,
+"BINARY,""Biner"";;;;",,,
+"Back,""Kembali"";;;;",,,
+"Back to Login,""Kembali ke Login"";;;;",,,
+"Backup,""Backup"";;;;",,,
+"Backup record was deleted,""Record backup berhasil dihapus"";;;;",,,
+"Backup successfully created,""Backup berhasil dibuat"";;;;",,,
+"Backups,""Backup"";;;;",,,
+"Base currency,""Mata Uang Dasar"";;;;",,,
+"Bcc,""Bcc"";;;;",,,
+"Bestsellers,""Terlaris"";;;;",,,
+"Big Image,""Gambar Besar"";;;;",,,
+"Billing Address,""Alamat Tagihan"";;;;",,,
+"Billing Address: ,""Alamat Tagihan: "";;;;",,,
+"Billing Agreement,""Kontrak Tagihan"";;;;",,,
+"Billing Agreements,""Kontrak Tagihan"";;;;",,,
+"Block Information,""Block Information"";;;;",,,
+"Both (without and with tax),""Both (without and with tax)"";;;;",,,
+"Both IPN and PDT,""Both IPN and PDT"";;;;",,,
+"Browse Files...,""Jelajah File..."";;;;",,,
+"Bundle Items,""Bundle Items"";;;;",,,
+"Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.,""Bundel dengan harga dinamis tidak dapat menyertakan pilihan khusus yang di tentukan. Pilihan tidak akan disimpan."";;;;",,,
+"CRITICAL,""kritis"";;;;",,,
+"CSV,""CSV"";;;;",,,
+"CSV / Tab separated,""CSV / dipisahkan oleh Tab"";;;;",,,
+"Cache Control,""kontrol Cache"";;;;",,,
+"Cache Control (beta),""Kontrol Cache (beta)"";;;;",,,
+"Cache Management,""Manajemen Cache"";;;;",,,
+"Can not add new comment.,""Can not add new comment."";;;;",,,
+"Can not add tracking number.,""Can not add tracking number."";;;;",,,
+"Can not delete tracking number.,""Can not delete tracking number."";;;;",,,
+"Can not do credit memo for order,""Can not do credit memo for order"";;;;",,,
+"Can not do invoice for order,""Can not do invoice for order"";;;;",,,
+"Can not do shipment for order.,""Can not do shipment for order."";;;;",,,
+"Can not initialize shipment for adding tracking number.,""Can not initialize shipment for adding tracking number."";;;;",,,
+"Can not initialize shipment for delete tracking number.,""Can not initialize shipment for delete tracking number."";;;;",,,
+"Can not load track with retrieving identifier.,""Can not load track with retrieving identifier."";;;;",,,
+"Can not retrieve tracking number detail.,""Can not retrieve tracking number detail."";;;;",,,
+"Can not save credit memo,""Can not save credit memo"";;;;",,,
+"Can not save invoice,""Can not save invoice"";;;;",,,
+"Can not save shipment.,""Can not save shipment."";;;;",,,
+"Can not send shipment information.,""Can not send shipment information."";;;;",,,
+"Can not update item qty,""Can not update item qty"";;;;",,,
+"Can't delete design change,""Tidak dapat menghapus perubahan desain"";;;;",,,
+"Can't find email address.,""Tidak dapat menemukan alamat email."";;;;",,,
+"Cancel,""Batal"";;;;",,,
+"Cancel URL: ,""URL Batal: "";;;;",,,
+"Cannot add new comment.,""Tidak dapat menambah komentar baru."";;;;",,,
+"Cannot add tracking number.,""tidak dapat menambahkan nomor pelacakan."";;;;",,,
+"Cannot create an invoice without products.,""Tidak dapat membuat faktur tanpa produk."";;;;",,,
+"Cannot create credit memo for the order.,""Tidak dapat membuat memo kredit untuk pesanan."";;;;",,,
+"Cannot delete the design change.,""Tidak dapat menghapus perubahan desain."";;;;",,,
+"Cannot delete tracking number.,""Tidak dapat menghapus nomor pelacakan."";;;;",,,
+"Cannot do shipment for the order separately from invoice.,""Tidak bisa melakukan pengiriman terpisah dari faktur."";;;;",,,
+"Cannot do shipment for the order.,""Tidak bisa melakukan pengiriman untuk pesanan."";;;;",,,
+"Cannot find the email address.,""Tidak dapat menemukan alamat email."";;;;",,,
+"Cannot initialize shipment for adding tracking number.,""Tidak dapat menginisialisasi pengiriman untuk menambahkan nomor pelacakan."";;;;",,,
+"Cannot initialize shipment for delete tracking number.,""Tidak dapat menginisialisasi pengiriman untuk menghapus nomor pelacakan."";;;;",,,
+"Cannot load track with retrieving identifier.,""Tidak dapat memasukkan pelacak dengan pengambilan identitas."";;;;",,,
+"Cannot retrieve tracking number detail.,""Tidak dapat mengambil nomor pelacakan secara rinci."";;;;",,,
+"Cannot save shipment.,""Tidak dapat menyimpan pengiriman."";;;;",,,
+"Cannot save the credit memo.,""Tidak dapat menyimpan memo kredit."";;;;",,,
+"Cannot send shipment information.,""Tidak dapat mengirim informasi pengiriman."";;;;",,,
+"Cannot update item quantity.,""Tidak dapat memperbarui jumlah item barang."";;;;",,,
+"Cannot update the item\'s quantity.,""Tidak dapat memperbarui kuantitas item."";;;;",,,
+"Card Verification Number,""Nomor Verifikasi Kartu"";;;;",,,
+"Carrier,""pembawa"";;;;",,,
+"Catalog,""katalog"";;;;",,,
+"Catalog Price Rules,""katalog Aturan Harga"";;;;",,,
+"Catalog Rewrites,""Katalog Penilisan Ulang"";;;;",,,
+"Catalog Rewrites was refreshed successfully,""Penulisan ulang katalog berhasil di perbarui"";;;;",,,
+"Catalog Rewrites were refreshed successfully,""Penulisan ulang katalog berhasil diperbarui"";;;;",,,
+"CatalogInventory Stock Status rebuild error. Please try again later,""katalog status persediaan stok yang di buat ulang mengalami galat.silakan coba lagi nanti"";;;;",,,
+"CatalogInventory Stock Status was rebuilt successfully,""Katalog status persediaan stok telah di buat ulang dengan sukses"";;;;",,,
+"Category,""Kategori"";;;;",,,
+"Category:,""kategori:"";;;;",,,
+"Chairs,""kursi"";;;;",,,
+"Change Orientation,""Orientasi Perubahan"";;;;",,,
+"Changes have been saved to theme.,""Perubahan telah disimpan ke tema."";;;;",,,
+"Channel,""Kanal"";;;;",,,
+"Chart is disabled. If you want to enable chart, click <a href=""%s"">here</a>.,""Bagan dinonaktifkan. Jika Anda ingin mengaktifkan grafik, klik <a href=""""%s""""> sini </ a>."";;;;",,,
+"Checkbox,""Kotak Cek"";;;;",,,
+"Child Transactions,""Transaksi Anak"";;;;",,,
+"Choose Store View,""Pilih Tampilan Toko"";;;;",,,
+"Choose a selection...,""Memilih Pilihan..."";;;;",,,
+"Choose an attribute,""Pilih atribut"";;;;",,,
+"Chosen category does not associated with any website, ,""Kategori yang dipilih tidak terkait dengan situs web apapun,"";;;;",,,
+"Chosen product does not associated with any website, ,""Produk yang dipilih tidak terkait dengan situs web apapun,, "";;;;",,,
+"Clear,""Bersihkan"";;;;",,,
+"Close,""Tutup"";;;;",,,
+"Comment text field can not be empty.,""Komentar kolom teks tidak boleh kosong."";;;;",,,
+"Comments History,""Riwayat komentar"";;;;",,,
+"Complete,""Selesai"";;;;",,,
+"Configuration,""Konfigurasi"";;;;",,,
+"Configuration successfully saved,""Konfigurasi berhasil disimpan"";;;;",,,
+"Confirmed email:,""Email yang di konfirmasi:"";;;;",,,
+"Connect with the Magento Community,""menghubungkan dengan komunitas magento"";;;;",,,
+"Contents,""isi"";;;;",,,
+"Continue,""Lanjut"";;;;",,,
+"Convert to Plain Text,""dikonversi ke teks biasa"";;;;",,,
+"Cookie (unsafe),""Cookie (tidak aman)"";;;;",,,
+"Country,""Negara"";;;;",,,
+"Country:,""Negara:"";;;;",,,
+"Coupons,""Voucher"";;;;",,,
+"Create,""Membuat"";;;;",,,
+"Create DB Backup,""Membuat DB Backup"";;;;",,,
+"Create New Attribute,""Membuat Atribut Baru"";;;;",,,
+"Create URL Rewrite:,""Membua URL Rewrite:"";;;;",,,
+"Created At,""Membuat di"";;;;",,,
+"Credit Card %s,""Kartu Kredit%s"";;;;",,,
+"Credit Card Number,""Nomor Kartu Kredit"";;;;",,,
+"Credit Card Number: xxxx-%s,""Nomor Kartu Kredit: xxxx-%s"";;;;",,,
+"Credit Card Type,""Tipe Kartu Kredit"";;;;",,,
+"Credit Card Type: %s,""Tipe Kartu Kredit: %s"";;;;",,,
+"Credit Memo History,""Riwayat Memo Kredit"";;;;",,,
+"Credit Memo Totals,""Total Memo Kredit"";;;;",,,
+"Credit Memos,""Memo Kredit"";;;;",,,
+"Credit memo #%s comment added,""Memo Kredit #%s Komentar di tambahkan"";;;;",,,
+"Credit memo #%s created,""Memo Kredit #%s Dibuat"";;;;",,,
+"Credit memo\'s total must be positive.,""Memo Kredit Total Harus Positive."";;;;",,,
+"Currency,""Mata Uang"";;;;",,,
+"Currency Information,""Informasi Mata Uang"";;;;",,,
+"Currency Setup Section,""Bagian Setting Mata Uang"";;;;",,,
+"Current Configuration Scope:,""Cakupan Konfigurasi Sekarang:"";;;;",,,
+"Current Release Information,""Informasi Rilis Sekarang"";;;;",,,
+"Custom,""Khusus"";;;;",,,
+"Custom Colors,""Warna Khusus"";;;;",,,
+"Custom Variable ""%s"",""Variabel Khusus """"%s"""""";;;;",,,
+"Custom Variables,""Variabel Khusus"";;;;",,,
+"Customer,""Pelanggan"";;;;",,,
+"Customer Group:,""Kelompok Pelanggan:"";;;;",,,
+"Customer Groups,""Kelompok Pelanggan"";;;;",,,
+"Customer Name,""Nama Pelanggan"";;;;",,,
+"Customer Reviews,""Review Pelanggan"";;;;",,,
+"Customer Shopping Carts,""Daftar Belanja Pelanggan"";;;;",,,
+"Customer Since:,""Pelanggan Sejak:"";;;;",,,
+"Customer Tax Classes,""Kelas Pajak Pelanggan"";;;;",,,
+"Customer with the same email already exists.,""Pelanggan Dengan Email Yang Sama Sudah Tersedia."";;;;",,,
+"Customers,""Pelanggan"";;;;",,,
+"Customers by Number of Orders,""Pelanggan dengan jumlah pesanan"";;;;",,,
+"Customers by Orders Total,""Pelanggan dengan Total pesanan"";;;;",,,
+"DHTML Date/Time Selector,""DHTML Tanggal/Pilihan Waktu"";;;;",,,
+"Dashboard,""Dasbor"";;;;",,,
+"Data Format,""Data Format"";;;;",,,
+"Data transfer:,""Data transfer:"";;;;",,,
+"Database,""Database"";;;;",,,
+"Dataflow - Advance Profiles,""Dataflow - Profil Lanjutan"";;;;",,,
+"Dataflow - Advanced Profiles,""Dataflow - Profil Lanjutan"";;;;",,,
+"Dataflow - Profiles,""Dataflow - Profil"";;;;",,,
+"Date,""Tanggal"";;;;",,,
+"Date & Time,""Tanggal & Waktu"";;;;",,,
+"Date Added,""Tanggal Ditambahkan"";;;;",,,
+"Date Updated,""Tanggal Diperbaharui"";;;;",,,
+"Date selection:,""Date selection:"";;;;",,,
+"Date selector,""Pemilihan tanggal"";;;;",,,
+"Date:,""Tanggal:"";;;;",,,
+"Day,""Hari"";;;;",,,
+"Decimal separator:,""Pemisah Desimal:"";;;;",,,
+"Default (Admin) Values,""Nilai Acuan (Admin)"";;;;",,,
+"Default Config,""Konfigurasi Acuan"";;;;",,,
+"Default Template from Locale,""Kerangka Standar Lokal"";;;;",,,
+"Default Values,""Nilai Acuan (Admin)"";;;;",,,
+"Default display currency ""%s"" is not available in allowed currencies,""Tampilan standar mata uang""""%s"""" tidak tersedia dalam mata uang diperbolehkan"";;;;",,,
+"Default scope,""lingkup standar"";;;;",,,
+"Delete,""Hapus"";;;;",,,
+"Delete %s,""Hapus %s"";;;;",,,
+"Delete %s '%s',""Hapus %s '%s'"";;;;",,,
+"Delete File,""Hapus File"";;;;",,,
+"Delete Image,""Hapus Gambar"";;;;",,,
+"Delete Profile,""Hapus Profil"";;;;",,,
+"Delete Role,""Hapus Peranan"";;;;",,,
+"Delete Store,""Hapus Toko"";;;;",,,
+"Delete Store View,""Hapus Tampilan Toko"";;;;",,,
+"Delete Template,""Hapus Template"";;;;",,,
+"Delete User,""Hapus User"";;;;",,,
+"Delete Website,""Hapus Website"";;;;",,,
+"Description,""Keterangan"";;;;",,,
+"Deselect All,""Tak Pilih Semua"";;;;",,,
+"Design,""Desain"";;;;",,,
+"Design Section,""Bagian Desain"";;;;",,,
+"Design change deleted,""Perubahan desain dihapus"";;;;",,,
+"Design change saved,""Perubahan desain disimpan"";;;;",,,
+"Developer Section,""Bagian pengembang"";;;;",,,
+"Direction:,""Arahan:"";;;;",,,
+"Disable,""Non aktif"";;;;",,,
+"Disabled,""Non Aktif"";;;;",,,
+"Discount Amount,""Besaran Diskon"";;;;",,,
+"Display %s first,""Tampilan %s Pertama"";;;;",,,
+"Display default currency,""Tampilan Mata Uang standar"";;;;",,,
+"Distributed under GNU LGPL. See %s for details.,""Didistribusikan di bawah GNU LGPL. See %s untuk detail."";;;;",,,
+"Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.,""Jangan mengaktifkan AVS atau opsi CSC. Tidak berfungsi ketika menggunakan Payflow Tautan Mode Diam"";;;;",,,
+"Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.,""Jangan Mengatur Bidang di Penagihan dan Memblokir Pengiriman Informasi Sebagaimana di edit dalam Akun Payflow Anda."";;;;",,,
+"Do you really want to KILL parallel process and start new indexing process?,""Apakah Anda benar-benar ingin mengakhiri proses paralel dan memulai proses pengindekan baru?"";;;;",,,
+"Download,""Unduh"";;;;",,,
+"Downloads,""Unduh"";;;;",,,
+"Drag to move,""Geser untuk memindahkan"";;;;",,,
+"Drop-down,""lepaskan-kebawah"";;;;",,,
+"Edit,""Ubah"";;;;",,,
+"Edit Design Change,""Edit Perubahan Desain"";;;;",,,
+"Edit Email Template,""Ubah Kerangka Email"";;;;",,,
+"Edit Filter,""Ubah Filter"";;;;",,,
+"Edit Poll,""Ubah Pemilihan"";;;;",,,
+"Edit Queue,""Ubah Baris"";;;;",,,
+"Edit Review,""Ubah Review"";;;;",,,
+"Edit Role,""Ubah Peranan"";;;;",,,
+"Edit Store View,""Ubah Tampilan Toko"";;;;",,,
+"Edit System Template,""Ubah Sistem Kerangka"";;;;",,,
+"Edit Tag,""Ubah Label"";;;;",,,
+"Edit Template,""Ubah Kerangka"";;;;",,,
+"Edit Urlrewrite,""Ubah Url Tulis ulang"";;;;",,,
+"Edit User,""Ubah Pengguna"";;;;",,,
+"Edit User '%s',""Ubah pengguna '%s'"";;;;",,,
+"Edit Website,""Ubah Situs"";;;;",,,
+"Email,""Email"";;;;",,,
+"Email Address:,""Alamat Email:"";;;;",,,
+"Email Preview,""Tampilan Email"";;;;",,,
+"Email address is empty.,""Alamat email kosong."";;;;",,,
+"Email to a Friend,""Email ke Teman"";;;;",,,
+"Email:,""Email:"";;;;",,,
+"Enable,""Aktifkan"";;;;",,,
+"Enable Secure Token:,""mengaktifkan tanda aman:"";;;;",,,
+"Enabled,""Aktif"";;;;",,,
+"Enclose Values In:,""menyertakan nilai dalam:"";;;;",,,
+"Entity Attributes,""Atribut entitas"";;;;",,,
+"Entity Type,""Tipe Entitas"";;;;",,,
+"Entity type:,""Tipe Entitas:"";;;;",,,
+"Error,""Galat"";;;;",,,
+"Excel XML,""Excel XML"";;;;",,,
+"Excl. Tax,""Excl. Tax"";;;;",,,
+"Exclude,""Tidak disertakan"";;;;",,,
+"Exclude (comma separated),""Tidak disertakan (dipisahkan oleh koma)"";;;;",,,
+"Expiration Date,""Tanggal Kadaluarsa"";;;;",,,
+"Expiration Date: %s/%s,""Tanggal Kadaluarsa: %s/%s"";;;;",,,
+"Export,""Ekspor"";;;;",,,
+"Export CSV,""Ekspor CSV"";;;;",,,
+"Export FAQ,""Ekspor FAQ"";;;;",,,
+"Export Filters,""Ekspor Filters"";;;;",,,
+"Export to:,""Ekspor ke:"";;;;",,,
+"Export:,""Ekspor:"";;;;",,,
+"Extension,""Perluasan"";;;;",,,
+"Extensions,""Perluasan"";;;;",,,
+"FILTERS APPLIED,""filter diterapkan"";;;;",,,
+"FTP Host[:Port],""FTP Host[:Port]"";;;;",,,
+"Failed to add a product to cart by id ""%s"".,""Gagal untuk menambah produk ke daftar belanja dengan id """"%s""""."";;;;",,,
+"Failed to cancel the billing agreement.,""Gagal untuk membatalkan kesepakatan penagihan."";;;;",,,
+"Failed to clear the JavaScript/CSS cache.,""Gagal menghapus cache JavaScript / CSS."";;;;",,,
+"Failed to delete the billing agreement.,""Gagal menghapus perjanjian penagihan."";;;;",,,
+"Failed to update the profile.,""Gagal memperbarui profil."";;;;",,,
+"Field,""Bidang"";;;;",,,
+"Field Mapping,""Pemetaan Bidang"";;;;",,,
+"File,""Berkas"";;;;",,,
+"File Information,""Berkas Informasi"";;;;",,,
+"File System,""Sistem Berkas"";;;;",,,
+"File mode,""Mode Berkas"";;;;",,,
+"File name:,""Berkas Nama:"";;;;",,,
+"File size should be more than 0 bytes,""Ukuran file harus lebih dari 0 byte"";;;;",,,
+"Files,""Berkas"";;;;",,,
+"Final Price,""Harga Akhir"";;;;",,,
+"Finished items creation.,""Selesai Membuat Barang."";;;;",,,
+"Finished profile execution.,""Eksekusi profil selesai."";;;;",,,
+"First Name,""Nama Depan"";;;;",,,
+"First Name:,""Nama Depan:"";;;;",,,
+"Firstname,""Nama Depan"";;;;",,,
+"Fixed,""Tetap"";;;;",,,
+"Flat Catalog Category rebuild error,""Kategori Katalog datar membangun ulang galat"";;;;",,,
+"Flat Catalog Category was rebuilt successfully,""Kategori Katalog datar dibangun berhasil"";;;;",,,
+"Flat Catalog Product rebuild error. Please try again later,""Membangun Ulang produk katalog Datar Galat. Silakan Coba Lagi Nanti"";;;;",,,
+"Flat Catalog Product was rebuilt successfully,""Produk Katalog Datar Berhasil Dibangun Ulang"";;;;",,,
+"For category,""Untuk Kategori"";;;;",,,
+"For latest version visit: %s,""Untuk Versi Paling Akhir Kunjungi: %s"";;;;",,,
+"For product,""Untuk Produk"";;;;",,,
+"Forgot your password?,""Lupa Kata Sandi Anda?"";;;;",,,
+"Forgot your user name or password?,""Lupa Nama Pengguna atau Kata Sandi anda?"";;;;",,,
+"From,""Dari"";;;;",,,
+"Gb,""Gb"";;;;",,,
+"General Information,""Informasi Umum"";;;;",,,
+"General Section,""General Section"";;;;",,,
+"Get Image Base64,""Dapatkan Gambar Base64"";;;;",,,
+"Get help for this page,""Dapatkan pertolongan untuk halaman ini"";;;;",,,
+"Global Attribute,""Atribut Umum"";;;;",,,
+"Global Record Search,""Cari Global"";;;;",,,
+"Global Search,""Cari Global"";;;;",,,
+"Go Today,""Ke Hari Ini"";;;;",,,
+"Go to messages inbox,""Ke Pesan Kotak Masuk"";;;;",,,
+"Go to notifications,""Ke notifikasi"";;;;",,,
+"Google Base,""Dasar Google"";;;;",,,
+"Google Base Items,""Barang - Barang Dasar Google"";;;;",,,
+"Grand Total,""Total Semuanya"";;;;",,,
+"Grid (default) / List,""Kisi (acuan) / Daftar"";;;;",,,
+"Grid only,""Hanya Kisi"";;;;",,,
+"Group:,""Kelompok"";;;;",,,
+"Guest,""Tamu"";;;;",,,
+"HTTP (unsecure),""HTTP (Tidak Aman)"";;;;",,,
+"HTTPS (SSL),""HTTPS (SSL)"";;;;",,,
+"Help Us Keep Magento Healthy - Report All Bugs,""Bantu Kami Untuk Tetap Menjaga Magento Sehat - Laporkan Semua Kesalahan"";;;;",,,
+"Helper attributes should not be used in custom layout updates.,""Atribut Bantuan tidak boleh digunakan dalam pembaruan tata letak kustom."";;;;",,,
+"Helper for options rendering doesn't implement required interface.,""Bantuan untuk render opsi tidak mengimplementasikan antarmuka diperlukan."";;;;",,,
+"Home,""Beranda"";;;;",,,
+"ID,""ID"";;;;",,,
+"ID Path,""ID Jalur"";;;;",,,
+"IP Address,""Alamat IP"";;;;",,,
+"IPN (Instant Payment Notification) Only,""IPN (Instant Payment Notification) Only"";;;;",,,
+"If this message persists, please contact the store owner.,""Jika pesan ini berlanjut, silahkan hubungi pemilik toko."";;;;",,,
+"If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.,""Jiga Magento anda Langsung di gunakan untuk beberapa situs web, Anda harus mengkonfigurasi akun Payflow tautan terpisah untuk setiap situs web."";;;;",,,
+"Ignore,""Abaikan"";;;;",,,
+"Images,""Gambar"";;;;",,,
+"Images (.gif, .jpg, .png),""Gambar(.gif, .jpg, .png)"";;;;",,,
+"Images Cache,""Gambar Cache"";;;;",,,
+"Import,""Impor"";;;;",,,
+"Import / Export FAQ (Frequently Asked Questions),""Impor / Ekspor FAQ (Pertanyaan yang Sering Diajukan)"";;;;",,,
+"Import FAQ,""Impor FAQ"";;;;",,,
+"Import Service,""Impor Layanan"";;;;",,,
+"Import and Export,""Impor and Eksport"";;;;",,,
+"Import and Export Tax Rates,""Impor dan Ekspor Tarif Pajak"";;;;",,,
+"Import/Export,""Impor/Eksport"";;;;",,,
+"Import/Export Advanced,""Impor/Ekspor Lanjutan"";;;;",,,
+"Import/Export Profile,""Impor/Ekspor Profil"";;;;",,,
+"Important: ,""Penting: "";;;;",,,
+"Imported <strong>%s</strong> records,""Impor <kuat>%s</<kuat> rekam"";;;;",,,
+"In,""Di"";;;;",,,
+"In Database:,""Dalam Database:"";;;;",,,
+"In File:,""Dalam Berkas:"";;;;",,,
+"In Stock,""Dalam Stok"";;;;",,,
+"Inactive,""Tidak aktif"";;;;",,,
+"Inactive Tabs,""Tab tidak aktif"";;;;",,,
+"Incl. Tax,""Termasuk Pajak"";;;;",,,
+"Include,""Sertakan"";;;;",,,
+"Incoming Message,""Pesan Masuk"";;;;",,,
+"Individual Item,""Barang Satuan"";;;;",,,
+"Install,""Install"";;;;",,,
+"Install Package File,""Install paket berkas"";;;;",,,
+"Installed As,""Install Sebagai"";;;;",,,
+"Installed Extension Info,""Info Ekstensi yang Terinstall"";;;;",,,
+"Installed Version,""Versi yang Terinstall"";;;;",,,
+"Installing $pkg, please wait...,""Menginstall $pkg, harap tunggu..."";;;;",,,
+"Installing selected packages, please wait...,""Mengisntall paket yang dipilih, harap tunggu..."";;;;",,,
+"Instant Payment Notification (IPN),""Pemberitahuan Pembayaran Instan (IPN)"";;;;",,,
+"Interactive,""Interaktif"";;;;",,,
+"Interface Locale: %s,""Interface Lokal: %s"";;;;",,,
+"Invalid Form Key. Please refresh the page.,""Format Tombol tidak valid . Silahkan memperbarui halaman."";;;;",,,
+"Invalid Import Service Specified,""Impor Servis yang Dispesifikasikan tidak Valid"";;;;",,,
+"Invalid POST data (please check post_max_size and upload_max_filesize settings in you php.ini file),""POST data Tidak Valid(silakan cek post_max_ukuran dan unggah_max_ukuran berkas atur dalam php anda . Berkas ini)"";;;;",,,
+"Invalid Secret Key. Please refresh the page.,"" Tombol Rahasia Tidak Valid. Silahkan memperbarui halaman."";;;;",,,
+"Invalid Username or Password.,""Nama Pengguna Dan Kata Sandi Tidak Valid."";;;;",,,
+"Invalid directory: %s,""Direktori Tidak Valid: %s"";;;;",,,
+"Invalid email address ""%s"".,""Alamat Email Tidak Valid """"%s""""."";;;;",,,
+"Invalid file: %s,""Berkas Tidak Valid: %s"";;;;",,,
+"Invalid input data for %s => %s rate,""Input Data Tidak Valid Untuk %s => %s tingkat"";;;;",,,
+"Invalid parent block for this block,""Blok Induk Tidak Berlaku Untuk Blok ini"";;;;",,,
+"Invalid parent block for this block.,""Blok Induk Tidak Berlaku untuk Blok ini."";;;;",,,
+"Invalid sender name ""%s"". Please use only visible characters and spaces.,""Nama pengirim tidak valid """"% s """". Harap hanya menggunakan karakter yang terlihat dan spasi."";;;;",,,
+"Invalid timezone,""Zona waktu Tidak berlaku"";;;;",,,
+"Invalidated,""Tanggal Todak Berlaku"";;;;",,,
+"Inventory Stock Status,""Status Persediaan Stock"";;;;",,,
+"Invoice #%s comment added,""Komentar Faktur #%s telah ditambahkan"";;;;",,,
+"Invoice #%s created,""Faktur #%setelah dibuat"";;;;",,,
+"Invoice History,""Riwayat Faktur"";;;;",,,
+"Invoice Totals,""Total Invoice"";;;;",,,
+"Invoice and shipment was successfully created.,""Faktur dan pengiriman berhasil dibuat."";;;;",,,
+"Invoice cancel error.,""Pembatalan Faktur Galat."";;;;",,,
+"Invoice capture error,""Faktur Pengambilan Galat"";;;;",,,
+"Invoice void error,""Pembatalan Faktur Galat"";;;;",,,
+"Invoice was successfully canceled.,""Faktur berhasil dibatalkan."";;;;",,,
+"Invoice was successfully captured,""Faktur telah berhasil diambil"";;;;",,,
+"Invoice was successfully created.,""Faktur telah berhasil dibuat."";;;;",,,
+"Invoice was successfully voided,""Faktur telah berhasil dibatalkan"";;;;",,,
+"Issue Number,""Nomor penerbitan"";;;;",,,
+"Issuer: %s,""Penerbit: %s"";;;;",,,
+"Items,""Barang"";;;;",,,
+"Items to merge,""Barang - barang untuk di gabung"";;;;",,,
+"Kb,""Kb"";;;;",,,
+"Last 24 hours,""24 jam terakhir"";;;;",,,
+"Last 5 Orders,""5 pembelian terakhir"";;;;",,,
+"Last 5 Search Terms,""5 istilah pencarian terakhir"";;;;",,,
+"Last 7 days,""7 hari terakhir"";;;;",,,
+"Last Logged In (%s):,""Last Logged In (%s):"";;;;",,,
+"Last Logged In:,""Login terakhir di:"";;;;",,,
+"Last Month,""Bulan Kemarin"";;;;",,,
+"Last Name,""Nama Akhir"";;;;",,,
+"Last Name:,""Nama Akhir:"";;;;",,,
+"Lastname,""nama akhir"";;;;",,,
+"Latest Message:,""Pesan Terakhir:"";;;;",,,
+"Layered Navigation Indices,""Indek Navigasi Berlapis"";;;;",,,
+"Layered Navigation Indices was refreshed successfully,""Indek Navigasi Berlapis Telah Berhasil Diperbarui"";;;;",,,
+"Layered Navigation Indices were refreshed successfully,""Indek Navigasi Berlapis Telah Berhasil Diperbarui"";;;;",,,
+"Layered Navigation indexing queue cancelled,""Baris Pengindekan Navigasi Berlapis Dibatalkan"";;;;",,,
+"Layered Navigation indexing queued,""Baris Pengindekan Navigasi Berlapis"";;;;",,,
+"Layered Navigation process queued to be killed,""Proses Navigasi berlapis di deretkan untuk di tutup"";;;;",,,
+"Leave empty to use tax identifier,""Biarkan kosong untuk menggunakan pengenal pajak"";;;;",,,
+"Level,""Tingkatan"";;;;",,,
+"License,""Lisensi"";;;;",,,
+"License URI,""URL lisensi"";;;;",,,
+"License:,""Lisensi:"";;;;",,,
+"Lifetime Sales,""Penjualan Seumur Hidup"";;;;",,,
+"Links,""Tautan"";;;;",,,
+"List (default) / Grid,""Daftar (standar) / Kisi"";;;;",,,
+"List only,""Hanya Daftar"";;;;",,,
+"Load Template,""Masukan kerangka"";;;;",,,
+"Load default template,""Masukan Kerangka Standar"";;;;",,,
+"Loading Preview...,""Memuat Pratinjau..."";;;;",,,
+"Loading...,""Memuat..."";;;;",,,
+"Local Server,""Server Lokal"";;;;",,,
+"Local/Remote Server,""Local/Server Jarak jauh"";;;;",,,
+"Locale,""Lokal"";;;;",,,
+"Log In,""Masuk"";;;;",,,
+"Log Out,""Keluar"";;;;",,,
+"Log in to Admin Panel,""Masuk ke Admin Panel"";;;;",,,
+"Log into Magento Admin Page,""Masuk ke Halaman Admin Magento"";;;;",,,
+"Logged in as %s,""Masuk sebagai %s"";;;;",,,
+"Login,""Masuk"";;;;",,,
+"Low Stock,""Stok Rendah"";;;;",,,
+"MAJOR,""MAYOR"";;;;",,,
+"MINOR,""MINOR"";;;;",,,
+"MS Excel XML,""MS Excel XML"";;;;",,,
+"Magento Admin,""Admin Magento"";;;;",,,
+"Magento Commerce - Administrative Panel,""Magento Commerce - Panel Administrasi"";;;;",,,
+"Magento Connect,""Menghubungkan Magento"";;;;",,,
+"Magento Connect Manager,""Pengantur Penghubung Magento"";;;;",,,
+"Magento Logo,""Logo Magento"";;;;",,,
+"Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.,""Magento adalah merek dagang dari Irubin Consulting Inc. DBA Varien. Hak mengkopi &copy;"" %s Irubin Consulting Inc."""""";;;",,,
+"Magento ver. %s,""Magento ver. %s"";;;;",,,
+"Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.,""Magento&trade; adalah sebuah merk dagang dari Magento Inc.<br/>Copyright &copy;"" %s Magento Inc."""""";;",,,
+"Main Tabs,""Main Tabs"";;;;",,,
+"Make Inactive,""Membuat Todak aktif"";;;;",,,
+"Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).,""Pastikan bahwa pengkodean data pada berkas konsisten dan disimpan dalam satu pengkodean yang didukung (UTF-8 or ANSI)."";;;;",,,
+"Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.,""Pastikan Bahwa Anda mengkonfigurasikan pengaturan desain untuk bentuk Tautan Payflow di akun tautan Payflow Anda ."";;;;",,,
+"Manage Attribute Sets,""Kelola Set Atribut"";;;;",,,
+"Manage Attributes,""Kelola Atribut"";;;;",,,
+"Manage Categories,""Kelola Kategori"";;;;",,,
+"Manage Content,""Kelola Konten"";;;;",,,
+"Manage Currency Rates,""Kelola Kurs Valas"";;;;",,,
+"Manage Customers,""Kelola Pelanggan"";;;;",,,
+"Manage Ratings,""Kelola Rating"";;;;",,,
+"Manage Stores,""Kelola Toko"";;;;",,,
+"Manage osCommerce Orders,""Kelola order osCommerce"";;;;",,,
+"Manage osCommerce Profiles,""Kelola Profil osCommerce"";;;;",,,
+"Manual,""Manual"";;;;",,,
+"Matched Expression,""Ungkapan Sesuai"";;;;",,,
+"Max,""Max"";;;;",,,
+"Mb,""Mb"";;;;",,,
+"Media (.avi, .flv, .swf),""Media (.avi, .flv, .swf)"";;;;",,,
+"Media storages synchronization has completed!,""Singkronisasi Penyimpanan Media Telah Selesai"";;;;",,,
+"Messages Inbox,""Pesan Kotak Masuk"";;;;",,,
+"Min,""Min"";;;;",,,
+"Minimum,""Minimum"";;;;",,,
+"Module version conflict!,""Modul versi yang bertentangan!"";;;;",,,
+"Month,""Bulan"";;;;",,,
+"More Tabs,"" Tabs Lagi"";;;;",,,
+"Most Viewed,""Paling banyak dilihat"";;;;",,,
+"Most Viewed Products,""Produk Paling Banyak dilihat"";;;;",,,
+"Multiple Select,""Beberapa Pilihan"";;;;",,,
+"My Account,""Akun Saya"";;;;",,,
+"N/A,""N/A"";;;;",,,
+"NOTICE,""PEMBERITAHUAN"";;;;",,,
+"Name,""Nama"";;;;",,,
+"Name on Card,""Nama pada Kartu"";;;;",,,
+"Name on the Card: %s,""Nama pada Kartu: %s"";;;;",,,
+"Name:,""Nama:"";;;;",,,
+"New Accounts,""Akun Baru"";;;;",,,
+"New Api Key,""Kunci Api Baru"";;;;",,,
+"New Customers,""Pelanggan Baru"";;;;",,,
+"New Email Template,""Kerangka Email Baru"";;;;",,,
+"New Extension,""Extension Baru"";;;;",,,
+"New Item Type,""Jenis Barang Baru"";;;;",,,
+"New Password,""Kata Kunci Baru"";;;;",,,
+"New Profile,""Profil Baru"";;;;",,,
+"New Store View,""Store View Baru"";;;;",,,
+"New System Template,""Kerangka Sistem Baru"";;;;",,,
+"New Tag,""Tag Baru"";;;;",,,
+"New Template,""Kerangka Baru"";;;;",,,
+"New User,""Pengguna Baru"";;;;",,,
+"New Website,""Situs Baru"";;;;",,,
+"New admin password,""Kata kunci baru admin"";;;;",,,
+"Next month (hold for menu),""Bulan Depan (Tahan Untuk Menu)"";;;;",,,
+"Next page,""Halaman Selanjutnya"";;;;",,,
+"Next year (hold for menu),""Tahun Depan (Tahan Untuk Menu)"";;;;",,,
+"No,""Tidak"";;;;",,,
+"No (price without tax),""Tidak (harga belum termasuk Pajak)"";;;;",,,
+"No Data Found,""Tidak Ada Data Di Temukan"";;;;",,,
+"No Templates Found,""Tidak Ada Kerangka Di Temukan"";;;;",,,
+"No change,""Tidak Ada Perubahan"";;;;",,,
+"No customer id defined.,""Tidak ada ID konsumen yang Di definisikan."";;;;",,,
+"No information available.,""Tidak ada informasi yang tersedia."";;;;",,,
+"No profile loaded...,""Tidak ada profil yang dimasukan..."";;;;",,,
+"No records found for this period.,""Tidak ada rekam di temukan untuk periode ini."";;;;",,,
+"No records found.,""Tidak ada Rekam di temukan."";;;;",,,
+"No report code specified.,""Tidak Ada Laporan Kode Khusus."";;;;",,,
+"No search keywords.,""Tidak Ada Kata Kunci Pencarian."";;;;",,,
+"No search modules were registered,""Tidak Ada Modul Pencarian Yang terdaftar"";;;;",,,
+"No wishlist item id defined.,""Tidak Ada ID Barang yang Didefinisikan."";;;;",,,
+"None,""Tidak Ada"";;;;",,,
+"Note:,""Catatan:"";;;;",,,
+"Notes,""Catatan"";;;;",,,
+"Notifications,""Notifikasi"";;;;",,,
+"Number of Orders,""Jumlah pesanan"";;;;",,,
+"Number of Uses,""Jumlah penggunaan"";;;;",,,
+"Number of records:,""Jumlah catatan:"";;;;",,,
+"Old rate:,""Tarif Lama:"";;;;",,,
+"On my website,""Di Situs Jejaring Saya"";;;;",,,
+"Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below,""Setelah Anda login ke akun Payflow Tautan Anda, Arahkan ke Pengaturan Layanan - Diselenggarakan Halaman Keluar - Set Up menu dan mengatur pilihan dijelaskan di bawah "";;;;",,,
+"One or more media files failed to be synchronized during the media storages syncronization process. Refer to the log file for details.,""Satu atau lebih file media yang gagal untuk disinkronkan selama proses sinkronisasi penyimpanan media. Lihat file log untuk rincian ."";;;;",,,
+"One or more of the Cache Types are invalidated:,""Satu atau lebih dari Jenis Cache tidak Di validasi :"";;;;",,,
+"Online Customers,""Pelanggan Online"";;;;",,,
+"Only attributes with scope ""Global"", input type ""Dropdown"" and Use To Create Configurable Product ""Yes"" are available.,""Atribut Hanya Dengan Lingkup """"Global"""", Masukan tipe """"Dropdown"""" Dan Gunakan Untuk Membuat Produk Yang bisa Di Konfigurasi """"Ya"""" Tersedia."";;;;",,,
+"Only mapped fields,""Hanya memetakan bidang"";;;;",,,
+"Optional,""Opsional"";;;;",,,
+"Options,""Opsi"";;;;",,,
+"Options menu items,""Opsi Menu Barang -Barang"";;;;",,,
+"Order,""Pesanan"";;;;",,,
+"Order #%s,""Pesanan #%s"";;;;",,,
+"Order #%s (%s),""Pesanan #%s (%s)"";;;;",,,
+"Order Created Date,""Urutan Tanggal Dibuat"";;;;",,,
+"Order ID,""ID Pesanan"";;;;",,,
+"Order Totals,""Total Pesanan"";;;;",,,
+"Order Updated Date,""Tanggal Perbaruan Pesanan"";;;;",,,
+"Order Updated Date report is real-time, does not need statistics refreshing.,""Laporan Tanggal Perbaruan Pesanan Waktu Riil,Tidak Memerlukan perbaruan Statistik."";;;;",,,
+"Order cannot be placed.,""Pesanan Tidak Dapat Di timpa."";;;;",,,
+"Orders,""Pesanan"";;;;",,,
+"Original Magento attribute names in first row:,""Nama Atribut Magento Asli Berada Di Baris Pertama:"";;;;",,,
+"Out of stock,""Kehabisan Stok"";;;;",,,
+"PDT (Payment Data Transfer) Only,""PDT (Transfer Data Pembayaran) Hanya"";;;;",,,
+"Package,""Paket"";;;;",,,
+"Package Extensions,""Ektensi Paket"";;;;",,,
+"Packages,""Paket"";;;;",,,
+"Page,""Halaman"";;;;",,,
+"Pages,""Halaman"";;;;",,,
+"Parent Product Thumbnail,""Induk Produk Miniatur"";;;;",,,
+"Parent Transaction ID,""ID Transaksi induk"";;;;",,,
+"Passive mode,""mode pasif"";;;;",,,
+"Password,""Kata Sandi"";;;;",,,
+"Password Confirmation,""Konfirmasi Kata Sandi"";;;;",,,
+"Password confirmation must be same as password.,""Konfirmasi Kata Sandi Harus Sama Dengan Kata Sandi."";;;;",,,
+"Password must be at least of %d characters.,""Kata Sandi minimal Harus karakter% d."";;;;",,,
+"Password must include both numeric and alphabetic characters.,""Kata Sandi Harus Mencantumkan  Karakter numeric dan alphabetic ."";;;;",,,
+"Password:,""Kata Sandi:"";;;;",,,
+"Path,""Jalur"";;;;",,,
+"Path:,""Jalur:"";;;;",,,
+"PayPal Email,""Email PayPal"";;;;",,,
+"Payment Data Transfer (PDT),""Transfer Data Pembayaran (PDT)"";;;;",,,
+"Payment method must be specified,""Metode pembayaran harus dispesifikasikan"";;;;",,,
+"Pending Tags,""Tag tertunda"";;;;",,,
+"Pending installation...,""Pemasangan tertunda..."";;;;",,,
+"Per Item,""Per barang"";;;;",,,
+"Per Order,""Per Pembelian"";;;;",,,
+"Percent,""Persen"";;;;",,,
+"Performed At,""Dilakukan Pada"";;;;",,,
+"Period,""Periode"";;;;",,,
+"Permanent (301),""Permanen (301)"";;;;",,,
+"Permissions,""Otorisasi"";;;;",,,
+"Personal Information,""Informasi Pribadi"";;;;",,,
+"Phone:,""Telefon:"";;;;",,,
+"Please confirm site switching. All data that hasn't been saved will be lost.,""Harap konfirmasikan pergantian situs. Sema data yang tidak disimpan akan hilang."";;;;",,,
+"Please enter 6 or more characters.,""Harap masukkan 6 atau lebih karakter."";;;;",,,
+"Please enter a number greater than 0 in this field.,""Harap masukkan angka lebih besar dari 0 untuk field ini."";;;;",,,
+"Please enter a valid $ amount. For example $100.00.,""Harap masukkan jumlah $ dengan benar. Seperti $100.00."";;;;",,,
+"Please enter a valid URL. For example http://www.example.com or www.example.com,""Harap masukkan URL dengan benar. Seperti http://www.example.com atau www.example.com"";;;;",,,
+"Please enter a valid URL. http:// is required,""Harap masukkan URL dengan benar. Sertakan http:// "";;;;",,,
+"Please enter a valid credit card number.,""Harap masukkan nomer kartu kredit dengan benar."";;;;",,,
+"Please enter a valid date.,""Harap masukkan tanggal dengan benar."";;;;",,,
+"Please enter a valid email address. For example johndoe@domain.com.,""Harap masukkan alamat email dengan benar. Seperti johndoe@domain.com."";;;;",,,
+"Please enter a valid number in this field.,""Harap masukkan angka dengan benar untuk Bidang ini."";;;;",,,
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,""Harap masukkan nomer telefon dengan benar. Seperti (123) 456-7890 atau 123-456-7890."";;;;",,,
+"Please enter a valid social security number. For example 123-45-6789.,""Harap masukkan nomer keamaan sosial. Seperti 123-45-6789."";;;;",,,
+"Please enter a valid value from list,""Masukkan nilai yang valid dari daftar"";;;;",,,
+"Please enter a valid value, ex: 10,20,30,""Silakan Masukan Nilai yang Valid, Contoh: 10,20,30"";;;;",,,
+"Please enter a valid zip code.,""Silakan Masukan Kode Pos Yang Valid."";;;;",,,
+"Please enter a valid zip code. For example 90602 or 90602-1234.,""Silakan Masukan Kode Pos Yang Valid.SebagaiContoh 90602 Atau 90602-1234."";;;;",,,
+"Please enter another credit card number to complete your purchase.,""Silakan Masukan Nomor Kartu Kredit Yang Lain Untuk Pembelian Anda."";;;;",,,
+"Please enter valid password.,""Silakan Masukan Kata Sandi Yang Valid."";;;;",,,
+"Please make sure that all global admin search modules are installed and activated.,""Harap pastikan bahwa semua modul admin secara global pencarian diinstal dan diaktifkan ."";;;;",,,
+"Please make sure that your changes were saved before running the profile.,""Pastikan bahwa perubahan Anda telah disimpan sebelum menjalankan profil tersebut."";;;;",,,
+"Please make sure your passwords match.,""Mohon Pastikan Kata Sandi Anda Cocok."";;;;",,,
+"Please select State/Province.,""Silakan pilih Negara Bagian / Provinsi."";;;;",,,
+"Please select a customer.,""Silakan pilih pelanggan."";;;;",,,
+"Please select a store.,""Silkana Pilih Toko."";;;;",,,
+"Please select an option.,""Silkan Pilih Opsi."";;;;",,,
+"Please select catalog searches.,""Silkan Pilih Pencarian Katalog."";;;;",,,
+"Please select customer(s).,""Silakan Pilih Pelanggan."";;;;",,,
+"Please select message(s).,""Silakan Pilih Pesan."";;;;",,,
+"Please select one of the above options.,""Silakan Pilih Salah Satu Dari Opsi Diatas."";;;;",,,
+"Please select one of the options.,""Silakan Pilih Salah Satu Opsi."";;;;",,,
+"Please select review(s).,""Silakan Pilih Tinjauan."";;;;",,,
+"Please select tag(s).,""Silakan Pilih Tag."";;;;",,,
+"Please specify at least start or end date.,""Silakan tentukan setidaknya mulai atau tanggal akhir."";;;;",,,
+"Please specify the admin custom URL.,""Silakan tentukan URL khusus admin."";;;;",,,
+"Please try to logout and sign in again.,""Silakan coba untuk keluar dan masuk lagi."";;;;",,,
+"Please use in this field only ""a-z,0-9,_"".,""Silakan gunakan di bidang ini hanya """" a-z,0-9, _""""."";;;;",,,
+"Please use letters only (a-z) in this field.,""Mohon Gunakan Hanya Hurup (a-z) Pada Bidang Ini."";;;;",,,
+"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.,""Silakan menggunakan penomoran hanya dalam bidang ini. Harap menghindari spasi atau karakter lain seperti titik atau koma."";;;;",,,
+"Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.,""Silakan gunakan hanya huruf (az) atau angka (0-9) hanya dalam bidang ini. Tidak ada spasi atau karakter lain yang diperbolehkan."";;;;",,,
+"Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.,""Silakan gunakan hanya huruf (az) atau angka (0-9) atau ruang dan # hanya di bidang ini ."";;;;",,,
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.,""Silakan Gunakan Format Tanggal ini: dd/mm/yyyy. Sebagai Contoh 17/03/2006 for the 17th of March, 2006."";;;;",,,
+"Please wait while the indexes are being refreshed.,""Silahkan tunggu ketika indeks sedang diperbarui."";;;;",,,
+"Please wait, loading...,""Mohon Tunggu, Memuat..."";;;;",,,
+"Please wait...,""Mohon Tunggu..."";;;;",,,
+"Please, add some answers to this poll first.,""Mohon, Beberapa Jawaban Pada Polling ini Terlebih dahulu."";;;;",,,
+"Please, select ""Visible in Stores"" for this poll first.,""Silakan, pilih """" Terlihat di Toko """" untuk polling ini terlebih dahulu."";;;;",,,
+"Poll Manager,""Pengelola Polling"";;;;",,,
+"Polls,""Polling"";;;;",,,
+"Popular,""Populer"";;;;",,,
+"Position of Watermark for %s,""Posisi Tanda Air untuk% s"";;;;",,,
+"Pregenerated product images files.,""Berkas Gambar Produk Sebelum di Hasilkan."";;;;",,,
+"Preset Theme,""Tema Yang telah Di Tetapkan"";;;;",,,
+"Prev. month (hold for menu),""Bulan Sebelum nya (Tahan Untuk menu)"";;;;",,,
+"Prev. year (hold for menu),""Tahun Sebelumnya (Tahan Untuk menu)"";;;;",,,
+"Preview,""Tinjauan"";;;;",,,
+"Preview Template,""Tinjauan Kerangka"";;;;",,,
+"Previous page,""Halaman sebelumnya"";;;;",,,
+"Price,""Harga"";;;;",,,
+"Price alert subscription was saved.,""Harga Tanda berlangganan berhasil disimpan."";;;;",,,
+"Price:,""Harga:"";;;;",,,
+"Processed <strong>%s%% %s/%d</strong> records,""Olahan <strong>% s%%% s /% d </ strong> catatan"";;;;",,,
+"Product,""Produk"";;;;",,,
+"Product Name3 ,""Nama Produk3 "";;;;",,,
+"Product Name3 1,""Nama Produk3 1"";;;;",,,
+"Product Name3 2,""Nama Produk3 2"";;;;",,,
+"Product Reviews,""Tinjauan Produk"";;;;",,,
+"Product Thumbnail Itself,""Gambar kecil Produk itu Sendiri"";;;;",,,
+"Product is not loaded.,""Produk tidak di masukan."";;;;",,,
+"Product:,""Produk:"";;;;",,,
+"Products,""Produk"";;;;",,,
+"Profile Action,""Aksi Profil"";;;;",,,
+"Profile Actions XML,""Aksi Profile XML"";;;;",,,
+"Profile Direction,""Arahan Profil"";;;;",,,
+"Profile History,""Riwayat Profil"";;;;",,,
+"Profile Information,""Informasi Paket"";;;;",,,
+"Profile Name,""Profil Nama"";;;;",,,
+"Profile Wizard,""Wizard Profil"";;;;",,,
+"Profile was deleted,""Profil telah dihapus"";;;;",,,
+"Profile was successfully saved,""Profil telah disimpan"";;;;",,,
+"Profiles,""Profil"";;;;",,,
+"Promo,""Promo"";;;;",,,
+"Promotions,""Promosi"";;;;",,,
+"Provided Files,""Berkas Tersedia"";;;;",,,
+"Qty,""Qty"";;;;",,,
+"Qty:,""Qty:"";;;;",,,
+"Quantity,""Kuantitas"";;;;",,,
+"Queue Refresh,""Perbarui Deret"";;;;",,,
+"Queued... Cancel,""Deretkan…Batal"";;;;",,,
+"Radio Buttons,""Tombol Radio"";;;;",,,
+"Rates,""Kurs"";;;;",,,
+"Rating was successfully deleted,""Rating telah berhasil dihapus"";;;;",,,
+"Rating was successfully saved,""Rating telah berhasil disimpan"";;;;",,,
+"Read details,""Detail Baca"";;;;",,,
+"Rebuild,""Membangun Ulang"";;;;",,,
+"Rebuild Flat Catalog Category,""Membangun ulang Kategori Katalog Datar"";;;;",,,
+"Rebuild Flat Catalog Product,""Membangun ulang produk Katalog Datar"";;;;",,,
+"Recent Orders,""Pembelian Terbaru"";;;;",,,
+"Recommended,""Rekomendasi"";;;;",,,
+"Recursive Dir,""Rekursif Dir"";;;;",,,
+"Redirect,""mengarahkan ulang"";;;;",,,
+"Refresh,""Perbarui"";;;;",,,
+"Refresh Now*,""Perbarui Sekarang*"";;;;",,,
+"Refresh Statistics,""Perbarui Statistik"";;;;",,,
+"Region/State,""Daerah / Negara"";;;;",,,
+"Regular Price:,""Harga Reguler:"";;;;",,,
+"Release,""Rilis"";;;;",,,
+"Release Stability,""Rilis Stabilitas"";;;;",,,
+"Release Version,""Rilis Versi"";;;;",,,
+"Remote FTP,""FTP Jauh"";;;;",,,
+"Remote URL:,""Remote URL:"";;;;",,,
+"Remove,""Buang"";;;;",,,
+"Reports,""Laporkan"";;;;",,,
+"Request Path,""Meminta Jalur"";;;;",,,
+"Required,""Dibutuhkan"";;;;",,,
+"Required settings,""Dibutuhkan Pengaturan"";;;;",,,
+"Reset,""Set Ulang"";;;;",,,
+"Reset Filter,""Set Ulang Filter"";;;;",,,
+"Reset theme to default,""Set Ulang Tema Ke Standar"";;;;",,,
+"Resize,""Pengukuran Ulang"";;;;",,,
+"Resource Access,""Akses Sumberdaya"";;;;",,,
+"Resources,""Sumberdaya"";;;;",,,
+"Results,""Hasil"";;;;",,,
+"Retrieve Password,""Pengambilan Kata Sandi"";;;;",,,
+"Return Html Version,""Kembali Ke Versi Html"";;;;",,,
+"Return URL: ,""Kembali URL: "";;;;",,,
+"Revenue,""Pendapatan"";;;;",,,
+"Role,""Peran"";;;;",,,
+"Role ID,""ID Peran"";;;;",,,
+"Role Info,""Info Peran"";;;;",,,
+"Role Information,""Informasi Peran"";;;;",,,
+"Role Name,""Nama Peran"";;;;",,,
+"Role Resources,""Cakupan Sumberdaya"";;;;",,,
+"Role Users,""Cakupan Pengguna"";;;;",,,
+"Role successfully deleted.,""Peran berhasil dihapus."";;;;",,,
+"Role successfully saved.,""Peran berhasil disimpan."";;;;",,,
+"Roles,""Peran"";;;;",,,
+"Roles Resources,""Peran Sumberdaya"";;;;",,,
+"Rotate CCW,""Putar CCW"";;;;",,,
+"Rotate CW,""Putar CW"";;;;",,,
+"Run,""Jalankan"";;;;",,,
+"Run Profile,""Jalankan Profile"";;;;",,,
+"Run Profile In Popup,""Jalankan Profil di Popup"";;;;",,,
+"Run Profile Inside This Window,""Jalankan Profil dalam Jendela Ini"";;;;",,,
+"Run in popup,""Janlankan di Popup"";;;;",,,
+"Running... Kill,""Jalankan... Tutup"";;;;",,,
+"Running:,""Berjalan:"";;;;",,,
+"SKU,""SKU"";;;;",,,
+"SKU:,""SKU:"";;;;",,,
+"SORT BY:,""Urutkan Berdasarkan:"";;;;",,,
+"SSL Error: Invalid or self-signed certificate,""SSL Galat: Tidak Valid Atau Berdiri Sendiri menandai Sertifikat"";;;;",,,
+"Sales Report,""Laporan Penjualan"";;;;",,,
+"Samples,""Contoh"";;;;",,,
+"Save,""Simpan"";;;;",,,
+"Save & Generate,""Simpan & Hasilkan"";;;;",,,
+"Save Account,""Simpan Akun"";;;;",,,
+"Save Cache Settings,""Simpan Pengaturan Cache"";;;;",,,
+"Save Config,""Simpan Konfigurasi"";;;;",,,
+"Save Currency Rates,""Simpan Kurs Valas"";;;;",,,
+"Save Profile,""Simpan Profil"";;;;",,,
+"Save Role,""Simpan Tugas"";;;;",,,
+"Save Template,""Simpan Kerangka"";;;;",,,
+"Save Theme,""Simpan Tema"";;;;",,,
+"Save User,""Simpan Pengguna"";;;;",,,
+"Save and Continue Edit,""Simpan dan Tetap Edit"";;;;",,,
+"Screens:,""Layar:"";;;;",,,
+"Search,""Cari"";;;;",,,
+"Search Index,""Cari Indeks"";;;;",,,
+"Search Term,""istilah pencarian"";;;;",,,
+"Search Terms,""Cari Istilah"";;;;",,,
+"Select,""Pilih"";;;;",,,
+"Select All,""Pilih Semua"";;;;",,,
+"Select Category,""Pilih Kategori"";;;;",,,
+"Select Date,""Pilih Tanggal"";;;;",,,
+"Select Range,""Pilih Rentang"";;;;",,,
+"Select Visible,""Pilih Tampak"";;;;",,,
+"Select date,""Pilih tanggal"";;;;",,,
+"Selected allowed currency ""%s"" is not available in installed currencies.,""Mata uang Terpilih diperbolehkan """"%s"""" tidak tersedia dalam mata uang diinstal."";;;;",,,
+"Selected base currency is not available in installed currencies.,""Mata uang dasar yang dipilih tidak tersedia dalam mata uang Yang diinstal."";;;;",,,
+"Selected default display currency is not available in allowed currencies.,""Mata uang terpilih standar tampilan tidak tersedia dalam mata uang diperbolehkan."";;;;",,,
+"Selected default display currency is not available in installed currencies.,""Mata uang terpilih standar tampilan tidak tersedia dalam mata uang diperbolehkan."";;;;",,,
+"Self-assigned roles cannot be deleted.,""Peran Yang Di tandai-sendiri tidak dapat Di Hapus."";;;;",,,
+"Sender,""Pengirim"";;;;",,,
+"Separate Email,""Email Terpisah"";;;;",,,
+"Shipment #%s comment added,""Pengiriman #%s Komen Di tambahkan"";;;;",,,
+"Shipment #%s created,""Pengiriman #%s Dibuat"";;;;",,,
+"Shipment Comments,""Komen Pengiriman"";;;;",,,
+"Shipment History,""Riwayat Pengiriman"";;;;",,,
+"Shipments,""Pengiriman"";;;;",,,
+"Shipping,""Pengiriman"";;;;",,,
+"Shipping Address,""Alamat Pengiriman"";;;;",,,
+"Shipping Address: ,""Alamat Pengiriman: "";;;;",,,
+"Shipping Origin,""Asal Pengiriman"";;;;",,,
+"Shipping Price,""Harga Pengiriman"";;;;",,,
+"Shipping address selection is not applicable,""Pemilihan Alamat Pengirim Tidak Berlaku"";;;;",,,
+"Shipping method must be specified,""Metode pengiriman harus dispesifikasikan"";;;;",,,
+"Shipping method selection is not applicable,""Pemilihan Metode Pengirim Tidak Berlaku"";;;;",,,
+"Shopping Cart,""Troli"";;;;",,,
+"Shopping Cart Price Rules,""Aturan Harga Keranjang Belanja"";;;;",,,
+"Shopping Cart from %s,""Keranjang Belanja Dari %s"";;;;",,,
+"Show By,""Lihat"";;;;",,,
+"Show Report For,""Perlihatkan Laporan Untuk"";;;;",,,
+"Show Reviews,""Perlihatkan Tinjauan"";;;;",,,
+"Show confirmation page: ,""Perlihatkan Halaman Konfirmasi: "";;;;",,,
+"Silent Post URL:,""Post URL Diam:"";;;;",,,
+"Sitemap Information,""Peta Situs Informasi"";;;;",,,
+"Size for %s,""Ukuran Untuk %s"";;;;",,,
+"Skip Category Selection,""Lewati Pilihan Kategori"";;;;",,,
+"Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.,""Beberapa Barang Dalam Pesanan ini Mempunyai Faktur berbeda dan Tipe Pengiriman. Anda Hanya Dapat Membuat Pengiriman Setelah Faktur Dibuat."";;;;",,,
+"Some of the ordered items do not exist in the catalog anymore and will be removed if you try to edit the order.,""Beberapa Barang Yang Telah di Pesan yang Tidak ada lagi Dalam Katalog dan akan Di Hilangkan Jikan Anda mencoba Untuk merubah pesanan."";;;;",,,
+"Some other FAQ,""Beberapa Pertanyaan lain Yang Sering Di lontarkan"";;;;",,,
+"Sorry, this feature is coming soon...,""Maaf, Fitur ini akan segera ada..."";;;;",,,
+"Sort Order,""Jenis Pesanan"";;;;",,,
+"Special Price:,""Harga Spesial:"";;;;",,,
+"Specific Countries,""Negara - negara khusus"";;;;",,,
+"Specified,""Spesifik"";;;;",,,
+"Specified profile does not exist.,""Spesifik Profil tidak ada."";;;;",,,
+"Spreadsheet Name:,""Nama Spreadsheet:"";;;;",,,
+"Start Date,""Tanggal Awal"";;;;",,,
+"Start/Reset Validation...,""Mulai/Set Ulang Validasi..."";;;;",,,
+"Starting profile execution, please wait...,""Memulai Eksekusi Profil, Silakan Tunggu..."";;;;",,,
+"State/Province:,""Negara/Provinsi:"";;;;",,,
+"Static Blocks,""Blok Statis"";;;;",,,
+"Status,""Status"";;;;",,,
+"Status:,""Status:"";;;;",,,
+"Stock Quantity:,""Kuantitas Stok:"";;;;",,,
+"Stock notification was saved successfully,""Notifikasi stok berhasil disimpan"";;;;",,,
+"Store,""Toko"";;;;",,,
+"Store Email Addresses Section,""Bagian Alamat Email Toko"";;;;",,,
+"Store View,""Tinjauan Toko"";;;;",,,
+"Store:,""Toko:"";;;;",,,
+"Store: ,""Toko: "";;;;",,,
+"Subject,""Subyek"";;;;",,,
+"Submit,""Kirim"";;;;",,,
+"Subpackage,""Subpaket"";;;;",,,
+"Subpackage can't be conflicting,""Subpaket tidak bertentangan"";;;;",,,
+"Subpackages,""Subpaket"";;;;",,,
+"Subtotal,""Subtotal"";;;;",,,
+"Subtotal Amount,""Nilai Subtotal"";;;;",,,
+"Summary,""Ringkasan"";;;;",,,
+"Summary:,""Ringkasan:"";;;;",,,
+"Switch/Solo Only,""Ubah/Hanya Tunggal"";;;;",,,
+"Switch/Solo card issue number: %s,""Ubah/Nomor Penerbit Kartu Tunggal: %s"";;;;",,,
+"Switch/Solo card start Date: %s/%s,""Ubah/Tanggal Awal Kartu Tunggal: %s/%s"";;;;",,,
+"Switch/Solo/Maestro Only,""Ubah/Tunggal/Hanya Maestro"";;;;",,,
+"Switch/Solo/Maestro(UK Domestic) Only,""Ubah/Tunggal/Hanya Maestro(UK Domestic)"";;;;",,,
+"Switch/Solo/Maestro(UK Domestic) card issue number: %s,""Ubah/Tunggal/Maestro(UK Domestic) Nomor Penerbitan Kartu: %s"";;;;",,,
+"Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s,""Ubah/Tunggal/Maestro(UK Domestic) Tanggal Awal Kartu: %s/%s"";;;;",,,
+"Synchronization is required.,""Dibutuhkan Sinkronisasi."";;;;",,,
+"Synchronization of media storages has been successfully completed.,""Sinkronisasi Media Penyimpanan Telah Berhasil di Lengkapi."";;;;",,,
+"Synchronize,""Sinkronisasi"";;;;",,,
+"Synchronizing %s to %s,""Sinkronisasi %s to %s"";;;;",,,
+"Synchronizing...,""Sinkronisasi..."";;;;",,,
+"System,""Sistem"";;;;",,,
+"System Section,""Bagian Sistem"";;;;",,,
+"System busy,""Sistem sibuk"";;;;",,,
+"T-Shirts,""T-Shirt"";;;;",,,
+"Tags,""Tag"";;;;",,,
+"Target,""Target"";;;;",,,
+"Target Path,""Target jalur"";;;;",,,
+"Tax,""Pajak"";;;;",,,
+"Tb,""Tb"";;;;",,,
+"Tell a Friend,""Berbagi ke Teman"";;;;",,,
+"Template,""Kerangka"";;;;",,,
+"Template Content,""Konten Kerangka"";;;;",,,
+"Template Information,""Informasi Kerangka"";;;;",,,
+"Template Name,""Nama Kerangka"";;;;",,,
+"Template Subject,""Subyek Kerangka"";;;;",,,
+"Template Type,""Tipe Kerangka"";;;;",,,
+"Temporary (302),""Sementara (302)"";;;;",,,
+"Text,""Teks"";;;;",,,
+"The archive can be uncompressed with <a href=""%s"">%s</a> on Windows systems,""Arsip dapat terkompresi dengan <a href=""""%s"""">% s </ a> pada Sistem Windows"";;;;",,,
+"The attribute set has been removed.,""Set Atribut Telah Dihilangkan."";;;;",,,
+"The backup has been created.,""Cadangan Telah di buat."";;;;",,,
+"The billing agreement has been canceled.,""Perjanjian penagihan telah dibatalkan."";;;;",,,
+"The billing agreement has been deleted.,""Perjanjian penagihan telah di Hapus."";;;;",,,
+"The cache storage has been flushed.,""Penyimpanan Cache Telah Dialiri."";;;;",,,
+"The card has failed verification with the issuer bank.,""Kartu Gagal di verifikasi oleh Bank penerbit."";;;;",,,
+"The carrier needs to be specified.,""Pembawa harus ditentukan."";;;;",,,
+"The catalog index has been rebuilt.,""Indek Katalog Telah dibuat Ulang."";;;;",,,
+"The catalog rewrites have been refreshed.,""Penulisan Ulang Katalog Telah di Perbaharui."";;;;",,,
+"The configuration has been saved.,""Konfigurasi Telah Di simpan."";;;;",,,
+"The credit memo has been canceled.,""Memo kredit Telah di Batalkan."";;;;",,,
+"The credit memo has been created.,""Memo Kredit Telah di buat."";;;;",,,
+"The credit memo has been voided.,""Memo Kredit telah di batalkan."";;;;",,,
+"The custom variable has been deleted.,""Variabel Khusus Telah di hapus."";;;;",,,
+"The custom variable has been saved.,""Variabel Khusus Telah di Simpan."";;;;",,,
+"The customer has been deleted.,""Pelanggan Telah di Hapus."";;;;",,,
+"The customer has been saved.,""Pelanggan Telah di Simpan."";;;;",,,
+"The design change has been deleted.,""Perubahan Desain Telah di Hapus."";;;;",,,
+"The design change has been saved.,""Perubahan Desain Telah di Simpan."";;;;",,,
+"The email address is empty.,""Alamat email kosong."";;;;",,,
+"The email template has been deleted.,""Kerangka email telah di hapus."";;;;",,,
+"The email template has been saved.,""Kerangka email telah di simpan."";;;;",,,
+"The flat catalog category has been rebuilt.,""Kategori katalog datar telah di bangun ulang."";;;;",,,
+"The group node name must be specified with field node name.,""Nama simpul kelompok harus ditentukan dengan nama bidang simpul."";;;;",,,
+"The image cache was cleaned.,""Gambar cache telah di bersihkan."";;;;",,,
+"The image cache was cleared.,""Gambar cache telah di bersihkan."";;;;",,,
+"The information in this tab has been changed.,""Informasi pada Tab ini telah di rubah."";;;;",,,
+"The invoice and shipment have been created.,""Faktur dan pengiriman telah di buat."";;;;",,,
+"The invoice has been canceled.,""Faktur telah di batalkan."";;;;",,,
+"The invoice has been captured.,""Faktur telah diambil."";;;;",,,
+"The invoice has been created.,""Faktur telah di buat."";;;;",,,
+"The invoice has been voided.,""Faktur telah di batalkan."";;;;",,,
+"The invoice no longer exists.,""Faktur tidak ada lagi."";;;;",,,
+"The order does not allow creating an invoice.,""Pesanan tidak dapat di buat dalam faktur."";;;;",,,
+"The order no longer exists.,""Pesanan tidak ada lagi."";;;;",,,
+"The poll has been deleted.,""Poling telah di hapus."";;;;",,,
+"The poll has been saved.,""Poling telah di simpan."";;;;",,,
+"The profile has been deleted.,""Profil telah di hapus."";;;;",,,
+"The profile has been saved.,""Profil telah di simpan."";;;;",,,
+"The profile has been updated.,""Profil telah di perbarui."";;;;",,,
+"The profile has no changes.,""Profil tidak ada perubahan."";;;;",,,
+"The profile you are trying to save no longer exists,""Profil yang Anda coba untuk simpan tidak asa lagi"";;;;",,,
+"The rating has been deleted.,""Peringkat telah dihapus."";;;;",,,
+"The rating has been saved.,""Peringkat telah di simpan."";;;;",,,
+"The role has been deleted.,""Peran telah di hapus."";;;;",,,
+"The role has been saved.,""Peran telah di simpan."";;;;",,,
+"The role has been successfully saved.,""The role has been successfully saved."";;;;",,,
+"The search index has been rebuilt.,""Indek pencarian telah dibuat ulang."";;;;",,,
+"The shipment has been created.,""Pengiriman telah dibuat."";;;;",,,
+"The shipment has been sent.,""Pengiriman telah dikirim."";;;;",,,
+"The tag has been deleted.,""Tag telah di hapus."";;;;",,,
+"The tag has been saved.,""Tag telah di simpan."";;;;",,,
+"The user has been deleted.,""Pengguna telah di hapus."";;;;",,,
+"The user has been saved.,""Pengguna telah di simpan."";;;;",,,
+"Theme configurations are successfully reset.,""Konfigurasi Tema telah berhasil di set ulang."";;;;",,,
+"Themes JavaScript and CSS files combined to one file.,""Tema JavaScript dan berkas CSS di kombinasikan kedalam satu berkas."";;;;",,,
+"There has been wrong payment information submitted or time limit has expired. Please, try again.,""Ada kesalahan pembayaran di sampaikan atau batas waktu telah berakhir.Silakan, coba lagi."";;;;",,,
+"There is an error in one of the option rows.,""Ada Galat pada salah satu pilihan baris."";;;;",,,
+"This Account is,""Akun ini adalah"";;;;",,,
+"This Email template no longer exists.,""Kerangka Email ini tidak ada."";;;;",,,
+"This Role no longer exists,""Peran ini tidak ada"";;;;",,,
+"This Role no longer exists.,""Peran ini tidak ada."";;;;",,,
+"This account is,""Akun ini adalah"";;;;",,,
+"This account is inactive.,""Akun ini tidak aktif."";;;;",,,
+"This attribute set don't have attributes which we can use for configurable product,""Atribut set ini tidak memiliki atribut yang dapat digunakan pada produk yang bisa dikonfigurasikan"";;;;",,,
+"This attribute shares the same value in all the stores,""Atribut ini berbagi nilai yang sama pada semua toko"";;;;",,,
+"This is a required field.,""Bidang ini dibutuhkan."";;;;",,,
+"This product is currently disabled,""produk ini sekarang tidak ada"";;;;",,,
+"This section is not allowed.,""Bagian ini tidak di ijinkan."";;;;",,,
+"This tab contains invalid data. Please solve the problem before saving.,""Tab ini mengandung data yang salah. Harap perbaiki sebelum disimpan"";;;;",,,
+"This user no longer exists,""Pemaikai sudah tidak ada lagi"";;;;",,,
+"Thumbnail,""Gambar kecil"";;;;",,,
+"Time,""Waktu"";;;;",,,
+"Time selection:,""Pilihan waktu:"";;;;",,,
+"Time:,""Waktu:"";;;;",,,
+"Timeout limit for response from synchronize process was reached.,""Batas waktu habis untuk tanggapan dari proses sinkronisasi dicapai."";;;;",,,
+"Title bar,""Bar judul"";;;;",,,
+"To,""Ke"";;;;",,,
+"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.,""Untuk membatalkan otorisasi tertunda dan melepaskan sejumlah yang telah diproses selama pembayaran ini, klik Cancel ."";;;;",,,
+"To use Payflow Link, you must configure your Payflow Link account on the Paypal website.,""Untuk menggunakan tautan payflow, Anda harus mengkonfigurasi akun tautan payflow Anda pada situs PayPal."";;;;",,,
+"Toggle Editor,""Toggle Editor"";;;;",,,
+"Tools,""Peralatan"";;;;",,,
+"Top 5 Search Terms,""5 Istilah Pencarian Teratas"";;;;",,,
+"Total,""Total"";;;;",,,
+"Total %d records found,""Total %d Catatan di temukan"";;;;",,,
+"Total Invoiced,""Total faktur"";;;;",,,
+"Total Order Amount,""Jumlah Pesanan Total"";;;;",,,
+"Total Refunded,""Total Pengembalian"";;;;",,,
+"Total of %d record(s) have been deleted.,""Total dari %d catatan(s) telah di hapus."";;;;",,,
+"Total of %d record(s) have been updated.,""Total dari %d rekam(s) telah di perbarui."";;;;",,,
+"Total of %d record(s) were canceled.,""Total dari %d catatan(s) di batalkan."";;;;",,,
+"Track Order,""Lacak Pesanan"";;;;",,,
+"Track this shipment,""Lacak pengiriman ini"";;;;",,,
+"Tracking number %s for %s assigned,""Nomor Pelacakan %s untuk%s di tandai"";;;;",,,
+"Tracking number cannot be empty.,""Nomor pelacakan tidak bisa kosong."";;;;",,,
+"Transaction Data,""Data Transaksi"";;;;",,,
+"Transaction Details,""Detail Transaksi"";;;;",,,
+"Transaction ID,""ID transaksi"";;;;",,,
+"Transaction Type,""Jenis Transaksi"";;;;",,,
+"Transactional Emails,""Email Transaksi"";;;;",,,
+"Transactions,""Transaksi"";;;;",,,
+"Try Magento Go for Free,""Coba Magento silakan untuk gratis"";;;;",,,
+"Type,""Jenis"";;;;",,,
+"Type:,""Jenis:"";;;;",,,
+"URL Rewrite,""Tulis Ulang URL"";;;;",,,
+"URL Rewrite Information,""Informasi Tulis Ulang URL"";;;;",,,
+"URL Rewrite Management,""Pengelolaan Tulis Ulang URL"";;;;",,,
+"Unable to cancel the credit memo.,""tidak bisa membatalkan memo kredit."";;;;",,,
+"Unable to find a Email Template to delete.,""Tidak bisa menemukan kerangka sebuah Email untuk di hapus."";;;;",,,
+"Unable to find a poll to delete.,""Tidak bisa menemukan sebuah poling untuk di hapus."";;;;",,,
+"Unable to find a tag to delete.,""Tidak bisa menemukan sebuah tag untuk dihapus."";;;;",,,
+"Unable to find a user to delete.,""Tidak bisa menemukan pengguna untuk di hapus."";;;;",,,
+"Unable to initialize import model,""Tidak dapat menginisialisasi model impor"";;;;",,,
+"Unable to refresh lifetime statistics.,""Tidak dapat memperbarui statistik masa pakai."";;;;",,,
+"Unable to refresh recent statistics.,""tidak dapat memperbarui statistik saat ini."";;;;",,,
+"Unable to save the cron expression.,""Tidak dapat menyimpan ekspresi cron."";;;;",,,
+"Unable to save the invoice.,""Tidak dapat menyimpan Faktur."";;;;",,,
+"Unable to send the invoice email.,""Tidak dapat mengirim faktur email."";;;;",,,
+"Unable to send the shipment email.,""Tidak dapat mengirim email pengiriman."";;;;",,,
+"Unable to void the credit memo.,""Tidak dapat membatalkan memo kredit."";;;;",,,
+"Unknown,""tidak di ketahui"";;;;",,,
+"Unknown Error,""Galat tidak di ketahui"";;;;",,,
+"Unknown Error.,""Galat tidak di ketahui."";;;;",,,
+"Unlimited,""Tidak terbatas"";;;;",,,
+"Unselect All,""semua tidak di pilih"";;;;",,,
+"Unselect Visible,""Terlihat di batalkan"";;;;",,,
+"Update,""Perbarui"";;;;",,,
+"Update Preview,""Tinjauan Perbaruan"";;;;",,,
+"Updated At,""Perbarui Di"";;;;",,,
+"Upload File,""Unggah berkas"";;;;",,,
+"Upload Files,""Unggah berkas"";;;;",,,
+"Upload HTTP Error,""Mengunggah HTTP Galat"";;;;",,,
+"Upload I/O Error,""Unggah I/O Galat"";;;;",,,
+"Upload Local File,""Unggah Berkas Lokal"";;;;",,,
+"Upload Security Error,""Unggah Keamanan Galat"";;;;",,,
+"Upload and Install,""Unggah dan Install"";;;;",,,
+"Upload import file,""Unggah berkas impor"";;;;",,,
+"Upload local file:,""Unggah Berkas Lokal:"";;;;",,,
+"Url Rewrite Management,""Pengelolaan Tulis Ulang URL"";;;;",,,
+"Urlrewrite Information,""Informasi Tulis ulang url"";;;;",,,
+"Use Config Settings,""Gunakan Pengaturan Konfigurasi"";;;;",,,
+"Use Default,""Gunakan Standar"";;;;",,,
+"Use Default Value,""gunakan Nilai Standar"";;;;",,,
+"Use Default Variable Values,""Gunakan standar Nilai Variabel"";;;;",,,
+"Use Silent Post:,""Menggunakan Post Diam:"";;;;",,,
+"Use Website,""Gunakan Situs"";;;;",,,
+"Used Currently For,""Saat Digunakan untuk"";;;;",,,
+"Used as Default For,""Digunakan sebagai Standar Untuk"";;;;",,,
+"User,""Pengguna"";;;;",,,
+"User Email,""Pengguna Email"";;;;",,,
+"User ID,""ID Pengguna"";;;;",,,
+"User Info,""Info Pengguna"";;;;",,,
+"User Information,""Informasi Pengguna"";;;;",,,
+"User Name,""Nama pengguna"";;;;",,,
+"User Name is required field.,""Nama pengguna Dibutuhkan Bidang."";;;;",,,
+"User Name:,""Nama pengguna:"";;;;",,,
+"User Role,""Peran Pengguna"";;;;",,,
+"User Roles,""Peran Pengguna"";;;;",,,
+"User Roles Information,""Informasi Peran Pengguna"";;;;",,,
+"User name,""Nama Pengguna"";;;;",,,
+"Users,""Pengguna"";;;;",,,
+"Validation Results,""Hasil Validasi"";;;;",,,
+"Value,""Nilai"";;;;",,,
+"Value Delimiter:,""Nilai Pembatas:"";;;;",,,
+"Variable,""Variabel"";;;;",,,
+"Variable Code,""Kode Variabel"";;;;",,,
+"Variable HTML Value,""Nilai Variabel HTML"";;;;",,,
+"Variable ID,""ID Variabel"";;;;",,,
+"Variable Name,""Nama Variabel"";;;;",,,
+"Variable Plain Value,""Variabel Nilai Sederhana"";;;;",,,
+"Verification Failed,""Bidang Verifikasi"";;;;",,,
+"Verification Successful,""Verifikasi Berhasil"";;;;",,,
+"Verification cannot be processed,""Verifikasi tidak dapat di proses"";;;;",,,
+"View,""Lihat"";;;;",,,
+"View Actions XML,""Lihat Aksi XML"";;;;",,,
+"View Details,""Lihat Detail"";;;;",,,
+"View Full Size,""Lihat ukuran penuh"";;;;",,,
+"View Gallery,""Lihat Galeri"";;;;",,,
+"View Memo,""Lihat Memo"";;;;",,,
+"View Memo for #%s,""Lihat Memo Untuk #%s"";;;;",,,
+"View Shipment,""Lihat Pengiriman"";;;;",,,
+"View Statistics For,""Lihat Statistik Untuk"";;;;",,,
+"Visibility:,""Visibilitas:"";;;;",,,
+"Warning! Empty value can cause problems with CSV format.,""Peringatan! Nilai Kosong Dapat Menyebabkan Masalah Dengan CSV format."";;;;",,,
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,""Peringatan!\r\n Aksi ini akan Menghapus Pengguna ini dari peran yang sudah di tandai\r\n Apakah Anda Yakin?"";;;;",,,
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,""Peringatan!\r\n Aksi ini akan Menghapus pengguna dari peran yang telah di tandai \r\nApakah Anda Yakin?"";;;;",,,
+"Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?,""Peringatan: Semua pesan yang terkait dengan pos udara akan di hapus!\n Apakah Anda Yakin Ingin Melakukan Hal ini?"";;;;",,,
+"Warning: Please do not close the window during importing/exporting data,""Peringatan: Mohon Jangan Tutup Jendela Selama Mengimpor/Mengeskpor data"";;;;",,,
+"Watermark File for %s,""tanda air bidang untuk %s"";;;;",,,
+"We appreciate our merchants\' feedback, please <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">take our survey</a> to provide insight on the features you would like included in Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Remove this notification</a>,""Kami Menghargai Para Penjual\' Mohon, Masukan <a href=""""#"""" di klik=""""Aksi Survey(\'ya\');Pengembalian keliru;"">ambil survey kami</a> untuk memberikan wawasan tentang ciri khas yang akan Anda sukai Termasuk pada Magento. <a href=""""""""#"""""""" di klik=""""""""Aksi survey(\'no\')""; Pengembalian salah;"">Hapus notifikasi ini</a>""""""",,,
+"We detected that your JavaScript seem to be disabled.,""Kami mendeteksi bahwa JavaScript Anda tampaknya dinonaktifkan."";;;;",,,
+"We\'re in our typing table, coding away more features for Magento. Thank you for your patience.,""Kami Pada Meja Ketik Kami, pengkodean jauh lebih banyak fitur Untuk Magento. Terima kasih atas kesabaran Anda."";;;;",,,
+"Web Section,""Bagian Jaringan"";;;;",,,
+"Web Services,""Layanan Jaringan"";;;;",,,
+"Web services,""Layanan Jaringan"";;;;",,,
+"Website,""Situs"";;;;",,,
+"What is this?,""Apakah ini?"";;;;",,,
+"Wishlist Report,""Laporan Daftar yang di inginkan"";;;;",,,
+"Wishlist item is not loaded.,""Barang yang ada di Daftar yang di iginkan tidak di masukan."";;;;",,,
+"Wrong billing agreement ID specified.,""ID kesepakatan Tagihan keliru di tentukan."";;;;",,,
+"Wrong column format.,""Kolom format Salah."";;;;",,,
+"Wrong newsletter template.,""Kerangka Buletin yang keliru."";;;;",,,
+"Wrong quote item.,""Barang Kutipan Keliru."";;;;",,,
+"Wrong tab configuration.,""Konfigurasi Tab Keliru."";;;;",,,
+"Wrong tag was specified.,""Tag keliru Telah di tentukan."";;;;",,,
+"Wrong transaction ID specified.,""ID transaksi salah Telah di tentukan."";;;;",,,
+"XML,""XML"";;;;",,,
+"XML data is invalid.,""XML data Tidak Berlaku."";;;;",,,
+"XML object is not instance of ""Varien_Simplexml_Element"".,""XML objek bukanlah turunan dari """"Varien_Simplexml_Element""""."";;;;",,,
+"YTD,""YTD"";;;;",,,
+"Year,""Tahun"";;;;",,,
+"Yes,""Ya"";;;;",,,
+"Yes (301 Moved Permanently),""Ya (301 Dipindahkan Secara Permanen)"";;;;",,,
+"Yes (302 Found),""Ya (302 Di temukan)"";;;;",,,
+"Yes (only price with tax),""Ya (Harga yang termasuk Pajak)"";;;;",,,
+"You cannot delete your own account.,""Anda Tidak dapat menghapus akun pribadi Anda."";;;;",,,
+"You have %s unread message(s).,""Anda Mempunyai %s Pesan Yang Belum Terbaca(s)."";;;;",,,
+"You have logged out.,""Anda Telah Keluar."";;;;",,,
+"You have not enough permissions to use this functionality.,""Anda belum cukup hak akses untuk menggunakan fungsi ini."";;;;",,,
+"You must have JavaScript enabled in your browser to utilize the functionality of this website.,""Anda harus mengaktifkan JavaScript di browser Anda untuk memanfaatkan fungsi dari Situs ini ."";;;;",,,
+"You need to specify order items.,""Anda perlu menentukan urutan Barang."";;;;",,,
+"Your answers contain duplicates.,""Jawaban Anda mengandung duplikat."";;;;",,,
+"Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.,""Pengaturan PHP server Anda Mengijinkan Untuk  Mengunggah Berkas Tidak Lebih dari %s Pada Waktu Bersamaan. Silakan Merubah Post_Ukuran_Maksimal(saat ini adalah %s) dan unggah_maksimal_ukuran berkas (saat ini adalah %s) Nilai dalam php.ini jika Anda Ingin Mengunggah Berkas Yang lebih Besar."";;;;",,,
+"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.,""Web server anda tidak dikonfigurasi dengan benar. Akibatnya, berkas konfigurasi dengan informasi sensitif dapat di akses dari luar. Silakan hubungi penyedia hosting Anda."";;;;",,,
+"Zip/Postal Code,""Zip/Kode Pos"";;;;",,,
+"Zip/Postal Code:,""Zip/Kode Pos:"";;;;",,,
+"[ deleted ],""[ Hapus ]"";;;;",,,
+"[GLOBAL],""[GLOBAL]"";;;;",,,
+"[STORE VIEW],""[TAMPILAN TOKO]"";;;;",,,
+"[WEBSITE],""[SITUS]"";;;;",,,
+"b,""b"";;;;",,,
+"close,""tutup"";;;;",,,
+"critical,""Kritis"";;;;",,,
+"example: ""sitemap/"" or ""/"" for base path (path must be writeable),""contoh: """"peta situs/"""" atau""""/"""" untuk jalur dasar (jalur harus dapat ditulis)"";;;;",,,
+"example: sitemap.xml,""contoh: sitemap.xml"";;;;",,,
+"from,""dari"";;;;",,,
+"images/logo.gif,""gambar/logo.gif"";;;;",,,
+"items selected,""barang yang terpilih"";;;;",,,
+"major,""mayor"";;;;",,,
+"md5sum,""md5sum"";;;;",,,
+"minor,""minor"";;;;",,,
+"notice,""catatan"";;;;",,,
+"of %s pages,""dari %s halaman"";;;;",,,
+"per page,""per halaman"";;;;",,,
+"so url rewrite is not possible.,""jadi url penulisan ulang tidak mungkin."";;;;",,,
+"store(%s) scope,""toko(%s) jangkauan"";;;;",,,
+"to,""ke"";;;;",,,
+"website(%s) scope,""situs(%s) jangkauan"";;;;",,,
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%s"">configuration</a>.,""{{dasar_url}} tidak di rekomendasikan untuk digunakan dalam sebuah lingkungan produksi untuk menyatakan Basis yang tidak aman URL / Basis aman URL.Hal ini sangat dianjurkan untuk mengubah nilai ini dalam Magento Anda <a href=""""%s"""">Konfigurasi</a>."";;;;",,,

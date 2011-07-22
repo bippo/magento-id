@@ -1,54 +1,54 @@
-"* Required Fields","* Required Fields"
-"-- Select --","-- Select --"
-"Add New Option","Add New Option"
-"Add Selection","Add Selection"
-"As low as","Mulai dari"
-"Bundle Items","Bundle Items"
-"Bundle Product","Bundle Product"
-"Buy %1$s with %2$s discount each","Buy %1$s with %2$s discount each"
-"Checkbox","Checkbox"
-"Choose a selection...","Choose a selection..."
-"Close","Close"
-"Default","Default"
-"Default Qty","Default Qty"
-"Default Title","Default Title"
-"Drop-down","Drop-down"
-"Dynamic","Dynamic"
-"Excl. Tax","Excl. Tax"
-"Fixed","Fixed"
-"From","From"
-"From:","From:"
-"Gift Message","Gift Message"
-"Incl. Tax","Incl. Tax"
-"Input Type","Input Type"
-"Is Required","Is Required"
-"Message:","Message:"
-"Multiple Select","Multiple Select"
-"N/A","N/A"
-"No options of this product are available.","No options of this product are available."
-"None","None"
-"Percent","Percent"
-"Percent Discount","Percent Discount"
-"Please enter search conditions to view products.","Please enter search conditions to view products."
-"Please select options for product.","Please select options for product."
-"Please select products to add","Please select products to add"
-"Please specify product option(s)","Please specify product option(s)"
-"Position","Position"
-"Price Range","Price Range"
-"Price Type","Price Type"
-"Price as configured","Price as configured"
-"Qty:","Qty:"
-"Radio Buttons","Radio Buttons"
-"Required options not selected.","Required options not selected."
-"Selected required options not available.","Selected required options not available."
-"Separately","Separately"
-"Ship Bundle Items","Ship Bundle Items"
-"Shipment","Shipment"
-"Store View Title","Store View Title"
-"There is no defined renderer for ""%s"" option type","There is no defined renderer for ""%s"" option type"
-"This product is also part of bundle(s)","This product is also part of bundle(s)"
-"To","To"
-"To:","To:"
-"Together","Together"
-"Use Default Value","Use Default Value"
-"User Defined Qty","User Defined Qty"
+* Required Fields,* Dibutuhkan Bidang
+Select,Pilih
+Add New Option,Tambah Opsi Baru
+Add Selection,Tambah Pilihan
+As low as,Mulai dari
+Bundle Items,Bundel Barang
+Bundle Product,Bundel Produk
+Buy %1$s with %2$s discount each,Beli %1$s dengan %2$s diskon masing masing
+Checkbox,Kotak Cek
+Choose a selection...,Pilih seleksi …
+Close,Tutup
+Default,Standar
+Default Qty,Kuantitas Standar
+Default Title,Judul Standar
+Drop-down,Drop-down
+Dynamic,Dinamis
+Excl. Tax,Tidak Termasuk Pajak
+Fixed,Tetap
+From,Dari
+From:,Dari:
+Gift Message,Pesan Hadiah
+Incl. Tax,Termasuk Pajak
+Input Type,Masukan Tipe
+Is Required,Di perlukan
+Message:,Pesan:
+Multiple Select,Banyak Pilihan
+N/A,N/A
+No options of this product are available.,Tidak ada pilihan tersedia untuk produk ini
+None,Tak satupun
+Percent,Persen
+Percent Discount,Persen Diskon
+Please enter search conditions to view products.,Masukkan kondisi pencarian untuk melihat produk.
+Please select options for product.,Silakan Pilih Opsi Untuk Produk
+Please select products to add,Silakan Pilih Produk untuk Menambah
+Please specify product option(s),Silakan Tentukan Pilihan Produk
+Position,Posisi
+Price Range,Kisaran Harga
+Price Type,Tipe Harga
+Price as configured,Harga sebagai di konfigurasi
+Qty:,Kuantitas:
+Radio Buttons,Tombol Radio
+Required options not selected.,Opsi yang di butuhkan tidak di pilih
+Selected required options not available.,Pilihan opsi yang di butuhkan tidak tersedia
+Separately,Terpisah
+Ship Bundle Items,Mengirimkan Barang Bundel
+Shipment,Pengiriman
+Store View Title,Tampilan Judul Toko
+"There is no defined renderer for ""%s"" option type","Tidak ada penyaji yang ditetapkan untuk jenis opsi ""% s"""
+This product is also part of bundle(s),Produk ini juga merupakan bagian dari bundel
+To,Ke
+To:,Ke:
+Together,Bersama
+Use Default Value,Gunakan Nilai Standar
+User Defined Qty,Gunakan Kuantitas yang di Tetapkan
