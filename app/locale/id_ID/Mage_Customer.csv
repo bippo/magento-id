@@ -229,11 +229,11 @@ Manage Customers,Kelola Pelanggan
 "Missing firstname, skipping the record","Nama depan hilang, lewatkan rekord"
 "Missing lastname, skipping the record","nama belakang hilang, lewatkan rekord"
 Month,Month
-My Account,My Account
-My Account Wrapper,My Account Wrapper
-My Dashboard,My Dashboard
-My Orders,My Orders
-Name,Name
+My Account,Akun Saya
+My Account Wrapper,Wrapper Akun Saya
+My Dashboard,Dasbor Saya
+My Orders,Pesanan Saya
+Name,Nama
 Name and Address Options,Name and Address Options
 Never,Tidak Pernah
 New Address,Alamat Baru

@@ -43,23 +43,23 @@ Card Verification Number Visual Reference,Kartu Verifikasi Visual Nomor Referens
 Cart Product API,Keranjang produk API
 Cart Subtotal:,Keranjang Subtotal:
 Change,Perubahan
-Change Billing Address,Rubah Alamat Tagihan
+Change Billing Address,Ubah Alamat Tagihan
 Checkbox text,Teks kotak cek
-Checkout,Periksa
-Checkout Conditions,Periksa Kondisi
-Checkout Options,Periksa Opsi
-Checkout Progress Wrapper,Periksa progres Pembungkus
-Checkout Section,Periksa Bagian
-Checkout Terms and Conditions,Periksa Syarat dan Kondisi
-Checkout as Guest,Periksa sebagai tamu
-Checkout as a Guest or Register,Periksa sebagai tamu atau daftar
-Checkout method,Periksa metode
-Checkout with Multiple Addresses,Periksa dengan Multi alamat
+Checkout,Bayar
+Checkout Conditions,Kondisi Pembayaran
+Checkout Options,Pilihan Pembayaran
+Checkout Progress Wrapper,Progress Wrapper Pembayaran
+Checkout Section,Bagian Kasir
+Checkout Terms and Conditions,Syarat dan Kondisi Pembayaran
+Checkout as Guest,Bayar sebagai tamu
+Checkout as a Guest or Register,Bayar sebagai tamu atau daftar
+Checkout method,Cara Pembayaran
+Checkout with Multiple Addresses,Bayar dengan Multi alamat
 City,Kota
 "Click <a href=""%s"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","Klik <a href=""%s"" on Klik=""target.ini='_kosong'"">disini untuk mencetak</a> salinan dari konfirmasi pesanan Anda."
 Close,Tutup
 Company,Perusahaan
-Condition Name,Kondisi Nama
+Condition Name,Nama Kondisi
 Configurable Product Image,Gambar Produk yang dapat di konfigurasi
 Configure Cart Item,Konfigurasi keranjang barang
 Confirm Password,Konfirmasi kata sandi
