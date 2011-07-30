@@ -17,8 +17,8 @@
 """%s"" is not a valid hostname.","""%s"" Nama host tidak valid."
 """%s"" is not a valid image format","""%s"" format gambar tidak valid."
 """%s"" length must be equal to or greater than %s characters.","""%s"" panjang harus sama atau lebih besar dari %s karakter."
-"""%s"" length must be less than or equal to %s characters.","panjang ""% s"" harus kurang dari atau sama dengan karakter% s."
-"""%s"" width exceeds allowed value of %s px.","lebar ""% s"" melebihi nilai yang diizinkan px% s."
+"""%s"" length must be less than or equal to %s characters.","panjang ""%s"" harus kurang dari atau sama dengan karakter %s."
+"""%s"" width exceeds allowed value of %s px.","lebar ""%s"" melebihi nilai yang diizinkan px %s."
 '%value%' appears to be a DNS hostname but cannot extract TLD part,%nilai%' tampaknya menjadi nama host DNS tetapi tidak dapat mengekstrak bagian TLD
 '%value%' appears to be a DNS hostname but cannot match TLD against known list,%nilai%'tampaknya menjadi nama host DNS tetapi tidak bisa cocok TLD terhadap daftar yang dikenal
 '%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%',%nilai%' tampaknya menjadi nama host DNS tetapi tidak bisa cocok terhadap skema nama host untuk TLD '%tld%'
@@ -59,7 +59,7 @@ Amount,Jumlah
 An error occurred while deleting the address.,Galat terjadi ketika menghapus alamat
 An error occurred while retrieving the option value: %s.,Galat terjadi ketika menerima nilai baru: %s.
 "An error occurred while saving the collection, aborting. Error: %s","Terjadi galat saat menyimpan koleksi, membatalkan. kesalahan: %s"
-"An invalid option ID is specified for %s (%s), skipping the record.","ID pilihan tidak valid ditentukan untuk% s (% s), melewatkan catatan."
+"An invalid option ID is specified for %s (%s), skipping the record.","ID pilihan tidak valid ditentukan untuk %s (%s), melewatkan catatan."
 Approved,Disetujui
 Are you sure that you want to remove this item?,Apakah anda yakin bahwa anda akan menghapus item ini?
 Are you sure you want to cancel adding of this address?,Apakah anda yakin ingin membatalkan penambahan alamat ini?
@@ -296,14 +296,14 @@ Please enter your email below and we will send you a new password.,Silakan masuk
 Please enter your email below and we\'ll send you confirmation link for it.,Silakan masukkan email Anda di bawah ini dan kami akan mengirimkan tautan konfirmasi untuk itu.
 Please enter your email.,Silakan masukan email anda.
 Please select,Silakan pilih
-"Please select region, state or province","Silahkan pilih wilayah, negara bagian atau provinsi"
-"Please, check your email for confirmation key.","Silakan, periksa email Anda untuk kunci konfirmasi."
+"Please select region, state or province","Silahkanï¿½pilihï¿½wilayah,ï¿½negara bagian atau provinsi"
+"Please, check your email for confirmation key.","Silakan,ï¿½periksa email Andaï¿½untuk kunciï¿½konfirmasi."
 Prefix,awalan
 Prefix dropdown options,Awalan pilihan dropdown
 Price,Harga
 Primary Billing Address,Alamat Surat Menyurat
 Primary Shipping Address,Alamat Surat Menyurat
-"Problem saving the collection, aborting. Error: %s","Masalah saat menyimpan koleksi, membatalkan. Kesalahan:% s"
+"Problem saving the collection, aborting. Error: %s","Masalah saat menyimpanï¿½koleksi, membatalkan.ï¿½Kesalahan:%ï¿½s"
 Product,Produk
 Product ID,ID produk
 Product Name,Nama produk
@@ -336,7 +336,7 @@ Save Customer,Simpan pelanggan
 Save Customer Group,Simpan grup pelanggan
 Save Password,Simpan kata sandi
 Saved ,Simpan
-Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Titik koma (;).. Nilai dipisahkan koma <br/> Masukan di awal untuk pilihan pertamakosong <br/> Biarkan kosong untuk kolom teks terbuka.
+Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Titik komaï¿½(;)..ï¿½Nilai dipisahkanï¿½komaï¿½<br/>ï¿½Masukanï¿½di awalï¿½untukï¿½pilihan pertamakosongï¿½<br/>ï¿½Biarkanï¿½kosong untukï¿½kolom teksï¿½terbuka.
 Send Welcome Email after Confirmation,Kirim email selamat datang setelah konfirmasi
 Send auto-generated password,Kirim kata sandi auto-generated
 Send confirmation link,Kirim tautan konfirmasi
@@ -363,8 +363,8 @@ Show prefix,Lihat awalan
 Show suffix,Lihat akhiran
 Sign Up for Newsletter,Berlangganan buletin
 Sign up for our newsletter,Daftar untuk buletin kita
-"Skip import row, required field ""%s"" not defined","Lewati baris impor, bidang ""% s"" diperlukan tidak ditentukan"
-"Skip import row, website ""%s"" field not exists","Lewati baris impor, bidang situs ""% s"" tidak ada"
+"Skip import row, required field ""%s"" not defined","Lewati baris impor, bidang ""%s"" diperlukan tidak ditentukan"
+"Skip import row, website ""%s"" field not exists","Lewati baris impor, bidang situs ""%s"" tidak ada"
 State/Province,Propinsi
 Status,Status
 Store,Toko
@@ -386,7 +386,7 @@ Tax/VAT number,Tax/VAT nomor
 Telephone,Telepon
 Text,Teks
 Text One Line,Teks online
-Thank you for registering with %s.,Terima kasih atas pendaftaran dengan% s.
+Thank you for registering with %s.,Terima kasih atas pendaftaran dengan %s.
 The account information has been saved.,Informasi akun telah di simpan
 The address does not belong to this customer.,Alamat tersebut bukan milik pelanggan tersebut
 The address has been deleted.,Alamat telah di hapus
@@ -439,7 +439,7 @@ You are currently not subscribed to our newsletter.,Anda saat ini tidak berlangg
 You are currently subscribed to 'General Subscription'.,Anda saat ini terdaftar untuk 'Berlangganan Umum'.
 You are currently subscribed to our newsletter.,Anda saat ini tidak berlangganan buletin kami.
 You are now logged out,Anda sekarang keluar
-You have logged out and will be redirected to our homepage in 5 seconds.,Anda telah keluar dan akan diarahkan ke beranda kami dalam 5 detik.
+You have logged out and will be redirected to our homepage in 5 seconds.,Andaï¿½telahï¿½keluar danï¿½akan diarahkanï¿½ke beranda kamiï¿½dalam 5ï¿½detik.
 You have no additional address entries in your address book.,Anda tidak memiliki masukan alamat tambahan dalam buku alamat Anda.
 You have no additional entries in your address book.,Anda tidak memiliki masukan tambahan di buku alamat Anda
 You have no default billing address in your address book.,Anda tidak memiliki alamat standar penagihan di buku alamat Anda

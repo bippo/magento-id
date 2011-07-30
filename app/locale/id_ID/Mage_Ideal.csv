@@ -39,7 +39,7 @@ Private Key Password,Kata sandi kunci pribadi
 Required fields are missing.,Bidang yang di minta hilang
 Secure URL (production),URL keamanan (produksi)
 Secure URL (test mode),URL keamanan (Mode tes)
-Selected currency code (%s) is not compatible with iDEAL.,kode mata uang yang di pilih (% s) tidak sesuai dengan iDEAL.
+Selected currency code (%s) is not compatible with iDEAL.,kode mata uang yang di pilih (%s) tidak sesuai dengan iDEAL.
 Sort Order,Urutkan pesanan
 Store name will be used if left empty.,Nama toko akan di gunakan jika dibiarkan kosong.
 Test Mode,Mode tes

@@ -15,7 +15,7 @@ Home,Beranda
 List,Daftar
 Maximum Query Length,Maksimum panjang pertanyaan
 Maximum Query Words Count,Maksimum hitungan kata pertanyaan
-Maximum Search query  length is %s. Your query was cut.,Pencarian panjang permintaan maksimum adalah% s. Pertanyaan Anda dipotong.
+Maximum Search query  length is %s. Your query was cut.,Pencarian panjang permintaan maksimum adalah %s. Pertanyaan Anda dipotong.
 Minimal Query Length,Minimum panjang pertanyaan
 Modify your search,Ubah pencarian Anda
 No,Tidak
@@ -40,5 +40,5 @@ Yes,ya
 You have to specify at least one search term,Anda harus menspesifikasikan setidaknya satu istilah pencarian
 Your search returns no results.,Hasil pencarian anda tidak ada.
 up to %s,Sampai %s
-<strong>%d item(s)</strong> were found using the following search criteria,<Kuat>% d ibarang (s) </ kuat> ditemukan dengan menggunakan kriteria pencarian berikut
+<strong>%d item(s)</strong> were found using the following search criteria,<Kuat>%d ibarang (s) </ kuat> ditemukan dengan menggunakan kriteria pencarian berikut
 Is product available for purchase with Google Checkout,Apakah produk yang tersedia untuk pembelian dengan Google Checkout

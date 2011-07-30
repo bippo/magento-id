@@ -84,11 +84,11 @@ Password Confirmation,Konfirmasi Kata sandi
 Personal Information,Informasi personal
 Please make sure that <code>mod_rewrite</code> is enabled in Apache configuration.,Silakan pastikan bahwa <code>mod_rewrite</code> diaktifkan dalam konfigurasi Apache.
 Please note that it is much less stable than beta.,Harap dicatat bahwa ini jauh lebih stabil daripada versi beta.
-"Please note that only UNIX, Linux and Mac OSX shells are currently supported. For Windows use the '%s' option.","Harap dicatat bahwa hanya sistem opersi UNIX, Linux dan Mac OSX  saat ini didukung. Untuk Windows menggunakan opsi '% s'."
+"Please note that only UNIX, Linux and Mac OSX shells are currently supported. For Windows use the '%s' option.","Harap dicatat bahwa hanya sistem opersi UNIX, Linux dan Mac OSX  saat ini didukung. Untuk Windows menggunakan opsi '%s'."
 Please set all required settings before clicking Continue,Silahkan mengeset semua pengaturan yang diperlukan sebelum mengklik Lanjutkan
 Preferred stability: %s,Pilihan stabilitas: %s
 Proceed With Automatic Download (%s),Proses dengan unduh otomatis (%s)
-Provide a complete base URL for SSL connection. For example: %s,Menyediakan basis URL yang lengkap untuk koneksi SSL. Sebagai contoh:% s
+Provide a complete base URL for SSL connection. For example: %s,Menyediakan basis URL yang lengkap untuk koneksi SSL. Sebagai contoh:%s
 Report All Bugs,Laporkan semua Bug
 Required Fields,Bidang yang di perlukan
 Response from server isn\'t valid.,Respon dari server valid\tidak valid.

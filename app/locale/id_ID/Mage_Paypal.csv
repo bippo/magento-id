@@ -239,7 +239,7 @@ PayPal Settlement Reports,Penyelesaian laporan PayPal
 PayPal certificate does not exist.,Sertifikat PayPal tidak ada.
 PayPal certificate file is empty.,Berkas sertifikat payal kosong.
 "PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process.","PayPal tidak mendukung perintah pengolahan dengan jumlah nol. Untuk melengkapi pembelian Anda, lanjutkan ke proses checkout standar."
-PayPal gateway has rejected request. %s,Gateway PayPal telah menolak permintaan. % s
+PayPal gateway has rejected request. %s,Gateway PayPal telah menolak permintaan. %s
 "PayPal processes all of your orders, and you get paid.","PayPal memproses semua pesanan Anda, dan Anda dibayar."
 PayPal response hasn't required fields.,Respon PayPal tidak perlu bidang.
 PayPal retains reports for 45 days.,PayPal memegang laporan untuk 45 hari.

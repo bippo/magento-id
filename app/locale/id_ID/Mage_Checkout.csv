@@ -150,12 +150,12 @@ Items,Barang
 Items After,Barang setelah
 Items Before,Barang sebelum
 Load customer quote error,Memuat Penawaran pelanggan  galat
-Loading next step...,Memuat langkah berikutnya…..
+Loading next step...,Memuat langkah berikutnyaï¿½..
 Login,Masuk
 Login/Registration Before,Masuk/Sebelum Registrasi
 Manage Checkout Terms and Conditions,Kelola Checkout Syarat dan kondisi
 Maximum display Recently added item(s),Tampilan Maksimum Baru saja ditambahkan barang
-Maximum qty allowed for Shipping to multiple addresses is %s,Maksimum kuantitas diperbolehkan untuk Pengiriman ke beberapa alamat adalah% s
+Maximum qty allowed for Shipping to multiple addresses is %s,Maksimum kuantitas diperbolehkan untuk Pengiriman ke beberapa alamat adalah %s
 Move to Wishlist,Pindahkan kedaftar yang di inginkan
 Multishipping Checkout,Checkout multi pengiriman
 Multishipping Checkout Address (Any) Form,Checkout Multi pengiriman Form Alamat (Setiap)
@@ -216,7 +216,7 @@ Product Name,Nama Produk
 Products,Produk
 Qty,Kuantitas
 Qty:,Kuantitas:
-Quantity was recalculated from %d to %d,Jumlah itu dihitung ulang dari% d ke% d
+Quantity was recalculated from %d to %d,Jumlah itu dihitung ulang dari %d ke %d
 Quote Lifetime (days),Penawaran Seumur Hidup (hari)
 Quote item does not exist.,barang Penawaran tidak ada.
 Quote item is not found.,Barang Penawaran tidak ditemukan.
@@ -279,7 +279,7 @@ Status,Status
 Store View,Tampilan Toko
 Street Address,Alamat jalan
 Street Address ,Alamat jalan
-Submitting order information...,Mengirimkan informasi pesanan …
+Submitting order information...,Mengirimkan informasi pesanan ï¿½
 Subtotal,Subtotal
 Telephone,Telepon
 Terms and Conditions,Syarat dan kondisi
@@ -305,7 +305,7 @@ Use Billing Address,Gunakan alamat tagihan
 We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.,"Kami sedang memproses pesanan Anda dan Anda akan segera menerima email dengan rincian pesanan. Setelah pesanan telah dikirimkan Anda akan menerima email lain dengan tautan untuk melacak perkembangannya.
 "
 You have no items in your shopping cart.,Anda belum memilih produk untuk dibeli.
-You will receive an order confirmation email with details of your order and a link to track its progress.,Anda akan menerima email konfirmasi pesanan dengan rincian pesanan Anda dan tautan untuk melacak perkembangannya.
+You will receive an order confirmation email with details of your order and a link to track its progress.,Andaï¿½akan menerima emailï¿½konfirmasi pesananï¿½denganï¿½rincian pesanan Anda dan tautanï¿½untuk melacakï¿½perkembangannya.
 Your Checkout Progress,Perkembangan Checkout Anda
 Your order # is: %s,Pesanan Anda # adalah: %s
 "Your order # is: <a href=""%s"">%s</a>","Pesanan Anda # adalah: <a href=""%s"">%s</a>"

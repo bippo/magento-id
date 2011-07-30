@@ -1,4 +1,4 @@
-"""%s"" is not available in the requested quantity. %s of the items will be backordered.","""% s"" tidak tersedia dalam kuantitas yang diminta. % s dari barang akan di order cadangkan."
+"""%s"" is not available in the requested quantity. %s of the items will be backordered.","""%s"" tidak tersedia dalam kuantitas yang diminta. %s dari barang akan di order cadangkan."
 %s is available for purchase in increments of %s only.,%stersedia untuk pembelian dengan penambahan sebesar %s saja.
 %s is not a correct comparsion method.,Bukan metode perbandingan yang benar.
 "<strong>Note</strong> that these settings are applicable to cart line items, not the whole cart.","<Kuat>Catatan</Kuat> bahwa pengaturan ini berlaku untuk item baris keranjang, tidak seluruh keranjang."
@@ -35,7 +35,7 @@ Stock Options,Pilihan Stok
 Stock item for Product in option is not valid,Stok barang untuk Produk dalam opsi tidak valid
 Stock item for Product is not valid,Stok barang untuk Produk tidak valid
 The maximum quantity allowed for purchase is %s.,umlah maksimum yang diizinkan adalah% untuk pembelian s.
-The minimum quantity allowed for purchase is %s.,umlah minimum yang diizinkan adalah% untuk pembelian s.
+The minimum quantity allowed for purchase is %s.,umlahï¿½minimum yang diizinkanï¿½adalah%ï¿½untuk pembelianï¿½s.
 "The requested quantity for ""%s"" is not available.","Kuantitas sebanyak""%s"" yang diminta tidak tersedia."
 The requested quantity is not available.,Kuantitas yang diminta tidak tersedia.
 This product is currently out of stock.,Produk tersebut saat ini kosong

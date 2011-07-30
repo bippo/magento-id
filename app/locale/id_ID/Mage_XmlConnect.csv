@@ -78,7 +78,7 @@ Application Key,Kunci aplikasi
 Application Master Secret,Rahasia master aplikasi
 Application Name,Nama Aplikasi
 Application Secret,Rahasia aplikasi
-"Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Menerapkan secara otomatis akan mengubah ukuran gambar ini untuk tampilan di dalam App Store dan usersâ € ™ perangkat. Sebuah gloss (gradien) juga akan diterapkan, sehingga Anda tidak perlu untuk menerapkan gradien. Gambar harus setidaknya 512x512Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512"
+"Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Menerapkan secara otomatis akan mengubah ukuran gambar ini untuk tampilan di dalam App Store dan usersï¿½ ï¿½ ï¿½ perangkat. Sebuah gloss (gradien) juga akan diterapkan, sehingga Anda tidak perlu untuk menerapkan gradien. Gambar harus setidaknya 512x512Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512"
 Are you sure you want to cancel a message?,Apakah Anda yakin ingin menghapus pesan ini?
 Are you sure you want to delete a message?,Apakah Anda yakin ingin menghapus pesan ini?
 Are you sure you what to cancel selected records?,Apakah anda yakin untuk membatalkan catatan yang di pilih?
@@ -177,16 +177,16 @@ Default Theme,Tema standar
 Delete,Hapus
 Deleted,Hapus
 Description,Deskripsi
-Description that appears in Android Market. %s chars maximum. ,Keterangan yang muncul di Android Market. % s karakter maksimum.
-Description that appears in the iTunes App Store. %s chars maximum. ,Keterangan yang muncul  di iTunes App Store. % s karakter maksimum.
+Description that appears in Android Market. %s chars maximum. ,Keterangan yang muncul di Android Market. %s karakter maksimum.
+Description that appears in the iTunes App Store. %s chars maximum. ,Keterangan yang muncul  di iTunes App Store. %s karakter maksimum.
 Deselect All,Tidak di pilih semua
 Design,Desain
 Device,Alat
 Device Information,Informasi alat
 Device Type,Jenis alat
 Device doesn\'t recognized. Unable to load a template.,Perangkat tidak mengenali. Tidak dapat memuat sebuah template.
-"Device doesn\'t recognized: ""%s"". Unable to load a helper.","Perangkat tidak mengenali: ""% s"". Tidak dapat memuat penolong."
-"Device doesn\'t recognized: ""%s"". Unable to load preview model.","Perangkat tidak dikenal: ""% s"". Tidak dapat memuat model pratinjau."
+"Device doesn\'t recognized: ""%s"". Unable to load a helper.","Perangkat tidak mengenali: ""%s"". Tidak dapat memuat penolong."
+"Device doesn\'t recognized: ""%s"". Unable to load preview model.","Perangkat tidak dikenal: ""%s"". Tidak dapat memuat model pratinjau."
 Edit,Sunting
 Edit AirMail Message,Sunting pesan AirMail
 Edit AirMail Message Queue #%s,Sunting antrian pesan AirMail#%s
@@ -281,7 +281,7 @@ Loader Splash Screen,Pemuat layar splash
 Loader Splash Screen <br />(iPhone 4 retina),Pemuat layar splash<br />(iPhone 4 retina)
 Loader Splash Screen <br />(landscape mode),Pemuat layar splash <br />(mode landscape)
 Loader Splash Screen <br />(portrait mode),Pemuat layar splash <br />(mode potret)
-Loading Preview...,Memuat tinjauan…
+Loading Preview...,Memuat tinjauanï¿½
 Locations,Lokasi
 Log In,Masuk
 Login and password are required.,Login dan kata sandi di butuhkan
@@ -311,7 +311,7 @@ More,Lebih
 More Info,Info lebih
 More Tabs,Tab lebih
 Name on Card,Nama pada kartu
-Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.,Nama yang muncul di bawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. Kami sarankan untuk memilih nama yang 10-12 karakter dan bahwa pelanggan Anda akan mengenali. % s karakter maks.
+Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.,Nama yang muncul di bawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. Kami sarankan untuk memilih nama yang 10-12 karakter dan bahwa pelanggan Anda akan mengenali. %s karakter maks.
 New AirMail Message,Pesan AirMail baru
 New AirMail Message Queue,Antrian pesan AirMail baru
 New App,Aplikasi baru

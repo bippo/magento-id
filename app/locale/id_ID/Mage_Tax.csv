@@ -110,7 +110,7 @@ Whether catalog prices entered by admin include tax.,Baik harga katalog yang dim
 Whether shipping amounts entered by admin or obtained from gateways include tax.,Baik jumlah pengiriman yang dimasukkan oleh admin atau diperoleh dari gateway sudah termasuk pajak.
 Yes,Ya
 You cannot delete this tax class as it is used for %d customer groups., Anda tidak dapat menghapus kelas ini pajak seperti yang digunakan untuk %d grup pelanggan.
-You cannot delete this tax class as it is used for %d products.,"Anda tidak dapat menghapus kelas ini pajak seperti yang digunakan untuk produk% d.
+You cannot delete this tax class as it is used for %d products.,"Anda tidak dapat menghapus kelas ini pajak seperti yang digunakan untuk produk %d.
 
 "
 You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first.,Anda tidak dapat menghapus kelas ini pajak seperti yang digunakan dalam Aturan Pajak. Anda harus menghapus aturan digunakan dalam aturan pertama.

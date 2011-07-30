@@ -13,7 +13,7 @@ Attributes Set,Atur atribut
 Attributes mapping,Atribut mapping
 AuthSub,AuthSub
 Available Products,Produk tersedia
-Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.,Mata uang dasar harus di set ke% s untuk% s dalam konfigurasi sistem. Jika harga item tidak akan benar di Google Base.
+Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.,Mata uang dasar harus di set ke %s untuk %s dalam konfigurasi sistem. Jika harga item tidak akan benar di Google Base.
 British Pound Sterling,Pound Sterling Inggris
 Cannot update Google Base Item for Store '%s',Tidak dapat memperbarui item Google Base untuk toko  '%s'
 Captcha confirmation error: %s,Konfirmasi Captcha Galat: %s

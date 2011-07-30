@@ -7,7 +7,7 @@ Bundle Items,Bundel Barang
 Bundle Product,Bundel Produk
 Buy %1$s with %2$s discount each,Beli %1$s dengan %2$s diskon masing masing
 Checkbox,Kotak Cek
-Choose a selection...,Pilih seleksi …
+Choose a selection...,Pilih seleksi ï¿½
 Close,Tutup
 Default,Standar
 Default Qty,Kuantitas Standar
@@ -45,7 +45,7 @@ Separately,Terpisah
 Ship Bundle Items,Mengirimkan Barang Bundel
 Shipment,Pengiriman
 Store View Title,Tampilan Judul Toko
-"There is no defined renderer for ""%s"" option type","Tidak ada penyaji yang ditetapkan untuk jenis opsi ""% s"""
+"There is no defined renderer for ""%s"" option type","Tidak ada penyaji yang ditetapkan untuk jenis opsi ""%s"""
 This product is also part of bundle(s),Produk ini juga merupakan bagian dari bundel
 To,Ke
 To:,Ke:

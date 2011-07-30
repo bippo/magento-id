@@ -26,7 +26,7 @@ Default price:,Harga standar:
 Delivery Address Category,Kategori Alamat Pengiriman
 Delivery schedule,Jadwal pengiriman
 Disable Default Tax Tables,menonaktifkan skema pajak standar
-Eligible for protection: %s,Layak bagi perlindungan:% s
+Eligible for protection: %s,Layak bagi perlindungan:%s
 Enable,Aktifkan
 Enable Carrier Calculated,aktifkan Perhitungan pengangkut
 Enable Digital Delivery,Aktifkan Pengriman Digital
@@ -55,8 +55,8 @@ Google order status change:,Perubahan Status Pesanan Google:
 Hide Cart Contents During Checkout,Sembunyikan Isi Keranjang selama proses chekcout
 IP Address: %s,Alamat IP: %s
 "If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if ""Edit Cart"" link was activated.","Jika diaktifkan, isi keranjang akan disembunyikan setelah mengklik pada tombol Google Checkout di keranjang belanja, dan dikembalikan jika ""Edit Cart"" link diaktifkan."
-Invoice auto-created: %s,Faktur otomatis dibuat:% s
-Is Buyer Willing To Receive Marketing E-Mails: %s,Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mails:% s
+Invoice auto-created: %s,Faktur otomatis dibuat:%s
+Is Buyer Willing To Receive Marketing E-Mails: %s,Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mails:%s
 Large - %s,Besar - %s
 Latest Charge: %s,Biaya Terakhir: %s
 Latest Chargeback: %s,Pembayaran balik terkhir: %s
