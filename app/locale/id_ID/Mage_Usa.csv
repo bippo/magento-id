@@ -1,201 +1,201 @@
-" was not delivered nor scanned"," tidak dikirimkan atau diteliti"
-"1 Day Freight","Kargo 1 Hari"
-"2 Day Freight","Kargo 2 Hari"
-"2Day","2Hari"
-"2nd Day Air","2nd Day Air"
-"2nd Day Air AM","2nd Day Air AM"
-"2nd Day Air AM Letter","2nd Day Air AM Letter"
-"2nd Day Air Letter","2nd Day Air Letter"
-"3 Day Freight","Kargo 3 Hari"
-"3 Day Select","3 Day Select"
-"Access ID","ID Akses"
-"Access license number","Nomer surat ijin"
-"Account ID","Id Akun"
-"Account number","Nomer Akun"
-"Additional Protection Configuration Value","Additional Protection Configuration Value"
-"Additional Protection Enabled","Additional Protection Enabled"
-"Additional Protection Min Subtotal","Additional Protection Min Subtotal"
-"Additional Protection Value","Additional Protection Value"
-"Additional Protection Value Rounding Method","Additional Protection Value Rounding Method"
-"All Services","Semua Servis"
-"Allowed methods","Metode yang diperbolehkan"
-"Bound Printed Matter","Batasan Barang Dicetak"
-"Business Service Center","Pusat Pelayanan Bisnis"
-"Calculate Handling Fee","Biaya Penanganan"
-"Canada Standard","Canada Standard"
-"Cannot retrieve shipping rates","Tidak dapat menerima biaya pengiriman"
-"Commercial","Commercial"
-"Configuration","Configuration"
-"Container","Kontener"
-"Customer Packaging","Customer Packaging"
-"DHL","DHL"
-"Default Package Height","Default Package Height"
-"Default Package Length","Default Package Length"
-"Default Package Width","Default Package Width"
-"Delivered","Terkirim"
-"Destination type","Tipe tujuan"
-"Displayed Error Message","Pesan Kesalahan yang Tampil"
-"Domestic Shipment Days","Domestic Shipment Days"
-"Drop Box","Kotak Masukan"
-"Dropoff","Dropoff"
-"Empty response","Respon kosong"
-"Enable Negotiated Rates","Enable Negotiated Rates"
-"Enabled","Aktif"
-"Error #%s : %s (%s)","Error #%s : %s (%s)"
-"Error #%s: %s","Error #%s: %s"
-"Europe First Priority","Prioritas Utama Eropa"
-"Express","Ekspress"
-"Express 10:30 AM","Ekspress 10:30 AM"
-"Express Mail","Surat Ekspress"
-"Express Saturday","Ekspress Sabtu"
-"Express Saver","Ekspress Hemat"
-"FedEx","FedEx"
-"FedEx 10kg Box","FedEx Kotak 10kg"
-"FedEx 25kg Box","FedEx Kotak 25kg"
-"FedEx Box","FedEx Kotak"
-"FedEx Envelope","FedEx Amplop"
-"FedEx Pak","FedEx Pak"
-"FedEx Tube","FedEx Tabung"
-"First Overnight","Semalam"
-"First-Class","Kelas Utama"
-"Flat","Rata"
-"Flat-Rate Box","Flat-Rate Box"
-"Flat-Rate Envelope","Flat-Rate Envelope"
-"Free method","Metode gratis"
-"Free shipping with minimum order amount","Pengiriman gratis dengan pembelian tertentu"
-"Gateway URL","Gateway URL"
-"Gateway XML URL","Gateway XML URL"
-"Ground","Darat"
-"Ground Commercial","Ground Commercial"
-"Ground Residential","Ground Residential"
-"Handling Applied","Penanganan Diteapkan"
-"Handling fee","Biaya Penanganan"
-"Home Delivery","Pengiriman ke Rumah"
-"International Economy","International Ekonomis"
-"International Express","International Ekspress"
-"International First","International Pertama"
-"International Priority","International Utama"
-"International Shipment Days","International Shipment Days"
-"Intl Economy Freight","Intl Economy Freight"
-"Intl Priority Freight","Intl Priority Freight"
-"Invalid DHL XML code for type %s: %s.","Invalid DHL XML code for type %s: %s."
-"Invalid DHL XML code type: %s.","Invalid DHL XML code type: %s."
-"Invalid FedEx XML code for type %s: %s","Invalid FedEx XML code for type %s: %s"
-"Invalid FedEx XML code type: %s","Invalid FedEx XML code type: %s"
-"Invalid UPS CGI code for type %s: %s","Invalid UPS CGI code for type %s: %s"
-"Invalid UPS CGI code type: %s","Invalid UPS CGI code type: %s"
-"Kilograms","Kilograms"
-"Large","Large"
-"Letter","Letter"
-"Library","Pustaka"
-"Machinable","Machinable"
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maksimum Berat Paket (Harap konsultasi jasa pennngiriman anda untuk maksimum berat pengiriman yang ditersedia)"
-"Media Mail","Surat Media"
-"Minimum order amount for free shipping","Banyak pembelian minimum untuk pengiriman gratis"
-"Next Afternoon","Sore Besok"
-"Next Day Air","Next Day Air"
-"Next Day Air Early AM","Next Day Air Early AM"
-"Next Day Air Early AM Letter","Next Day Air Early AM Letter"
-"Next Day Air Intra (Puerto Rico)","Next Day Air Intra (Puerto Rico)"
-"Next Day Air Letter","Next Day Air Letter"
-"Next Day Air Saver","Next Day Air Saver"
-"Next Day Air Saver Letter","Next Day Air Saver Letter"
-"No","Tidak"
-"Non-rectangular","Tidak kotak"
-"Order","Pembelian"
-"Origin of the shipment","Asal pengiriman"
-"Oversize","Kebesaran"
-"Package","Paket"
-"Package Description","Deskripsi Paket"
-"Packaging","Bungkus"
-"Parcel","Parsel"
-"Parcel Post","Kirim Parsel"
-"Password","Kata Kunci"
-"Pickup method","Metode Pengambilan"
-"Please enter the package weight","Masukkan berat paket"
-"Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed."
-"Pounds","Pounds"
-"Priority Mail","Surat Utama"
-"Priority Overnight","Semalam Utama"
-"Receiver","Penerima"
-"Rectangular","Segiempat"
-"Regular","Biasa"
-"Regular Pickup","Pengambilan Biasa"
-"Request Courier","Minta Kurir"
-"Residential","Residential"
-"Residential Delivery","Residential Delivery"
-"Response is in the wrong format","Format  respon salah"
-"Round","Round"
-"Second Day Service","Layanan Hari Kedua"
-"Sender","Pengirim"
-"Ship to Specific countries","Kirim ke spesifik negara"
-"Ship to applicable countries","Kirim ke negara yang mungkin"
-"Shipment Contains Hazardous Materials","Shipment Contains Hazardous Materials"
-"Shipment Dutiable","Pengirman Bea Cukai"
-"Shipment Duty Payment Type","Tipe Pembayaran Bea Cukai Pengiriman"
-"Shipment is not available.","Pengiriman tidak tersedia."
-"Shipment picked up","Pengiriman diambil di"
-"Shipment type","Tipe pengiriman"
-"Shipper Number","Shipper Number"
-"Shipping key","Kunci pengiriman"
-"Shipping key (International)","Kunci pengiriman (internasional)"
-"Show method if not applicable","Tampilkan metode jika tidak dimungkinkan"
-"Size","Ukuran"
-"Sort order","Urutan sortir"
-"Standard Overnight","Standar Semalam"
-"Station","Stasiun"
-"Subtotal","Subtotal"
-"Subtotal With Discount","Subtotal With Discount"
-"There is no available method for selected shipping address.","Tidak ada metode yang tersedia ntuk alamat pengiriman yang dipilih."
-"Third Party","Pihak Ketiga"
-"Title","Judul"
-"To lower","To lower"
-"To upper","To upper"
-"Tracking XML URL","XML URL Penelusuran"
-"UPS","UPS"
-"UPS Expedited","UPS Expedited"
-"UPS Express","UPS Express"
-"UPS Express Box","UPS Express Box"
-"UPS Express Early A.M.","UPS Express Early A.M."
-"UPS Express Plus","UPS Express Plus"
-"UPS Ground","UPS Ground"
-"UPS Letter Envelope","UPS Letter Envelope"
-"UPS Next Day Air","UPS Next Day Air"
-"UPS Next Day Air Early A.M.","UPS Next Day Air Early A.M."
-"UPS Next Day Air Saver","UPS Next Day Air Saver"
-"UPS Saver","UPS Saver"
-"UPS Second Day Air","UPS Second Day Air"
-"UPS Second Day Air A.M.","UPS Second Day Air A.M."
-"UPS Standard","UPS Standard"
-"UPS Three-Day Select","UPS Three-Day Select"
-"UPS Today Dedicated Courrier","UPS Today Dedicated Courrier"
-"UPS Today Express","UPS Today Express"
-"UPS Today Express Saver","UPS Today Express Saver"
-"UPS Today Intercity","UPS Today Intercity"
-"UPS Today Standard","UPS Today Standard"
-"UPS Tube","UPS Tube"
-"UPS Worldwide 10 kilo","UPS Worldwide 10 kilo"
-"UPS Worldwide 25 kilo","UPS Worldwide 25 kilo"
-"UPS Worldwide Expedited","UPS Worldwide Expedited"
-"UPS Worldwide Express","UPS Worldwide Express"
-"UPS Worldwide Express Plus","UPS Worldwide Express Plus"
-"UPS Worldwide Express PlusSM","UPS Worldwide Express PlusSM"
-"UPS type","Tipe UPS"
-"USPS","USPS"
-"Unable to retrieve tracking","Tidak dapat menerima penelusuran"
-"United Parcel Service","United Parcel Service"
-"United Parcel Service XML","United Parcel Service XML"
-"Unknown error","Error tidak diketahui"
-"Used only when 'Additional Protection Value' is set to 'Configuration'. Can contain only numeric amount.","Used only when 'Additional Protection Value' is set to 'Configuration'. Can contain only numeric amount."
-"User ID","ID Pemakai"
-"UserId","Idpemakai"
-"Variable","Variabel"
-"Weight Unit","Unit Berat"
-"Worldwide Expedited","Worldwide Expedited"
-"Worldwide Express","Worldwide Express"
-"Worldwide Express Letter","Worldwide Express Letter"
-"Worldwide Express Plus","Worldwide Express Plus"
-"Worldwide Express Plus Letter","Worldwide Express Plus Letter"
-"Worldwide Express Saver","Worldwide Express Saver"
-"Yes","Ya"
-"Your Packaging","Bungkusan Anda"
+ was not delivered nor scanned, tidak dikirimkan atau discan
+1 Day Freight,Kargo 1 Hari
+2 Day Freight,Kargo 2 Hari
+2Day,2Hari
+2nd Day Air,Penerbangan Hari ke 2
+2nd Day Air AM,Penerbangan Hari ke 2 AM
+2nd Day Air AM Letter,Penerbangan Hari ke 2 surat AM
+2nd Day Air Letter,Penerbangan Hari ke 2 surat AM
+3 Day Freight,Kargo 3 Hari
+3 Day Select,Pilih 3 hari
+Access ID,ID Akses
+Access license number,Nomer surat ijin
+Account ID,Id Akun
+Account number,Nomer Akun
+Additional Protection Configuration Value,Perlindungan Tambahan Nilai Konfigurasi
+Additional Protection Enabled,Perlindungan Tambahan Aktif
+Additional Protection Min Subtotal,Perlindungan tambahan Min Subtotal
+Additional Protection Value,Nilai perlindungan tambahan
+Additional Protection Value Rounding Method,Perlindungan Tambahan Nilai Metode Pembulatan
+All Services,Semua Servis
+Allowed methods,Metode yang diperbolehkan
+Bound Printed Matter,Batasan Barang Dicetak
+Business Service Center,Pusat Pelayanan Bisnis
+Calculate Handling Fee,Biaya Penanganan
+Canada Standard,Standar Kanada
+Cannot retrieve shipping rates,Tidak dapat menerima biaya pengiriman
+Commercial,Komersial
+Configuration,Konfigurasi
+Container,Kontener
+Customer Packaging,Paket pelanggan
+DHL,DHL
+Default Package Height,Tinggi paket standar
+Default Package Length,Panjang paket standar
+Default Package Width,Lebar paket standar
+Delivered,Terkirim
+Destination type,Tipe tujuan
+Displayed Error Message,Pesan Kesalahan yang Tampil
+Domestic Shipment Days,Hari Pengiriman Domestik 
+Drop Box,Kotak Masukan
+Dropoff,Menurunkan
+Empty response,Respon kosong
+Enable Negotiated Rates,Tarif negosiasi aktif
+Enabled,Aktif
+Error #%s : %s (%s),Galat #%s : %s (%s)
+Error #%s: %s,Galat #%s: %s
+Europe First Priority,Prioritas Utama Eropa
+Express,Ekspress
+Express 10:30 AM,Ekspress 10:30 AM
+Express Mail,Surat Ekspress
+Express Saturday,Ekspress Sabtu
+Express Saver,Ekspress Hemat
+FedEx,FedEx
+FedEx 10kg Box,FedEx Kotak 10kg
+FedEx 25kg Box,FedEx Kotak 25kg
+FedEx Box,FedEx Kotak
+FedEx Envelope,FedEx Amplop
+FedEx Pak,FedEx Pak
+FedEx Tube,FedEx Tabung
+First Overnight,Semalam
+First-Class,Kelas Utama
+Flat,Rata
+Flat-Rate Box,Box Tarif rata
+Flat-Rate Envelope,Amplop tarif rata
+Free method,Metode gratis
+Free shipping with minimum order amount,Pengiriman gratis dengan pembelian tertentu
+Gateway URL,Gateway URL
+Gateway XML URL,Gateway XML URL
+Ground,Darat
+Ground Commercial,Lapangan komersial
+Ground Residential,lapangan Residensial
+Handling Applied,Penanganan Ditetapkan
+Handling fee,Biaya Penanganan
+Home Delivery,Pengiriman ke Rumah
+International Economy,International Ekonomi
+International Express,International Ekspress
+International First,International Pertama
+International Priority,International Utama
+International Shipment Days,Hari pengiriman Intrnasional
+Intl Economy Freight,Pengangkutan Ekonomi internasional
+Intl Priority Freight,Pengangkutan prioritas internasional
+Invalid DHL XML code for type %s: %s.,Kode DHL XML tidak berlaku untuk tipe %s: %s.
+Invalid DHL XML code type: %s.,Kode DHL XML tidak berlaku tipe: %s.
+Invalid FedEx XML code for type %s: %s,Kode  FedEx XML tidak berlaku untuk tipe %s: %s
+Invalid FedEx XML code type: %s,Kode FedEx XML tidak berlaku tipe: %s
+Invalid UPS CGI code for type %s: %s,Kode UPS CGI tidak berlaku untuk tipe %s: %s
+Invalid UPS CGI code type: %s,Kode UPS CGI tidak berlaku tipe: %s
+Kilograms,Kilogram
+Large,Besar
+Letter,Surat
+Library,Pustaka
+Machinable,Machinable
+Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight),Maksimum Berat Paket (Harap konsultasi jasa pennngiriman anda untuk maksimum berat pengiriman yang ditersedia)
+Media Mail,Surat Media
+Minimum order amount for free shipping,Banyak pembelian minimum untuk pengiriman gratis
+Next Afternoon,Sore Besok
+Next Day Air,Hari penerbangan berikutnya
+Next Day Air Early AM,Hari penerbangan dini berikut nya AM
+Next Day Air Early AM Letter,surat AM  Hari penerbangan berikutnya 
+Next Day Air Intra (Puerto Rico),Hari penerbangan berikutnya Intra (Puerto Rico)
+Next Day Air Letter,Surat hari penerbangan  berikutnya
+Next Day Air Saver,Hari penerbangan berikutnya lebih hemat
+Next Day Air Saver Letter,Surat hari penerbangan berikutnya lebih hemat
+No,Tidak
+Non-rectangular,Tidak kotak
+Order,Pembelian
+Origin of the shipment,Asal pengiriman
+Oversize,Kebesaran
+Package,Paket
+Package Description,Deskripsi Paket
+Packaging,Bungkus
+Parcel,Parsel
+Parcel Post,Kirim Parsel
+Password,Kata Kunci
+Pickup method,Metode Pengambilan
+Please enter the package weight,Masukkan berat paket
+Please make sure to use only digits here. No dashes are allowed.,Pastikan untuk menggunakan angka hanya di sini. Tidak ada garis yang diperbolehkan.
+Pounds,Pon
+Priority Mail,Surat Utama
+Priority Overnight,Semalam Utama
+Receiver,Penerima
+Rectangular,Segiempat
+Regular,Biasa
+Regular Pickup,Pengambilan Biasa
+Request Courier,Minta Kurir
+Residential,Residensial
+Residential Delivery,Pengiriman Residensial
+Response is in the wrong format,Format  respon salah
+Round,Bulat
+Second Day Service,Layanan Hari Kedua
+Sender,Pengirim
+Ship to Specific countries,Kirim ke spesifik negara
+Ship to applicable countries,Kirim ke negara yang mungkin
+Shipment Contains Hazardous Materials,Pengiriman Berisi Bahan Berbahaya
+Shipment Dutiable,Pengirman Bea Cukai
+Shipment Duty Payment Type,Tipe Pembayaran Bea Cukai Pengiriman
+Shipment is not available.,Pengiriman tidak tersedia.
+Shipment picked up,Pengiriman diambil di
+Shipment type,Tipe pengiriman
+Shipper Number,Nomor Pengirim
+Shipping key,Kunci pengiriman
+Shipping key (International),Kunci pengiriman (internasional)
+Show method if not applicable,Tampilkan metode jika tidak dimungkinkan
+Size,Ukuran
+Sort order,Urutan pesanan
+Standard Overnight,Standar Semalam
+Station,Stasiun
+Subtotal,Subtotal
+Subtotal With Discount,Subtotal dengan diskon
+There is no available method for selected shipping address.,Tidak ada metode yang tersedia ntuk alamat pengiriman yang dipilih.
+Third Party,Pihak Ketiga
+Title,Judul
+To lower,Ke bagian bawah
+To upper,Ke bagian atas
+Tracking XML URL,Penelusuran XML URL 
+UPS,UPS
+UPS Expedited,UPS dipercepat
+UPS Express,UPS Express
+UPS Express Box,UPS Kotak Express 
+UPS Express Early A.M.,UPS Express A.M. dini hari
+UPS Express Plus,UPS Express Plus
+UPS Ground,UPS darat
+UPS Letter Envelope,UPS Amplop surat
+UPS Next Day Air,UPS penerbangan hari berikut nya
+UPS Next Day Air Early A.M.,UPS Penerbangan hari berikutnya A.M. dini
+UPS Next Day Air Saver,UPS Penerbangan hari berikutnya lebih hemat
+UPS Saver,UPS lebih hemat
+UPS Second Day Air,UPS penerbangan hari kedua
+UPS Second Day Air A.M.,UPS penerbangan hari kedua AM.
+UPS Standard,UPS standar
+UPS Three-Day Select,UPS pilihan tiga hari
+UPS Today Dedicated Courrier,UPS Hari Didedikasikan untuk Jasa Kurir
+UPS Today Express,UPS Ekspress hari ini
+UPS Today Express Saver,UPS Ekspress hari ini lebih hemat
+UPS Today Intercity,UPS Hari ini antar kota
+UPS Today Standard,UPS Hari ini standar
+UPS Tube,UPS Tabung
+UPS Worldwide 10 kilo,UPS Seluruh dunia 10 kilo
+UPS Worldwide 25 kilo,UPS seluruh dunia 25 kilo
+UPS Worldwide Expedited,UPS Percepatan seluruh dunia
+UPS Worldwide Express,UPS Express seluruh dunia
+UPS Worldwide Express Plus,UPS Express Plus seluruh dunia
+UPS Worldwide Express PlusSM,UPS Express seluruh dunia PlusSM
+UPS type,Tipe UPS
+USPS,USPS
+Unable to retrieve tracking,Tidak dapat menerima penelusuran
+United Parcel Service,United Parcel Service
+United Parcel Service XML,United Parcel Service XML
+Unknown error,Galat tidak diketahui
+Used only when 'Additional Protection Value' is set to 'Configuration'. Can contain only numeric amount.,Digunakan hanya bila 'Tambahan Nilai Perlindungan' diatur ke 'Konfigurasi'. Hanya dapat berisi jumlah numerik.
+User ID,ID Pemakai
+UserId,Idpemakai
+Variable,Variabel
+Weight Unit,Unit Berat
+Worldwide Expedited,Percepatan seluruh dunia
+Worldwide Express,Ekspress seluruh dunia
+Worldwide Express Letter,Surat ekspress seluruh dunia
+Worldwide Express Plus,Ekspress seluruh dunia
+Worldwide Express Plus Letter,Surat ekspress seluruh dunia plus
+Worldwide Express Saver,Ekspres seluruh dunia lebih hemat
+Yes,Ya
+Your Packaging,Bungkusan Anda

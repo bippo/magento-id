@@ -14,7 +14,7 @@ Additional Product Info,Info produk tambahan
 Address,Alamat
 Address %s of %s,Alamat %s dari%s
 After adding a product redirect to shopping cart,Setelah menambahkan produk arahkan untuk keranjang belanja
-Allow Guest Checkout,Ijinkan pengeceka tamu
+Allow Guest Checkout,Ijinkan Checkout tamu
 Already registered?,Sudah terdaftar?
 An error occurred in the process of payment,Galat terjadi pada saat proses pembayaran
 Apply Coupon,berlaku Kupon
@@ -45,16 +45,16 @@ Cart Subtotal:,Keranjang Subtotal:
 Change,Perubahan
 Change Billing Address,Rubah Alamat Tagihan
 Checkbox text,Teks kotak cek
-Checkout,Periksa
-Checkout Conditions,Periksa Kondisi
-Checkout Options,Periksa Opsi
-Checkout Progress Wrapper,Periksa progres Pembungkus
-Checkout Section,Periksa Bagian
-Checkout Terms and Conditions,Periksa Syarat dan Kondisi
-Checkout as Guest,Periksa sebagai tamu
-Checkout as a Guest or Register,Periksa sebagai tamu atau daftar
-Checkout method,Periksa metode
-Checkout with Multiple Addresses,Periksa dengan Multi alamat
+Checkout,Checkout
+Checkout Conditions,Kondisi Checkout
+Checkout Options,Pilihan Checkout
+Checkout Progress Wrapper,Checkout Kemajuan Wrapper
+Checkout Section,Bagian Checkout
+Checkout Terms and Conditions,Checkout Syarat dan Kondisi
+Checkout as Guest,Checkout sebagai tamu
+Checkout as a Guest or Register,Checkout sebagai tamu atau daftar
+Checkout method,Metode checkout
+Checkout with Multiple Addresses,Checkout dengan Multi alamat
 City,Kota
 "Click <a href=""%s"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","Klik <a href=""%s"" on Klik=""target.ini='_kosong'"">disini untuk mencetak</a> salinan dari konfirmasi pesanan Anda."
 Close,Tutup
@@ -86,8 +86,8 @@ Default Billing,Standar tagihan
 Default Shipping,Standar pengiriman
 Delete Condition,Hapus kondisi
 Details,Detil
-Disable Onepage Checkout,Menonaktifkan cek satu halaman
-Disabled,Menonaktifkan cek satu halaman
+Disable Onepage Checkout,Checkout menonaktifkan satu halaman
+Disabled,Menonaktifkan
 Discount Codes,Kode diskon
 Display Cart Summary,Menampilkan ringkasan keranjang
 Display Shopping Cart Sidebar,Tampilan Belanja Bar Samping
@@ -140,33 +140,33 @@ Load customer quote error,Memuat Penawaran pelanggan  galat
 Loading next step...,Memuat langkah berikutnya…..
 Login,Masuk
 Login/Registration Before,Masuk/Sebelum Registrasi
-Manage Checkout Terms and Conditions,Kelola pemeriksaan Syarat dan kondisi
+Manage Checkout Terms and Conditions,Kelola Checkout Syarat dan kondisi
 Maximum display Recently added item(s),Tampilan Maksimum Baru saja ditambahkan barang
 Maximum qty allowed for Shipping to multiple addresses is %s,Maksimum kuantitas diperbolehkan untuk Pengiriman ke beberapa alamat adalah% s
 Move to Wishlist,Pindahkan kedaftar yang di inginkan
-Multishipping Checkout,Pemeriksaan multi pengiriman
-Multishipping Checkout Address (Any) Form,Pemeriksaan Multi pengiriman Form Alamat (Setiap)
-Multishipping Checkout Billing Address Creation,Membuat alamat tagihan pemeriksaab multi pengiriman
-Multishipping Checkout Billing Address Edit Form,Formulir sunting alamat tagihan pemeriksaan multi pengiriman
-Multishipping Checkout Billing Address Selection,Pemilihan alamat tagihan pemeriksaan multi pengiriman
-Multishipping Checkout Billing Information Step,Step Langkah informasi tagihan pemeriksaan multi pengiriman
-Multishipping Checkout Customer Address Edit Form,Formulir sunting alamat pelanggan pemeriksaan multi pengiriman
-Multishipping Checkout Overview,Ikhtisar pemeriksaan multi pengiriman
-Multishipping Checkout Shipping Address Creation,Membuat alamat pengiriman Pemeriksaan multi pengiriman
-Multishipping Checkout Shipping Address Edit Form,Formulir sunting alamat pengiriman pemeriksaan multi pengiriman
-Multishipping Checkout Shipping Address Selection,Pilihan alamat pengiriman pemeriksaan multi pengiriman
-Multishipping Checkout Shipping Information Step,Langkah informasi pengiriman pemeriksaan multi pengiriman
-Multishipping Checkout Success,Pemeriksaan multi pengiriman sukses
+Multishipping Checkout,Checkout multi pengiriman
+Multishipping Checkout Address (Any) Form,Checkout Multi pengiriman Form Alamat (Setiap)
+Multishipping Checkout Billing Address Creation,Membuat alamat tagihan Checkout multi pengiriman
+Multishipping Checkout Billing Address Edit Form,Formulir sunting alamat tagihan Checkout multi pengiriman
+Multishipping Checkout Billing Address Selection,Pemilihan alamat tagihan checkout multi pengiriman
+Multishipping Checkout Billing Information Step,Step Langkah informasi tagihan checkout multi pengiriman
+Multishipping Checkout Customer Address Edit Form,Formulir sunting alamat pelanggan checkout multi pengiriman
+Multishipping Checkout Overview,Ikhtisar checkout multi pengiriman
+Multishipping Checkout Shipping Address Creation,Membuat alamat pengiriman checkout multi pengiriman
+Multishipping Checkout Shipping Address Edit Form,Formulir sunting alamat pengiriman checkout multi pengiriman
+Multishipping Checkout Shipping Address Selection,Pilihan alamat pengiriman checkout multi pengiriman
+Multishipping Checkout Shipping Information Step,Langkah informasi pengiriman  checkout  multi pengiriman
+Multishipping Checkout Success,Checkout multi pengiriman sukses
 My Cart,Keranjang saya
 My Cart (%s item),Keranjang saya (%s Barang)
 My Cart (%s items),keranjang saya (%s Barang barang)
 My Cart Link,Tautan keranjang saya
 New Address,Alamat baru
 New Condition,Kondisi Baru
-One Page Checkout,Pemeriksaan satu halaman
-One Page Checkout Failure,Pemeriksaan satu halaman gagal
-One Page Checkout Overview,Ikhtisar pemeriksaan satu halaman
-One Page Checkout Success,Pemeriksaan satu halaman sukses
+One Page Checkout,checkout satu halaman
+One Page Checkout Failure,Checkout satu halaman gagal
+One Page Checkout Overview,Ikhtisar Checkout satu halaman
+One Page Checkout Success,Checkout satu halaman sukses
 One item of products do not have identifier or sku,Satu item produk tidak memiliki pengenal atau sku
 One item of products is not belong any of quote item,Satu item produk bukan milik setiap item Penawaran
 Order #,Pesanan #
@@ -182,8 +182,8 @@ Payment Failed Emails,Email pembayaran gagal
 Payment Failed Template,Kerangka pembayaran gagal
 Payment Information,Informasi pembayaran
 Payment Method,Metode pembayaran
-Payment Methods After Checkout Button,Metode pembayaran setelah tombol keluar
-Payment Methods Before Checkout Button,Metode pembayaran sebelum tombol keluar
+Payment Methods After Checkout Button,Metode pembayaran setelah tombol checkout
+Payment Methods Before Checkout Button,Metode pembayaran sebelum tombol checkout
 Payment method information,Informasi metode pembayaran
 Payment method is not defined,Metode pembayaran tidak ditentukan
 Payment methods in shopping cart,Metode Pembayaran di keranjang belanja
@@ -197,7 +197,7 @@ Please log in below:,Silakan login di bawah ini:
 Please select shipping address for applicable items,Silakan pilih alamat pengiriman untuk barang-barang yang berlaku
 Please select shipping methods for all addresses,Silahkan pilih metode pengiriman untuk semua alamat
 Price,Harga
-Proceed to Checkout,Lanjutkan ke Keluar
+Proceed to Checkout,Lanjutkan ke checkout
 Product,Produk
 Product Name,Nama Produk
 Products,Produk
@@ -293,7 +293,7 @@ We are processing your order and you will soon receive an email with details of 
 "
 You have no items in your shopping cart.,Anda belum memilih produk untuk dibeli.
 You will receive an order confirmation email with details of your order and a link to track its progress.,Anda akan menerima email konfirmasi pesanan dengan rincian pesanan Anda dan tautan untuk melacak perkembangannya.
-Your Checkout Progress,Perkembangan pemeriksaan Anda
+Your Checkout Progress,Perkembangan Checkout Anda
 Your order # is: %s,Pesanan Anda # adalah: %s
 "Your order # is: <a href=""%s"">%s</a>","Pesanan Anda # adalah: <a href=""%s"">%s</a>"
 Your order has been received,Pesanan Anda telah di terima

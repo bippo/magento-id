@@ -1,50 +1,50 @@
-"Attempt to add an invalid object","Attempt to add an invalid object"
-"Attribute '%s' used in configurable products.","Attribute '%s' used in configurable products."
-"Attribute set with the ""%s"" name already exists","Attribute set with the ""%s"" name already exists"
-"Attribute used in configurable products.","Attribute used in configurable products."
-"Attribute with the same code","Attribute with the same code"
-"Data integrity: No header row found for attribute","Data integrity: No header row found for attribute"
-"Default Product Listing Sort by not exists on Available Product Listing Sort by","Default Product Listing Sort by not exists on Available Product Listing Sort by"
-"Default option value is not defined","Default option value is not defined"
-"EAV types and attributes","EAV types and attributes"
-"Entity collection expected","Entity collection expected"
-"Entity collections expected","Entity collections expected"
-"Entity is not initialized","Entity is not initialized"
-"Failed to load node %s from config.","Failed to load node %s from config."
-"Frontend label is not defined","Frontend label is not defined"
-"Invalid alias, already exists in joined attributes","Invalid alias, already exists in joined attributes"
-"Invalid attribute name: %s","Invalid attribute name: %s"
-"Invalid attribute requested: %s","Invalid attribute requested: %s"
-"Invalid attribute type","Invalid attribute type"
-"Invalid character encountered in increment ID: %s","Invalid character encountered in increment ID: %s"
-"Invalid data object key","Invalid data object key"
-"Invalid entity specified","Invalid entity specified"
-"Invalid entity supplied","Invalid entity supplied"
-"Invalid entity supplied: %s","Invalid entity supplied: %s"
-"Invalid entity type","Invalid entity type"
-"Invalid entity_id, skipping the record","Invalid entity_id, skipping the record"
-"Invalid entity_type specified: %s","Invalid entity_type specified: %s"
-"Invalid foreign key","Invalid foreign key"
-"Invalid joined fields","Invalid joined fields"
-"Invalid store specified","Invalid store specified"
-"Joined field or attribute expression with this alias is already declared","Joined field or attribute expression with this alias is already declared"
-"Joined field with this alias (%s) is already declared","Joined field with this alias (%s) is already declared"
-"Joined field with this alias is already declared","Joined field with this alias is already declared"
-"Loaded %d records","Loaded %d records"
-"No","No"
-"No options found in config node %s","No options found in config node %s"
-"Problem loading a record, aborting. Error: %s","Problem loading a record, aborting. Error: %s"
-"Problem loading the collection, aborting. Error: %s","Problem loading the collection, aborting. Error: %s"
-"Problem saving a record, aborting. Error: ","Problem saving a record, aborting. Error: "
-"Problem saving the collection, aborting. Error: %s","Problem saving the collection, aborting. Error: %s"
-"Saved ","Saved "
-"Scope must not be changed, because the attribute is used in configurable products.","Scope must not be changed, because the attribute is used in configurable products."
-"The attribute code '%s' is reserved by system. Please, try another attribute code.","The attribute code '%s' is reserved by system. Please, try another attribute code."
-"Unknown parameter","Unknown parameter"
-"Valid store_id is expected!","Valid store_id is expected!"
-"Value of attribute ""%s"" must be unique","Value of attribute ""%s"" must be unique"
-"Wrong attribute ID","Wrong attribute ID"
-"Wrong attribute group ID","Wrong attribute group ID"
-"Wrong attribute set ID","Wrong attribute set ID"
-"Wrong entity ID","Wrong entity ID"
-"Yes","Yes"
+Attempt to add an invalid object,Mencoba untuk menambahkan objek yang tidak valid
+Attribute '%s' used in configurable products.,Atribut '%s' di gunakan dalam konfigurasi produk.
+"Attribute set with the ""%s"" name already exists","Atur atribut dengan""%s"" nama yang sudah ada"
+Attribute used in configurable products.,Atribut di gunakan dalam konfigurasi produk
+Attribute with the same code,Atribut dengan kode yang sama
+Data integrity: No header row found for attribute,Integritas data: Tidak ada baris judul ditemukan untuk atribut
+Default Product Listing Sort by not exists on Available Product Listing Sort by,Urutkan berdasarkan Daftar Produk standar dengan tidak ada pada Urutan Daftar Produk Tersedia dengan
+Default option value is not defined,Nilai pilihan standar tidak di tentukan
+EAV types and attributes,EAV Jenis dan atribut
+Entity collection expected,Koleksi entitas yang diharapkan
+Entity collections expected,Koleksi entitas yang diharapkan
+Entity is not initialized,Entitas tidak terinisialisasi
+Failed to load node %s from config.,Gagal memuat simpul %s konfigurasi dari.
+Frontend label is not defined,Label antarmuka tidak ditentukan
+"Invalid alias, already exists in joined attributes","Nama alias ??tidak valid, sudah ada dalam atribut"
+Invalid attribute name: %s,Nama atribut tidak valid: %s
+Invalid attribute requested: %s,Atribut yang di minta tidak valid: %s
+Invalid attribute type,Jenis atribut tidak valid
+Invalid character encountered in increment ID: %s,Karakter tidak valid yang dihadapi dalam penambahan ID: %s
+Invalid data object key,Kunci objek data tidak valid
+Invalid entity specified,Entitas yang ditentukan tidak valid
+Invalid entity supplied,Entitas yang tidak valid diberikan
+Invalid entity supplied: %s,Entitas yang tidak valid diberikan: %s
+Invalid entity type,Jenis entitas tidak valid
+"Invalid entity_id, skipping the record","Entity_id yang tidak valid, lewati catatan"
+Invalid entity_type specified: %s,Entity_type ditentukan yang tidak valid:% s
+Invalid foreign key,Kunci asing yang yang tidak valid
+Invalid joined fields,Bidang yang menyatu tidak valid
+Invalid store specified,Toko yang di tentukan tidak valid
+Joined field or attribute expression with this alias is already declared,Bidang yang tergabung atau ungkapan atribut dengan alias ini sudah dinyatakan
+Joined field with this alias (%s) is already declared,Bidang yang tergabung dengan alias ini (% s) sudah dinyatakan
+Joined field with this alias is already declared,Bidang yang tergabung dengan alias ini sudah dinyatakan
+Loaded %d records,memasukan  %d merekam
+No,Tidak
+No options found in config node %s,Tidak ada pilihan konfigurasi dalam simpul yang ditemukan %s
+"Problem loading a record, aborting. Error: %s","Masalah memuat catatan, membatalkan. Galat:% s"
+"Problem loading the collection, aborting. Error: %s","Memuat koleksi bermasalah, membatalkan. galat: %s"
+"Problem saving a record, aborting. Error: ","Menyimpan catatan bermasalah, membatalkan. Galat: "
+"Problem saving the collection, aborting. Error: %s","Memuat koleksi bermasalah, membatalkan. galat: %s"
+Saved ,Menyimpan
+"Scope must not be changed, because the attribute is used in configurable products.","Ruang Lingkup tidak harus diubah, karena atribut yang digunakan dalam produk dapat dikonfigurasi."
+"The attribute code '%s' is reserved by system. Please, try another attribute code.","kode atribut '% S' isediakan oleh sistem. Silakan, coba kode atribut lain"
+Unknown parameter,Parameter tidak di ketahui
+Valid store_id is expected!,Id_toko yang berlaku di harapakan!
+"Value of attribute ""%s"" must be unique","Nilai atribut ""% s"" harus unik"
+Wrong attribute ID,Id atribut salah
+Wrong attribute group ID,ID grup atribut salah
+Wrong attribute set ID,Pengaturan ID atribut salah
+Wrong entity ID,ID entitas salah
+Yes,Ya

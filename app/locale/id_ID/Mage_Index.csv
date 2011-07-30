@@ -1,43 +1,43 @@
-"%s Index process is working now. Please try run this process later.","%s Index process is working now. Please try run this process later."
-"%s index was rebuilt.","%s index was rebuilt."
-"'%s' Index Process Information","'%s' Index Process Information"
-"Action","Aksi"
-"Cannot initialize the indexer process.","Cannot initialize the indexer process."
-"Change Index Mode","Change Index Mode"
-"Click here to go to <a href=""%s"">Cache Management</a> and refresh cache types.","Click here to go to <a href=""%s"">Cache Management</a> and refresh cache types."
-"Click here to go to <a href=""%s"">Index Management</a> and rebuild required indexes.","Click here to go to <a href=""%s"">Index Management</a> and rebuild required indexes."
-"Description","Keterangan"
-"Disable","Nonaktifkan"
-"Enable","Aktifkan"
-"General","General"
-"Index","Indeks"
-"Index Description","Keterangan Indeks"
-"Index Management","Kelola Indeks"
-"Index Mode","Mode Indeks"
-"Index Name","Nama Indeks"
-"Index mode","Mode indeks"
-"Indexer code is not defined.","Indexer code is not defined."
-"Indexer model is not defined.","Indexer model is not defined."
-"Indexer model should extend Mage_Index_Model_Indexer_Abstract.","Indexer model should extend Mage_Index_Model_Indexer_Abstract."
-"Last Run","Terakhir Dijalankan"
-"Manual Update","Perbarui Manual"
-"Mode","Mode"
-"Never","Tidak Pernah"
-"One or more of the Indexes are not up to date:","One or more of the Indexes are not up to date:"
-"Pending Events","Pending Events"
-"Please select Index(es)","Please select Index(es)"
-"Please select Indexes","Please select Indexes"
-"Process Information","Process Information"
-"Processing","Memproses"
-"Ready","Siap"
-"Refresh","Segarkan"
-"Reindex Data","Re-indeks Data"
-"Reindex Required","Perlu Re-indeks"
-"Status","Status"
-"System","Sistem"
-"The index has been saved.","The index has been saved."
-"There was a problem with reindexing process.","There was a problem with reindexing process."
-"There was a problem with saving process.","There was a problem with saving process."
-"Total of %d index(es) have changed index mode.","Total of %d index(es) have changed index mode."
-"Total of %d index(es) have reindexed data.","Total of %d index(es) have reindexed data."
-"Update on Save","Perbarui saat Simpan"
+%s Index process is working now. Please try run this process later.,%s Proses Indeks bekerja sekarang. Silakan coba menjalankan proses ini nanti.
+%s index was rebuilt.,%s Indeks telah kembali
+'%s' Index Process Information,%s' Informasi proses indeks
+Action,Aksi
+Cannot initialize the indexer process.,Tidak dapat menginisialisasi proses pengindeks.
+Change Index Mode,Rubah mode indeks
+"Click here to go to <a href=""%s"">Cache Management</a> and refresh cache types.","Klik disini untuk pergi ke<a href=""%s"">Cache Management</a> dan perbarui tipe cache."
+"Click here to go to <a href=""%s"">Index Management</a> and rebuild required indexes.","Klik disini untuk pergi ke <a href=""%s"">Index Management</a> dan di butuhkan kembali pengindekan."
+Description,Keterangan
+Disable,Nonaktifkan
+Enable,Aktifkan
+General,Umum
+Index,Indeks
+Index Description,Keterangan Indeks
+Index Management,Kelola Indeks
+Index Mode,Mode Indeks
+Index Name,Nama Indeks
+Index mode,Mode indeks
+Indexer code is not defined.,Kode pengindekan tidak di tentukan
+Indexer model is not defined.,Model pengindekan tidak di tentukan
+Indexer model should extend Mage_Index_Model_Indexer_Abstract.,Model pengindeks harus memperpanjang Mage_Index_Model_Indexer_Abstract.
+Last Run,Terakhir Dijalankan
+Manual Update,Perbarui Manual
+Mode,Mode
+Never,Tidak Pernah
+One or more of the Indexes are not up to date:,Satu atau lebig pengindeks tidak di perbarui
+Pending Events,Event tertunda
+Please select Index(es),Silkan pilih indeks
+Please select Indexes,Silakan pilin indeks
+Process Information,Informasi proses
+Processing,Memproses
+Ready,Siap
+Refresh,Perbarui
+Reindex Data,Re-indeks Data
+Reindex Required,Perlu Re-indeks
+Status,Status
+System,Sistem
+The index has been saved.,Indeks telah di simpan
+There was a problem with reindexing process.,Ada masalah dengan proses indeks ulang.
+There was a problem with saving process.,Ada masalah dengan proses penyimpanan.
+Total of %d index(es) have changed index mode.,Total dari %d indeks telah merubah mode indeks.
+Total of %d index(es) have reindexed data.,Total dari %d indeks telah meng indeks ulang data.
+Update on Save,Perbarui saat Simpan

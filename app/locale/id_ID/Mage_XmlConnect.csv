@@ -1,534 +1,534 @@
-" "," "
-" But cart has some errors."," But cart has some errors."
-"""Description"" is more than %d characters long","""Description"" is more than %d characters long"
-"""Title"" is more than %d characters long","""Title"" is more than %d characters long"
-"%1$s has been added to your wishlist.","%1$s has been added to your wishlist."
-"%1$s incl tax.","%1$s incl tax."
-"%s API Key required.","%s API Key required."
-"%s Application ID required.","%s Application ID required."
-"%s Secret Key required.","%s Secret Key required."
-"%s has been added to your cart.","%s has been added to your cart."
-"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)","(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)"
-"10:40 AM","10:40 AM"
-"80px x 80px","80px x 80px"
-"80x80 px","80x80 px"
-"A Catalog Only App will not support functions such as add to cart, add to wishlist, or login.","A Catalog Only App will not support functions such as add to cart, add to wishlist, or login."
-"A new password has been sent.","A new password has been sent."
-"Account","Account"
-"Account confirmation is required. Please check your email for the confirmation link.","Account confirmation is required. Please check your email for the confirmation link."
-"Account information has been saved.","Account information has been saved."
-"Action","Action"
-"Activate","Activate"
-"Activate PayPal Checkout","Activate PayPal Checkout"
-"Activation Key","Activation Key"
-"Add App","Add App"
-"Add New Template","Add New Template"
-"Add Page","Add Page"
-"Add to Cart","Add to Cart"
-"Add to Wishlist","Add to Wishlist"
-"Additional Address","Additional Address"
-"Additional Countries","Additional Countries"
-"Address","Address"
-"Address 2","Address 2"
-"Address data not specified.","Address data not specified."
-"Address does not belong to this customer.","Address does not belong to this customer."
-"Address has been deleted.","Address has been deleted."
-"Address has been saved.","Address has been saved."
-"Administrative contact for this app and for app submission issues.","Administrative contact for this app and for app submission issues."
-"Advanced Settings","Advanced Settings"
-"After submitting the App, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship\'s Terms of Service: <a href=""%2$s"" target=""_blank"">click here</a>.","After submitting the App, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship\'s Terms of Service: <a href=""%2$s"" target=""_blank"">click here</a>."
-"AirMail Message Queue","AirMail Message Queue"
-"AirMail Messages Queue","AirMail Messages Queue"
-"AirMail Template Preview","AirMail Template Preview"
-"AirMail message","AirMail message"
-"AirMail templates","AirMail templates"
-"All locations","All locations"
-"An account with this email address already exists.","An account with this email address already exists."
-"An error occurred while adding item to wishlist.","An error occurred while adding item to wishlist."
-"An error occurred while deleting the address.","An error occurred while deleting the address."
-"An error occurred while loading category filters.","An error occurred while loading category filters."
-"An error occurred while processing your order. Please contact us or try again later.","An error occurred while processing your order. Please contact us or try again later."
-"An error occurred while processing your request.","An error occurred while processing your request."
-"An error occurred while removing item from wishlist.","An error occurred while removing item from wishlist."
-"An error occurred while removing items from wishlist.","An error occurred while removing items from wishlist."
-"Analytics","Analytics"
-"Android","Android"
-"App Background","App Background"
-"App Background (landscape mode).","App Background (landscape mode)."
-"App Background (portrait mode).","App Background (portrait mode)."
-"App Background <br />(landscape mode)","App Background <br />(landscape mode)"
-"App Background <br />(portrait mode)","App Background <br />(portrait mode)"
-"App Background image missing.","App Background image missing."
-"App Code","App Code"
-"App Information","App Information"
-"App Name","App Name"
-"App Stores","App Stores"
-"App Submission History","App Submission History"
-"App Title","App Title"
-"App code required.","App code required."
-"App does not exist.","App does not exist."
-"App has been deleted.","App has been deleted."
-"App has been saved.","App has been saved."
-"App has been submitted.","App has been submitted."
-"App model not loaded.","App model not loaded."
-"App with specified code does not exist.","App with specified code does not exist."
-"Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)","Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)"
-"Application","Application"
-"Application Key","Application Key"
-"Application Master Secret","Application Master Secret"
-"Application Name","Application Name"
-"Application Secret","Application Secret"
-"Apply will automatically resize this image for display in the App Store and on users’ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Apply will automatically resize this image for display in the App Store and on users’ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512"
-"Are you sure you whant to cancel a message?","Are you sure you whant to cancel a message?"
-"Are you sure you whant to delete a message?","Are you sure you whant to delete a message?"
-"Are you sure you what to cancel selected records?","Are you sure you what to cancel selected records?"
-"Are you sure you what to delete selected records?","Are you sure you what to delete selected records?"
-"Authentication complete.","Authentication complete."
-"Back","Back"
-"Back to App Edit","Back to App Edit"
-"Background Color","Background Color"
-"Banner on Home Screen","Banner on Home Screen"
-"Banner on Home Screen image missing.","Banner on Home Screen image missing."
-"Billing address has been set.","Billing address has been set."
-"Buy %1$s for %2$s","Buy %1$s for %2$s"
-"Buy %1$s for %2$s (%3$s incl. tax) each","Buy %1$s for %2$s (%3$s incl. tax) each"
-"Buy %1$s for %2$s each","Buy %1$s for %2$s each"
-"Buyer country is not allowed by store.","Buyer country is not allowed by store."
-"Cache Lifetime (seconds)","Cache Lifetime (seconds)"
-"Cache Management","Cache Management"
-"Can\'t add item to shopping cart.","Can\'t add item to shopping cart."
-"Can\'t apply the coupon code.","Can\'t apply the coupon code."
-"Can\'t copy file ""%s"" to ""%s"".","Can\'t copy file ""%s"" to ""%s""."
-"Can\'t create wishlist.","Can\'t create wishlist."
-"Can\'t load XML.","Can\'t load XML."
-"Can\'t load application with code ""%s""","Can\'t load application with code ""%s"""
-"Can\'t open submission form.","Can\'t open submission form."
-"Can\'t read file ""%s"".","Can\'t read file ""%s""."
-"Can\'t remove the item.","Can\'t remove the item."
-"Can\'t reset theme.","Can\'t reset theme."
-"Can\'t save address.","Can\'t save address."
-"Can\'t save the customer.","Can\'t save the customer."
-"Can\'t save theme.","Can\'t save theme."
-"Can\'t show configuration.","Can\'t show configuration."
-"Can\'t specify product.","Can\'t specify product."
-"Can\'t submit application.","Can\'t submit application."
-"Can\'t update cart.","Can\'t update cart."
-"Can\'t write to file ""%s"".","Can\'t write to file ""%s""."
-"Cancel","Cancel"
-"Canceled","Canceled"
-"Cancelled","Cancelled"
-"Cannot load theme ""%s"".","Cannot load theme ""%s""."
-"Cannot save theme ""%s"". Incorrect data received","Cannot save theme ""%s"". Incorrect data received"
-"Card Verification Number","Card Verification Number"
-"Card verification number is wrong","Card verification number is wrong"
-"Carrier","Carrier"
-"Cart","Cart"
-"Cart has been updated.","Cart has been updated."
-"Cart has some errors.","Cart has some errors."
-"Cart is empty.","Cart is empty."
-"Catalog Only App?","Catalog Only App?"
-"Category Button Color","Category Button Color"
-"Category Item Background Color","Category Item Background Color"
-"Chairs","Chairs"
-"Change Orientation","Change Orientation"
-"Change Password","Change Password"
-"Changes have been saved to theme.","Changes have been saved to theme."
-"Checkout has been initialized.","Checkout has been initialized."
-"City","City"
-"Color Themes","Color Themes"
-"Colors","Colors"
-"Company","Company"
-"Completed","Completed"
-"Confirm New Password","Confirm New Password"
-"Confirm Password","Confirm Password"
-"Contact Email","Contact Email"
-"Contact Information","Contact Information"
-"Content","Content"
-"Copyright","Copyright"
-"Copyright Page Logo","Copyright Page Logo"
-"Copyright Page Logo <br />(iPhone 4 retina)","Copyright Page Logo <br />(iPhone 4 retina)"
-"Copyright page logo","Copyright page logo"
-"Country","Country"
-"Country options don\'t recognized for ""%s"".","Country options don\'t recognized for ""%s""."
-"Coupon code %s is not valid.","Coupon code %s is not valid."
-"Coupon code %s was applied.","Coupon code %s was applied."
-"Coupon code is empty.","Coupon code is empty."
-"Coupon code was canceled.","Coupon code was canceled."
-"Creating a Template is allowed only for applications which have device type iPhone.","Creating a Template is allowed only for applications which have device type iPhone."
-"Credit Card Number","Credit Card Number"
-"Credit Card Type","Credit Card Type"
-"Credit card number does not match credit card type.","Credit card number does not match credit card type."
-"Current Password","Current Password"
-"Currently, PayPal MEP is not available for the Android application","Currently, PayPal MEP is not available for the Android application"
-"Custom App Icon","Custom App Icon"
-"Custom App Icon <br />(iPhone 4 retina)","Custom App Icon <br />(iPhone 4 retina)"
-"Custom Colors","Custom Colors"
-"Custom application icon","Custom application icon"
-"Customer authentication problem.","Customer authentication problem."
-"Customer email not specified.","Customer email not specified."
-"Customer logout problem.","Customer logout problem."
-"Customer not logged in.","Customer not logged in."
-"Date Created","Date Created"
-"Date Submitted","Date Submitted"
-"Date Updated","Date Updated"
-"Default Billing Address","Default Billing Address"
-"Default Shipping Address","Default Shipping Address"
-"Default Theme","Default Theme"
-"Delete","Delete"
-"Deleted","Deleted"
-"Description","Description"
-"Description that appears in Android Market. %s chars maximum. ","Description that appears in Android Market. %s chars maximum. "
-"Description that appears in the iTunes App Store. %s chars maximum. ","Description that appears in the iTunes App Store. %s chars maximum. "
-"Deselect All","Deselect All"
-"Design","Design"
-"Device","Device"
-"Device Information","Device Information"
-"Device Type","Device Type"
-"Device doesn\'t recognized. Unable to load a template.","Device doesn\'t recognized. Unable to load a template."
-"Device doesn\'t recognized: ""%s"". Unable to load a helper.","Device doesn\'t recognized: ""%s"". Unable to load a helper."
-"Device doesn\'t recognized: ""%s"". Unable to load preview model.","Device doesn\'t recognized: ""%s"". Unable to load preview model."
-"Edit","Edit"
-"Edit AirMail Message","Edit AirMail Message"
-"Edit AirMail Message Queue #%s","Edit AirMail Message Queue #%s"
-"Edit App ""%s""","Edit App ""%s"""
-"Edit Filter","Edit Filter"
-"Edit Template ""%s""","Edit Template ""%s"""
-"Email","Email"
-"Email Address","Email Address"
-"Enable AirMail Message Push notification","Enable AirMail Message Push notification"
-"Enable Facebook","Enable Facebook"
-"Enable Flurry Analytics","Enable Flurry Analytics"
-"Enable Flurry Analytics for the merchant.","Enable Flurry Analytics for the merchant."
-"Enable LinkedIn","Enable LinkedIn"
-"Enable Standard Checkout","Enable Standard Checkout"
-"Enable Twitter","Enable Twitter"
-"Error while processing file ""%s"".","Error while processing file ""%s""."
-"Error while reading data from Payment Bridge. Please, try again.","Error while reading data from Payment Bridge. Please, try again."
-"Error while uploading file ""%s"".","Error while uploading file ""%s""."
-"Error while uploading file ""%s"". Disallowed file type. Only ""jpg"", ""jpeg"", ""gif"", ""png"" are allowed.","Error while uploading file ""%s"". Disallowed file type. Only ""jpg"", ""jpeg"", ""gif"", ""png"" are allowed."
-"Error.","Error."
-"Expiration Date - Month","Expiration Date - Month"
-"Expiration Date - Year","Expiration Date - Year"
-"Extensions","Extensions"
-"FILTERS APPLIED","FILTERS APPLIED"
-"Facebook API","Facebook API"
-"Facebook Application ID","Facebook Application ID"
-"Fax","Fax"
-"File can\'t be uploaded.","File can\'t be uploaded."
-"File doesn\'t exist ""%s"".","File doesn\'t exist ""%s""."
-"First Name","First Name"
-"Flurry API Code","Flurry API Code"
-"Flurry Analytics","Flurry Analytics"
-"Flurry Analytics Site","Flurry Analytics Site"
-"Fonts","Fonts"
-"Free","Free"
-"Funk Leaf","Funk Leaf"
-"General","General"
-"Get Activation Key","Get Activation Key"
-"Get Content from CMS Page","Get Content from CMS Page"
-"Grand Total (Excl. Tax)","Grand Total (Excl. Tax)"
-"Grand Total (Incl. Tax)","Grand Total (Incl. Tax)"
-"Guest","Guest"
-"Header Background Color","Header Background Color"
-"Header Font Color","Header Font Color"
-"High Resolution Application Icon","High Resolution Application Icon"
-"Home","Home"
-"Hot Red","Hot Red"
-"ID","ID"
-"Icon that will appear on the user\'s device after they download your app. Recommended size: 48px x 48px.","Icon that will appear on the user\'s device after they download your app. Recommended size: 48px x 48px."
-"Icon that will appear on the user\'s device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.","Icon that will appear on the user\'s device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px."
-"Icon that will appear on the user\'s phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.","Icon that will appear on the user\'s phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px."
-"Icon that will appear on the user’s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi.","Icon that will appear on the user’s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi."
-"Icons","Icons"
-"If leave this field empty, the message will be sent immediately","If leave this field empty, the message will be sent immediately"
-"If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.","If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page."
-"Image file was not found.","Image file was not found."
-"Image that appears on first screen while your app is loading. Required size: 1024px x 768px.","Image that appears on first screen while your app is loading. Required size: 1024px x 768px."
-"Image that appears on first screen while your app is loading. Required size: 320px x 455px.","Image that appears on first screen while your app is loading. Required size: 320px x 455px."
-"Image that appears on first screen while your app is loading. Required size: 320px x 460px.","Image that appears on first screen while your app is loading. Required size: 320px x 460px."
-"Image that appears on first screen while your app is loading. Required size: 640px x 920px.","Image that appears on first screen while your app is loading. Required size: 640px x 920px."
-"Image that appears on first screen while your app is loading. Required size: 768px x 1024px.","Image that appears on first screen while your app is loading. Required size: 768px x 1024px."
-"Images","Images"
-"In Queue","In Queue"
-"In Stock","In Stock"
-"In order to resubmit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","In order to resubmit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce"
-"In order to submit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","In order to submit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce"
-"Inactive Tabs","Inactive Tabs"
-"Invalid XML.","Invalid XML."
-"Invalid current password.","Invalid current password."
-"Invalid customer data.","Invalid customer data."
-"Invalid data.","Invalid data."
-"Invalid email address.","Invalid email address."
-"Invalid item or wishlist.","Invalid item or wishlist."
-"Invalid login or password.","Invalid login or password."
-"Invalid shipping method.","Invalid shipping method."
-"Issue Number","Issue Number"
-"It\'s not allowed to delete submitted application.","It\'s not allowed to delete submitted application."
-"Item has been added to cart.","Item has been added to cart."
-"Item has been deleted from cart.","Item has been deleted from cart."
-"Item has been removed from wishlist.","Item has been removed from wishlist."
-"Items were updated. But can\'t update wishlist.","Items were updated. But can\'t update wishlist."
-"Key","Key"
-"Keywords","Keywords"
-"Label","Label"
-"Large iTunes Icon","Large iTunes Icon"
-"Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Required size: 512px x 512px.","Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Required size: 512px x 512px."
-"Last Name","Last Name"
-"LinkedIn API","LinkedIn API"
-"LinkedIn API Key","LinkedIn API Key"
-"LinkedIn Secret Key","LinkedIn Secret Key"
-"Loader Splash Screen","Loader Splash Screen"
-"Loader Splash Screen <br />(iPhone 4 retina)","Loader Splash Screen <br />(iPhone 4 retina)"
-"Loader Splash Screen <br />(landscape mode)","Loader Splash Screen <br />(landscape mode)"
-"Loader Splash Screen <br />(portrait mode)","Loader Splash Screen <br />(portrait mode)"
-"Loading Preview...","Loading Preview..."
-"Locations","Locations"
-"Log In","Log In"
-"Login and password are required.","Login and password are required."
-"Logo in Header","Logo in Header"
-"Logo in Header image missing.","Logo in Header image missing."
-"Logout complete.","Logout complete."
-"MEP is PayPal`s native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=""%s"">PayPal business account</a>","MEP is PayPal`s native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=""%s"">PayPal business account</a>"
-"Mailbox title","Mailbox title"
-"Main Tabs","Main Tabs"
-"Make Inactive","Make Inactive"
-"Make this app available in the following territories","Make this app available in the following territories"
-"Manage Apps","Manage Apps"
-"Manage Mobile App","Manage Mobile App"
-"Maximum length is 140","Maximum length is 140"
-"Maximum length is 255","Maximum length is 255"
-"Merchant Label","Merchant Label"
-"Message Queue","Message Queue"
-"Message Settings","Message Settings"
-"Message Templates","Message Templates"
-"Message Title","Message Title"
-"Message Type","Message Type"
-"Message can be edited when status of the message is ""IN QUEUE"" only.","Message can be edited when status of the message is ""IN QUEUE"" only."
-"Message content","Message content"
-"Message title","Message title"
-"Mobile","Mobile"
-"More","More"
-"More Info","More Info"
-"More Tabs","More Tabs"
-"Name on Card","Name on Card"
-"Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.","Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max."
-"New AirMail Message","New AirMail Message"
-"New AirMail Message Queue","New AirMail Message Queue"
-"New App","New App"
-"New Password","New Password"
-"New Template","New Template"
-"Nickname","Nickname"
-"No items were specifed to update.","No items were specifed to update."
-"No items were updated.","No items were updated."
-"No product selected.","No product selected."
-"No such file ""%s"".","No such file ""%s""."
-"Not Submitted","Not Submitted"
-"Notice","Notice"
-"One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.","One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum."
-"Onepage checkout is disabled.","Onepage checkout is disabled."
-"Only free apps are allowed in this version.","Only free apps are allowed in this version."
-"Only registered users can write reviews. Please, log in or register.","Only registered users can write reviews. Please, log in or register."
-"Options menu items","Options menu items"
-"POST data is not valid.","POST data is not valid."
-"Pages","Pages"
-"Password","Password"
-"Password fields cannot be empty.","Password fields cannot be empty."
-"PayPal Mobile Embedded Payment (MEP)","PayPal Mobile Embedded Payment (MEP)"
-"Payment Bridge module unavailable.","Payment Bridge module unavailable."
-"Payment Method has been set.","Payment Method has been set."
-"Payment Methods","Payment Methods"
-"Payment method was successfully set.","Payment method was successfully set."
-"Paypal Merchant Account Email.","Paypal Merchant Account Email."
-"Paypal Merchant Account Username.","Paypal Merchant Account Username."
-"Please Select Application","Please Select Application"
-"Please Select Device Type","Please Select Device Type"
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
-"Please enter ""App Title"".","Please enter ""App Title""."
-"Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type."
-"Please enter the Activation Key.","Please enter the Activation Key."
-"Please enter the Copyright.","Please enter the Copyright."
-"Please enter the Description.","Please enter the Description."
-"Please enter the Price.","Please enter the Price."
-"Please enter the Resubmission Key.","Please enter the Resubmission Key."
-"Please enter the Title.","Please enter the Title."
-"Please make sure your passwords match.","Please make sure your passwords match."
-"Please select at least one country.","Please select at least one country."
-"Please upload  an image for ""App Background (landscape mode)"" field from Design Tab.","Please upload  an image for ""App Background (landscape mode)"" field from Design Tab."
-"Please upload  an image for ""App Background (portrait mode)"" field from Design Tab.","Please upload  an image for ""App Background (portrait mode)"" field from Design Tab."
-"Please upload  an image for ""App Background"" field from Design Tab.","Please upload  an image for ""App Background"" field from Design Tab."
-"Please upload  an image for ""Banner on Home Screen"" field from Design Tab.","Please upload  an image for ""Banner on Home Screen"" field from Design Tab."
-"Please upload  an image for ""Logo in Header"" field from Design Tab.","Please upload  an image for ""Logo in Header"" field from Design Tab."
-"Preset Theme","Preset Theme"
-"Preview","Preview"
-"Price","Price"
-"Price Font Color","Price Font Color"
-"Primary Color","Primary Color"
-"Primary Font Color","Primary Font Color"
-"Problem changing or sending password.","Problem changing or sending password."
-"Product Name3 ","Product Name3 "
-"Product Name3 1","Product Name3 1"
-"Product Name3 2","Product Name3 2"
-"Product is unavailable.","Product is unavailable."
-"Product was not specified.","Product was not specified."
-"Product(s) currently out of stock.","Product(s) currently out of stock."
-"Purchase Order Number","Purchase Order Number"
-"Push Notification","Push Notification"
-"Push Title","Push Title"
-"Push message","Push message"
-"Push title","Push title"
-"Queue Date","Queue Date"
-"Queue Message","Queue Message"
-"Queue does not exist.","Queue does not exist."
-"Quote instance is required.","Quote instance is required."
-"Recipient Information","Recipient Information"
-"Recommended size 1024px x 704px. Note: Image size affects the performance of your app.","Recommended size 1024px x 704px. Note: Image size affects the performance of your app."
-"Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.","Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance."
-"Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.","Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance."
-"Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.","Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance."
-"Recommended size 35px x 35px.","Recommended size 35px x 35px."
-"Recommended size 768px x 294px. Note: Image size affects the performance of your app.","Recommended size 768px x 294px. Note: Image size affects the performance of your app."
-"Recommended size 768px x 960px. Note: Image size affects the performance of your app.","Recommended size 768px x 960px. Note: Image size affects the performance of your app."
-"Regular and confirmation passwords must be equal","Regular and confirmation passwords must be equal"
-"Related Product Background Color","Related Product Background Color"
-"Reset theme to default","Reset theme to default"
-"Resubmission Key","Resubmission Key"
-"Resubmit","Resubmit"
-"Resubmit App","Resubmit App"
-"Resubmit Application","Resubmit Application"
-"Review","Review"
-"SORT BY:","SORT BY:"
-"Save","Save"
-"Save Theme","Save Theme"
-"Save and Continue Edit","Save and Continue Edit"
-"Save and Submit App","Save and Submit App"
-"Save in address book","Save in address book"
-"Screens:","Screens:"
-"Scroll Background Color","Scroll Background Color"
-"Search","Search"
-"Secondary Color","Secondary Color"
-"Secondary Font Color","Secondary Font Color"
-"Select All","Select All"
-"Selected product is unavailable.","Selected product is unavailable."
-"Sender Information","Sender Information"
-"Settings","Settings"
-"Shipping address has been set.","Shipping address has been set."
-"Shipping method has been set.","Shipping method has been set."
-"Shop","Shop"
-"Shopping cart is empty.","Shopping cart is empty."
-"Sky Blue","Sky Blue"
-"Social Networking","Social Networking"
-"Some emails were not sent.","Some emails were not sent."
-"Sorry, no payment options are available for this order at this time.","Sorry, no payment options are available for this order at this time."
-"Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time."
-"Specified address does not exist.","Specified address does not exist."
-"Specified invalid app code.","Specified invalid app code."
-"Specified invalid data.","Specified invalid data."
-"Specified item does not exist in wishlist.","Specified item does not exist in wishlist."
-"Standard Checkout","Standard Checkout"
-"Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)","Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)"
-"Start Date","Start Date"
-"Start Date - Month","Start Date - Month"
-"Start Date - Year","Start Date - Year"
-"State/Province","State/Province"
-"Status","Status"
-"Store View","Store View"
-"Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px.","Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px."
-"Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.","Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px."
-"Store logo that will be displayed on copyright page of application ","Store logo that will be displayed on copyright page of application "
-"Street Address","Street Address"
-"Street Address 2","Street Address 2"
-"Submission","Submission"
-"Submission Fields","Submission Fields"
-"Submission History","Submission History"
-"Submit","Submit"
-"Submit App","Submit App"
-"Submit App ""%s""","Submit App ""%s"""
-"Submit App failure. %s","Submit App failure. %s"
-"Submit App failure. Invalid activation key provided","Submit App failure. Invalid activation key provided"
-"Submit Application","Submit Application"
-"Submitted","Submitted"
-"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)"
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)"
-"Summary of Your Review","Summary of Your Review"
-"T-Shirts","T-Shirts"
-"Tabs","Tabs"
-"Telephone","Telephone"
-"Tell a Friend","Tell a Friend"
-"Tell a Friend is disabled.","Tell a Friend is disabled."
-"Tell a Friend link has been sent.","Tell a Friend link has been sent."
-"Template","Template"
-"Template Content","Template Content"
-"Template Name","Template Name"
-"Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found.","Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found."
-"Template does not exist.","Template does not exist."
-"Template for new AirMail Message does not exist.","Template for new AirMail Message does not exist."
-"Template has been deleted.","Template has been deleted."
-"Thank you for registering!","Thank you for registering!"
-"Thank you for your purchase! ","Thank you for your purchase! "
-"The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">click here</a>","The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">click here</a>"
-"The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.","The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB."
-"Theme configurations are successfully reset.","Theme configurations are successfully reset."
-"Theme name is not set.","Theme name is not set."
-"There were some problems with the data.","There were some problems with the data."
-"This email address was not found in our records.","This email address was not found in our records."
-"This icon will be  used for users’ devices in case if different than AppSore icon needed. ","This icon will be  used for users’ devices in case if different than AppSore icon needed. "
-"This is the description that will appear in the iTunes marketplace. ","This is the description that will appear in the iTunes marketplace. "
-"This is the name that will appear beneath your app when users install it to their device.  .  We recommend choosing a name that is 10-12 characters in length, and that your customers will recognize.","This is the name that will appear beneath your app when users install it to their device.  .  We recommend choosing a name that is 10-12 characters in length, and that your customers will recognize."
-"This will appear in the info section of your App (example:  Copyright 2010 – Your Company, Inc.)","This will appear in the info section of your App (example:  Copyright 2010 – Your Company, Inc.)"
-"Title","Title"
-"Title bar","Title bar"
-"To activate PayPal MEP payment method activate Express checkout first. ","To activate PayPal MEP payment method activate Express checkout first. "
-"Total incl. Tax: %1$s","Total incl. Tax: %1$s"
-"Twitter API","Twitter API"
-"Twitter API Key","Twitter API Key"
-"Twitter Secret Key","Twitter Secret Key"
-"Unable to cancel queue.","Unable to cancel queue."
-"Unable to collect cart totals.","Unable to collect cart totals."
-"Unable to delete queue.","Unable to delete queue."
-"Unable to find an app to delete.","Unable to find an app to delete."
-"Unable to find template to delete.","Unable to find template to delete."
-"Unable to get shipping methods list.","Unable to get shipping methods list."
-"Unable to initialize MEP Checkout.","Unable to initialize MEP Checkout."
-"Unable to load application form.","Unable to load application form."
-"Unable to load product info.","Unable to load product info."
-"Unable to place the order.","Unable to place the order."
-"Unable to post the review.","Unable to post the review."
-"Unable to process preview.","Unable to process preview."
-"Unable to save app.","Unable to save app."
-"Unable to save message.","Unable to save message."
-"Unable to save shipping address.","Unable to save shipping address."
-"Unable to save shipping method.","Unable to save shipping method."
-"Unable to save template.","Unable to save template."
-"Unable to start MEP Checkout.","Unable to start MEP Checkout."
-"Undefined","Undefined"
-"Unknown Error","Unknown Error"
-"Unknown Error.","Unknown Error."
-"Update Preview","Update Preview"
-"Urban Airship Push Notification","Urban Airship Push Notification"
-"Use as my default billing address","Use as my default billing address"
-"Use as my default shipping address","Use as my default shipping address"
-"Username","Username"
-"Users will see this image as the first screen while your application is loading.  It is a 320x460 image.","Users will see this image as the first screen while your application is loading.  It is a 320x460 image."
-"View Details","View Details"
-"View Gallery","View Gallery"
-"Website is offline.","Website is offline."
-"Wishlist has been cleared.","Wishlist has been cleared."
-"Wishlist has been updated.","Wishlist has been updated."
-"Wishlist has been updated. But there are accrued some errors while updating some items.","Wishlist has been updated. But there are accrued some errors while updating some items."
-"Wrong Ipad background image orientation has been specified: ""%s"".","Wrong Ipad background image orientation has been specified: ""%s""."
-"Wrong device type.","Wrong device type."
-"Wrong email format","Wrong email format"
-"Wrong theme format.","Wrong theme format."
-"You are already logged in.","You are already logged in."
-"You can set any additional countries added by Apple Store.","You can set any additional countries added by Apple Store."
-"You can set any price you want for your app, or you can give it away for free. Most apps range from $0.99 - $4.99","You can set any price you want for your app, or you can give it away for free. Most apps range from $0.99 - $4.99"
-"You can watch statistics here.","You can watch statistics here."
-"You will receive an order confirmation email with details of your order and a link to track its progress.","You will receive an order confirmation email with details of your order and a link to track its progress."
-"Your order # is: %s. ","Your order # is: %s. "
-"Your review has been accepted for moderation.","Your review has been accepted for moderation."
-"Zip/Postal Code","Zip/Postal Code"
-"and","and"
-"each","each"
-"iPad","iPad"
-"iPhone","iPhone"
-"save","save"
+ , 
+ But cart has some errors.,Tetapi keranjang memiliki beberapa galat.
+"""Description"" is more than %d characters long","""Deskripsi"" lebih dari %d panjang karakter"
+"""Title"" is more than %d characters long","""Judul"" lebih dari %d panjang karakter"
+%1$s has been added to your wishlist.,%1$s Telah di tambahkan kedaftar keinginan Anda.
+%1$s incl tax.,%1$s termasuk pajak.
+%s API Key required.,%s dibutuhkan kunci API.
+%s Application ID required.,%s ID aplikasi dibutuhkan.
+%s Secret Key required.,%s di butuhkan kunci rahasia.
+%s has been added to your cart.,%s telah di tambahkan pada keranjang Anda.
+"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)","(Termasuk negara yang lebih dari yang tercantum di bawah ini Sebagai pemilik aplikasi, Anda bertanggung jawab untuk mematuhi hukum negara tertentu terkait dengan distribusi atau penjualan aplikasi Anda ke negara itu, termasuk negara asal Anda..)"
+10:40 AM,10:40 AM
+80px x 80px,80px x 80px
+80x80 px,80x80 px
+"A Catalog Only App will not support functions such as add to cart, add to wishlist, or login.","hanya sebuah aplikasi katalog  tidak akan mendukung fungsi-fungsi seperti add to cart, menambah Daftar Keinginan, atau masalah login."
+A new password has been sent.,Kata sandi baru telah di kirim
+Account,Akun
+Account confirmation is required. Please check your email for the confirmation link.,Konfirmasi akun diperlukan. Silahkan periksa email Anda untuk tautan konfirmasi.
+Account information has been saved.,Informasi akun telah di simpan.
+Action,Aksi
+Activate,Aktivasi
+Activate PayPal Checkout,Activasi PayPal Checkout
+Activation Key,Kunci aktivasi
+Add App,Tambah App
+Add New Template,Tambah kerangka baru
+Add Page,Tambah halaman
+Add to Cart,Tambah ke keranjang
+Add to Wishlist,Tambah ke daftar keinginan
+Additional Address,Alamat tambahan
+Additional Countries,Tambahan negara
+Address,Alamat
+Address 2,Alamat 2
+Address data not specified.,Data alamat tidak di tentukan
+Address does not belong to this customer.,Bukan data Alamat pelanggan ini
+Address has been deleted.,Alamat telah di hapus
+Address has been saved.,Alamat telah di simpan.
+Administrative contact for this app and for app submission issues.,kontak administrasi untuk aplikasi ini dan untuk masalah pengajuan aplikasi.
+Advanced Settings,Pengaturan lanjutan
+"After submitting the App, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship\'s Terms of Service: <a href=""%2$s"" target=""_blank"">click here</a>.","Setelah mengirimkan aplikasi, harap hubungi <a href=""mailto:%1$s"">%1$s</a> Untuk menerima kunci aplikasi, rahasia aplikasi dan rahasia master aplikasi<br />Setelah menerima identitasnya ini, silahkan mengisi kolom yang sesuai.<br />Di samping, terimalah Airship Perkotaan Persyaratan Layanan: <a href=""%2$s"" target=""_blank"">Klik di sini</a>."
+AirMail Message Queue,Antrian Pesan AirMail
+AirMail Messages Queue,Antrian Pesan AirMail
+AirMail Template Preview,Tinjauan kerangka AirMail
+AirMail message,Pesan AirMail
+AirMail templates,Kerangka AirMail
+All locations,Semua lokasi
+An account with this email address already exists.,Akun dengan alamat email ini sudah ada.
+An error occurred while adding item to wishlist.,Galat terjadi ketika menambahkan barang ke daftar keinginan.
+An error occurred while deleting the address.,Galat terjadi ketika menghapus alamat.
+An error occurred while loading category filters.,An error occurred while loading category filters.
+An error occurred while processing your order. Please contact us or try again later.,An error occurred while processing your order. Please contact us or try again later.
+An error occurred while processing your request.,An error occurred while processing your request.
+An error occurred while removing item from wishlist.,An error occurred while removing item from wishlist.
+An error occurred while removing items from wishlist.,An error occurred while removing items from wishlist.
+Analytics,Analytics
+Android,Android
+App Background,App Background
+App Background (landscape mode).,App Background (landscape mode).
+App Background (portrait mode).,App Background (portrait mode).
+App Background <br />(landscape mode),App Background <br />(landscape mode)
+App Background <br />(portrait mode),Latar belakang aplikasi<br />(mode potrait)
+App Background image missing.,Gambar latar belakang aplikasi hilang
+App Code,Kode aplikasi
+App Information,Informasi aplikasi
+App Name,Nama Aplikasi
+App Stores,Toko aplikasi
+App Submission History,Riwayat pengajuan aplikasi
+App Title,Judul aplikasi
+App code required.,Kode aplikasi di butuhkan
+App does not exist.,Aplikasi tidak ada
+App has been deleted.,Aplikasi telah di hapus
+App has been saved.,Aplikasi telah di simpan
+App has been submitted.,Aplikasi telah diajukan.
+App model not loaded.,Model aplikasi tidak di masukan
+App with specified code does not exist.,Aplikasi dengan kode tertentu tidak ada
+"Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)","Muncul pada bagian info aplikasi anda (contoh: Hak cipta 2010 – perusahaan anda, Inc.)"
+Application,Aplikasi
+Application Key,Kunci aplikasi
+Application Master Secret,Rahasia master aplikasi
+Application Name,Nama Aplikasi
+Application Secret,Rahasia aplikasi
+"Apply will automatically resize this image for display in the App Store and on users’ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Menerapkan secara otomatis akan mengubah ukuran gambar ini untuk tampilan di dalam App Store dan users� � � perangkat. Sebuah gloss (gradien) juga akan diterapkan, sehingga Anda tidak perlu untuk menerapkan gradien. Gambar harus setidaknya 512x512Apply will automatically resize this image for display in the App Store and on users’ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512"
+Are you sure you want to cancel a message?,Apakah Anda yakin ingin menghapus pesan ini?
+Are you sure you want to delete a message?,Apakah Anda yakin ingin menghapus pesan ini?
+Are you sure you what to cancel selected records?,Apakah anda yakin untuk membatalkan catatan yang di pilih?
+Are you sure you what to delete selected records?,Apakah anda yakin untuk menghapus catatan yang di pilih?
+Authentication complete.,Otentifikasi lengkap
+Back,Kembali
+Back to App Edit,Kembali ke suntingan aplikasi
+Background Color,Warna latar belakang
+Banner on Home Screen,Banner pada Layar Beranda
+Banner on Home Screen image missing.,Banner pada Layar gamabar Beranda Hilang 
+Billing address has been set.,Alamat tagihan telah diatur
+Buy %1$s for %2$s,Beli %1$s untuk%2$s
+Buy %1$s for %2$s (%3$s incl. tax) each,Beli %1$s untuk %2$s (%3$s termasuk pajak) masing masing
+Buy %1$s for %2$s each,Beli %1$s untk %2$s masing masing
+Buyer country is not allowed by store.,Negara pembeli tidak di ijinkan oleh toko.
+Cache Lifetime (seconds),Cache Seumur Hidup (detik)
+Cache Management,Pengelolaan cache
+Can\'t add item to shopping cart.,Bisa\tidak bisa menambah barang ke keranjang belanja
+Can\'t apply the coupon code.,Bisa\tidak bisa menerapkan kode kupon
+"Can\'t copy file ""%s"" to ""%s"".","Bisa\tidak bisa menyalin berkas""%s"" ke ""%s""."
+Can\'t create wishlist.,Bisa\tidak bisa membuat daftar keinginan
+Can\'t load XML.,Bisa\tidak bisa memasukan XML
+"Can\'t load application with code ""%s""","Bisa\tidak bisa memasukan aplikasi dengan kode ""%s"""
+Can\'t open submission form.,Bisa\ tidak bisa membuka pengajuan formulir
+"Can\'t read file ""%s"".","Bisa\tidak bisa membaca berkas""%s""."
+Can\'t remove the item.,Bisa\tidak bisa menghapus barang
+Can\'t reset theme.,Bisa\tidak bisa mereset tema.
+Can\'t save address.,Bisa\tidak bisa menyimpan alamat
+Can\'t save the customer.,Bisa\tidak bisa menyimpan pelanggan
+Can\'t save theme.,Bisa\tidak bisa menyimpan tema
+Can\'t show configuration.,Bisa\tidak bisa memunculkan konfigurasi
+Can\'t specify product.,Bisa\tidak bisa menentukan produk
+Can\'t submit application.,Bisa\tidak bisa mengajukan aplikasi
+Can\'t update cart.,Bisa\tidak bisa memperbarui keranjang.
+"Can\'t write to file ""%s"".","Bisa\tidak bisa menulis berkas""%s""."
+Cancel,Batal
+Canceled,Di batalkan
+Cancelled,Di batalkan
+"Cannot load theme ""%s"".","Tidak dapat memuat tema""%s""."
+"Cannot save theme ""%s"". Incorrect data received","Tidak dapat menyimpan tema ""%s"". Data tidak benar di terima"
+Card Verification Number,Nomor verifikasi kartu
+Card verification number is wrong,Nomor verifikasi kartu salah
+Carrier,Pengangkut
+Cart,keranjang
+Cart has been updated.,Keranjang telah di perbarui
+Cart has some errors.,Keranjang mengalami beberapa masalah
+Cart is empty.,Keranjang kosong.
+Catalog Only App?,Catalog Only App?
+Category Button Color,Category Button Color
+Category Item Background Color,Category Item Background Color
+Chairs,Chairs
+Change Orientation,Change Orientation
+Change Password,Change Password
+Changes have been saved to theme.,Changes have been saved to theme.
+Checkout has been initialized.,Checkout has been initialized.
+City,City
+Color Themes,Color Themes
+Colors,Colors
+Company,Perusahaan
+Completed,Lengkap
+Confirm New Password,Konfirmasi kata sandi baru
+Confirm Password,Konfirmasi kata sandi
+Contact Email,Email kontak
+Contact Information,Informasi kontak
+Content,Isi
+Copyright,Hak cipta
+Copyright Page Logo,Logo halaman hak cipta
+Copyright Page Logo <br />(iPhone 4 retina),Logo halaman hak cipta <br />(iPhone 4 retina)
+Copyright page logo,Logo halaman hak cipta
+Country,Negara
+"Country options don\'t recognized for ""%s"".",Pilihan negara tidak diakui untuk
+Coupon code %s is not valid.,Kode kupon %s tidak valid.
+Coupon code %s was applied.,Kode kupon %s telah di terapkan.
+Coupon code is empty.,Kode kupon kosong.
+Coupon code was canceled.,Kode kupon di batalkan.
+Creating a Template is allowed only for applications which have device type iPhone.,Membuat Template diperbolehkan hanya untuk aplikasi yang memiliki perangkat jenis iPhone
+Credit Card Number,Nomor kartu kredit
+Credit Card Type,Jenis kartu kredit
+Credit card number does not match credit card type.,Nomor kartu kredit tidak sesuai dengan jenis kartu kredit.
+Current Password,Kata sandi saat ini
+"Currently, PayPal MEP is not available for the Android application","Saat ini, PayPal MEP tidak tersedia untuk aplikasi Android"
+Custom App Icon,Ikon aplikasi khusus
+Custom App Icon <br />(iPhone 4 retina),Ikon aplikasi khusus <br />(iPhone 4 retina)
+Custom Colors,Warna khusus
+Custom application icon,Ikon aplikasi khusus
+Customer authentication problem.,Masalah otentifikasi pelanggan
+Customer email not specified.,Email pelanggan tidak di tentukan
+Customer logout problem.,Masalah logout pelanggan
+Customer not logged in.,Pelanggan tidak logged in.
+Date Created,Tanggal di buat
+Date Submitted,Tanggal di ajukan
+Date Updated,tanggal di perbarui
+Default Billing Address,Alamat tagihan standar
+Default Shipping Address,Alamat pengiriman standar
+Default Theme,Tema standar
+Delete,Hapus
+Deleted,Hapus
+Description,Deskripsi
+Description that appears in Android Market. %s chars maximum. ,Keterangan yang muncul di Android Market. % s karakter maksimum.
+Description that appears in the iTunes App Store. %s chars maximum. ,Keterangan yang muncul  di iTunes App Store. % s karakter maksimum.
+Deselect All,Tidak di pilih semua
+Design,Desain
+Device,Alat
+Device Information,Informasi alat
+Device Type,Jenis alat
+Device doesn\'t recognized. Unable to load a template.,Perangkat tidak mengenali. Tidak dapat memuat sebuah template.
+"Device doesn\'t recognized: ""%s"". Unable to load a helper.","Perangkat tidak mengenali: ""% s"". Tidak dapat memuat penolong."
+"Device doesn\'t recognized: ""%s"". Unable to load preview model.","Perangkat tidak dikenal: ""% s"". Tidak dapat memuat model pratinjau."
+Edit,Sunting
+Edit AirMail Message,Sunting pesan AirMail
+Edit AirMail Message Queue #%s,Sunting antrian pesan AirMail#%s
+"Edit App ""%s""","Sunting Aplikasi ""%s"""
+Edit Filter,Sunting Filter
+"Edit Template ""%s""","Sunting kerangka ""%s"""
+Email,Email
+Email Address,Alamat Email
+Enable AirMail Message Push notification,Aktifkan Notifikasi Pesan push AirMail
+Enable Facebook,Aktifkan Facebook
+Enable Flurry Analytics,Aktifkan analisa Flurry
+Enable Flurry Analytics for the merchant.,Aktifkan analisa Flurry untuk pedagang
+Enable LinkedIn,Aktifkan LinkedIn
+Enable Standard Checkout,Aktifkan Checkout standar
+Enable Twitter,Aktifkan twitter
+"Error while processing file ""%s"".","Galat ketika memproses berkas ""%s""."
+"Error while reading data from Payment Bridge. Please, try again.",Galat saat membaca data dari Jembatan Pembayaran. Silakan coba lagi.
+"Error while uploading file ""%s"".","Galat ketika mengunggah berkas ""%s""."
+"Error while uploading file ""%s"". Disallowed file type. Only ""jpg"", ""jpeg"", ""gif"", ""png"" are allowed.","Galat ketika mengunggah berkas""%s"".Batasan jenis berkas . Hanya ""jpg"", ""jpeg"", ""gif"", ""png"" yang di ijinkan."
+Error.,Galat.
+Expiration Date - Month,Tanggal-Bulan kadaluarsa
+Expiration Date - Year,Tanggal- tahun kadaluarsa
+Extensions,Ekstensi
+FILTERS APPLIED,FILTER DI TERAPKAN
+Facebook API,Facebook API
+Facebook Application ID, Aplikasi ID Facebook
+Fax,Fax
+File can\'t be uploaded.,Berkas bisa\tidak bisa di unggah
+"File doesn\'t exist ""%s"".","Berkas tidak ada ""%s""."
+First Name,Nama awal
+Flurry API Code,Flurry kode API
+Flurry Analytics,Analisa Flurry
+Flurry Analytics Site,Situs analisa Flurry
+Fonts,Hurup
+Free,Gratis
+Funk Leaf,Daun Funk
+General,Umum
+Get Activation Key,Dapatkan kunci aktivasi
+Get Content from CMS Page,Dapatkan isi dari halaman  CMS
+Grand Total (Excl. Tax),Grand Total (Tidak termasuk pajak)
+Grand Total (Incl. Tax),Grand Total (Termasuk pajak)
+Guest,Tamu
+Header Background Color,Warna latar belakang Header
+Header Font Color,Warna hurup Header
+High Resolution Application Icon,Ikon aplikasi resolusi tinggi
+Home,Beranda
+Hot Red,Merah panas
+ID,ID
+Icon that will appear on the user\'s device after they download your app. Recommended size: 48px x 48px.,Ikon tersebut akan muncul pada perangkat pengguna setelah pengguna mengunduh aplikasi anda.rekomendasi ukuran: 48px x 48px.
+Icon that will appear on the user\'s device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.,Ikon tersebut akan muncul pada perangkat pengguna setelah pengguna mengunduh aplikasi Anda. Anda tidak perlu menerapkan gradien atau pinggiran ringan (ini dilakukan secara otomatis oleh Apple). Rekomendasi ukuran: 72px 72px x.
+Icon that will appear on the user\'s phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.,Ikon tersebut akan muncul di telepon pengguna setelah mereka mengunduh aplikasi Anda. Anda tidak perlu menerapkan gradien atau pinggiran ringan (ini dilakukan secara otomatis oleh Apple). Rekomendasi Ukuran: 114px x 114px.
+Icon that will appear on the user’s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi.,Ikon yang akan muncul pada telepon pengguna setelah mereka mengunduh aplikasi Anda. Anda tidak perlu menerapkan gradien atau pinggiran ringan (ini dilakukan secara otomatis oleh Apple). Ukuran yang direkomendasikan: 57px 57px x pada 72 dpi.
+Icons,Ikon
+"If leave this field empty, the message will be sent immediately","Jika membiarkan bidang ini kosong, pesan akan di kirim secepatnya"
+"If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.","Jika Anda ingin menonaktifkan cache pada sisi aplikasi, membiarkan bidang kosong. Peringatan! Ketika menonaktifkan cache, aplikasi akan mengambil waktu untuk memuat setiap halaman."
+Image file was not found.,Berkas gambar tidak di temukan
+Image that appears on first screen while your app is loading. Required size: 1024px x 768px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 1024px x 768px.
+Image that appears on first screen while your app is loading. Required size: 320px x 455px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 455px.
+Image that appears on first screen while your app is loading. Required size: 320px x 460px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 460px.
+Image that appears on first screen while your app is loading. Required size: 640px x 920px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 640px x 920px.
+Image that appears on first screen while your app is loading. Required size: 768px x 1024px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 768px x 1024px.
+Images,Gambar
+In Queue,Dalam antrian
+In Stock,Dalam stok
+"In order to resubmit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Agar dapat mengirim ulang aplikasi Anda, Anda harus terlebih dahulu membeli <a href=""%s"" target=""_blank"">%s</a> dari MagentoCommerce"
+"In order to submit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Agar dapat mengirim ulang aplikasi Anda, Anda harus terlebih dahulu membeli <a href=""%s"" target=""_blank"">%s</a> dari MagentoCommerce"
+Inactive Tabs,Tab tidak aktif
+Invalid XML.,XML tidak valid
+Invalid current password.,Kata sandi saat ini tidak valid
+Invalid customer data.,Data pelanggan tidak valid
+Invalid data.,Data tidak valid.
+Invalid email address.,Alamat email tidak valid.
+Invalid item or wishlist.,Barang atau daftar keinginan tidak valid
+Invalid login or password.,login atau kata sandi tidak valid.
+Invalid shipping method.,Metode pengiriman tidak valid.
+Issue Number,Nomor terbitan
+It\'s not allowed to delete submitted application.,Tidak di ijinkan untuk menghapus aplikasi pengajuan
+Item has been added to cart.,Barang telah di tambahkan ke keranjang
+Item has been deleted from cart.,Barang telah di hapus dari keranjang
+Item has been removed from wishlist.,Barang telah di hapus dari daftar keinginan.
+Items were updated. But can\'t update wishlist.,Barang telah di perbarui. Tetapi dapat\tidak dapat di perbarui dari daftar keinginan.
+Key,Kunci
+Keywords,Kata kunci
+Label,Label
+Large iTunes Icon,Icon iTune besar
+Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Required size: 512px x 512px.,Ikon besar yang muncul di iTunes App Store. Anda tidak perlu menerapkan gradien atau pinggiran ringan (ini dilakukan secara otomatis oleh Apple). Ukuran yang dibutuhkan: 512px x 512px.
+Last Name,Nama akhir
+LinkedIn API,LinkedIn API
+LinkedIn API Key,Kunci LinkedIn API
+LinkedIn Secret Key,Kunci rahasia LinkedIn
+Loader Splash Screen,Pemuat layar splash
+Loader Splash Screen <br />(iPhone 4 retina),Pemuat layar splash<br />(iPhone 4 retina)
+Loader Splash Screen <br />(landscape mode),Pemuat layar splash <br />(mode landscape)
+Loader Splash Screen <br />(portrait mode),Pemuat layar splash <br />(mode potret)
+Loading Preview...,Memuat tinjauan�
+Locations,Lokasi
+Log In,Masuk
+Login and password are required.,Login dan kata sandi di butuhkan
+Logo in Header,Logo pada header
+Logo in Header image missing.,Logo pada gambar header hilang
+Logout complete.,Logout selesai.
+"MEP is PayPal`s native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=""%s"">PayPal business account</a>","MEP PayPal checkout `s pengalaman yang asli yang untuk iPhone. Anda dapat memilih untuk menggunakan standar bersama MEP Checkout, atau menggunakannya sebagai metode checkout hanya untuk Magento mobile. PayPal MEP memerlukan <a href=""%s"">akun PayPal business</a>"
+Mailbox title,Judul kotak surat
+Main Tabs,Tab utama
+Make Inactive,Buat tidak aktif
+Make this app available in the following territories,Membuat aplikasi ini tersedia di wilayah berikut
+Manage Apps,Kelola aplikasi
+Manage Mobile App,Kelola aplikasi mobile
+Maximum length is 140,Panjang maksimum adalah 140
+Maximum length is 255,Panjang maksimum adalah 255
+Merchant Label,Label pedagang
+Message Queue,Antrian pesan
+Message Settings,Pengaturan pesan
+Message Templates,Kerangka pesan
+Message Title,Jiudul pesan
+Message Type,Jenis pesan
+"Message can be edited when status of the message is ""IN QUEUE"" only.","Pesan dapat disunting ketika status pesan adalah ""DI ANTRIAN"" saja."
+Message content,Isi pesan
+Message title,Judul pesan
+Mobile,Handphone
+More,Lebih
+More Info,Info lebih
+More Tabs,Tab lebih
+Name on Card,Nama pada kartu
+Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.,Nama yang muncul di bawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. Kami sarankan untuk memilih nama yang 10-12 karakter dan bahwa pelanggan Anda akan mengenali. % s karakter maks.
+New AirMail Message,Pesan AirMail baru
+New AirMail Message Queue,Antrian pesan AirMail baru
+New App,Aplikasi baru
+New Password,Kata sandi baru
+New Template,Kerangka baru
+Nickname,Nama panggilan
+No items were specifed to update.,Tidak ada barang yang di tentukan di perbarui
+No items were updated.,Tidak ada barang yang di perbarui
+No product selected.,Tidak ada produk yang di pilih
+"No such file ""%s"".","Tidak ada berkas""%s""."
+Not Submitted,Belum di ajukan
+Notice,Catatan
+One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.,Satu atau lebih kata kunci yang menjelaskan aplikasi Anda. Kata kunci dicocokkan dengan pencarian pengguna di App Store dan kembali membantu hasil pencarian yang akurat. Pisahkan beberapa kata kunci dengan koma. 100 karakter maksimum.
+Onepage checkout is disabled.,Checkout satu halaman tidak aktif
+Only free apps are allowed in this version.,Hanya aplikasi gratis di ijinkan pada versi ini
+"Only registered users can write reviews. Please, log in or register.","Hanya pengguna terdaftar yang dapat menulis tinjauan. Silahkan, login atau mendaftar."
+Options menu items,Pilihan menu barang.
+POST data is not valid.,POST data is not valid.
+Pages,Pages
+Password,Password
+Password fields cannot be empty.,Password fields cannot be empty.
+PayPal Mobile Embedded Payment (MEP),PayPal Mobile Embedded Payment (MEP)
+Payment Bridge module unavailable.,Payment Bridge module unavailable.
+Payment Method has been set.,Payment Method has been set.
+Payment Methods,Payment Methods
+Payment method was successfully set.,Payment method was successfully set.
+Paypal Merchant Account Email.,Paypal Merchant Account Email.
+Paypal Merchant Account Username.,Paypal Merchant Account Username.
+Please Select Application,Silakan pilih aplikasi
+Please Select Device Type,Silakan pilih jenis perangkat
+Please agree to all the terms and conditions before placing the order.,Silahkan menyetujui semua syarat dan ketentuan sebelum menempatkan pesanan.
+"Please enter ""App Title"".","Silakan masukan ""Judul aplikasi""."
+Please enter issue number or start date for switch/solo card type.,Silakan masukkan nomor penerbitan atau tanggal mulai untuk beralih / jenis kartu tunggal.
+Please enter the Activation Key.,Silakan masukan kunci aktivasi
+Please enter the Copyright.,Silakan masukan Hakcipta.
+Please enter the Description.,Silakan masukan deskripsi
+Please enter the Price.,Silakan masukan harga.
+Please enter the Resubmission Key.,Silakan masukan pengiriman ulang kunci.
+Please enter the Title.,Silakan masukan judul
+Please make sure your passwords match.,Pastikan bahwa kata sandi anda cocok
+Please select at least one country.,Silakan pilih paling sedikit satu negara
+"Please upload  an image for ""App Background (landscape mode)"" field from Design Tab.","Silahkan unggah foto untuk ""Latar Belakang App (mode landscape)"" bidang dari Tab Desain."
+"Please upload  an image for ""App Background (portrait mode)"" field from Design Tab.","Silahkan unggah foto untuk ""Latar Belakang App (mode potret)"" bidang dari Tab Desain."
+"Please upload  an image for ""App Background"" field from Design Tab.","Silahkan unggah foto untuk ""Latar Belakang App"" bidang dari Tab Desain."
+"Please upload  an image for ""Banner on Home Screen"" field from Design Tab.","Silahkan unggah foto untuk ""Banner pada latar beranda"" bidang dari Tab Desain."
+"Please upload  an image for ""Logo in Header"" field from Design Tab.","Silahkan unggah foto untuk ""Logo pada header"" bidang dari Tab Desain."
+Preset Theme,Preset tema
+Preview,Tinjauan
+Price,Harga
+Price Font Color,Warna hurup harga
+Primary Color,Warna primer
+Primary Font Color,Warna hurup primer
+Problem changing or sending password.,Masalah mengubah atau mengirimkan Kata sandi.
+Product Name3 ,Nama produk 3
+Product Name3 1,Nama produk 3 1
+Product Name3 2,Nama produk3 2
+Product is unavailable.,Produk tidak tersedia
+Product was not specified.,Produk tidak di tentukan
+Product(s) currently out of stock.,Produk saat ini habis
+Purchase Order Number,Nomor pesanan pembelian
+Push Notification,notifikasi Push 
+Push Title,Judul Push
+Push message,Pesan push
+Push title,Judul push
+Queue Date,Tanggal antrian
+Queue Message,Pesan antrian
+Queue does not exist.,Antrian tidak ada
+Quote instance is required.,Contoh antrian di perlukan
+Recipient Information,Penerima informasi
+Recommended size 1024px x 704px. Note: Image size affects the performance of your app.,Rekomendasi ukuran 1024px x 704px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda.
+Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rekomendasi ukuran 320px x 230px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda di bawah 50 KB untuk kinerja yang optimal.
+Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rekomendasi ukuran 320px x 258px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda di bawah 50 KB untuk kinerja yang optimal.
+Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.,Rekomendasi ukuran 320px x 367px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda di bawah 75 KB untuk kinerja yang optimal.
+Recommended size 35px x 35px.,Rekomendasi ukuran 35px x 35px.
+Recommended size 768px x 294px. Note: Image size affects the performance of your app.,Rekomendasi ukuran 768px x 294px.Catatan Ukuran foto mempengaruhi kinerja dari aplikasi Anda.
+Recommended size 768px x 960px. Note: Image size affects the performance of your app.,Rekomendasi ukuran 768px x 960px.Catatan Ukuran foto mempengaruhi kinerja dari aplikasi Anda.
+Regular and confirmation passwords must be equal,Regular and confirmation passwords must be equal
+Related Product Background Color,Terkait warna latar belakang produk
+Reset theme to default,Reset tema ke standar
+Resubmission Key,Kunci pengajuan ulang
+Resubmit,Pengajuan ulang
+Resubmit App,Pengajuan ulang aplikasi
+Resubmit Application,Pengajuan ulang aplikasi
+Review,Tinjauan
+SORT BY:,URUTKAN OLEH:
+Save,Simpan
+Save Theme,Simpan tema
+Save and Continue Edit,Simpan dan lanjutkan sunting
+Save and Submit App,Simpan dan ajukan aplikasi
+Save in address book,Simpan dalam buku alamat
+Screens:,Layar:
+Scroll Background Color,Scroll warna latar belakang
+Search,Cari
+Secondary Color,Warna kedua
+Secondary Font Color,Warna hurup kedua
+Select All,Pilih semua
+Selected product is unavailable.,Pilihan roduk tidak tersedia
+Sender Information,Informasi pengirim
+Settings,Pengaturan
+Shipping address has been set.,Alamat pengiriman telah diatur
+Shipping method has been set.,Metode pengiriman telah di atur
+Shop,Toko
+Shopping cart is empty.,Keranjang belanja kosong
+Sky Blue,Langit biru
+Social Networking,Jejaring sosial
+Some emails were not sent.,Beberapa email tidak terkirim
+"Sorry, no payment options are available for this order at this time.","Maaf, tidak ada pilihan pembayaran yang tersedia untuk pesanan ini saat ini."
+"Sorry, no quotes are available for this order at this time.","Maaf, tidak ada harga yang tersedia untuk pesanan ini saat ini."
+Specified address does not exist.,Alamat tertentu tidak ada
+Specified invalid app code.,Kode aplikasi tertentu tidak valid.
+Specified invalid data.,Data tertentu tidak valid.
+Specified item does not exist in wishlist.,Item tertentu tidak ada dalam Daftar Keinginan.
+Standard Checkout,Standar Checkout
+"Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)","Checkout standar menggunakan metode checkout yang disediakan oleh Magento. Hanya metode pembayaran sebaris didukung. (e.g PayPal Direct, Authorize.Net, dll)"
+Start Date,Tanggal mulai
+Start Date - Month,Tanggal mulai - bulan
+Start Date - Year,Tanggal mulai -tahun
+State/Province,Negara/Provinsi
+Status,Status
+Store View,Tampilan toko
+Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px.,logo toko yang ditampilkan di halaman hak cipta dari aplikasi. Pilihan ukuran: 100px x 100px.
+Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.,logo toko yang ditampilkan di halaman hak cipta dari aplikasi. Pilihan ukuran: 200px x200px.
+Store logo that will be displayed on copyright page of application , logo toko yang akan ditampilkan di halaman hak cipta dari aplikasi
+Street Address,Alamat Jalan
+Street Address 2,Alamat jalan 2
+Submission,Pengajuan
+Submission Fields,Bidang pengajuan
+Submission History,Riwayat pengajuan
+Submit,Pengajuan
+Submit App,Aplikasi pengajuan
+"Submit App ""%s""","Aplikasi pengajuan ""%s"""
+Submit App failure. %s,Pengajuan aplikasi gagal. %s
+Submit App failure. Invalid activation key provided,Pengajuan aplikasi gagal. Kunci aplikasi yang di sediakan tidak valid
+Submit Application,Ajukan aplikasi
+Submitted,Di ajukan
+Subtotal (Excl. Tax),Subtotal (Tidak termasuk pajak)
+Subtotal (Incl. Tax),Subtotal (Termasuk pajak)
+Summary of Your Review,Ringkasan dari tinjauan anda
+T-Shirts,T-Shirts
+Tabs,Tab
+Telephone,Telepon
+Tell a Friend,Berbagi teman
+Tell a Friend is disabled.,Berbagi teman tidak aktif
+Tell a Friend link has been sent.,Tautan berbagi teman telah dikirim
+Template,Kerangka
+Template Content,Isi kerangka
+Template Name,Nama kerangka
+"Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found.","Penciptaan kerangka diperbolehkan hanya untuk aplikasi yang memiliki  jenis perangkat iPhone, tapi ini jenis aplikasi belum ditemukan."
+Template does not exist.,Kerangka tidak ada
+Template for new AirMail Message does not exist.,Kerangka untuk pesan AirMail baru tidak ada.
+Template has been deleted.,Kerangka telah di hapus
+Thank you for registering!,Terimakasih telah mendaftar!
+Thank you for your purchase! ,Terimakasih atas pembelian Anda!
+"The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">click here</a>","Judul Kotak surat akan ditampilkan di tab More Info. Untuk memahami lebih lanjut tentang judul, silahkan <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">klik disini</a>"
+The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.,Ikon yang muncul di Android Market. Rekomendasi Ukuran: 512px x 512px. Ukuran maksimum: 1024 KB.
+Theme configurations are successfully reset.,Konfigurasi tema telah berhasil di reset.
+Theme name is not set.,Nama tema tidak di set.
+There were some problems with the data.,Ada beberapa masalah dengan data.
+This email address was not found in our records.,Alamat email ini tidak di temukan di catatan kami.
+This icon will be  used for users’ devices in case if different than AppSore icon needed. ,Ikon ini akan digunakan untuk perangkat pengguna dalam halnya jika berbeda dari ikon AppSore yang dibutuhkan.
+This is the description that will appear in the iTunes marketplace. ,Ini adalah deskripsi yang akan muncul di pasar iTunes.
+"This is the name that will appear beneath your app when users install it to their device.  .  We recommend choosing a name that is 10-12 characters in length, and that your customers will recognize.","Ini adalah nama yang akan muncul di bawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. . Kami sarankan untuk memilih nama yang 10-12 karakter, dan bahwa pelanggan Anda akan mengenali."
+"This will appear in the info section of your App (example:  Copyright 2010 – Your Company, Inc.)","Ini akan muncul di bagian info dari aplikasi Anda (example:  Copyright 2010 – nama perusahaan anda, Inc.)"
+Title,Judul
+Title bar,Judul Bar
+To activate PayPal MEP payment method activate Express checkout first. ,Untuk mengaktifkan metode pembayaran PayPal MEP aktifkan Ekspres checkout dulu.
+Total incl. Tax: %1$s,Total termasuk pajak: %1$s
+Twitter API,Twitter API
+Twitter API Key,kunci Twitter API 
+Twitter Secret Key,kunci rahasia Twitter 
+Unable to cancel queue.,Tidak dapat membatalkan antrian
+Unable to collect cart totals.,Tidak dapat mengumpulkan total keranjang.
+Unable to delete queue.,Tidak dapat menghapus antrian.
+Unable to find an app to delete.,Tidak dapat menemukan apliksi untuk di hapus.
+Unable to find template to delete.,Tidak dapat menemukan kerangka untuk di hapus.
+Unable to get shipping methods list.,Tidak bisa mendapatkan daftar metode pengiriman.
+Unable to initialize MEP Checkout.,tidak dapat mengenali MEP Checkout.
+Unable to load application form.,Tidak dapat memuat form aplikasi.
+Unable to load product info.,Tidak dapat memuat info produk.
+Unable to place the order.,Tidak dapat menempatkan pesanan.
+Unable to post the review.,Tidak dapat memposting tinjauan.
+Unable to process preview.,Tidak dapat memproses tinjauan.
+Unable to save app.,Tidak dapat menyimpan aplikasi.
+Unable to save message.,Tidak dapat menyimpan pesan.
+Unable to save shipping address.,Tidak dapat menyimpan alamat pengiriman.
+Unable to save shipping method.,Tidak dapat menyimpan metode pengiriman.
+Unable to save template.,Tidak dapat menyimpan kerangka.
+Unable to start MEP Checkout.,Tidak dapat memulai MEP Checkout.
+Undefined,Tidak di tentukan
+Unknown Error,Galat tidak di ketahui
+Unknown Error.,Galat tidak di ketahui
+Update Preview,Perbaruan tinjauan
+Urban Airship Push Notification,Notifikasi Push Airship kota
+Use as my default billing address,Gunakan sebagai alamat tagihan standar saya
+Use as my default shipping address,Gunakan sebagai alamat pengiriman standar saya
+Username,Nama pengguna
+Users will see this image as the first screen while your application is loading.  It is a 320x460 image.,Pengguna akan melihat gambar ini sebagai layar pertama ketika aplikasi Anda sedang memuat. Ini adalah gambar 320x460.
+View Details,Lihat detil
+View Gallery,Lihat galeri
+Website is offline.,Situs offline
+Wishlist has been cleared.,Daftar keinginan telah di hapus
+Wishlist has been updated.,Daftar keinginan telah di perbarui
+Wishlist has been updated. But there are accrued some errors while updating some items.,Daftar keinginan telah di perbarui. Tapi ada beberapa kesalahan sementara diperoleh memperbarui beberapa item.
+"Wrong Ipad background image orientation has been specified: ""%s"".","Orientasi gambar latar belakang ipad yang salah telah di tetapkan""%s""."
+Wrong device type.,Jenis perangkat salah.
+Wrong email format,Format email salah.
+Wrong theme format.,Format tema salah.
+You are already logged in.,Anda telah masuk.
+You can set any additional countries added by Apple Store.,Anda dapat mengatur negara lainnya ditambahkan oleh Apple Store.
+"You can set any price you want for your app, or you can give it away for free. Most apps range from $0.99 - $4.99","Anda dapat menetapkan harga apapun yang Anda inginkan untuk aplikasi Anda, atau Anda dapat memberikannya secara gratis. Kebanyakan aplikasi berkisar dari  $0.99 - $4.99"
+You can watch statistics here.,Anda dapat melihat statistik disini.
+You will receive an order confirmation email with details of your order and a link to track its progress.,Anda akan menerima email konfirmasi pesanan dengan rincian pesanan Anda dan tautan untuk melacak kemajuannya.
+Your order # is: %s. ,Pesanan Anda  # adalah: %s. 
+Your review has been accepted for moderation.,Tinjauan Anda telah diterima untuk moderasi.
+Zip/Postal Code,Zip/kode pos
+and,dan
+each,masing masing
+iPad,iPad
+iPhone,iPhone
+save,simpan

@@ -1,40 +1,40 @@
-"--Please Select--","--Please Select--"
-"API Login ID","API Login ID"
-"Accepted Currency","Accepted Currency"
-"Authorize.net Direct Post","Authorize.net Direct Post"
-"Card Verification Number","Card Verification Number"
-"Card Verification Number Visual Reference","Card Verification Number Visual Reference"
-"Close","Close"
-"Credit Card Information","Credit Card Information"
-"Credit Card Number","Credit Card Number"
-"Credit Card Type","Credit Card Type"
-"Credit Card Types","Credit Card Types"
-"Credit Card Verification","Credit Card Verification"
-"Debug","Debug"
-"Email Customer","Email Customer"
-"Enabled","Enabled"
-"Expiration Date","Expiration Date"
-"Gateway URL","Gateway URL"
-"Maximum Order Total","Maximum Order Total"
-"Merchant MD5","Merchant MD5"
-"Merchant's Email","Merchant's Email"
-"Minimum Order Total","Minimum Order Total"
-"New Order Status","New Order Status"
-"Order saving error: %s","Order saving error: %s"
-"Payment Action","Payment Action"
-"Payment authorization error.","Payment authorization error."
-"Payment authorization error. Transacion id is empty.","Payment authorization error. Transacion id is empty."
-"Payment error. Order was not found.","Payment error. Order was not found."
-"Payment error. Paid amount doesn\'t match the order amount.","Payment error. Paid amount doesn\'t match the order amount."
-"Payment from Applicable Countries","Payment from Applicable Countries"
-"Payment from Specific Countries","Payment from Specific Countries"
-"Please, choose payment method","Please, choose payment method"
-"Response hash validation failed. Transaction declined.","Response hash validation failed. Transaction declined."
-"Sort Order","Sort Order"
-"Test Mode","Test Mode"
-"The order has been created.","The order has been created."
-"There was an error processing your order. Please contact us or try again later.","There was an error processing your order. Please contact us or try again later."
-"Title","Title"
-"Transaction Key","Transaction Key"
-"What is this?","What is this?"
-"You will be required to enter your payment details before you place an order.","You will be required to enter your payment details before you place an order."
+--Please Select--,silakan pilih
+API Login ID,API ID masuk
+Accepted Currency,Kurs yang di terima
+Authorize.net Direct Post,Authorize.net Langsung Kirim
+Card Verification Number,Nomor verifikasi kartu
+Card Verification Number Visual Reference,Kartu Verifikasi Visual Nomor Referensi
+Close,Tutup
+Credit Card Information,Informasi kartu kredit
+Credit Card Number,Nomor kartu kredit
+Credit Card Type,Jenis kartu kredit
+Credit Card Types,Jenis kartu kredit
+Credit Card Verification,Verifikasi kartu kredit
+Debug,Debug
+Email Customer,Email pelanggan
+Enabled,Aktif
+Expiration Date,Tanggal kadaluarsa
+Gateway URL,Gateway URL
+Maximum Order Total,Total pesanan Maksimum
+Merchant MD5,Penjual MD5
+Merchant's Email,Email penjual
+Minimum Order Total,Total pesanan minimum
+New Order Status,Status pesanan baru
+Order saving error: %s,Menyimpan pesanan Galat: %s
+Payment Action,Aksi pembayaran
+Payment authorization error.,Galat otorisasi pembayaran.
+Payment authorization error. Transacion id is empty.,Galat otorisasi pembayaran. Id transaksi kosong.
+Payment error. Order was not found.,Galat pembayaran. Pesanan tidak di temukan
+Payment error. Paid amount doesn\'t match the order amount.,Pembayaran galat.Jumlah yang dibayar tidak cocok dengan jumlah pesanan. 
+Payment from Applicable Countries,Pembayaran dari Negara terkait
+Payment from Specific Countries,Pembayaran dari negara tertentu
+"Please, choose payment method","Silkan, pilih metode pembayaran"
+Response hash validation failed. Transaction declined.,Respon hash gagal validasi. Transaksi di tolak.
+Sort Order,Jenis Pesanan
+Test Mode,Mode tes
+The order has been created.,Pesanan telah di buat
+There was an error processing your order. Please contact us or try again later.,Ada masalah saat memproses pesanan Anda. Silahkan hubungi kami atau coba lagi nanti.
+Title,Judul
+Transaction Key,Kunci transaksi
+What is this?,Apa ini?
+You will be required to enter your payment details before you place an order.,Anda akan diminta untuk memasukkan rincian pembayaran Anda sebelum Anda memesan.

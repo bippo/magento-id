@@ -1,39 +1,39 @@
-"* Required Fields","* Required Fields"
-"Add","Add"
-"Add gift message for shopping cart","Add gift message for shopping cart"
-"Add gift messages for quote item of shopping cart","Add gift messages for quote item of shopping cart"
-"Add gift messages to products of shopping cart","Add gift messages to products of shopping cart"
-"Add gift options","Add gift options"
-"Add gift options for Individual Items","Add gift options for Individual Items"
-"Add gift options for the Entire Order","Add gift options for the Entire Order"
-"Add gift options.","Add gift options."
-"Allow Gift Messages for Order Items","Allow Gift Messages for Order Items"
-"Allow Gift Messages on Order Level","Allow Gift Messages on Order Level"
-"Are you sure?","Are you sure?"
-"Cancel","Cancel"
-"Do you have any gift items in your order?","Do you have any gift items in your order?"
-"Edit","Edit"
-"From","From"
-"Gift Message","Gift Message"
-"Gift Message API","Gift Message API"
-"Gift Options","Gift Options"
-"Gift Options for","Gift Options for"
-"Gift Options for Individual Items","Gift Options for Individual Items"
-"Gift Options for the Entire Order.","Gift Options for the Entire Order."
-"Gift Options for this address.","Gift Options for this address."
-"Item %d of %d","Item %d of %d"
-"Message","Message"
-"No","No"
-"OK","OK"
-"Save Gift Message","Save Gift Message"
-"To","To"
-"Unknown entity type","Unknown entity type"
-"Use config","Use config"
-"Yes","Yes"
-"You can leave a box blank if you don't wish to add a gift message for the item.","You can leave a box blank if you don't wish to add a gift message for the item."
-"You can leave a box blank if you don't wish to add a gift message for this address.","You can leave a box blank if you don't wish to add a gift message for this address."
-"You can leave a box blank if you don't wish to add a gift message for whole order.","You can leave a box blank if you don't wish to add a gift message for whole order."
-"Your gift message has been successfully removed","Your gift message has been successfully removed"
-"Your gift message has been successfully saved","Your gift message has been successfully saved"
-"Your gift message successfully removed","Your gift message successfully removed"
-"Your gift message successfully saved","Your gift message successfully saved"
+* Required Fields,* Di butuhkan bidang
+Add,Tambah
+Add gift message for shopping cart,Tambah pesan hadiah untuk keranjang belanja
+Add gift messages for quote item of shopping cart,Tambahkan pesan hadiah untuk barang kutipan keranjang belanja
+Add gift messages to products of shopping cart,Tambahakan pesan hadiah untuk produk dari keranjang belanja
+Add gift options,Tamhakan pilihan hadiah
+Add gift options for Individual Items,Tambahkan pilihan hadiah untuk barang individual
+Add gift options for the Entire Order,Tambahkan pilihan hadiah untuk seluruh pesanan
+Add gift options.,Tambahkan pilihan hadiah
+Allow Gift Messages for Order Items,Ijinkan pesan hadiah untuk barang pesanan
+Allow Gift Messages on Order Level,Ijinkan pesan hadiah pada level pesanan
+Are you sure?,Apakah anda yakin?
+Cancel,Batal
+Do you have any gift items in your order?,Apakah Anda memiliki barang hadiah apapun dalam pesanan Anda?
+Edit,Sunting
+From,Dari
+Gift Message,Pesan Hadiah
+Gift Message API,Pesan Hasiah API
+Gift Options,Pilihan Hadiah
+Gift Options for,Pilihan Hadiah untuk
+Gift Options for Individual Items,Pilihan hadiah untuk barang individual
+Gift Options for the Entire Order.,Pilihan Hadiah untuk seluruh pesanan
+Gift Options for this address.,Pilihan hadiah untuk alamat ini.
+Item %d of %d,Barang %d dari %d
+Message,Pesan
+No,Tidak
+OK,OK
+Save Gift Message,Simpan pesan hadiah
+To,Ke
+Unknown entity type,Jenis entitas tidak diketahui
+Use config,Gunakan konfig
+Yes,ya
+You can leave a box blank if you don't wish to add a gift message for the item.,Anda dapat meninggalkan sebuah kotak kosong jika Anda tidak ingin menambahkan pesan hadiah untuk item tersebut.
+You can leave a box blank if you don't wish to add a gift message for this address.,Anda dapat meninggalkan sebuah kotak kosong jika Anda tidak ingin menambahkan pesan hadiah untuk alamat ini.
+You can leave a box blank if you don't wish to add a gift message for whole order.,Anda dapat meninggalkan sebuah kotak kosong jika Anda tidak ingin menambahkan pesan hadiah untuk pesanan keseluruhan.
+Your gift message has been successfully removed,Pesan hadiah Anda telah berhasil dihapus.
+Your gift message has been successfully saved,Pesan hadiah Anda telah berhasil disimpan.
+Your gift message successfully removed,Pesan hadiah Anda telah berhasil dihapus.
+Your gift message successfully saved,Pesan hadiah Anda telah berhasil disimpan.

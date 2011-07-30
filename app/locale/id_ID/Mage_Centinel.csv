@@ -1,34 +1,34 @@
-"3D Secure CAVV","3D Secure CAVV"
-"3D Secure Card Validation","3D Secure Card Validation"
-"3D Secure Cardholder Validation","3D Secure Cardholder Validation"
-"3D Secure Electronic Commerce Indicator","3D Secure Electronic Commerce Indicator"
-"3D Secure Verification Result","3D Secure Verification Result"
-"3D Secure XID","3D Secure XID"
-"Card Issuer Liability","Card Issuer Liability"
-"Card Verification","Card Verification"
-"Enrolled","Enrolled"
-"Enrolled but Authentication Unavailable","Enrolled but Authentication Unavailable"
-"Failed","Failed"
-"MasterCard SecureCode","MasterCard SecureCode"
-"Merchant Liability","Merchant Liability"
-"Not Enrolled","Not Enrolled"
-"Order cannot be placed.","Order cannot be placed."
-"Payment information error. Please start over.","Payment information error. Please start over."
-"Please continue with placing order.","Please continue with placing order."
-"Please verify the card with the issuer bank before placing the order.","Please verify the card with the issuer bank before placing the order."
-"Please verify the card with the issuer bank:","Please verify the card with the issuer bank:"
-"Start/Reset Validation...","Start/Reset Validation..."
-"Successful","Successful"
-"Successful attempt","Successful attempt"
-"The card has failed verification with the issuer bank.","The card has failed verification with the issuer bank."
-"There has been wrong payment information submitted or the time limit has expired. Please, try again.","There has been wrong payment information submitted or the time limit has expired. Please, try again."
-"There has been wrong payment information submitted or time limit has expired. Please, try again.","There has been wrong payment information submitted or time limit has expired. Please, try again."
-"This card has failed validation and cannot be used.","This card has failed validation and cannot be used."
-"This card has failed validation, but it is possible to place the order.","This card has failed validation, but it is possible to place the order."
-"To ensure the security of your transactions","To ensure the security of your transactions"
-"Unable to complete","Unable to complete"
-"Validation failed.","Validation failed."
-"Verification Failed","Verification Failed"
-"Verification Successful","Verification Successful"
-"Verification cannot be processed","Verification cannot be processed"
-"Verified by Visa","Verified by Visa"
+3D Secure CAVV,Keamanan 3D CAVV
+3D Secure Card Validation,Validasi kartu keamanan 3D
+3D Secure Cardholder Validation,Validasi pemegang kartu keamanan 3D
+3D Secure Electronic Commerce Indicator,Indikator Perdagangan elektronik keamanan 3D
+3D Secure Verification Result,Hasil verifikasi keamanan 3D
+3D Secure XID,XID keamanan 3D
+Card Issuer Liability,Kewajiban penerbit kartu
+Card Verification,Verifikasai Kartu
+Enrolled,Terdaftar
+Enrolled but Authentication Unavailable,Terdaftar tapi Otentikasi Tidak Tersedia
+Failed,Gagal
+MasterCard SecureCode,Kode keamanan MasterCard
+Merchant Liability,Kewajiban Penjual
+Not Enrolled,Tidak terdaftar
+Order cannot be placed.,Pesanan tidak dapat ditempatkan.
+Payment information error. Please start over.,Galat pembayaran informasi. Silakan memulai kembali.
+Please continue with placing order.,Silakan lanjutkan dengan menempatkan pesanan.
+Please verify the card with the issuer bank before placing the order.,Harap verifikasi kartu dengan bank penerbit sebelum menempatkan pesanan.
+Please verify the card with the issuer bank:,Harap verifikasi kartu dengan bank penerbit:
+Start/Reset Validation...,Mulai / Reset Validasi …
+Successful,Berhasil
+Successful attempt,Percobaan berhasil
+The card has failed verification with the issuer bank.,Kartu ini tidak berhasil verifikasi dengan bank penerbit.
+"There has been wrong payment information submitted or the time limit has expired. Please, try again.",Telah ada informasi pembayaran yang salah disampaikan atau batas waktu telah berakhir. Coba lagi.
+"There has been wrong payment information submitted or time limit has expired. Please, try again.",Telah ada informasi pembayaran yang salah dimasukkan atau batas waktu telah berakhir. Coba lagi.
+This card has failed validation and cannot be used.,Kartu ini tidak berhasil validasi dan tidak dapat digunakan.
+"This card has failed validation, but it is possible to place the order.","Kartu ini tidak berhasil validasi, tetapi adalah mungkin untuk memesan."
+To ensure the security of your transactions,Untuk menjamin keamanan transaksi Anda
+Unable to complete,Tidak dapat melengkapi
+Validation failed.,Validasi gagal.
+Verification Failed,Verifikasi gagal.
+Verification Successful,Verifikasi berhasil
+Verification cannot be processed,Verifikasi tidak dapat di proses.
+Verified by Visa,Di verifikasi oleh visa.
