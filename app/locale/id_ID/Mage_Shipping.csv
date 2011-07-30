@@ -1,74 +1,74 @@
-" for more information or "," for more information or "
-"# of Items (and above)","# of Items (and above)"
-"# of Items vs. Destination","# of Items vs. Destination"
-"Allow Shipping to Multiple Addresses","Allow Shipping to Multiple Addresses"
-"An error occurred while import table rates.","An error occurred while import table rates."
-"Calculate Handling Fee","Calculate Handling Fee"
-"Carrier:","Carrier:"
-"City","City"
-"Close Window","Close Window"
-"Condition","Condition"
-"Country","Country"
-"Date","Date"
-"Delivered on:","Delivered on:"
-"Delivered to:","Delivered to:"
-"Description","Description"
-"Displayed Error Message","Displayed Error Message"
-"Enabled","Enabled"
-"Error:","Error:"
-"Export","Expor"
-"Fixed","Tetap"
-"Flat Rate","Biaya Tetap"
-"Free Shipping","Pengiriman Gratis"
-"Handling Fee","Biaya Penanganan"
-"Import","Impor"
-"Info:","Info:"
-"Invalid Table Rate code for type %s: %s","Invalid Table Rate code for type %s: %s"
-"Invalid Table Rate code type: %s","Invalid Table Rate code type: %s"
-"Invalid Table Rates File Format","Invalid Table Rates File Format"
-"Local Time","Local Time"
-"Location","Location"
-"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Shipping to Multiple Addresses"
-"Method Name","Method Name"
-"Minimum Order Amount","Minimum Order Amount"
-"N/A","N/A"
-"None","Kosong"
-"Options","Opsi"
-"Order Subtotal (and above)","Subtotal Pembelian (dan lebih)"
-"Origin","Asal"
-"Per Order","Per Pembelian"
-"Per Package","Per Paket"
-"Percent","Persentasi"
-"Price","Harga"
-"Price vs. Destination","Harga vs. Tujuan"
-"Region/State","Wilayah/Negara Bagian"
-"Service Type:","Tipe Servis:"
-"Ship to Specific countries","Kirim ke negara tertentu"
-"Ship to applicable countries","Kirim ke negara yang mungkin"
-"Shipment #","Pengiriman #"
-"Shipped or billed on:","Dikirm atau ditagihkan pada:"
-"Shipping Methods","Metode Pengiriman"
-"Shipping Methods Section","Shipping Methods Section"
-"Shipping Settings","Aturan Pengiriman"
-"Shipping Settings Section","Shipping Settings Section"
-"Show method if not applicable","Tampilkan Metode jika tidak mungkin"
-"Signed by:","Ditandatangani oleh:"
-"Sort order","Urutkan pembelian"
-"Status:","Status:"
-"Store Pickup","Pengambilan di Toko"
-"Table rates","Tabel Tarif"
-"The shipping module is not available for selected delivery country","Modul Pengiriman ini tidak ada untuk negara tujuan pengiriman"
-"There is no tracking available for this shipment.","Tidak ada pelacakan untuk pengiriman ini."
-"There is no tracking available.","Tidak ada pelacakan."
+ for more information or ,Untuk informasi lebih lanjut atau
+# of Items (and above),# dari barang (dan diatas)
+# of Items vs. Destination,# dari barang vs. Destinasi
+Allow Shipping to Multiple Addresses,Izinkan Pengiriman ke bebrapa Alamat 
+An error occurred while import table rates.,Terjadi galat saat mengimpor bagan tarif.
+Calculate Handling Fee,Perhitungan Biaya Penanganan
+Carrier:,Pembawa:
+City,Kota
+Close Window,Tutup jendela
+Condition,Kondisi
+Country,Negara
+Date,Tanggal
+Delivered on:,Di kirim pada:
+Delivered to:,Di kirim ke:
+Description,Deskripsi
+Displayed Error Message,Menampilkan pesan galat
+Enabled,Aktif
+Error:,Galat:
+Export,Ekspor
+Fixed,Tetap
+Flat Rate,Biaya Tetap
+Free Shipping,Pengiriman Gratis
+Handling Fee,Biaya Penanganan
+Import,Impor
+Info:,Info:
+Invalid Table Rate code for type %s: %s,Bagan nilai tidak valid untuk jenis %s: %s
+Invalid Table Rate code type: %s,Tipe kode tingkat daftar tidak valid: %s
+Invalid Table Rates File Format,Format berkas tingkat daftar tidak valid
+Local Time,waktu lokal
+Location,Lokasi
+Maximum Qty Allowed for Shipping to Multiple Addresses,Kuantitas maksimum yang di ijinkan untuk mengirimkan ke berbagai alamat
+Method Name,Nama metode
+Minimum Order Amount,Jumlah pesanan minimum
+N/A,N/A
+None,Kosong
+Options,Opsi
+Order Subtotal (and above),Subtotal Pembelian (dan lebih)
+Origin,Asal
+Per Order,Per Pembelian
+Per Package,Per Paket
+Percent,Persentasi
+Price,Harga
+Price vs. Destination,Harga vs. Tujuan
+Region/State,Wilayah/Negara Bagian
+Service Type:,Tipe Servis:
+Ship to Specific countries,Kirim ke negara tertentu
+Ship to applicable countries,Kirim ke negara yang mungkin
+Shipment #,Pengiriman #
+Shipped or billed on:,Dikirim atau ditagihkan pada:
+Shipping Methods,Metode Pengiriman
+Shipping Methods Section,Bagian metode pengiriman
+Shipping Settings,Aturan Pengiriman
+Shipping Settings Section,Bagian pengaturan pengiriman
+Show method if not applicable,Tampilkan Metode jika tidak mungkin
+Signed by:,Ditandatangani oleh:
+Sort order,Urutkan pembelian
+Status:,Status:
+Store Pickup,Pengambilan di Toko
+Table rates,Tabel Tarif
+The shipping module is not available for selected delivery country,Modul Pengiriman ini tidak ada untuk negara tujuan pengiriman
+There is no tracking available for this shipment.,Tidak ada pelacakan untuk pengiriman ini.
+There is no tracking available.,Tidak ada pelacakan.
 "This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.","Metode pengiriman ini sedang tidak ada. Jika anda ingin mengirimkan dengan metode pengiriman ini, harap hubungi kami."
-"Title","Judul"
-"Track:","Pelacak:"
-"Tracking Number:","Nomer Pelacakan."
-"Tracking information is currently not available. Please ","Informasi pelacakan sedang tidak tersedia. Harap"
-"Tracking information is currently unavailable.","Informasi pelacakan sedang tidak tersedia. Harap"
-"Type","Tipe"
-"Weight (and above)","Berat (dan lebih)"
-"Weight vs. Destination","Berat vs. Tujuan"
-"Weight:","Berat"
-"ZIP/Postal Code","Kode Pos"
-"contact us","kontak kami"
+Title,Judul
+Track:,Pelacak:
+Tracking Number:,Nomer Pelacakan.
+Tracking information is currently not available. Please ,Informasi pelacakan sedang tidak tersedia. Harap
+Tracking information is currently unavailable.,Informasi pelacakan sedang tidak tersedia. Harap
+Type,Tipe
+Weight (and above),Berat (dan lebih)
+Weight vs. Destination,Berat vs. Tujuan
+Weight:,Berat
+ZIP/Postal Code,Kode Pos
+contact us,kontak kami

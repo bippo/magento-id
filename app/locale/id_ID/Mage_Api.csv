@@ -1,445 +1,447 @@
-" and ,"" dan """;;
-" note that the URLs provided below are the correct values for your current website): ,"" Untuk catatan bahwa URLs yang disediakan adalah nilai yang benar untuk website anda): """;;
-"(For Type ""Local Server"" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir),""(Untuk jenis """"Local Server"""" perlu menggunakan jalur relatif untuk instal Magento var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)""";;
-"(For US 2-letter state names),""(For US 2-letter state names)""";;
-"(If left empty will be auto-generated),""(If left empty will be auto-generated)""";;
-"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.),""(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)""";;
-"(Leave empty for first spreadsheet),""(Leave empty for first spreadsheet)""";;
-"(Products will be added/updated to this store if 'store' column is blank or missing in the import file.),""(Products will be added/updated to this store if 'store' column is blank or missing in the import file.)""";;
-"(Shift-)Click or drag to change value,""(Shift-)Click or drag to change value""";;
-"(Starting with),""(Starting with)""";;
-"(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.),""(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)""";;
-"(You have to increase php memory_limit before changing this value),""(You have to increase php memory_limit before changing this value)""";;
-"(\t for tab),""(\t for tab)""";;
-"- Click on any of the time parts to increase it,""- Click on any of the time parts to increase it""";;
-"- Hold mouse button on any of the above buttons for faster selection.,""- Hold mouse button on any of the above buttons for faster selection.""";;
-"- Use the %s buttons to select month,""- Use the %s buttons to select month""";;
-"- Use the %s, %s buttons to select year,""- Use the %s, %s buttons to select year""";;
-"- or Shift-click to decrease it,""- or Shift-click to decrease it""";;
-"- or click and drag for faster selection.,""- or click and drag for faster selection.""";;
-"-- Please Select Billing Agreement--,""-- Please Select Billing Agreement--""";;
-"10:40 AM,""10:40 AM""";;
-"80px x 80px,""80px x 80px""";;
-"80x80 px,""80x80 px""";;
-"ASCII,""ASCII""";;
-"About the calendar,""About the calendar""";;
-"Access Denied.,""Access Denied.""";;
-"Account Created in:,""Account Created in:""";;
-"Account Created on (%s):,""Account Created on (%s):""";;
-"Account Created on:,""Account Created on:""";;
-"Action,""Action""";;
-"Actions,""Actions""";;
-"Activate,""Activate""";;
-"Add Contents Path,""Add Contents Path""";;
-"Add Field with URL:,""Add Field with URL:""";;
-"Add Maintainer,""Add Maintainer""";;
-"Add New Role,""Add New Role""";;
-"Add New Template,""Add New Template""";;
-"Add New User,""Add New User""";;
-"Add PHP Extension dependency,""Add PHP Extension dependency""";;
-"Add Package dependency,""Add Package dependency""";;
-"Add to Cart,""Add to Cart""";;
-"Add to Wishlist,""Add to Wishlist""";;
-"Address Type:,""Address Type:""";;
-"AirMail Template Preview,""AirMail Template Preview""";;
-"All,""All""";;
-"All Websites,""All Websites""";;
-"All fields,""All fields""";;
-"All locations,""All locations""";;
-"Archive file name:,""Archive file name:""";;
-"Are you sure that you want to delete this template?,""Are you sure that you want to delete this template?""";;
-"Are you sure that you want to strip tags?,""Are you sure that you want to strip tags?""";;
-"As low as:,""As low as:""";;
-"Attribute Set Name:,""Attribute Set Name:""";;
-"Attributes,""Attributes""";;
-"Available Products,""Available Products""";;
-"BINARY,""BINARY""";;
-"Back,""Back""";;
-"Big Image,""Big Image""";;
-"Billing Address,""Billing Address""";;
-"Bundle Items,""Bundle Items""";;
-"Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.,""Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.""";;
-"CSV / Tab separated,""CSV / Tab separated""";;
-"Cancel URL: ,""Cancel URL: """;;
-"Card Verification Number,""Card Verification Number""";;
-"Carrier,""Carrier""";;
-"Catalog,""Catalog""";;
-"Chairs,""Chairs""";;
-"Change Orientation,""Change Orientation""";;
-"Changes have been saved to theme.,""Changes have been saved to theme.""";;
-"Channel,""Channel""";;
-"Channel:,""Channel:""";;
-"Choose Store View,""Choose Store View""";;
-"Choose a selection...,""Choose a selection...""";;
-"Clear,""Clear""";;
-"Client Session Timeout (sec.),""Client Session Timeout (sec.)""";;
-"Close,""Close""";;
-"Comments History,""Comments History""";;
-"Confirmed email:,""Confirmed email:""";;
-"Connect with the Magento Community,""Connect with the Magento Community""";;
-"Contents,""Contents""";;
-"Continue,""Continue""";;
-"Country:,""Country:""";;
-"Created At,""Created At""";;
-"Credit Card %s,""Credit Card %s""";;
-"Credit Card Number,""Credit Card Number""";;
-"Credit Card Number: xxxx-%s,""Credit Card Number: xxxx-%s""";;
-"Credit Card Type,""Credit Card Type""";;
-"Credit Card Type: %s,""Credit Card Type: %s""";;
-"Credit Memo History,""Credit Memo History""";;
-"Credit Memo Totals,""Credit Memo Totals""";;
-"Current Configuration Scope:,""Current Configuration Scope:""";;
-"Current Release Information,""Current Release Information""";;
-"Custom,""Custom""";;
-"Custom Colors,""Custom Colors""";;
-"Customer,""Customer""";;
-"Customer Group:,""Customer Group:""";;
-"Customer Since:,""Customer Since:""";;
-"Customers,""Customers""";;
-"DHTML Date/Time Selector,""DHTML Date/Time Selector""";;
-"Dashboard,""Dashboard""";;
-"Data Format,""Data Format""";;
-"Data transfer:,""Data transfer:""";;
-"Date selection:,""Date selection:""";;
-"Date selector,""Date selector""";;
-"Date:,""Date:""";;
-"Decimal separator:,""Decimal separator:""";;
-"Default (Admin) Values,""Default (Admin) Values""";;
-"Default Billing Address,""Default Billing Address""";;
-"Default Response Charset,""Default Response Charset""";;
-"Default Values,""Default Values""";;
-"Delete,""Delete""";;
-"Deselect All,""Deselect All""";;
-"Direction:,""Direction:""";;
-"Display %s first,""Display %s first""";;
-"Distributed under GNU LGPL. See %s for details.,""Distributed under GNU LGPL. See %s for details.""";;
-"Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.,""Do not enable AVS or CSC options.  The do not work when using Payflow Link Silent Mode.""";;
-"Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.,""Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.""";;
-"Drag to move,""Drag to move""";;
-"Edit Filter,""Edit Filter""";;
-"Edit Role,""Edit Role""";;
-"Edit User '%s',""Edit User '%s'""";;
-"Email,""Email""";;
-"Email Preview,""Email Preview""";;
-"Email:,""Email:""";;
-"Enable Secure Token:,""Enable Secure Token:""";;
-"Enclose Values In:,""Enclose Values In:""";;
-"Entity Attributes,""Entity Attributes""";;
-"Entity type:,""Entity type:""";;
-"Excl. Tax,""Excl. Tax""";;
-"Exclude,""Exclude""";;
-"Expiration Date,""Expiration Date""";;
-"Expiration Date: %s/%s,""Expiration Date: %s/%s""";;
-"Export,""Export""";;
-"Export FAQ,""Export FAQ""";;
-"Export Filters,""Export Filters""";;
-"Export to:,""Export to:""";;
-"Export:,""Export:""";;
-"Extension,""Extension""";;
-"Extensions,""Extensions""";;
-"FILTERS APPLIED,""FILTERS APPLIED""";;
-"FTP Host[:Port],""FTP Host[:Port]""";;
-"Field Mapping,""Field Mapping""";;
-"File Information,""File Information""";;
-"File mode,""File mode""";;
-"File name:,""File name:""";;
-"Final Price,""Final Price""";;
-"Finished profile execution.,""Finished profile execution.""";;
-"First Name:,""First Name:""";;
-"For latest version visit: %s,""For latest version visit: %s""";;
-"From,""From""";;
-"General Settings,""General Settings""";;
-"Get help for this page,""Get help for this page""";;
-"Global Record Search,""Pencari Global""";;
-"Go Today,""Go Today""";;
-"Go to messages inbox,""Go to messages inbox""";;
-"Go to notifications,""Go to notifications""";;
-"Google Base Items,""Google Base Items""";;
-"Group:,""Group:""";;
-"Help Us Keep Magento Healthy - Report All Bugs,""Help Us Keep Magento Healthy - Report All Bugs""";;
-"Home,""Home""";;
-"If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.,""If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.""";;
-"Ignore,""Ignore""";;
-"Images,""Images""";;
-"Import,""Import""";;
-"Import / Export FAQ (Frequently Asked Questions),""Import / Export FAQ (Frequently Asked Questions)""";;
-"Import FAQ,""Import FAQ""";;
-"Import Service,""Import Service""";;
-"Important: ,""Important: """;;
-"In Database:,""In Database:""";;
-"In File:,""In File:""";;
-"In Stock,""In Stock""";;
-"Inactive Tabs,""Inactive Tabs""";;
-"Incl. Tax,""Incl. Tax""";;
-"Include,""Include""";;
-"Installed As,""Installed As""";;
-"Interactive,""Interactive""";;
-"Interface Locale: %s,""Interface Locale: %s""";;
-"Invalid webservice adapter specified,""Invalid webservice adapter specified""";;
-"Invalid webservice handler specified,""Invalid webservice handler specified""";;
-"Invoice History,""Invoice History""";;
-"Invoice Totals,""Invoice Totals""";;
-"Issue Number,""Issue Number""";;
-"Issuer: %s,""Issuer: %s""";;
-"Items to merge,""Items to merge""";;
-"Last 5 Orders,""Last 5 Orders""";;
-"Last 5 Search Terms,""Last 5 Search Terms""";;
-"Last Logged In (%s):,""Last Logged In (%s):""";;
-"Last Logged In:,""Last Logged In:""";;
-"Last Name:,""Last Name:""";;
-"Latest Message:,""Latest Message:""";;
-"Leave empty to use tax identifier,""Leave empty to use tax identifier""";;
-"Links with associated products will retain only after saving current product.,""Links with associated products will retain only after saving current product.""";;
-"Loading Preview...,""Loading Preview...""";;
-"Loading...,""Loading...""";;
-"Local Server,""Local Server""";;
-"Local/Remote Server,""Local/Remote Server""";;
-"Log In,""Log In""";;
-"Log Out,""Log Out""";;
-"Logged in as %s,""Logged in as %s""";;
-"MS Excel XML,""MS Excel XML""";;
-"Magento Core API,""Magento Core API""";;
-"Magento Core API Section,""Magento Core API Section""";;
-"Magento Logo,""Magento Logo""";;
-"Magento ver. %s,""Magento ver. %s""";;
-"Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.,""Magento&trade"; is a trademark of Magento Inc.<br/>Copyright &copy;" %s Magento Inc."""
-"Main Tabs,""Main Tabs""";;
-"Make Inactive,""Make Inactive""";;
-"Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).,""Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).""";;
-"Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.,""Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.""";;
-"Manage Stores,""Manage Stores""";;
-"Mapping Configuration,""Mapping Configuration""";;
-"Max,""Max""";;
-"Merge Now,""Merge Now""";;
-"Min,""Min""";;
-"More Tabs,""More Tabs""";;
-"N/A,""N/A""";;
-"Name,""Name""";;
-"Name on Card,""Name on Card""";;
-"Name on the Card: %s,""Name on the Card: %s""";;
-"Name:,""Name:""";;
-"Next month (hold for menu),""Next month (hold for menu)""";;
-"Next page,""Next page""";;
-"Next year (hold for menu),""Next year (hold for menu)""";;
-"No,""No""";;
-"No Data Found,""No Data Found""";;
-"No information available.,""No information available.""";;
-"No profile loaded...,""No profile loaded...""";;
-"No search keywords.,""No search keywords.""";;
-"Note:,""Note:""";;
-"Notes:,""Notes:""";;
-"Number of records:,""Number of records:""";;
-"Old rate:,""Old rate:""";;
-"On my website,""On my website""";;
-"Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below,""Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below""";;
-"Only mapped fields,""Only mapped fields""";;
-"Options menu items,""Options menu items""";;
-"Order ID,""Order ID""";;
-"Order Totals,""Order Totals""";;
-"Order confirmation email not sent,""Order confirmation email not sent""";;
-"Order confirmation email sent,""Order confirmation email sent""";;
-"Original Magento attribute names in first row:,""Original Magento attribute names in first row:""";;
-"Out of stock,""Out of stock""";;
-"Package,""Package""";;
-"Package Information,""Package Information""";;
-"Packages,""Packages""";;
-"Page,""Page""";;
-"Passive mode,""Passive mode""";;
-"Password,""Password""";;
-"Path,""Path""";;
-"Path:,""Path:""";;
-"PayPal Email,""PayPal Email""";;
-"Personal Information,""Personal Information""";;
-"Phone:,""Phone:""";;
-"Please confirm site switching. All data that hasn't been saved will be lost.,""Please confirm site switching. All data that hasn't been saved will be lost.""";;
-"Please enter 6 or more characters.,""Please enter 6 or more characters.""";;
-"Please enter a number greater than 0 in this field.,""Please enter a number greater than 0 in this field.""";;
-"Please enter a valid $ amount. For example $100.00.,""Please enter a valid $ amount. For example $100.00.""";;
-"Please enter a valid URL. For example http://www.example.com or www.example.com,""Please enter a valid URL. For example http://www.example.com or www.example.com""";;
-"Please enter a valid URL. http:// is required,""Please enter a valid URL. http:// is required""";;
-"Please enter a valid credit card number.,""Please enter a valid credit card number.""";;
-"Please enter a valid date.,""Please enter a valid date.""";;
-"Please enter a valid email address. For example johndoe@domain.com.,""Please enter a valid email address. For example johndoe@domain.com.""";;
-"Please enter a valid number in this field.,""Please enter a valid number in this field.""";;
-"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,""Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.""";;
-"Please enter a valid social security number. For example 123-45-6789.,""Please enter a valid social security number. For example 123-45-6789.""";;
-"Please enter a valid value from list,""Please enter a valid value from list""";;
-"Please enter a valid value, ex: 10,20,30,""Please enter a valid value, ex: 10,20,30""";;
-"Please enter a valid zip code.,""Please enter a valid zip code.""";;
-"Please enter a valid zip code. For example 90602 or 90602-1234.,""Please enter a valid zip code. For example 90602 or 90602-1234.""";;
-"Please enter another credit card number to complete your purchase.,""Please enter another credit card number to complete your purchase.""";;
-"Please enter valid password.,""Please enter valid password.""";;
-"Please make sure that your changes were saved before running the profile.,""Please make sure that your changes were saved before running the profile.""";;
-"Please make sure your passwords match.,""Please make sure your passwords match.""";;
-"Please select State/Province.,""Please select State/Province.""";;
-"Please select an option.,""Please select an option.""";;
-"Please select one of the above options.,""Please select one of the above options.""";;
-"Please select one of the options.,""Please select one of the options.""";;
-"Please use in this field only ""a-z,0-9,_"".,""Please use in this field only """"a-z,0-9,_"""".""";;
-"Please use letters only (a-z) in this field.,""Please use letters only (a-z) in this field.""";;
-"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.,""Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.""";;
-"Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.,""Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.""";;
-"Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.,""Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.""";;
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.,""Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.""";;
-"Please wait while the indexes are being refreshed.,""Please wait while the indexes are being refreshed.""";;
-"Please wait, loading...,""Please wait, loading...""";;
-"Preset Theme,""Preset Theme""";;
-"Prev. month (hold for menu),""Prev. month (hold for menu)""";;
-"Prev. year (hold for menu),""Prev. year (hold for menu)""";;
-"Preview,""Preview""";;
-"Previous page,""Previous page""";;
-"Price,""Price""";;
-"Price:,""Price:""";;
-"Primary Billing Address,""Primary Billing Address""";;
-"Processed <strong>%s%% %s/%d</strong> items,""Processed <strong>%s%% %s/%d</strong> items""";;
-"Product,""Product""";;
-"Product Name3 ,""Product Name3 """;;
-"Product Name3 1,""Product Name3 1""";;
-"Product Name3 2,""Product Name3 2""";;
-"Products,""Products""";;
-"Profile Information,""Profile Information""";;
-"Provided Files,""Provided Files""";;
-"Qty,""Qty""";;
-"Qty:,""Qty:""";;
-"Read details,""Read details""";;
-"Reference ID,""Reference ID""";;
-"Regular Price:,""Regular Price:""";;
-"Remote FTP,""Remote FTP""";;
-"Remote URL:,""Remote URL:""";;
-"Remove,""Remove""";;
-"Required settings,""Required settings""";;
-"Reset theme to default,""Reset theme to default""";;
-"Resource Access,""Resource Access""";;
-"Resources,""Resources""";;
-"Return URL: ,""Return URL: """;;
-"Role Users,""Role Users""";;
-"Roles,""Roles""";;
-"Roles Resources,""Roles Resources""";;
-"SKU,""SKU""";;
-"SKU:,""SKU:""";;
-"SORT BY:,""SORT BY:""";;
-"Save Theme,""Save Theme""";;
-"Screens:,""Screens:""";;
-"Select All,""Select All""";;
-"Select Date,""Select Date""";;
-"Select Range,""Select Range""";;
-"Select Visible,""Select Visible""";;
-"Select date,""Select date""";;
-"Select website from map,""Select website from map""";;
-"Select website to map,""Select website to map""";;
-"Shipment Comments,""Shipment Comments""";;
-"Shipment History,""Shipment History""";;
-"Shipping Address,""Shipping Address""";;
-"Shipping address selection is not applicable,""Shipping address selection is not applicable""";;
-"Shipping method selection is not applicable,""Shipping method selection is not applicable""";;
-"Show By,""Show By""";;
-"Show Report For,""Show Report For""";;
-"Show confirmation page: ,""Show confirmation page: """;;
-"Silent Post URL:,""Silent Post URL:""";;
-"Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.,""Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.""";;
-"Some other FAQ,""Some other FAQ""";;
-"Sort Order,""Sort Order""";;
-"Special Price:,""Special Price:""";;
-"Spreadsheet Name:,""Spreadsheet Name:""";;
-"Staging Store: ,""Staging Store: """;;
-"Staging Website: ,""Staging Website: """;;
-"Start Date,""Start Date""";;
-"Start/Reset Validation...,""Start/Reset Validation...""";;
-"Starting profile execution, please wait...,""Starting profile execution, please wait...""";;
-"State/Province:,""State/Province:""";;
-"Status,""Status""";;
-"Status:,""Status:""";;
-"Stock Quantity:,""Stock Quantity:""";;
-"Store:,""Store:""";;
-"Store: ,""Store: """;;
-"Subpackage,""Subpackage""";;
-"Subpackages,""Subpackages""";;
-"Summary:,""Summary:""";;
-"Switch/Solo Only,""Switch/Solo Only""";;
-"Switch/Solo card issue number: %s,""Switch/Solo card issue number: %s""";;
-"Switch/Solo card start Date: %s/%s,""Switch/Solo card start Date: %s/%s""";;
-"Switch/Solo/Maestro Only,""Switch/Solo/Maestro Only""";;
-"Switch/Solo/Maestro(UK Domestic) Only,""Switch/Solo/Maestro(UK Domestic) Only""";;
-"Switch/Solo/Maestro(UK Domestic) card issue number: %s,""Switch/Solo/Maestro(UK Domestic) card issue number: %s""";;
-"Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s,""Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s""";;
-"Synchronization is required.,""Synchronization is required.""";;
-"System busy,""System busy""";;
-"T-Shirts,""T-Shirts""";;
-"Target,""Target""";;
-"Tell a Friend,""Tell a Friend""";;
-"The card has failed verification with the issuer bank.,""The card has failed verification with the issuer bank.""";;
-"The information in this tab has been changed.,""The information in this tab has been changed.""";;
-"Theme configurations are successfully reset.,""Theme configurations are successfully reset.""";;
-"There has been wrong payment information submitted or time limit has expired. Please, try again.,""There has been wrong payment information submitted or time limit has expired. Please, try again.""";;
-"This is a demo store. Any orders placed through this store will not be honored or fulfilled.,""This is a demo store. Any orders placed through this store will not be honored or fulfilled.""";;
-"This is a required field.,""This is a required field.""";;
-"This tab contains invalid data. Please solve the problem before saving.,""This tab contains invalid data. Please solve the problem before saving.""";;
-"Thumbnail,""Thumbnail""";;
-"Time selection:,""Time selection:""";;
-"Time:,""Time:""";;
-"Title bar,""Title bar""";;
-"To,""To""";;
-"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.,""To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.""";;
-"To use Payflow Link, you must configure your Payflow Link account on the Paypal website.,""To use Payflow Link, you must configure your Payflow Link account on the Paypal website.""";;
-"Top 5 Search Terms,""Top 5 Search Terms""";;
-"Total %d records found,""Total %d records found""";;
-"Track order,""Track order""";;
-"Track this shipment,""Track this shipment""";;
-"Transaction Data,""Transaction Data""";;
-"Transaction Details,""Transaction Details""";;
-"Transaction ID,""ID Transaksi""";;
-"Transaction Type,""Jenis Transaksi""";;
-"Try Magento Go for Free,""Coba Magento Go secara gratis""";;
-"Type,""Jenis""";;
-"Type:,""Jenis:""";;
-"Unable to login.,""Tidak dapat login.""";;
-"Unknown Error,""Kesalahan tidak diketahui""";;
-"Unknown Error.,""Kesalahan tidak diketahui.""";;
-"Unselect All,""Batalkan Semua""";;
-"Unselect Visible,""Batalkan yang terlihat""";;
-"Update Preview,""Perbarui Pratinjau""";;
-"Updated At,""Perbarui pada""";;
-"Use Default Value,""Gunakan nilai standar""";;
-"Use Silent Post:,""Use Silent Post:""";;
-"User,""Pengguna""";;
-"User Name,""Nama Pengguna""";;
-"User Roles,""Peran Pengguna""";;
-"User name,""Nama Penguna""";;
-"Users,""Pengguna""";;
-"Validation Results,""Hasil Validasi""";;
-"Value Delimiter:,""Nilai Pembatas:""";;
-"Version:,""Versi:""";;
-"View,""Tampilan""";;
-"View Details,""Lihat Rincian""";;
-"View Gallery,""Lihat Galeri""";;
-"View Statistics For,""Lihat Statistik untuk""";;
-"Visibility:,""Visibilitas:""";;
-"WS-I Compliance,""Kepatuhan WS-I""";;
-"Warning! Empty value can cause problems with CSV format.,""Peringatan! Nilai kosong dapat menyebabkan masalah dengan format CSV.""";;
-"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,""Peringatan!\r\nAksi ini akan menghapus this user from already assigned role\r\nAre you sure?""";;
-"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,""Peringatan!\r\nAksi ini akan menghapus para pengguna dari peran yang sudah ditetapkan\r\nApakah anda yakin?""";;
-"Warning: Please do not close the window during importing/exporting data,""Peringatan: Jangan menutup jendela selama mengimpor / mengekspor data""";;
-"We detected that your JavaScript seem to be disabled.,""Kami mendeteksi bahwa JavaScript Anda tampaknya dinonaktifkan.""";;
-"Web Services,""Layanan Web""";;
-"Web Services Configuration,""Konfigurasi Layanan Web""";;
-"Website: ,""Situs: """;;
-"Websites,""Situs""";;
-"Websites / Stores,""Situs  / Toko""";;
-"What is this?,""Apakah ini?""";;
-"Yes,""Ya""";;
-"You have %s unread message(s).,""Anda memiliki %s pesan belum terbaca(s).""";;
-"You must have JavaScript enabled in your browser to utilize the functionality of this website.,""Anda harus memiliki  JavaScript aktif di browser anda untuk memanfaatkan fungsi dari website ini.""";;
-"Your account has been deactivated.,""Akun anda telah dinonaktifkan.""";;
-"Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.,""Pengaturan server PHP anda memungkinkan Anda untuk mengunggah berkas tidak lebih dari %s setiap kalinya. Silahkan modifikasi post_max_size (currently is %s) dan upload_max_filesize (currently is %s) nilai dalam php.ini jika anda inggin mengunggah berkar yang berkas.""";;
-"Zip/Postal Code:,""Zip/Kode pos:""";;
-"critical,""kritis""";;
-"images/logo.gif,""images/logo.gif""";;
-"items selected,""barang dipilih""";;
-"major,""besar""";;
-"md5sum,""md5sum""";;
-"minor,""kecil""";;
-"notice,""pemberitahuan""";;
-"of %s pages,""dari %s halaman""";;
-"or,""atau""";;
-"per page,""perhalaman""";;
-"to,""Untuk""";;
+" and ,"" dan "";;"
+" note that the URLs provided below are the correct values for your current website): ,"" Untuk catatan bahwa URLs yang disediakan adalah nilai yang benar untuk Situs anda): "";;"
+"(For Type ""Local Server"" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir),""(Untuk jenis """"Local Server"""" perlu menggunakan jalur relatif untuk instal Magento var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"";;"
+"(For US 2-letter state names),""(For US 2-letter state names)"";;"
+"(If left empty will be auto-generated),""(Jika di biarkan kosong akan di  auto-generated)"";;"
+"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.),""(Termasuk negara lebih dari yang tercantum di bawah ini. Sebagai pemilik aplikasi, Anda bertanggung jawab untuk mematuhi hukum negara tertentu terkait dengan distribusi atau penjualan aplikasi Anda ke negara itu, termasuk negara asal Anda .)"";;"
+"(Leave empty for first spreadsheet),""(Biarkan kosong untuk spreadsheet pertama) "";;"
+"(Products will be added/updated to this store if 'store' column is blank or missing in the import file.),""(Produk akan ditambahkan / diperbarui untuk menyimpan ini jika kolom 'toko' kosong atau hilang dalam berkas impor .)"";;
+"
+"(Shift-)Click or drag to change value,""(Shift-)Klik atau geser untuk merubah nilai"";;"
+"(Starting with),""(mulai dengan)"";;"
+"(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.),""(ketika 'Tidak', hanya bidang yang dipetakan akan diimpor. Ketika memetakan, gunakan 'kolom1', 'kolom2', dll.)"";;"
+"(You have to increase php memory_limit before changing this value),""(Anda harus meningkatkan memory_limit php sebelum mengubah nilai ini)"";;"
+"(\t for tab),""(\t untuk tab)"";;"
+" Click on any of the time parts to increase it,""Klik pada salah satu bagian waktu untuk meningkatkannya"";;"
+" Hold mouse button on any of the above buttons for faster selection.,""- Tahan tombol mouse dimana saja pada tombol diatas untuk pilihan lebih cepat."";;"
+" Use the %s buttons to select month,""- Gunakan tombol %s untuk memilih bulan"";;"
+"Use the %s, %s buttons to select year,""-Gunakan tombol %s, %s untuk memilih tahun"";;"
+"or Shift-click to decrease it,""- atau shift-klik untuk menguranginya"";;"
+" or click and drag for faster selection.,""- atau klik dan geser untuk pilihan lebih cepat."";;"
+"Please Select Billing Agreement--,""-- Silakan pilih persetujuan pembayaran--"";;"
+"10:40 AM,""10:40 AM"";;"
+"80px x 80px,""80px x 80px"";;"
+"80x80 px,""80x80 px"";;"
+"ASCII,""ASCII"";;"
+"About the calendar,""Tentang Kalendar"";;"
+"Access Denied.,""Akses Ditolak."";;"
+"Account Created in:,""Akun dibuat di:"";;"
+"Account Created on (%s):,""Akun dibuat pada (%s):"";;"
+"Account Created on:,""Akun dibuat pada:"";;"
+"Action,""Aksi"";;"
+"Actions,""Aksi"";;"
+"Activate,""Aktivasi"";;"
+"Add Contents Path,""tambah jalur isi"";;"
+"Add Field with URL:,""Tambah bidang dengan URL:"";;"
+"Add Maintainer,""Tambah Pengelola"";;"
+  ;;
+"Add New Template,""Tambah Kerangka baru"";;"
+"Add New User,""Tambah Pengguna baru"";;"
+"Add PHP Extension dependency,""Tambah depedensi ekstensi PHP"";;"
+"Add Package dependency,""Tambah depedensi paket"";;"
+"Add to Cart,""Tambah ke Keranjang"";;"
+"Add to Wishlist,""Tambah ke Daftar keinginan"";;"
+"Address Type:,""Jenis Alamat:"";;"
+"AirMail Template Preview,""Tambahkan Kerang AirMail"";;"
+"All,""Semua"";;"
+"All Websites,""Semua Situs"";;"
+"All fields,""Semua bidang"";;"
+"All locations,""Semua Lokasi"";;"
+"Archive file name:,""Arsip nama berkas:"";;"
+"Are you sure that you want to delete this template?,""Apakah anda yakin ingin menghapus kerangka ini?"";;"
+"Are you sure that you want to strip tags?,""Apakah Anda yakin bahwa Anda ingin memotong tag?"";;"
+"As low as:,""Serendahnya:"";;"
+"Attribute Set Name:,""Menetapkan nama atribut:"";;"
+"Attributes,""Atribut"";;"
+"Available Products,""Produk yang tersedia"";;"
+"BINARY,""BINARI"";;"
+"Back,""Kembali"";;"
+"Big Image,""Gambar besar"";;"
+"Billing Address,""Alamat Tagihan"";;"
+"Bundle Items,""Barang Bundel"";;"
+"Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.,""Bundel dengan harga dinamis tidak dapat menyertakan pilihan khusus ditentukan. Pilihan tidak akan disimpan "";.;"
+"CSV / Tab separated,""CSV / Tab dipisahkan"";;"
+"Cancel URL: ,""Batalkan URL: "";;"
+"Card Verification Number,""Nomor Verifikasi Kartu"";;"
+"Carrier,""Pengangkut"";;"
+"Catalog,""Katalog"";;"
+"Chairs,""Kursi"";;"
+"Change Orientation,""Ubah orientasi"";;"
+"Changes have been saved to theme.,""Perubahan telah disimpan ke tema."";;"
+"Channel,""Saluran"";;"
+"Channel:,""Saluran:"";;"
+"Choose Store View,""Pilih Tampilan Foto"";;"
+"Choose a selection...,""Pilih Pilihan..."";;"
+"Clear,""Bersihkan"";;"
+"Client Session Timeout (sec.),""Sesi Klien Waktu habis (Bag.)"";;"
+"Close,""Tutup"";;"
+"Comments History,""Riwayat Komentar"";;"
+"Confirmed email:,""Email yang dikonfirmasi:"";;"
+"Connect with the Magento Community,""Hubungkan dengan Komunitas Magento"";;"
+"Contents,""Isi"";;"
+"Continue,""Lanjutkan"";;"
+"Country:,""Negara:"";;"
+"Created At,""Dibuat pada"";;"
+"Credit Card %s,""Kartu Kredit %s"";;"
+"Credit Card Number,""Nomor Kartu Kredit"";;"
+"Credit Card Number: xxxx-%s,""Nomor Kartu Kredit: xxxx-%s"";;"
+"Credit Card Type,""Jenis Kartu Kredit"";;"
+"Credit Card Type: %s,""Tipe Kartu Kredit: %s"";;"
+"Credit Memo History,""Riwayat Memo Kredit"";;"
+"Credit Memo Totals,""Total Kredit Memo"";;"
+"Current Configuration Scope:,""Konfigurasi jangkauan saat ini:"";;"
+"Current Release Information,""Informasi Rilis saat ini"";;"
+"Custom,""Khusus"";;"
+"Custom Colors,""Warna khusus"";;"
+"Customer,""Pelanggan"";;"
+"Customer Group:,""Grup Pelanggan:"";;"
+"Customer Since:,""Pelanggan sejak:"";;"
+"Customers,""Pelanggan"";;"
+"DHTML Date/Time Selector,""DHTML Tanggal/Pemilih waktu"";;"
+"Dashboard,""Panel kontrol"";;"
+"Data Format,""Format Tanggal"";;"
+"Data transfer:,""Transfer Data:"";;"
+"Date selection:,""Seleksi Tanggal:"";;"
+"Date selector,""Seleksi Tanggal"";;"
+"Date:,""Tanggal:"";;"
+"Decimal separator:,""Pemisah Tanggal:"";;"
+"Default (Admin) Values,""Standar (Admin) Nilai"";;"
+"Default Billing Address,""Alamat Tagihan Standar"";;"
+"Default Response Charset,""Respon standar Charset"";;"
+"Default Values,""Nilai Standar"";;"
+"Delete,""Hapus"";;"
+"Deselect All,""Hapus semua"";;"
+"Direction:,""Petunjuk:"";;"
+"Display %s first,""Tampilan %s Pertama"";;"
+"Distributed under GNU LGPL. See %s for details.,""Didistribusikan dibawah GNU LGPL. Lihat %s Untuk rincian."";;"
+"Do not enable AVS or CSC options.  They do not work when using Payflow Link Silent Mode.,""Jangan mengaktifkan pilihan AVS atau CSC. Kedua hal tersebut tidak bekerja ketika menggunakan tautan payflow mode diam."";;"
+"Do not set any fields in the Billing and Shipping Information block as editable in your Payflow accout.,""Jangan mengatur bidang dalam Penagihan dan memblokir Pengiriman Informasi sebagaimana di sunting di akun Payflow Anda "";.;"
+"Drag to move,""Geser untuk memindahkan"";;"
+"Edit Filter,""  Sunting filter"";;"
+"Edit Role,""Sunting  Role"";;"
+"Edit User '%s',""Sunting pengguna '%s'"";;"
+"Email,""Email"";;"
+"Email Preview,""Tinjauan Email"";;"
+"Email:,""Email:"";;"
+"Enable Secure Token:,""Aktifkan ke amanan Token:"";;"
+"Enclose Values In:,""di cantumkan nilai dalam:"";;"
+"Entity Attributes,""Atribut Entitas"";;"
+"Entity type:,""Jenis Entitas:"";;"
+"Excl. Tax,""Tidak termasuk pajak"";;"
+"Exclude,""di luar"";;"
+"Expiration Date,""Tanggal kadaluarsa"";;"
+"Expiration Date: %s/%s,""Tanggal kadaluarsa: %s/%s"";;"
+"Export,""Ekspor"";;"
+"Export FAQ,""Ekspor FAQ"";;"
+"Export Filters,""Ekspor filter"";;"
+"Export to:,""Ekspor ke:"";;"
+"Export:,""Ekspor:"";;"
+"Extension,""Ekstensi"";;"
+"Extensions,""Ekstensi"";;"
+"FILTERS APPLIED,""FILTER DI TERAPKAN"";;"
+"FTP Host[:Port],""FTP Host[:Port]"";;"
+"Field Mapping,""Pemetaan Bidang"";;"
+"File Information,""Informasi Berkas"";;"
+"File mode,""Mode Berkas"";;"
+"File name:,""Nama Berkas:"";;"
+"Final Price,""Harga akhir"";;"
+"Finished profile execution.,""Menyelesaikan eksekusi profil."";;"
+"First Name:,""Nama Awal:"";;"
+"For latest version visit: %s,""Untuk versi terbaru kunjungi: %s"";;"
+"From,""Dari"";;"
+"General Settings,""Pengaturan umum"";;"
+"Get help for this page,""Dapatkan bantuan untuk halaman ini"";;"
+"Global Record Search,""Pencari Global"";;"
+"Go Today,""Pergi hari ini"";;"
+"Go to messages inbox,""Pergi ke kotak masuk pesan"";;"
+"Go to notifications,""Pergi ke notifikasi"";;"
+"Google Base Items,""Barang dasar Google"";;"
+"Group:,""Grup:"";;"
+"Help Us Keep Magento Healthy - Report All Bugs,""Tolong kami untuk tetap menjaga Magento tetap sehat - Laporkan semua Bug"";;"
+"Home,""Beranda"";;"
+"If your Magento instance is used for multiple websites, you must configure a separate Payflow Link account for each website.,""Jika Magento Anda misalnya digunakan untuk beberapa situs Web, Anda harus mengkonfigurasi  Tautan akun Payflow terpisah untuk setiap situs Web."";;"
+"Ignore,""Abaikan"";;"
+"Images,""Gambar"";;"
+"Import,""Impor"";;"
+"Import / Export FAQ (Frequently Asked Questions),""Impor / Ekspor FAQ (Frequently Asked Questions)"";;"
+"Import FAQ,""Impor FAQ"";;"
+"Import Service,""Impor layanan"";;"
+"Important: ,""Penting: "";;"
+"In Database:,""Dalam Database:"";;"
+"In File:,""Dalam Berkas:"";;"
+"In Stock,""Dalam Stok"";;"
+"Inactive Tabs,""Tab tidak aktif"";;"
+"Incl. Tax,""Termasuk pajak"";;"
+"Include,""Termasuk"";;"
+"Installed As,""Di instal sebagai"";;"
+"Interactive,""Interaktif"";;"
+"Interface Locale: %s,""Antarmuka lokal: %s"";;"
+"Invalid webservice adapter specified,""Adapter layanan web tidak valid di tentukan"";;"
+"Invalid webservice handler specified,""Pengendali layanan web tidak valid ditentukan"";;"
+"Invoice History,""Riwayat Faktur"";;"
+"Invoice Totals,""Total Faktur"";;"
+"Issue Number,""Nomor terbit"";;"
+"Issuer: %s,""Penerbit: %s"";;"
+"Items to merge,""Barang untuk di gabung"";;"
+"Last 5 Orders,""5 pesanan terakhir"";;"
+"Last 5 Search Terms,""5 pencarian barang terakhir"";;"
+"Last Logged In (%s):,""Terakhir kali masuk (%s):"";;"
+"Last Logged In:,""Terakhir kali masuk pada:"";;"
+"Last Name:,""Nama akhir:"";;"
+"Latest Message:,""Pesan terbaru:"";;"
+"Leave empty to use tax identifier,""Biarkan kosong untuk menggunakan pengenal pajak"";;"
+"Links with associated products will retain only after saving current product.,""Tautan dengan produk-produk terkait akan bertahan hanya setelah menyimpan produk saat ini "";.;"
+"Loading Preview...,""Memuat tinjauan..."";;"
+"Loading...,""Memuat..."";;"
+"Local Server,""server lokal"";;"
+"Local/Remote Server,""Lokal/Server Jarak jauh"";;"
+"Log In,""masuk"";;"
+"Log Out,""keluar"";;"
+"Logged in as %s,""Masuk sebagai %s"";;"
+"MS Excel XML,""MS Excel XML"";;"
+"Magento Core API,""Magento Core API"";;"
+"Magento Core API Section,""Bagian Magento Core API"";;"
+"Magento Logo,""Logo Magento"";;"
+"Magento ver. %s,""Ver Magento. %s"";;"
+"Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.,""Magento&trade; adalah merk dagang dari Magento Inc.<br/>Copyright &copy;"" %s Magento Inc."""""""
+"Main Tabs,""Tab Utama"";;"
+"Make Inactive,""Buat tidak aktif"";;"
+"Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).,""Pastikan bahwa data encoding dalam file tersebut konsisten dan disimpan dalam satu pengkodean encoding pendukung (UTF-8 or ANSI)."";;"
+"Make sure that you configure the design settings for the Payflow Link form in your Payflow link account.,""Pastikan bahwa Anda mengkonfigurasi pengaturan desain untuk bentuk Tautan Payflow di akun tautan payflow."";;"
+"Manage Stores,""Kelola Toko"";;"
+"Mapping Configuration,""Pemetaan Konfigurasi"";;"
+"Max,""Maksimum"";;"
+"Merge Now,""Gabungkan Sekarang"";;"
+"Min,""Min"";;"
+"More Tabs,""Lebih Tab"";;"
+"N/A,""N/A"";;"
+"Name,""Nama"";;"
+"Name on Card,""Nama pada kartu"";;"
+"Name on the Card: %s,""Nama pada kartu: %s"";;"
+"Name:,""Nama:"";;"
+"Next month (hold for menu),""Bulan depan (Tahan untuk menu)"";;"
+"Next page,""Halaman berikut nya"";;"
+"Next year (hold for menu),""Tahun berikut nya (tahan untuk menu)"";;"
+"No,""Tidak"";;"
+"No Data Found,""Data tidak di temukan"";;"
+"No information available.,""Tidak ada informasi tersedia."";;"
+"No profile loaded...,""Tidak ada profil di muat..."";;"
+"No search keywords.,""Tidak ada kata kunci pencarian."";;"
+"Note:,""Catatan:"";;"
+"Notes:,""Catatan:"";;"
+"Number of records:,""Jumlah Catatan:"";;"
+"Old rate:,""Harga Lama:"";;"
+"On my website,""Di situs saya"";;"
+"Once you log into your Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below,""Setelah Anda login ke akun Payflow Link Anda, arahkan ke Pengaturan Layanan - Hosted Halaman Checkout - Setel menu dan mengatur pilihan dijelaskan di bawah "";;"
+"Only mapped fields,""Hanya bidang yang di petakan"";;"
+"Options menu items,""Opsi menu barang"";;"
+"Order ID,""ID Pesanan"";;"
+"Order Totals,""Total Pesanan"";;"
+"Order confirmation email not sent,""konfirmasi email pesanan tidak terkirim"";;"
+"Order confirmation email sent,""Konfirmasi email pesanan tidak terkirim"";;"
+"Original Magento attribute names in first row:,""Nama atribut magento asli dalam baris pertama"";;"
+"Out of stock,""Kehabisan Stok"";;"
+"Package,""Paket"";;"
+"Package Information,""Informasi Paket"";;"
+"Packages,""Paket"";;"
+"Page,""Halaman"";;"
+"Passive mode,""Mode Pasif"";;"
+"Password,""Kata Sandi"";;"
+"Path,""Jalur"";;"
+"Path:,""Jalur:"";;"
+"PayPal Email,""Email PayPal"";;"
+"Personal Information,""Informasi Pribadi"";;"
+"Phone:,""Telepon:"";;"
+"Please confirm site switching. All data that hasn't been saved will be lost.,""Tolong konfirmasi beralih situs. Semua data yang belum disimpan akan hilang."";;"
+"Please enter 6 or more characters.,""Tolong masukan 6 atau lebih karakter."";;"
+"Please enter a number greater than 0 in this field.,""Tolong masukan nomer yang lebih besar dari 0 di bidang ini."";;"
+"Please enter a valid $ amount. For example $100.00.,""Tolong masukan jumlah $ yang benar. Contohnya $100.00."";;"
+"Please enter a valid URL. For example http://www.example.com or www.example.com,""Silakan masukan URL yang valid. Sebagai contoh http://www.example.com or www.example.com"";;"
+"Please enter a valid URL. http:// is required,""Silakan masukan URL yang valid. http:// di butuhkan"";;"
+"Please enter a valid credit card number.,""Silakan masukan nomor kartu kredit yang valid."";;"
+"Please enter a valid date.,""silakan masukan tanggal yang valid."";;"
+"Please enter a valid email address. For example johndoe@domain.com.,""Silakan masukan alamat email yang valid. Sebagai contoh johndoe@domain.com."";;"
+"Please enter a valid number in this field.,""Silakan masukan nomor yang valid pada bidang ini."";;"
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,""Silakan masukan nomor telepon yang valid. Sebagai contoh (123) 456-7890 or 123-456-7890."";;"
+"Please enter a valid social security number. For example 123-45-6789.,""Silakan masukan ke amanan sosial yang valid. Sebagai contoh 123-45-6789."";;"
+"Please enter a valid value from list,""Silakan masukan nilai yang valid dari daftar"";;"
+"Please enter a valid value, ex: 10,20,30,""Silakan masukan nilai yang valid, contoh: 10,20,30"";;"
+"Please enter a valid zip code.,""Silakan masukan kode pos yang valid."";;"
+"Please enter a valid zip code. For example 90602 or 90602-1234.,""Silakan masukan kode pos yang valid. Sebagai contoh 90602 or 90602-1234."";;"
+"Please enter another credit card number to complete your purchase.,""Silakan masukan nomor kartu kredit yang lain untuk melengkapi pembelian Anda."";;"
+"Please enter valid password.,""Silakan masukan kata sandi yang valid."";;"
+"Please make sure that your changes were saved before running the profile.,""Silakan pastikan bahwa perubahan Anda di simpan sebelum menjalankan profil."";;"
+"Please make sure your passwords match.,""silakan pastikan bahwa kata sandi Anda cocok."";;"
+"Please select State/Province.,""Silakan pilih Negara/Provisi."";;"
+"Please select an option.,""Silakan pilih sebuah opsi."";;"
+"Please select one of the above options.,""Silakan pilih salah satu dari opsi diatas."";;"
+"Please select one of the options.,""Silakan pilih salah satu opsi."";;"
+"Please use in this field only ""a-z,0-9,_"".,""Silakan gunakan pada bidang ini hanya""""a-z,0-9,_""""."";;"
+"Please use letters only (a-z) in this field.,""Silakan gunakan hanya hurup (a-z) pada bidang ini."";;"
+"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.,""Silakan menggunakan nomor hanya dalam bidang ini. Harap menghindari spasi atau karakter lain seperti titik atau koma "";.;"
+"Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.,""Silakan gunakan hanya huruf (a-z) atau angka (0-9) hanya dalam bidang ini. Tanpa spasi atau karakter lain yang diizinkan "";.;"
+"Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.,""Silakan gunakan hanya huruf (a-z) atau angka (0-9) atau ruang dan # hanya di bidang ini "";.;"
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.,""Silakan menggunakan format tanggal: hh / bb / tttt Misalnya 17/03/2006 untuk 17 Maret 2006.."";;"
+"Please wait while the indexes are being refreshed.,""Silahkan tunggu ketika indeks sedang di perbarui "";.;"
+"Please wait, loading...,""Mohon tunggu, memuat..."";;"
+"Preset Theme,""Preset Tema"";;"
+"Prev. month (hold for menu),""Bulan sebelum nya (tahan untuk menu)"";;"
+"Prev. year (hold for menu),""Tahun sebelum nya (tahan untuk menu)"";;"
+"Preview,""Tinjauan"";;"
+"Previous page,""Halaman sebelum nya"";;"
+"Price,""Harga"";;"
+"Price:,""Harga:"";;"
+"Primary Billing Address,""Alamat tagihan primari"";;"
+"Processed <strong>%s%% %s/%d</strong> items,""memproses<strong>%s%% %s/%d</strong> barang"";;"
+"Product,""Produk"";;"
+"Product Name3 ,""Nama Produk3 "";;"
+"Product Name3 1,""Nama Produk3 1"";;"
+"Product Name3 2,""Nama Produk3 2"";;"
+"Products,""Produk"";;"
+"Profile Information,""Informasi profil"";;"
+"Provided Files,""Berkas di sediakan"";;"
+"Qty,""Kuantitas"";;"
+"Qty:,""Kuantitas:"";;"
+"Read details,""Baca detil"";;"
+"Reference ID,""ID referensi"";;"
+"Regular Price:,""Harga reguler:"";;"
+"Remote FTP,""FTP Jauh"";;"
+"Remote URL:,""URL Jauh:"";;"
+"Remove,""Hapus"";;"
+"Required settings,""di butuhkan pengaturan"";;"
+"Reset theme to default,""Reset tema ke standar"";;"
+"Resource Access,""Akses sumber daya"";;"
+"Resources,""sumberdaya"";;"
+"Return URL: ,""URL kembali: "";;"
+"Role Users,""Role pengguna"";;"
+"Roles,""Role"";;"
+"Roles Resources,""Role sumberdaya"";;"
+"SKU,""SKU"";;"
+"SKU:,""SKU:"";;"
+"SORT BY:,""DIURUTKAN OLEH:"";;"
+"Save Theme,""Simpan tema"";;"
+"Screens:,""Layar:"";;"
+"Select All,""Pilih semua"";;"
+"Select Date,""Pilih tanggal"";;"
+"Select Range,""Pilih kisaran"";;"
+"Select Visible,""Pilih dapat di lihat"";;"
+"Select date,""Pilih tanggal"";;"
+"Select website from map,""Pilih situs dari map"";;"
+"Select website to map,""Pilih situs ke map"";;"
+"Shipment Comments,""Komentar pengiriman"";;"
+"Shipment History,""Riwayat pengiriman"";;"
+"Shipping Address,""Alamat pengiriman"";;"
+"Shipping address selection is not applicable,""pemilihan alamat Pengiriman  tidak berlaku "";;"
+"Shipping method selection is not applicable,""Pemilihan metode pengiriman tidak berlaku"";;"
+"Show By,""Di tampilkan oleh"";;"
+"Show Report For,""Tunjukan laporan untuk"";;"
+"Show confirmation page: ,""Tunujkan halam konfirmasi: "";;"
+"Silent Post URL:,""URL post diam:"";;"
+"Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.,""Beberapa barang dalam urutan ini memiliki faktur yang berbeda dan jenis pengiriman. Anda dapat membuat pengiriman hanya setelah faktur dibuat "";.;
+"
+"Some other FAQ,""beberapa FAQ lain"";;"
+"Sort Order,""Urutan Pesanan"";;"
+"Special Price:,""Harga khusus:"";;"
+"Spreadsheet Name:,""Nama Spreadsheet:"";;"
+"Staging Store: ,""Pementasan toko: "";;"
+"Staging Website: ,""Pementasan situs: "";;"
+"Start Date,""Tanggal mulai"";;"
+"Start/Reset Validation...,""mulai/Reset Validasi..."";;"
+"Starting profile execution, please wait...,""memulai eksekusi rofil, silakan tunggu..."";;"
+"State/Province:,""Negara/Provinsi:"";;"
+"Status,""Status"";;"
+"Status:,""Status:"";;"
+"Stock Quantity:,""Kuantitas Stok:"";;"
+"Store:,""Toko:"";;"
+"Store: ,""Toko: "";;"
+"Subpackage,""Sub Paket"";;"
+"Subpackages,""Sub Paket"";;"
+"Summary:,""Ringkasan:"";;"
+"Switch/Solo Only,""Beralih/Hanya Tunggal"";;"
+"Switch/Solo card issue number: %s,""Beralih/Memberikan nomer kartu tunggal: %s"";;"
+"Switch/Solo card start Date: %s/%s,""Beralih/Mulai hari kartu tunggal: %s/%s"";;"
+"Switch/Solo/Maestro Only,""Beralih/Tunggal/Hanya Maestro"";;"
+"Switch/Solo/Maestro(UK Domestic) Only,""Beralih/Tunggal/Maestro(UK Domestic) Hanya"";;"
+"Switch/Solo/Maestro(UK Domestic) card issue number: %s,""Beralih/Solo/Maestro(UK Domestik) nomor terbit kartu: %s"";;"
+"Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s,""berpindah/Solo/Maestro(UK Domestik) Tanggal mulai kartu: %s/%s"";;"
+"Synchronization is required.,""Synkronisasi di butuhkan."";;"
+"System busy,""Sistem Sibuk"";;"
+"T-Shirts,""T-Shirts"";;"
+"Target,""Sasaran"";;"
+"Tell a Friend,""Beritahu Teman"";;"
+"The card has failed verification with the issuer bank.,""Kartu ini telah gagal verifikasi dengan bank penerbit."";;"
+"The information in this tab has been changed.,""Informasi dalam tab ini telah diubah."";;"
+"Theme configurations are successfully reset.,""Konfigurasi tema berhasil diulang."";;"
+"There has been wrong payment information submitted or time limit has expired. Please, try again.,""Telah ada informasi pembayaran yang salah dimasukan atau batas waktu telah berakhir. Silakan, coba lagi "";.;"
+"This is a demo store. Any orders placed through this store will not be honored or fulfilled.,""Ini adalah toko demo. Setiap order yang dilakukan melalui toko ini tidak akan dihormati atau dipenuhi "";.;"
+"This is a required field.,""Ini di butuhkan bidang."";;"
+"This tab contains invalid data. Please solve the problem before saving.,""Tab ini berisi data yang tidak valid. Silahkan mengatasi masalah tersebut sebelum menyimpan "";.;"
+"Thumbnail,""Thumbnail"";;"
+"Time selection:,""Pemilihan waktu:"";;"
+"Time:,""Waktu:"";;"
+"Title bar,""Judul bar"";;"
+"To,""ke"";;"
+"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.,""Untuk membatalkan otorisasi tertunda dan jumlah rilis yang sudah diproses selama pembayaran ini, klik Batal "";.;"
+"To use Payflow Link, you must configure your Payflow Link account on the Paypal website.,""Untuk menggunakan Tautan Payflow, Anda harus mengkonfigurasi akun tautan Payflow  Anda di situs Paypal."";;"
+"Top 5 Search Terms,""Syarat pencarian top 5"";;"
+"Total %d records found,""Total %d Catatan di temukan"";;"
+"Track order,""Lacak Pesanan"";;"
+"Track this shipment,""Lacak Kiriman ini"";;"
+"Transaction Data,""Transaksi Data"";;"
+"Transaction Details,""Rincian Transaksi"";;"
+"Transaction ID,""ID Transaksi"";;"
+"Transaction Type,""Jenis Transaksi"";;"
+"Try Magento Go for Free,""Coba Magento Go secara gratis"";;"
+"Type,""Jenis"";;"
+"Type:,""Jenis:"";;"
+"Unable to login.,""Tidak dapat login."";;"
+"Unknown Error,""Kesalahan tidak diketahui"";;"
+"Unknown Error.,""Kesalahan tidak diketahui."";;"
+"Unselect All,""Batalkan Semua"";;"
+"Unselect Visible,""Batalkan yang terlihat"";;"
+"Update Preview,""Perbarui Pratinjau"";;"
+"Updated At,""Perbarui pada"";;"
+"Use Default Value,""Gunakan nilai standar"";;"
+"Use Silent Post:,""Gunakan Post diam:"";;"
+"User,""Pengguna"";;"
+"User Name,""Nama Pengguna"";;"
+"User Roles,""Peran Pengguna"";;"
+"User name,""Nama Penguna"";;"
+"Users,""Pengguna"";;"
+"Validation Results,""Hasil Validasi"";;"
+"Value Delimiter:,""Nilai Pembatas:"";;"
+"Version:,""Versi:"";;"
+"View,""Tampilan"";;"
+"View Details,""Lihat Rincian"";;"
+"View Gallery,""Lihat Galeri"";;"
+"View Statistics For,""Lihat Statistik untuk"";;"
+"Visibility:,""Visibilitas:"";;"
+"WS-I Compliance,""Kepatuhan WS-I"";;"
+"Warning! Empty value can cause problems with CSV format.,""Peringatan! Nilai kosong dapat menyebabkan masalah dengan format CSV."";;"
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,""Peringatan!\r\nAksi ini akan menghapus this user from already assigned role\r\nAre you sure?"";;"
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,""Peringatan!\r\nAksi ini akan menghapus para pengguna dari peran yang sudah ditetapkan\r\nApakah anda yakin?"";;"
+"Warning: Please do not close the window during importing/exporting data,""Peringatan: Jangan menutup jendela selama mengimpor / mengekspor data"";;"
+"We detected that your JavaScript seem to be disabled.,""Kami mendeteksi bahwa JavaScript Anda tampaknya dinonaktifkan."";;"
+"Web Services,""Layanan Web"";;"
+"Web Services Configuration,""Konfigurasi Layanan Web"";;"
+"Website: ,""Situs: "";;"
+"Websites,""Situs"";;"
+"Websites / Stores,""Situs  / Toko"";;"
+"What is this?,""Apakah ini?"";;"
+"Yes,""Ya"";;"
+"You have %s unread message(s).,""Anda memiliki %s pesan belum terbaca(s)."";;"
+"You must have JavaScript enabled in your browser to utilize the functionality of this website.,""Anda harus memiliki  JavaScript aktif di browser anda untuk memanfaatkan fungsi dari website ini."";;"
+"Your account has been deactivated.,""Akun anda telah dinonaktifkan."";;"
+"Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.,""Pengaturan server PHP anda memungkinkan Anda untuk mengunggah berkas tidak lebih dari %s setiap kalinya. Silahkan modifikasi post_max_size (currently is %s) dan upload_max_filesize (currently is %s) nilai dalam php.ini jika anda inggin mengunggah berkar yang berkas."";;"
+"Zip/Postal Code:,""Zip/Kode pos:"";;"
+"critical,""kritis"";;"
+"images/logo.gif,""images/logo.gif"";;"
+"items selected,""barang dipilih"";;"
+"major,""besar"";;"
+"md5sum,""md5sum"";;"
+"minor,""kecil"";;"
+"notice,""pemberitahuan"";;"
+"of %s pages,""dari %s halaman"";;"
+"or,""atau"";;"
+"per page,""perhalaman"";;"
+"to,""Untuk"";;"

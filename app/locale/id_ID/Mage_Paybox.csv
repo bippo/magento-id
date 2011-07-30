@@ -1,106 +1,106 @@
-"--Please Select--","--Please Select--"
-"AMEX","AMEX"
-"AURORE","AURORE"
-"Activated Key","Activated Key"
-"Amount does not match.","Amount does not match."
-"An error has occurred","An error has occurred"
-"Authorization","Authorization"
-"CARTE","CARTE"
-"CB","CB"
-"Cannot create the invoice.","Cannot create the invoice."
-"Card Verification Number","Card Verification Number"
-"Cart Type","Cart Type"
-"Click <a href=""%s"">here</a> to continue shopping.","Click <a href=""%s"">here</a> to continue shopping."
-"Command Line Mode","Command Line Mode"
-"Credit Card Number","Credit Card Number"
-"Credit Card Number: xxxx-%s","Credit Card Number: xxxx-%s"
-"Credit Card Type","Credit Card Type"
-"Credit Card Type: %s","Credit Card Type: %s"
-"Credit Card Types","Credit Card Types"
-"Customer Choise","Customer Choise"
-"DEU (German)","DEU (German)"
-"DINERS","DINERS"
-"Debug Flag","Debug Flag"
-"Delay in Displaying the Intermediary Page (in msec)","Delay in Displaying the Intermediary Page (in msec)"
-"E CARD","E CARD"
-"ESP (Spanish)","ESP (Spanish)"
-"EUROCARD & MASTERCARD","EUROCARD & MASTERCARD"
-"Enabled","Enabled"
-"Error in refunding the payment","Error in refunding the payment"
-"Expiration Date","Expiration Date"
-"FRA (French)","FRA (French)"
-"GBR (English)","GBR (English)"
-"GET","GET"
-"HTML Form","HTML Form"
-"ITA (Italian)","ITA (Italian)"
-"JCB","JCB"
-"Language of the Payment Page","Language of the Payment Page"
-"Management Mode of the Intermediary Page","Management Mode of the Intermediary Page"
-"Mode A","Mode A"
-"Mode B","Mode B"
-"Mode C","Mode C"
-"Mode D","Mode D"
-"Mode E","Mode E"
-"Mode of Retrieval of Information","Mode of Retrieval of Information"
-"NLD (Dutch)","NLD (Dutch)"
-"Name of the Button on the Intermediary Page","Name of the Button on the Intermediary Page"
-"Name on Card","Name on Card"
-"Name on the Card: %s","Name on the Card: %s"
-"New Order Status","New Order Status"
-"Only if the ""HTML From"" mode selected.","Only if the ""HTML From"" mode selected."
-"Only with ""Command Line"" mode.","Only with ""Command Line"" mode."
-"Order does not match.","Order does not match."
-"PAYBOX Identifier","PAYBOX Identifier"
-"PAYNOVA","PAYNOVA"
-"PAYPAL","PAYPAL"
-"POST","POST"
-"Paybox CGI File","Paybox CGI File"
-"Paybox Direct","Paybox Direct"
-"Paybox System","Paybox System"
-"Paybox payment gateway is not available right now","Paybox payment gateway is not available right now"
-"Payment","Payment"
-"Payment Action","Payment Action"
-"Payment Type","Payment Type"
-"Payment from Applicable Countries","Payment from Applicable Countries"
-"Payment from Specific Countries","Payment from Specific Countries"
-"Ping Flag","Ping Flag"
-"Please Select","Please Select"
-"Rank Number","Rank Number"
-"SWE (Swedish)","SWE (Swedish)"
-"SYMPASS","SYMPASS"
-"Screen Background of the Intermediary Page","Screen Background of the Intermediary Page"
-"Site Number (TPE)","Site Number (TPE)"
-"Sort Order","Sort Order"
-"Specify the URL of the primary backup payment server if different from default.","Specify the URL of the primary backup payment server if different from default."
-"Specify the URL of the primary payment server if different from default.","Specify the URL of the primary payment server if different from default."
-"Specify the URL of the second backup payment server if different from default.","Specify the URL of the second backup payment server if different from default."
-"Specify the URL of the third backup payment server if different from default.","Specify the URL of the third backup payment server if different from default."
-"TCP Port","TCP Port"
-"TCP port used to check the availability of a payment server if ""Ping Flag"" enabled (default port is 443).","TCP port used to check the availability of a payment server if ""Ping Flag"" enabled (default port is 443)."
-"TERMINEO","TERMINEO"
-"Text on the Intermediary Page","Text on the Intermediary Page"
-"The URL of the Backup Payment Server","The URL of the Backup Payment Server"
-"The URL of the Primary Backup Payment Server","The URL of the Primary Backup Payment Server"
-"The URL of the Primary Payment Server","The URL of the Primary Payment Server"
-"The URL of the Second Backup Payment Server","The URL of the Second Backup Payment Server"
-"The URL of the Third Backup Payment Server","The URL of the Third Backup Payment Server"
-"The customer has returned from Paybox.","The customer has returned from Paybox."
-"The customer was redirected to Paybox","The customer was redirected to Paybox"
-"The customer was redirected to Paybox using \'command line\' mode.","The customer was redirected to Paybox using \'command line\' mode."
-"The customer was refused by Paybox.","The customer was refused by Paybox."
-"The customer was rejected by Paybox.","The customer was rejected by Paybox."
-"The invoice has been created.","The invoice has been created."
-"The order was canceled by the customer.","The order was canceled by the customer."
-"There are no orders.","There are no orders."
-"There has been an error processing your payment. ","There has been an error processing your payment. "
-"There has been an error processing your payment. Please try later or contact us for help.","There has been an error processing your payment. Please try later or contact us for help."
-"Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds).","Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds)."
-"Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds).","Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds)."
-"Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds).","Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds)."
-"Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds).","Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds)."
-"Timeout for Checking","Timeout for Checking"
-"Title","Title"
-"VISA","VISA"
-"What is this?","What is this?"
-"You will be redirected to Paybox in a few seconds.","You will be redirected to Paybox in a few seconds."
-"You will be redirected to the Paybox website when you place an order.","You will be redirected to the Paybox website when you place an order."
+--Please Select--,--Please Select--
+AMEX,AMEX
+AURORE,AURORE
+Activated Key,Kunci aktivasi
+Amount does not match.,Jumlah tidak cocok
+An error has occurred,Galat terjadi
+Authorization,Otorisasi
+CARTE,BAGAN
+CB,CB
+Cannot create the invoice.,Tidak dapat membuat faktur
+Card Verification Number,Nomor verifikasi kartu
+Cart Type,Jenis keranjang
+"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">here</a> untuk melanjutkan belanja."
+Command Line Mode,Mode garis komando
+Credit Card Number,Nomor kartu kredit
+Credit Card Number: xxxx-%s,Nomor kartu kredit: xxxx-%s
+Credit Card Type,Jenis kartu kredit
+Credit Card Type: %s,Jenis kartu kredit: %s
+Credit Card Types,Jenis kartu kredit
+Customer Choise,Pilihan pelanggan
+DEU (German),DEU (Jerman)
+DINERS,MAKAN MALAM
+Debug Flag,Bendera Debug
+Delay in Displaying the Intermediary Page (in msec),Keterlambatan Menampilkan Halaman Perantara (dalam msec)
+E CARD,E CARD
+ESP (Spanish),ESP (Spanyol)
+EUROCARD & MASTERCARD,EUROCARD & MASTERCARD
+Enabled,Aktif
+Error in refunding the payment,Galat dalam mengembalikan pembayaran
+Expiration Date,Tanggal kadaluarsa
+FRA (French),FRA (Prancis)
+GBR (English),GBR (inggris)
+GET,GET
+HTML Form,HTML Form
+ITA (Italian),ITA (Italia)
+JCB,JCB
+Language of the Payment Page,Basaha dari halaman pembayaran
+Management Mode of the Intermediary Page,Mode manajemen dari halaman  perantara
+Mode A,Mode A
+Mode B,Mode B
+Mode C,Mode C
+Mode D,Mode D
+Mode E,Mode E
+Mode of Retrieval of Information,Mode pengambilan Informasi
+NLD (Dutch),NLD (Belanda)
+Name of the Button on the Intermediary Page,Nama Tombol pada Halaman Perantara
+Name on Card,Nama pada kartu
+Name on the Card: %s,Nama pada kartu: %s
+New Order Status,Statsu pesanan baru
+"Only if the ""HTML From"" mode selected.","Hanya pada ""HTML dari"" mode dipilih."
+"Only with ""Command Line"" mode.","Hanya dengan ""Command Line"" mode."
+Order does not match.,Pesanan tidak sesuai
+PAYBOX Identifier,Pengenal PAYBOX
+PAYNOVA,PAYNOVA
+PAYPAL,PAYPAL
+POST,POST
+Paybox CGI File,Berkas CGI paybox
+Paybox Direct,Paybox langsung
+Paybox System,Sistem paybox
+Paybox payment gateway is not available right now,Gateway pembayaran paybox tidak tersedia sekarang
+Payment,Pembayaran
+Payment Action,Aksi pembayaran
+Payment Type,Jenis pembayaran
+Payment from Applicable Countries,Pembayaran dari negara terkait
+Payment from Specific Countries,Pembayaran dari negara tertentu
+Ping Flag,Bendera ping
+Please Select,silakan pilih
+Rank Number,Nomor peringkat
+SWE (Swedish),SWE (Swedia)
+SYMPASS,SYMPASS
+Screen Background of the Intermediary Page,Layar Latar Belakang Halaman Perantara
+Site Number (TPE),Nomor situs (TPE)
+Sort Order,urutkan pesanan
+Specify the URL of the primary backup payment server if different from default.,Tentukan URL dari server pembayaran cadangan primer jika berbeda dari default.
+Specify the URL of the primary payment server if different from default.,Tentukan URL dari server pembayaran utama jika berbeda dari standarnya.
+Specify the URL of the second backup payment server if different from default.,Tentukan URL dari server pembayaran cadangan kedua jika berbeda dari standarnya.
+Specify the URL of the third backup payment server if different from default.,Tentukan URL dari server pembayaran cadangan ketiga jika berbeda dari standarnya.
+TCP Port,Port TCP
+"TCP port used to check the availability of a payment server if ""Ping Flag"" enabled (default port is 443).","Port TCP yang digunakan untuk memeriksa ketersediaan server pembayaran jika ""Ping Bendera"" diaktifkan (port default adalah 443)."
+TERMINEO,TERMINEO
+Text on the Intermediary Page,Teks pada Halaman Perantara
+The URL of the Backup Payment Server,URL Server Pembayaran  Cadangan
+The URL of the Primary Backup Payment Server,URL dari server pembayaran cadangan utama
+The URL of the Primary Payment Server,URL Server Pembayaran Utama
+The URL of the Second Backup Payment Server,URL Server Cadangan Pembayaran Kedua
+The URL of the Third Backup Payment Server,URL Server Cadangan Pembayaran Ketiga 
+The customer has returned from Paybox.,Pelanggan telah kembali dari paybox
+The customer was redirected to Paybox,Pelanggan di teruskan ke paybox
+The customer was redirected to Paybox using \'command line\' mode.,Pelanggan dialihkan ke PayBox menggunakan \ 'baris perintah \' mode.
+The customer was refused by Paybox.,Pelanggan ini ditolak oleh PayBox.
+The customer was rejected by Paybox.,Pelanggan ini ditolak oleh PayBox.
+The invoice has been created.,Faktur telah dibuat
+The order was canceled by the customer.,Pesnanan di batalkan oleh pelanggan
+There are no orders.,Tidak ada pesanan
+There has been an error processing your payment. ,Terjadi galat dalam memproses pembayaran anda
+There has been an error processing your payment. Please try later or contact us for help.,Terjadi galat dalam memproses pembayaran Anda. Silakan cobalagi nanti atau hubungi kami.
+Time-out (in seconds) to check the avalaibility of the primary backup payment server (default 10 seconds).,Waktu habis  (dalam beberapa detik) Untuk memeriksa ketersediaan dari server pembayaran cadangan primer (Acuan 10 detik).
+Time-out (in seconds) to check the avalaibility of the primary payment server (default 8 seconds).,Waktu habis  (dalam beberapa detik) Untuk memeriksa ketersediaan dari server pembayaran primer (Acuan 8 detik).
+Time-out (in seconds) to check the avalaibility of the second backup payment server (fefault 20 seconds).,Waktu habis  (dalam beberapa detik) Untuk memeriksa ketersediaan dari server pembayaran cadangan kedua (Acuan 20 detik).
+Time-out (in seconds) to check the avalaibility of the third backup payment server (default 20 seconds).,Waktu habis  (dalam beberapa detik) Untuk memeriksa ketersediaan dari server pembayaran cadangan ketiga (Acuan 20 detik).
+Timeout for Checking,Waktu habis untuk mengecek
+Title,Judul
+VISA,VISA
+What is this?,Apakah ini?
+You will be redirected to Paybox in a few seconds.,Anda akan di arahkan ke paybox dalam beberapa detik
+You will be redirected to the Paybox website when you place an order.,Anda akan di arahkan ke situs paybox untuk menempatkan pesanan

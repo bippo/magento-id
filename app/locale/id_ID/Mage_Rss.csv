@@ -1,57 +1,57 @@
-"%s - Discounts and Coupons","%s - Diskon dan Kupon"
-"%s - Special Discounts","%s - Diskon Spesial"
-"%s RSS Feed","%s RSS Feed"
-"%s has reached a quantity of %s.","%s telah mencapai kuantitas dari %s."
-"%s's Wishlist","Daftar Keinginan %s"
-"Cannot retrieve the wishlist","Tidak dapat menerima daftar keinginan"
-"Catalog","Katalog"
-"Category Feeds","Category Feeds"
-"Comment: %s<br/>","Komenar: %s<br/>"
-"Coupons/Discounts","Kupon/Diskon"
-"Current Status: %s<br/>","Current Status: %s<br/>"
-"Customer Name: %s","Nama Pelanggan: %s"
-"Customer Order Status Notification","Notifikasi Status Pembelian Pelanggan"
-"Details for %s #%s","Detil untuk %s #%s"
-"Discount ","Diskon"
-"Enable RSS","Aktifkan RSS"
-"Error in processing xml. %s","Error saat memproses xml. %s"
-"From:","Dari:"
-"Get Feed","Dapatkan Feed"
-"Gift Message","Pesan Hadiah"
-"Grand Total","Grand Total"
-"Low Stock Products","Produk dengan Stok Rendah"
-"Message:","Pesan:"
-"Miscellaneous Feeds","Miscellaneous Feeds"
-"New Orders","Opembelian Baru"
-"New Products","Produk Baru"
-"New Products from %s","Produk baru dari %s"
-"Notified Date: %s<br/>","Tanggal Pemberitahuan: %s<br/>"
-"Order # %s Notification(s)","Notifikasi pembelian # %s"
-"Order #%s created at %s","Pembelian #%s dibuat pada %s"
-"Pending product review(s)","Pending product review(s)"
-"Product: ""%s"" review By: %s","Produk: ""%s"" direview oleh: %s"
+%s - Discounts and Coupons,%s - Diskon dan Kupon
+%s - Special Discounts,%s - Diskon Spesial
+%s RSS Feed,%s RSS Feed
+%s has reached a quantity of %s.,%s telah mencapai kuantitas dari %s.
+%s's Wishlist,Daftar Keinginan %s
+Cannot retrieve the wishlist,Tidak dapat menerima daftar keinginan
+Catalog,Katalog
+Category Feeds,Kategori umpan
+Comment: %s<br/>,Komentar: %s<br/>
+Coupons/Discounts,Kupon/Diskon
+Current Status: %s<br/>,Status saat ini: %s<br/>
+Customer Name: %s,Nama Pelanggan: %s
+Customer Order Status Notification,Notifikasi Status Pembelian Pelanggan
+Details for %s #%s,Detil untuk %s #%s
+Discount ,Diskon
+Enable RSS,Aktifkan RSS
+Error in processing xml. %s,Galat saat memproses xml. %s
+From:,Dari:
+Get Feed,Dapatkan Umpan
+Gift Message,Pesan Hadiah
+Grand Total,Total seluruh
+Low Stock Products,Produk dengan Stok Rendah
+Message:,Pesan:
+Miscellaneous Feeds,Berbagai Feed
+New Orders,Pesanan Baru
+New Products,Produk Baru
+New Products from %s,Produk baru dari %s
+Notified Date: %s<br/>,Tanggal Pemberitahuan: %s<br/>
+Order # %s Notification(s),Notifikasi pembelian # %s
+Order #%s created at %s,Pembelian #%s dibuat pada %s
+Pending product review(s),Tinjauan Produk Tertunda
+"Product: ""%s"" review By: %s","Produk: ""%s"" di tinjau oleh: %s"
 "Product: <a href=""%s"">%s</a> <br/>","Produk: <a href=""%s"">%s</a> <br/>"
-"Products tagged with %s","Produk ditag dengan %s"
-"Purchased From: %s","Dipesan Dari: %s"
-"RSS","RSS"
-"RSS Feeds","RSS Feeds"
-"RSS testing","RSS testing"
-"Review: %s <br/>","Review: %s <br/>"
-"Rss Config","Konfig Rss"
-"Rss Feeds Section","Rss Feeds Section"
-"Shipping & Handling","Pengiriman & Penanganan"
-"Special Products","Produk Spesial"
-"Special/Discount Products","Produk Spesial/Diskon"
-"Store: %s <br/>","Toko: %s <br/>"
-"Subtotal","Subtotal"
-"Summary of review: %s <br/>","Ringkasan dari review: %s <br/>"
-"Tags Products","Tag Produk"
-"Tax","Pajak"
-"There are no Rss Feeds","There are no Rss Feeds"
-"There are no Rss Feeds.","There are no Rss Feeds."
-"To:","Ke:"
-"Top Level Category","Kategori Atas"
-"Total Products: %s","Total Products: %s"
-"Total: %s<br/>","Total: %s<br/>"
-"Wishlist","Daftar Keinginan"
-"click <a href=""%s"">here</a> to view the review","klik <a href=""%s"">disini</a> untuk menampilkan review"
+Products tagged with %s,Produk ditag dengan %s
+Purchased From: %s,Dipesan Dari: %s
+RSS,RSS
+RSS Feeds,RSS Feeds
+RSS testing,RSS testing
+Review: %s <br/>,Tinjauan: %s <br/>
+Rss Config,Konfigurasi Rss
+Rss Feeds Section,Bagian Rss Feeds
+Shipping & Handling,Pengiriman & Penanganan
+Special Products,Produk Spesial
+Special/Discount Products,Produk Spesial/Diskon
+Store: %s <br/>,Toko: %s <br/>
+Subtotal,Subtotal
+Summary of review: %s <br/>,Ringkasan dari tinjauan: %s <br/>
+Tags Products,Tag Produk
+Tax,Pajak
+There are no Rss Feeds,Tidak ada Rss Feeds
+There are no Rss Feeds.,Tidak ada Rss Feeds.
+To:,Ke:
+Top Level Category,Kategori Atas
+Total Products: %s,Total Produk: %s
+Total: %s<br/>,Total: %s<br/>
+Wishlist,Daftar Keinginan
+"click <a href=""%s"">here</a> to view the review","klik <a href=""%s"">disini</a> untuk menampilkan tinjauan"

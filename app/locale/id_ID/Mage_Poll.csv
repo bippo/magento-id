@@ -1,41 +1,41 @@
-"Actions","Aksi"
-"Add Answer","Tambah Jawaban"
-"Add New Answer","Tambah Jawaban Baru"
-"Add New Poll","Tambah Poll Baru"
-"Answer Title","Judul Jawaban"
-"Answer Title:","Judul Jawaban:"
-"Answer was successfully saved","Jawaban telah berhasil disimpan"
-"Answer with the same title in this poll","Jawaban dengan judul yang saa sudah ada di poll"
-"Are you sure you want to delete it?","Apakah anda yakin menghapus?"
-"Assigned Answers","Jawaban yang Diberikan"
-"Closed","Ditutup"
-"Community Poll","Polling Pendapat"
-"Date Closed","Tanggal Ditutup"
-"Date Posted","Tanggal Dipost"
-"Delete","Hapus"
-"Delete Answer","Hapus Jawaban"
-"Delete Poll","Hapus Poll"
-"Disallow voting in a poll multiple times from same IP-address","Disallow voting in a poll multiple times from same IP-address"
-"Edit Answer '%s'","Ubah Jawaban '%s'"
-"Edit Poll '%s'","Ubah Poll '%s'"
-"Edit Poll Answer","Ubah Jawaban Poll"
-"ID","ID"
-"Invalid Answer","Ajavaban Tidak Valid"
-"New Poll","Poll Baru"
-"Number of Responses","Banyak Respon"
-"Open","Teruka"
-"Poll Answers","Jawaban Poll"
-"Poll Information","Infromasi Poll"
-"Poll Manager","Pengatur Poll"
-"Poll Question","Pertanyaan Poll"
-"Poll information","Informasi poll"
-"Poll not exists","Poll tidak ada"
-"Poll with the same question","oll dengan jawaban yang sama"
-"Save Answer","Simpa Jawaban"
-"Save Poll","Simpan Poll"
-"Status","Status"
-"Unable to find answer to delete.","Tidak dapat menemukan jawaban utnuk dihapus"
-"Visible In","Nampak Di"
-"Vote","Pilih"
-"Votes Count","Perhitungan Suara"
-"Votes Count:","Perhitungan Suara:"
+Actions,Aksi
+Add Answer,Tambah Jawaban
+Add New Answer,Tambah Jawaban Baru
+Add New Poll,Tambah Poll Baru
+Answer Title,Judul Jawaban
+Answer Title:,Judul Jawaban:
+Answer was successfully saved,Jawaban telah berhasil disimpan
+Answer with the same title in this poll,Jawaban dengan judul yang saa sudah ada di poll
+Are you sure you want to delete it?,Apakah anda yakin menghapus?
+Assigned Answers,Jawaban yang Diberikan
+Closed,Ditutup
+Community Poll,Polling Pendapat
+Date Closed,Tanggal Ditutup
+Date Posted,Tanggal Dipost
+Delete,Hapus
+Delete Answer,Hapus Jawaban
+Delete Poll,Hapus Poll
+Disallow voting in a poll multiple times from same IP-address,Tidak mengizinkan memilih dalam beberapa kali jajak pendapat dari alamat IP yang sama
+Edit Answer '%s',Ubah Jawaban '%s'
+Edit Poll '%s',Ubah Poll '%s'
+Edit Poll Answer,Ubah Jawaban Poll
+ID,ID
+Invalid Answer,Jawaban Tidak Valid
+New Poll,Poll Baru
+Number of Responses,Banyak Respon
+Open,Teruka
+Poll Answers,Jawaban Poll
+Poll Information,Infromasi Poll
+Poll Manager,Pengatur Poll
+Poll Question,Pertanyaan Poll
+Poll information,Informasi poll
+Poll not exists,Poll tidak ada
+Poll with the same question,Poll dengan jawaban yang sama
+Save Answer,Simpan Jawaban
+Save Poll,Simpan Poll
+Status,Status
+Unable to find answer to delete.,Tidak dapat menemukan jawaban utnuk dihapus
+Visible In,Nampak Di
+Vote,Pilih
+Votes Count,Perhitungan Suara
+Votes Count:,Perhitungan Suara:

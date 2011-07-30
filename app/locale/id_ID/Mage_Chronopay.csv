@@ -1,49 +1,49 @@
-"Accepted Currency","Accepted Currency"
-"An error has occurred","An error has occurred"
-"An error occurred during paying process.","An error occurred during paying process."
-"An error occurred during the paying process.","An error occurred during the paying process."
-"Authorize Only","Authorize Only"
-"Authorize and Capture","Authorize and Capture"
-"CGI URL","CGI URL"
-"Card Verification Number","Card Verification Number"
-"ChronoPay Gateway","ChronoPay Gateway"
-"ChronoPay Standard","ChronoPay Standard"
-"Credit Card Number","Credit Card Number"
-"Credit Card Number: xxxx-%s","Credit Card Number: xxxx-%s"
-"Credit Card Type","Credit Card Type"
-"Credit Card Type: %s","Credit Card Type: %s"
-"Credit Card Types","Credit Card Types"
-"Customer Interface Language","Customer Interface Language"
-"Debug","Debug"
-"Dutch","Dutch"
-"Enabled","Enabled"
-"English","English"
-"Expiration Date","Expiration Date"
-"Gateway request error: %s","Gateway request error: %s"
-"German","German"
-"Invalid operation code.","Invalid operation code."
-"Invalid response format.","Invalid response format."
-"Name on Card","Name on Card"
-"Name on the Card: %s","Name on the Card: %s"
-"New Order Status","New Order Status"
-"Order #%s","Order #%s"
-"Order number will be used if left empty.","Order number will be used if left empty."
-"Payment Action","Payment Action"
-"Payment from Applicable Countries","Payment from Applicable Countries"
-"Payment from Specific Countries","Payment from Specific Countries"
-"Please Select","Please Select"
-"Product ID","Product ID"
-"Russian","Russian"
-"Shared Secret","Shared Secret"
-"Site ID","Site ID"
-"Sort Order","Sort Order"
-"Specify access URL: {STORE_URL}/chronopay/standard/success in the ChronoPay client admin.","Specify access URL: {STORE_URL}/chronopay/standard/success in the ChronoPay client admin."
-"The customer has successfully returned from Chronopay.","The customer has successfully returned from Chronopay."
-"The customer was redirected to Chronopay.","The customer was redirected to Chronopay."
-"The selected currency code (%s) is not compatible with ChronoPay.","The selected currency code (%s) is not compatible with ChronoPay."
-"The transaction ID is invalid.","The transaction ID is invalid."
-"Title","Title"
-"Transaction Description","Transaction Description"
-"What is this?","What is this?"
-"You will be redirected to ChronoPay in a few seconds.","You will be redirected to ChronoPay in a few seconds."
-"You will be redirected to Chronopay website when you place an order.","You will be redirected to Chronopay website when you place an order."
+Accepted Currency,Kurs yang di terima
+An error has occurred,Galat terjadi
+An error occurred during paying process.,Galat terjadi ketika proses pembayaran.
+An error occurred during the paying process.,Galat terjadi ketika proses pembayaran.
+Authorize Only,Hanya otorisasi
+Authorize and Capture,Otorisasi dan penawaran
+CGI URL,CGI URL
+Card Verification Number,Nomor verifikasi kartu
+ChronoPay Gateway,ChronoPay Gateway
+ChronoPay Standard,ChronoPay Standar
+Credit Card Number,Nomor kartu kredit
+Credit Card Number: xxxx-%s,Nomor Kartu Kredit: xxxx-%s
+Credit Card Type,Jenis kartu kredit
+Credit Card Type: %s,Jenis Kartu kredit: %s
+Credit Card Types,Jenis Kartu kredit
+Customer Interface Language,Bahasa antarmuka pelanggan
+Debug,Debug
+Dutch,Belanda
+Enabled,Aktif
+English,Inggris
+Expiration Date,Masa kadaluarsa
+Gateway request error: %s,Galat permintaan gateway: %s
+German,Jerman
+Invalid operation code.,Kode operasi tidak valid.
+Invalid response format.,"Format respon tidak valid,"
+Name on Card,Nama pada kartu
+Name on the Card: %s,Nama pada kartu: %s
+New Order Status,Status pesanan baru
+Order #%s,Pesanan #%s
+Order number will be used if left empty.,Nomor pesanan akan digunakan jika dibiarkan kosong.
+Payment Action,Aksi pembayaran
+Payment from Applicable Countries,Pembayaran dari Negara terkait
+Payment from Specific Countries,Pembayaran dari Negara tertentu
+Please Select,Silakan pilih
+Product ID,ID produk
+Russian,Russia
+Shared Secret,Berbagi rahasia
+Site ID,situs ID
+Sort Order,Jenis pesanan
+Specify access URL: {STORE_URL}/chronopay/standard/success in the ChronoPay client admin.,Akses khusus URL: {STORE_URL}/chronopay/standar/keberhasilan dalam admin ChronoPay pelanggan.
+The customer has successfully returned from Chronopay.,Pelanggan telah berhasil kembali dari Chronopay.
+The customer was redirected to Chronopay.,Pelanggan dialihkan ke Chronopay.
+The selected currency code (%s) is not compatible with ChronoPay.,Kode kurs yang dipilih  (%s) tidak sesuai dengan ChronoPay.
+The transaction ID is invalid.,ID transaksi tidak valid.
+Title,Judul
+Transaction Description,Deskripsi transaksi
+What is this?,Apakah ini?
+You will be redirected to ChronoPay in a few seconds.,Anda akan diarahkan ke ChronoPay dalam beberapa detik.
+You will be redirected to Chronopay website when you place an order.,Anda akan diarahkan ke Chronopay website ketika Anda memesan.
