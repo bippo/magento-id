@@ -41,33 +41,20 @@ Cannot update shopping cart.,Tidak dapat memperbarui keranjang belanja
 Cannot update the item.,Tidak dapat memperbarui barang
 Card Verification Number Visual Reference,Kartu Verifikasi Visual Nomor Referensi
 Cart Product API,Keranjang produk API
-Cart Subtotal:,Keranjang Subtotal:
+Cart Subtotal:,Subtotal Keranjang:
 Change,Perubahan
 Change Billing Address,Ubah Alamat Tagihan
 Checkbox text,Teks kotak cek
-<<<<<<< HEAD
 Checkout,Bayar
 Checkout Conditions,Kondisi Pembayaran
 Checkout Options,Pilihan Pembayaran
-Checkout Progress Wrapper,Progress Wrapper Pembayaran
+Checkout Progress Wrapper,Wrapper Proses Pembayaran
 Checkout Section,Bagian Kasir
 Checkout Terms and Conditions,Syarat dan Kondisi Pembayaran
 Checkout as Guest,Bayar sebagai tamu
 Checkout as a Guest or Register,Bayar sebagai tamu atau daftar
 Checkout method,Cara Pembayaran
 Checkout with Multiple Addresses,Bayar dengan Multi alamat
-=======
-Checkout,Checkout
-Checkout Conditions,Kondisi Checkout
-Checkout Options,Pilihan Checkout
-Checkout Progress Wrapper,Checkout Kemajuan Wrapper
-Checkout Section,Bagian Checkout
-Checkout Terms and Conditions,Checkout Syarat dan Kondisi
-Checkout as Guest,Checkout sebagai tamu
-Checkout as a Guest or Register,Checkout sebagai tamu atau daftar
-Checkout method,Metode checkout
-Checkout with Multiple Addresses,Checkout dengan Multi alamat
->>>>>>> andi
 City,Kota
 "Click <a href=""%s"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","Klik <a href=""%s"" on Klik=""target.ini='_kosong'"">disini untuk mencetak</a> salinan dari konfirmasi pesanan Anda."
 Close,Tutup
@@ -150,13 +137,13 @@ Items,Barang
 Items After,Barang setelah
 Items Before,Barang sebelum
 Load customer quote error,Memuat Penawaran pelanggan  galat
-Loading next step...,Memuat langkah berikutnya�..
+Loading next step...,Memuat langkah berikutnya...
 Login,Masuk
 Login/Registration Before,Masuk/Sebelum Registrasi
 Manage Checkout Terms and Conditions,Kelola Checkout Syarat dan kondisi
 Maximum display Recently added item(s),Tampilan Maksimum Baru saja ditambahkan barang
 Maximum qty allowed for Shipping to multiple addresses is %s,Maksimum kuantitas diperbolehkan untuk Pengiriman ke beberapa alamat adalah %s
-Move to Wishlist,Pindahkan kedaftar yang di inginkan
+Move to Wishlist,Pindahkan ke daftar yang di inginkan
 Multishipping Checkout,Checkout multi pengiriman
 Multishipping Checkout Address (Any) Form,Checkout Multi pengiriman Form Alamat (Setiap)
 Multishipping Checkout Billing Address Creation,Membuat alamat tagihan Checkout multi pengiriman
@@ -172,7 +159,7 @@ Multishipping Checkout Shipping Information Step,Langkah informasi pengiriman  c
 Multishipping Checkout Success,Checkout multi pengiriman sukses
 My Cart,Keranjang saya
 My Cart (%s item),Keranjang saya (%s Barang)
-My Cart (%s items),keranjang saya (%s Barang barang)
+My Cart (%s items),keranjang saya (%s Barang-barang)
 My Cart Link,Tautan keranjang saya
 New Address,Alamat baru
 New Condition,Kondisi Baru
@@ -279,7 +266,7 @@ Status,Status
 Store View,Tampilan Toko
 Street Address,Alamat jalan
 Street Address ,Alamat jalan
-Submitting order information...,Mengirimkan informasi pesanan �
+Submitting order information...,Mengirimkan informasi pesanan...
 Subtotal,Subtotal
 Telephone,Telepon
 Terms and Conditions,Syarat dan kondisi
@@ -305,7 +292,7 @@ Use Billing Address,Gunakan alamat tagihan
 We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.,"Kami sedang memproses pesanan Anda dan Anda akan segera menerima email dengan rincian pesanan. Setelah pesanan telah dikirimkan Anda akan menerima email lain dengan tautan untuk melacak perkembangannya.
 "
 You have no items in your shopping cart.,Anda belum memilih produk untuk dibeli.
-You will receive an order confirmation email with details of your order and a link to track its progress.,Anda�akan menerima email�konfirmasi pesanan�dengan�rincian pesanan Anda dan tautan�untuk melacak�perkembangannya.
+You will receive an order confirmation email with details of your order and a link to track its progress.,Anda akan menerima email konfirmasi pesanan dengan rincian pesanan Anda dan tautan untuk melacak perkembangannya.
 Your Checkout Progress,Perkembangan Checkout Anda
 Your order # is: %s,Pesanan Anda # adalah: %s
 "Your order # is: <a href=""%s"">%s</a>","Pesanan Anda # adalah: <a href=""%s"">%s</a>"
