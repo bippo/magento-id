@@ -5,7 +5,7 @@ Attribute used in configurable products.,Atribut di gunakan dalam konfigurasi pr
 Attribute with the same code,Atribut dengan kode yang sama
 Data integrity: No header row found for attribute,Integritas data: Tidak ada baris judul ditemukan untuk atribut
 Default Product Listing Sort by not exists on Available Product Listing Sort by,Urutkan berdasarkan Daftar Produk standar dengan tidak ada pada Urutan Daftar Produk Tersedia dengan
-Default option value is not defined,Nilai pilihan standar tidak di tentukan
+Default option value is not defined,Nilai pilihan standar tidak ditentukan
 EAV types and attributes,EAV Jenis dan atribut
 Entity collection expected,Koleksi entitas yang diharapkan
 Entity collections expected,Koleksi entitas yang diharapkan
@@ -23,26 +23,26 @@ Invalid entity supplied,Entitas yang tidak valid diberikan
 Invalid entity supplied: %s,Entitas yang tidak valid diberikan: %s
 Invalid entity type,Jenis entitas tidak valid
 "Invalid entity_id, skipping the record","Entity_id yang tidak valid, lewati catatan"
-Invalid entity_type specified: %s,Entity_type ditentukan yang tidak valid:% s
+Invalid entity_type specified: %s,Entity_type ditentukan yang tidak valid: %s
 Invalid foreign key,Kunci asing yang yang tidak valid
 Invalid joined fields,Bidang yang menyatu tidak valid
 Invalid store specified,Toko yang di tentukan tidak valid
 Joined field or attribute expression with this alias is already declared,Bidang yang tergabung atau ungkapan atribut dengan alias ini sudah dinyatakan
-Joined field with this alias (%s) is already declared,Bidang yang tergabung dengan alias ini (% s) sudah dinyatakan
+Joined field with this alias (%s) is already declared,Bidang yang tergabung dengan alias ini (%s) sudah dinyatakan
 Joined field with this alias is already declared,Bidang yang tergabung dengan alias ini sudah dinyatakan
 Loaded %d records,memasukan  %d merekam
 No,Tidak
 No options found in config node %s,Tidak ada pilihan konfigurasi dalam simpul yang ditemukan %s
-"Problem loading a record, aborting. Error: %s","Masalah memuat catatan, membatalkan. Galat:% s"
+"Problem loading a record, aborting. Error: %s","Masalah memuat catatan, membatalkan. Galat: %s"
 "Problem loading the collection, aborting. Error: %s","Memuat koleksi bermasalah, membatalkan. galat: %s"
 "Problem saving a record, aborting. Error: ","Menyimpan catatan bermasalah, membatalkan. Galat: "
 "Problem saving the collection, aborting. Error: %s","Memuat koleksi bermasalah, membatalkan. galat: %s"
 Saved ,Menyimpan
 "Scope must not be changed, because the attribute is used in configurable products.","Ruang Lingkup tidak harus diubah, karena atribut yang digunakan dalam produk dapat dikonfigurasi."
-"The attribute code '%s' is reserved by system. Please, try another attribute code.","kode atribut '% S' isediakan oleh sistem. Silakan, coba kode atribut lain"
+"The attribute code '%s' is reserved by system. Please, try another attribute code.","kode atribut '%S' isediakan oleh sistem. Silakan, coba kode atribut lain"
 Unknown parameter,Parameter tidak di ketahui
 Valid store_id is expected!,Id_toko yang berlaku di harapakan!
-"Value of attribute ""%s"" must be unique","Nilai atribut ""% s"" harus unik"
+"Value of attribute ""%s"" must be unique","Nilai atribut ""%s"" harus unik"
 Wrong attribute ID,Id atribut salah
 Wrong attribute group ID,ID grup atribut salah
 Wrong attribute set ID,Pengaturan ID atribut salah

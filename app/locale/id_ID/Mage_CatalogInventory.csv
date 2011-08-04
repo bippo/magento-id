@@ -1,4 +1,4 @@
-"""%s"" is not available in the requested quantity. %s of the items will be backordered.","""% s"" tidak tersedia dalam kuantitas yang diminta. % s dari barang akan di order cadangkan."
+"""%s"" is not available in the requested quantity. %s of the items will be backordered.","""%s"" tidak tersedia dalam kuantitas yang diminta. %s dari barang akan dibuat pesanan cadangan."
 %s is available for purchase in increments of %s only.,%stersedia untuk pembelian dengan penambahan sebesar %s saja.
 %s is not a correct comparsion method.,Bukan metode perbandingan yang benar.
 "<strong>Note</strong> that these settings are applicable to cart line items, not the whole cart.","<Kuat>Catatan</Kuat> bahwa pengaturan ini berlaku untuk item baris keranjang, tidak seluruh keranjang."
@@ -29,13 +29,13 @@ Retrieve stock data by product ids,Menerima stok data oleh ID produk
 Rule price,Aturan harga
 Set Items' Status to be In Stock When Order is Cancelled,Set Produk Status menjadi dalam Ketika Order Dibatalkan
 Some of the products are currently out of stock,Beberapa produk saat ini habis
-Some of the products can not be ordered in requested quantity,Beberapa produk tidak dapat di pesan dalam jumlah yang di minta
-Some of the products cannot be ordered in the requested quantity,Beberapa produk tidak dapat di pesan dalam jumlah yang di minta
+Some of the products can not be ordered in requested quantity,Beberapa produk tidak dapat di pesan dalam jumlah yang diminta
+Some of the products cannot be ordered in the requested quantity,Beberapa produk tidak dapat di pesan dalam jumlah yang diminta
 Stock Options,Pilihan Stok
 Stock item for Product in option is not valid,Stok barang untuk Produk dalam opsi tidak valid
 Stock item for Product is not valid,Stok barang untuk Produk tidak valid
-The maximum quantity allowed for purchase is %s.,umlah maksimum yang diizinkan adalah% untuk pembelian s.
-The minimum quantity allowed for purchase is %s.,umlah minimum yang diizinkan adalah% untuk pembelian s.
+The maximum quantity allowed for purchase is %s.,Jumlah maksimum yang diizinkan untuk pembelian adalah %s.
+The minimum quantity allowed for purchase is %s.,Jumlah minimum yang diizinkan untuk pembelian adalah %s.
 "The requested quantity for ""%s"" is not available.","Kuantitas sebanyak""%s"" yang diminta tidak tersedia."
 The requested quantity is not available.,Kuantitas yang diminta tidak tersedia.
 This product is currently out of stock.,Produk tersebut saat ini kosong

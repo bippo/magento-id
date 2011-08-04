@@ -10,7 +10,7 @@ CB,CB
 Cannot create the invoice.,Tidak dapat membuat faktur
 Card Verification Number,Nomor verifikasi kartu
 Cart Type,Jenis keranjang
-"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">here</a> untuk melanjutkan belanja."
+"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">disini</a> untuk melanjutkan belanja."
 Command Line Mode,Mode garis komando
 Credit Card Number,Nomor kartu kredit
 Credit Card Number: xxxx-%s,Nomor kartu kredit: xxxx-%s
@@ -85,12 +85,12 @@ The URL of the Primary Payment Server,URL Server Pembayaran Utama
 The URL of the Second Backup Payment Server,URL Server Cadangan Pembayaran Kedua
 The URL of the Third Backup Payment Server,URL Server Cadangan Pembayaran Ketiga 
 The customer has returned from Paybox.,Pelanggan telah kembali dari paybox
-The customer was redirected to Paybox,Pelanggan di teruskan ke paybox
+The customer was redirected to Paybox,Pelanggan diteruskan ke paybox
 The customer was redirected to Paybox using \'command line\' mode.,Pelanggan dialihkan ke PayBox menggunakan \ 'baris perintah \' mode.
 The customer was refused by Paybox.,Pelanggan ini ditolak oleh PayBox.
 The customer was rejected by Paybox.,Pelanggan ini ditolak oleh PayBox.
 The invoice has been created.,Faktur telah dibuat
-The order was canceled by the customer.,Pesnanan di batalkan oleh pelanggan
+The order was canceled by the customer.,Pesnanan dibatalkan oleh pelanggan
 There are no orders.,Tidak ada pesanan
 There has been an error processing your payment. ,Terjadi galat dalam memproses pembayaran anda
 There has been an error processing your payment. Please try later or contact us for help.,Terjadi galat dalam memproses pembayaran Anda. Silakan cobalagi nanti atau hubungi kami.
@@ -102,5 +102,5 @@ Timeout for Checking,Waktu habis untuk mengecek
 Title,Judul
 VISA,VISA
 What is this?,Apakah ini?
-You will be redirected to Paybox in a few seconds.,Anda akan di arahkan ke paybox dalam beberapa detik
-You will be redirected to the Paybox website when you place an order.,Anda akan di arahkan ke situs paybox untuk menempatkan pesanan
+You will be redirected to Paybox in a few seconds.,Anda akan diarahkan ke paybox dalam beberapa detik
+You will be redirected to the Paybox website when you place an order.,Anda akan diarahkan ke situs paybox untuk menempatkan pesanan

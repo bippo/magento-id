@@ -1,4 +1,4 @@
-"%d Shopping Cart Price Rules based on ""%s"" attribute have been disabled.","% d Harga Keranjang Belanja Aturan berdasarkan atribut ""% s"" telah dinonaktifkan."
+"%d Shopping Cart Price Rules based on ""%s"" attribute have been disabled.","%d Harga Keranjang Belanja Aturan berdasarkan atribut ""%s"" telah dinonaktifkan."
 Actions,Aksi
 Active,Aktif
 Add New Rule,Tambah aturan baru
@@ -46,9 +46,9 @@ From Date,Dari tanggal
 General Information,Informasi umum
 ID,ID
 Inactive,Tidak aktif
-Item totals are not set for rule.,Total barang yang tidak di atur untuk aturan
+Item totals are not set for rule.,Total barang yang tidak diatur untuk aturan
 Labels,Label
-Maximum Qty Discount is Applied To,Diskon kuantitas maksimum di terapkan ke:
+Maximum Qty Discount is Applied To,Diskon kuantitas maksimum diterapkan ke:
 NOT FOUND,TIDAK DITEMUKAN
 NOT LOGGED IN,TIDAK MASUK
 Name: %s,Nama: %s
@@ -65,8 +65,8 @@ Product attribute combination,Kombinasi atribut produk
 Products subselection,Produk sebelum dipilih
 Promotions,Promosi
 Public In RSS Feed,Publik pada RSS Feed
-Quantity in cart,Kuantitas di keranjang
-Row total in cart,Baris total di keranjang
+Quantity in cart,Kuantitas dikeranjang
+Row total in cart,Baris total dikeranjang
 Rule Information,Informasi aturan
 Rule Name,Nama Aturan
 Rule was successfully deleted,Aturan berhasil dihapus
@@ -95,8 +95,8 @@ Total Items Quantity,Total kuantitas barang
 Total Weight,Total Berat
 Unable to find a page to delete,Tidak dapat menemukan halaman untuk dihapus
 Update prices using the following information,Perbaharui harga dengan menggunakan informasi berikut
-Update product's %s %s: %s,Perbaharu produk %s %s: %s
-Update the Product,Perbaharui Produk
+Update product's %s %s: %s,Perbarui produk %s %s: %s
+Update the Product,Perbarui Produk
 Uses per coupon,Penggunaan per kupon
 Uses per customer,Penggunaan per pelanggan
 Yes,Ya

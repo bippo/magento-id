@@ -6,17 +6,17 @@
 %1$s incl tax.,%1$s termasuk pajak.
 %s API Key required.,%s dibutuhkan kunci API.
 %s Application ID required.,%s ID aplikasi dibutuhkan.
-%s Secret Key required.,%s di butuhkan kunci rahasia.
-%s has been added to your cart.,%s telah di tambahkan pada keranjang Anda.
-"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)","(Termasuk negara yang lebih dari yang tercantum di bawah ini Sebagai pemilik aplikasi, Anda bertanggung jawab untuk mematuhi hukum negara tertentu terkait dengan distribusi atau penjualan aplikasi Anda ke negara itu, termasuk negara asal Anda..)"
+%s Secret Key required.,%s dibutuhkan kunci rahasia.
+%s has been added to your cart.,%s telah ditambahkan pada keranjang Anda.
+"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)","(Termasuk negara yang lebih dari yang tercantum dibawah ini Sebagai pemilik aplikasi, Anda bertanggung jawab untuk mematuhi hukum negara tertentu terkait dengan distribusi atau penjualan aplikasi Anda ke negara itu, termasuk negara asal Anda..)"
 10:40 AM,10:40 AM
 80px x 80px,80px x 80px
 80x80 px,80x80 px
 "A Catalog Only App will not support functions such as add to cart, add to wishlist, or login.","hanya sebuah aplikasi katalog  tidak akan mendukung fungsi-fungsi seperti add to cart, menambah Daftar Keinginan, atau masalah login."
-A new password has been sent.,Kata sandi baru telah di kirim
+A new password has been sent.,Kata sandi baru telah dikirim
 Account,Akun
 Account confirmation is required. Please check your email for the confirmation link.,Konfirmasi akun diperlukan. Silahkan periksa email Anda untuk tautan konfirmasi.
-Account information has been saved.,Informasi akun telah di simpan.
+Account information has been saved.,Informasi akun telah disimpan.
 Action,Aksi
 Activate,Aktivasi
 Activate PayPal Checkout,Activasi PayPal Checkout
@@ -30,13 +30,13 @@ Additional Address,Alamat tambahan
 Additional Countries,Tambahan negara
 Address,Alamat
 Address 2,Alamat 2
-Address data not specified.,Data alamat tidak di tentukan
+Address data not specified.,Data alamat tidak ditentukan
 Address does not belong to this customer.,Bukan data Alamat pelanggan ini
-Address has been deleted.,Alamat telah di hapus
-Address has been saved.,Alamat telah di simpan.
+Address has been deleted.,Alamat telah dihapus
+Address has been saved.,Alamat telah disimpan.
 Administrative contact for this app and for app submission issues.,kontak administrasi untuk aplikasi ini dan untuk masalah pengajuan aplikasi.
 Advanced Settings,Pengaturan lanjutan
-"After submitting the App, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship\'s Terms of Service: <a href=""%2$s"" target=""_blank"">click here</a>.","Setelah mengirimkan aplikasi, harap hubungi <a href=""mailto:%1$s"">%1$s</a> Untuk menerima kunci aplikasi, rahasia aplikasi dan rahasia master aplikasi<br />Setelah menerima identitasnya ini, silahkan mengisi kolom yang sesuai.<br />Di samping, terimalah Airship Perkotaan Persyaratan Layanan: <a href=""%2$s"" target=""_blank"">Klik di sini</a>."
+"After submitting the App, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship\'s Terms of Service: <a href=""%2$s"" target=""_blank"">click here</a>.","Setelah mengirimkan aplikasi, harap hubungi <a href=""mailto:%1$s"">%1$s</a> Untuk menerima kunci aplikasi, rahasia aplikasi dan rahasia master aplikasi<br />Setelah menerima identitasnya ini, silahkan mengisi kolom yang sesuai.<br />Disamping, terimalah Airship Perkotaan Persyaratan Layanan: <a href=""%2$s"" target=""_blank"">Klik di sini</a>."
 AirMail Message Queue,Antrian Pesan AirMail
 AirMail Messages Queue,Antrian Pesan AirMail
 AirMail Template Preview,Tinjauan kerangka AirMail
@@ -46,18 +46,18 @@ All locations,Semua lokasi
 An account with this email address already exists.,Akun dengan alamat email ini sudah ada.
 An error occurred while adding item to wishlist.,Galat terjadi ketika menambahkan barang ke daftar keinginan.
 An error occurred while deleting the address.,Galat terjadi ketika menghapus alamat.
-An error occurred while loading category filters.,An error occurred while loading category filters.
-An error occurred while processing your order. Please contact us or try again later.,An error occurred while processing your order. Please contact us or try again later.
-An error occurred while processing your request.,An error occurred while processing your request.
-An error occurred while removing item from wishlist.,An error occurred while removing item from wishlist.
-An error occurred while removing items from wishlist.,An error occurred while removing items from wishlist.
-Analytics,Analytics
+An error occurred while loading category filters.,Galat terjadi ketika memuat filter kategori .
+An error occurred while processing your order. Please contact us or try again later.,Galat terjadi ketika memproses pesanan Anda. Silakan hubungi kami atau cobalagi nanti.
+An error occurred while processing your request.,Galat terjadi ketika memproses permintaan Anda.
+An error occurred while removing item from wishlist.,Galat terjadi ketika menghapus barang dari daftar keinginan.
+An error occurred while removing items from wishlist.,Galat terjadi ketika menghapus barang dari daftar keinginan.
+Analytics,Analitis
 Android,Android
-App Background,App Background
-App Background (landscape mode).,App Background (landscape mode).
-App Background (portrait mode).,App Background (portrait mode).
-App Background <br />(landscape mode),App Background <br />(landscape mode)
-App Background <br />(portrait mode),Latar belakang aplikasi<br />(mode potrait)
+App Background,Latar belakang Aplikasi 
+App Background (landscape mode).,Latar belakang aplikasi (Mode landskap).
+App Background (portrait mode).,Latar belakang aplikasi (Mode potret).
+App Background <br />(landscape mode),Latar belakang aplikasi <br />(mode landskap)
+App Background <br />(portrait mode),Latar belakang aplikasi<br />(mode potret)
 App Background image missing.,Gambar latar belakang aplikasi hilang
 App Code,Kode aplikasi
 App Information,Informasi aplikasi
@@ -65,12 +65,12 @@ App Name,Nama Aplikasi
 App Stores,Toko aplikasi
 App Submission History,Riwayat pengajuan aplikasi
 App Title,Judul aplikasi
-App code required.,Kode aplikasi di butuhkan
+App code required.,Kode aplikasi dibutuhkan
 App does not exist.,Aplikasi tidak ada
-App has been deleted.,Aplikasi telah di hapus
-App has been saved.,Aplikasi telah di simpan
+App has been deleted.,Aplikasi telah dihapus
+App has been saved.,Aplikasi telah disimpan
 App has been submitted.,Aplikasi telah diajukan.
-App model not loaded.,Model aplikasi tidak di masukan
+App model not loaded.,Model aplikasi tidak dimasukan
 App with specified code does not exist.,Aplikasi dengan kode tertentu tidak ada
 "Appears in the info section of your app (example: Copyright 2010 â€“ Your Company, Inc.)","Muncul pada bagian info aplikasi anda (contoh: Hak cipta 2010 â€“ perusahaan anda, Inc.)"
 Application,Aplikasi
@@ -78,22 +78,22 @@ Application Key,Kunci aplikasi
 Application Master Secret,Rahasia master aplikasi
 Application Name,Nama Aplikasi
 Application Secret,Rahasia aplikasi
-"Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Menerapkan secara otomatis akan mengubah ukuran gambar ini untuk tampilan di dalam App Store dan usersâ € ™ perangkat. Sebuah gloss (gradien) juga akan diterapkan, sehingga Anda tidak perlu untuk menerapkan gradien. Gambar harus setidaknya 512x512Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512"
+"Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Menerapkan secara otomatis akan mengubah ukuran gambar ini untuk tampilan di dalam App Store dan usersâ € ™ perangkat. Sebuah gloss (gradien) juga akan diterapkan, sehingga Anda tidak perlu untuk menerapkan gradien. Gambar harus setidaknya 512x512"
 Are you sure you want to cancel a message?,Apakah Anda yakin ingin menghapus pesan ini?
 Are you sure you want to delete a message?,Apakah Anda yakin ingin menghapus pesan ini?
-Are you sure you what to cancel selected records?,Apakah anda yakin untuk membatalkan catatan yang di pilih?
-Are you sure you what to delete selected records?,Apakah anda yakin untuk menghapus catatan yang di pilih?
+Are you sure you what to cancel selected records?,Apakah anda yakin untuk membatalkan catatan yang dipilih?
+Are you sure you what to delete selected records?,Apakah anda yakin untuk menghapus catatan yang dipilih?
 Authentication complete.,Otentifikasi lengkap
 Back,Kembali
 Back to App Edit,Kembali ke suntingan aplikasi
 Background Color,Warna latar belakang
 Banner on Home Screen,Banner pada Layar Beranda
-Banner on Home Screen image missing.,Banner pada Layar gamabar Beranda Hilang 
+Banner on Home Screen image missing.,Banner pada Layar gambar Beranda Hilang 
 Billing address has been set.,Alamat tagihan telah diatur
 Buy %1$s for %2$s,Beli %1$s untuk%2$s
 Buy %1$s for %2$s (%3$s incl. tax) each,Beli %1$s untuk %2$s (%3$s termasuk pajak) masing masing
 Buy %1$s for %2$s each,Beli %1$s untk %2$s masing masing
-Buyer country is not allowed by store.,Negara pembeli tidak di ijinkan oleh toko.
+Buyer country is not allowed by store.,Negara pembeli tidak diijinkan oleh toko.
 Cache Lifetime (seconds),Cache Seumur Hidup (detik)
 Cache Management,Pengelolaan cache
 Can\'t add item to shopping cart.,Bisa\tidak bisa menambah barang ke keranjang belanja
@@ -115,28 +115,28 @@ Can\'t submit application.,Bisa\tidak bisa mengajukan aplikasi
 Can\'t update cart.,Bisa\tidak bisa memperbarui keranjang.
 "Can\'t write to file ""%s"".","Bisa\tidak bisa menulis berkas""%s""."
 Cancel,Batal
-Canceled,Di batalkan
-Cancelled,Di batalkan
+Canceled,Dibatalkan
+Cancelled,Dibatalkan
 "Cannot load theme ""%s"".","Tidak dapat memuat tema""%s""."
-"Cannot save theme ""%s"". Incorrect data received","Tidak dapat menyimpan tema ""%s"". Data tidak benar di terima"
+"Cannot save theme ""%s"". Incorrect data received","Tidak dapat menyimpan tema ""%s"". Data tidak benar diterima"
 Card Verification Number,Nomor verifikasi kartu
 Card verification number is wrong,Nomor verifikasi kartu salah
 Carrier,Pengangkut
 Cart,keranjang
-Cart has been updated.,Keranjang telah di perbarui
+Cart has been updated.,Keranjang telah diperbarui
 Cart has some errors.,Keranjang mengalami beberapa masalah
 Cart is empty.,Keranjang kosong.
-Catalog Only App?,Catalog Only App?
-Category Button Color,Category Button Color
-Category Item Background Color,Category Item Background Color
-Chairs,Chairs
-Change Orientation,Change Orientation
-Change Password,Change Password
-Changes have been saved to theme.,Changes have been saved to theme.
-Checkout has been initialized.,Checkout has been initialized.
-City,City
-Color Themes,Color Themes
-Colors,Colors
+Catalog Only App?,Hanya aplikasi katalog?
+Category Button Color,Warna tombol kategori
+Category Item Background Color,Warna latar belakang kategori barang
+Chairs,Kursi
+Change Orientation,Ubah orientasi
+Change Password,Ubah kata sandi
+Changes have been saved to theme.,Perubahan telah di simpan ke tema.
+Checkout has been initialized.,Checkout telah di inialisasi.
+City,Kota
+Color Themes,Warna Tema
+Colors,Warna
 Company,Perusahaan
 Completed,Lengkap
 Confirm New Password,Konfirmasi kata sandi baru
@@ -151,9 +151,9 @@ Copyright page logo,Logo halaman hak cipta
 Country,Negara
 "Country options don\'t recognized for ""%s"".",Pilihan negara tidak diakui untuk
 Coupon code %s is not valid.,Kode kupon %s tidak valid.
-Coupon code %s was applied.,Kode kupon %s telah di terapkan.
+Coupon code %s was applied.,Kode kupon %s telah diterapkan.
 Coupon code is empty.,Kode kupon kosong.
-Coupon code was canceled.,Kode kupon di batalkan.
+Coupon code was canceled.,Kode kupon dibatalkan.
 Creating a Template is allowed only for applications which have device type iPhone.,Membuat Template diperbolehkan hanya untuk aplikasi yang memiliki perangkat jenis iPhone
 Credit Card Number,Nomor kartu kredit
 Credit Card Type,Jenis kartu kredit
@@ -165,28 +165,28 @@ Custom App Icon <br />(iPhone 4 retina),Ikon aplikasi khusus <br />(iPhone 4 ret
 Custom Colors,Warna khusus
 Custom application icon,Ikon aplikasi khusus
 Customer authentication problem.,Masalah otentifikasi pelanggan
-Customer email not specified.,Email pelanggan tidak di tentukan
+Customer email not specified.,Email pelanggan tidak ditentukan
 Customer logout problem.,Masalah logout pelanggan
 Customer not logged in.,Pelanggan tidak logged in.
-Date Created,Tanggal di buat
-Date Submitted,Tanggal di ajukan
-Date Updated,tanggal di perbarui
+Date Created,Tanggal dibuat
+Date Submitted,Tanggal diajukan
+Date Updated,tanggal diperbarui
 Default Billing Address,Alamat tagihan standar
 Default Shipping Address,Alamat pengiriman standar
 Default Theme,Tema standar
 Delete,Hapus
 Deleted,Hapus
 Description,Deskripsi
-Description that appears in Android Market. %s chars maximum. ,Keterangan yang muncul di Android Market. % s karakter maksimum.
-Description that appears in the iTunes App Store. %s chars maximum. ,Keterangan yang muncul  di iTunes App Store. % s karakter maksimum.
-Deselect All,Tidak di pilih semua
+Description that appears in Android Market. %s chars maximum. ,Keterangan yang muncul di Android Market. %s karakter maksimum.
+Description that appears in the iTunes App Store. %s chars maximum. ,Keterangan yang muncul  di iTunes App Store. %s karakter maksimum.
+Deselect All,Tidak dipilih semua
 Design,Desain
 Device,Alat
 Device Information,Informasi alat
 Device Type,Jenis alat
 Device doesn\'t recognized. Unable to load a template.,Perangkat tidak mengenali. Tidak dapat memuat sebuah template.
-"Device doesn\'t recognized: ""%s"". Unable to load a helper.","Perangkat tidak mengenali: ""% s"". Tidak dapat memuat penolong."
-"Device doesn\'t recognized: ""%s"". Unable to load preview model.","Perangkat tidak dikenal: ""% s"". Tidak dapat memuat model pratinjau."
+"Device doesn\'t recognized: ""%s"". Unable to load a helper.","Perangkat tidak mengenali: ""%s"". Tidak dapat memuat penolong."
+"Device doesn\'t recognized: ""%s"". Unable to load preview model.","Perangkat tidak dikenal: ""%s"". Tidak dapat memuat model pratinjau."
 Edit,Sunting
 Edit AirMail Message,Sunting pesan AirMail
 Edit AirMail Message Queue #%s,Sunting antrian pesan AirMail#%s
@@ -210,11 +210,11 @@ Error.,Galat.
 Expiration Date - Month,Tanggal-Bulan kadaluarsa
 Expiration Date - Year,Tanggal- tahun kadaluarsa
 Extensions,Ekstensi
-FILTERS APPLIED,FILTER DI TERAPKAN
+FILTERS APPLIED,FILTER DITERAPKAN
 Facebook API,Facebook API
 Facebook Application ID, Aplikasi ID Facebook
 Fax,Fax
-File can\'t be uploaded.,Berkas bisa\tidak bisa di unggah
+File can\'t be uploaded.,Berkas bisa\tidak bisa diunggah
 "File doesn\'t exist ""%s"".","Berkas tidak ada ""%s""."
 First Name,Nama awal
 Flurry API Code,Flurry kode API
@@ -240,14 +240,14 @@ Icon that will appear on the user\'s device after they download your app. You do
 Icon that will appear on the user\'s phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.,Ikon tersebut akan muncul di telepon pengguna setelah mereka mengunduh aplikasi Anda. Anda tidak perlu menerapkan gradien atau pinggiran ringan (ini dilakukan secara otomatis oleh Apple). Rekomendasi Ukuran: 114px x 114px.
 Icon that will appear on the userâ€™s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi.,Ikon yang akan muncul pada telepon pengguna setelah mereka mengunduh aplikasi Anda. Anda tidak perlu menerapkan gradien atau pinggiran ringan (ini dilakukan secara otomatis oleh Apple). Ukuran yang direkomendasikan: 57px 57px x pada 72 dpi.
 Icons,Ikon
-"If leave this field empty, the message will be sent immediately","Jika membiarkan bidang ini kosong, pesan akan di kirim secepatnya"
+"If leave this field empty, the message will be sent immediately","Jika membiarkan bidang ini kosong, pesan akan dikirim secepatnya"
 "If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.","Jika Anda ingin menonaktifkan cache pada sisi aplikasi, membiarkan bidang kosong. Peringatan! Ketika menonaktifkan cache, aplikasi akan mengambil waktu untuk memuat setiap halaman."
-Image file was not found.,Berkas gambar tidak di temukan
-Image that appears on first screen while your app is loading. Required size: 1024px x 768px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 1024px x 768px.
-Image that appears on first screen while your app is loading. Required size: 320px x 455px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 455px.
-Image that appears on first screen while your app is loading. Required size: 320px x 460px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 460px.
-Image that appears on first screen while your app is loading. Required size: 640px x 920px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 640px x 920px.
-Image that appears on first screen while your app is loading. Required size: 768px x 1024px.,Gambar yang muncul di layar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 768px x 1024px.
+Image file was not found.,Berkas gambar tidak ditemukan
+Image that appears on first screen while your app is loading. Required size: 1024px x 768px.,Gambar yang muncul dilayar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 1024px x 768px.
+Image that appears on first screen while your app is loading. Required size: 320px x 455px.,Gambar yang muncul dilayar pertama saat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 455px.
+Image that appears on first screen while your app is loading. Required size: 320px x 460px.,Gambar yang muncul dilayar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 460px.
+Image that appears on first screen while your app is loading. Required size: 640px x 920px.,Gambar yang muncul dilayar pertama saat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 640px x 920px.
+Image that appears on first screen while your app is loading. Required size: 768px x 1024px.,Gambar yang muncul dilayar pertama saat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 768px x 1024px.
 Images,Gambar
 In Queue,Dalam antrian
 In Stock,Dalam stok
@@ -263,11 +263,11 @@ Invalid item or wishlist.,Barang atau daftar keinginan tidak valid
 Invalid login or password.,login atau kata sandi tidak valid.
 Invalid shipping method.,Metode pengiriman tidak valid.
 Issue Number,Nomor terbitan
-It\'s not allowed to delete submitted application.,Tidak di ijinkan untuk menghapus aplikasi pengajuan
-Item has been added to cart.,Barang telah di tambahkan ke keranjang
-Item has been deleted from cart.,Barang telah di hapus dari keranjang
-Item has been removed from wishlist.,Barang telah di hapus dari daftar keinginan.
-Items were updated. But can\'t update wishlist.,Barang telah di perbarui. Tetapi dapat\tidak dapat di perbarui dari daftar keinginan.
+It\'s not allowed to delete submitted application.,Tidak diijinkan untuk menghapus aplikasi pengajuan
+Item has been added to cart.,Barang telah ditambahkan ke keranjang
+Item has been deleted from cart.,Barang telah dihapus dari keranjang
+Item has been removed from wishlist.,Barang telah dihapus dari daftar keinginan.
+Items were updated. But can\'t update wishlist.,Barang telah diperbarui. Tetapi dapat\tidak dapat diperbarui dari daftar keinginan.
 Key,Kunci
 Keywords,Kata kunci
 Label,Label
@@ -279,12 +279,12 @@ LinkedIn API Key,Kunci LinkedIn API
 LinkedIn Secret Key,Kunci rahasia LinkedIn
 Loader Splash Screen,Pemuat layar splash
 Loader Splash Screen <br />(iPhone 4 retina),Pemuat layar splash<br />(iPhone 4 retina)
-Loader Splash Screen <br />(landscape mode),Pemuat layar splash <br />(mode landscape)
+Loader Splash Screen <br />(landscape mode),Pemuat layar splash <br />(mode landskap)
 Loader Splash Screen <br />(portrait mode),Pemuat layar splash <br />(mode potret)
 Loading Preview...,Memuat tinjauan…
 Locations,Lokasi
 Log In,Masuk
-Login and password are required.,Login dan kata sandi di butuhkan
+Login and password are required.,Login dan kata sandi dibutuhkan
 Logo in Header,Logo pada header
 Logo in Header image missing.,Logo pada gambar header hilang
 Logout complete.,Logout selesai.
@@ -292,7 +292,7 @@ Logout complete.,Logout selesai.
 Mailbox title,Judul kotak surat
 Main Tabs,Tab utama
 Make Inactive,Buat tidak aktif
-Make this app available in the following territories,Membuat aplikasi ini tersedia di wilayah berikut
+Make this app available in the following territories,Membuat aplikasi ini tersedia diwilayah berikut
 Manage Apps,Kelola aplikasi
 Manage Mobile App,Kelola aplikasi mobile
 Maximum length is 140,Panjang maksimum adalah 140
@@ -311,35 +311,35 @@ More,Lebih
 More Info,Info lebih
 More Tabs,Tab lebih
 Name on Card,Nama pada kartu
-Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.,Nama yang muncul di bawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. Kami sarankan untuk memilih nama yang 10-12 karakter dan bahwa pelanggan Anda akan mengenali. % s karakter maks.
+Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.,Nama yang muncul di bawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. Kami sarankan untuk memilih nama yang 10-12 karakter dan bahwa pelanggan Anda akan mengenali. %s karakter maks.
 New AirMail Message,Pesan AirMail baru
 New AirMail Message Queue,Antrian pesan AirMail baru
 New App,Aplikasi baru
 New Password,Kata sandi baru
 New Template,Kerangka baru
 Nickname,Nama panggilan
-No items were specifed to update.,Tidak ada barang yang di tentukan di perbarui
-No items were updated.,Tidak ada barang yang di perbarui
-No product selected.,Tidak ada produk yang di pilih
+No items were specifed to update.,Tidak ada barang yang di tentukan diperbarui
+No items were updated.,Tidak ada barang yang diperbarui
+No product selected.,Tidak ada produk yang dipilih
 "No such file ""%s"".","Tidak ada berkas""%s""."
-Not Submitted,Belum di ajukan
+Not Submitted,Belum diajukan
 Notice,Catatan
 One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.,Satu atau lebih kata kunci yang menjelaskan aplikasi Anda. Kata kunci dicocokkan dengan pencarian pengguna di App Store dan kembali membantu hasil pencarian yang akurat. Pisahkan beberapa kata kunci dengan koma. 100 karakter maksimum.
 Onepage checkout is disabled.,Checkout satu halaman tidak aktif
-Only free apps are allowed in this version.,Hanya aplikasi gratis di ijinkan pada versi ini
+Only free apps are allowed in this version.,Hanya aplikasi gratis diijinkan pada versi ini
 "Only registered users can write reviews. Please, log in or register.","Hanya pengguna terdaftar yang dapat menulis tinjauan. Silahkan, login atau mendaftar."
 Options menu items,Pilihan menu barang.
-POST data is not valid.,POST data is not valid.
-Pages,Pages
-Password,Password
-Password fields cannot be empty.,Password fields cannot be empty.
+POST data is not valid.,POST data tidak valid.
+Pages,Halaman
+Password,Kata sandi
+Password fields cannot be empty.,Bidang kata sandi tidak boleh kosong.
 PayPal Mobile Embedded Payment (MEP),PayPal Mobile Embedded Payment (MEP)
-Payment Bridge module unavailable.,Payment Bridge module unavailable.
-Payment Method has been set.,Payment Method has been set.
-Payment Methods,Payment Methods
-Payment method was successfully set.,Payment method was successfully set.
-Paypal Merchant Account Email.,Paypal Merchant Account Email.
-Paypal Merchant Account Username.,Paypal Merchant Account Username.
+Payment Bridge module unavailable.,Modul Payment Bridge tidak tersedia.
+Payment Method has been set.,Metode pembayaran telah diatur.
+Payment Methods,Metode pembayaran
+Payment method was successfully set.,Metode pembayaran telah berhasil diatur.
+Paypal Merchant Account Email.,Akun email Paypal pedagang.
+Paypal Merchant Account Username.,Katasandi akun Paypal pedagang.
 Please Select Application,Silakan pilih aplikasi
 Please Select Device Type,Silakan pilih jenis perangkat
 Please agree to all the terms and conditions before placing the order.,Silahkan menyetujui semua syarat dan ketentuan sebelum menempatkan pesanan.
@@ -353,7 +353,7 @@ Please enter the Resubmission Key.,Silakan masukan pengiriman ulang kunci.
 Please enter the Title.,Silakan masukan judul
 Please make sure your passwords match.,Pastikan bahwa kata sandi anda cocok
 Please select at least one country.,Silakan pilih paling sedikit satu negara
-"Please upload  an image for ""App Background (landscape mode)"" field from Design Tab.","Silahkan unggah foto untuk ""Latar Belakang App (mode landscape)"" bidang dari Tab Desain."
+"Please upload  an image for ""App Background (landscape mode)"" field from Design Tab.","Silahkan unggah foto untuk ""Latar Belakang Aplikasi (mode landscape)"" bidang dari Tab Desain."
 "Please upload  an image for ""App Background (portrait mode)"" field from Design Tab.","Silahkan unggah foto untuk ""Latar Belakang App (mode potret)"" bidang dari Tab Desain."
 "Please upload  an image for ""App Background"" field from Design Tab.","Silahkan unggah foto untuk ""Latar Belakang App"" bidang dari Tab Desain."
 "Please upload  an image for ""Banner on Home Screen"" field from Design Tab.","Silahkan unggah foto untuk ""Banner pada latar beranda"" bidang dari Tab Desain."
@@ -369,7 +369,7 @@ Product Name3 ,Nama produk 3
 Product Name3 1,Nama produk 3 1
 Product Name3 2,Nama produk3 2
 Product is unavailable.,Produk tidak tersedia
-Product was not specified.,Produk tidak di tentukan
+Product was not specified.,Produk tidak ditentukan
 Product(s) currently out of stock.,Produk saat ini habis
 Purchase Order Number,Nomor pesanan pembelian
 Push Notification,notifikasi Push 
@@ -379,16 +379,16 @@ Push title,Judul push
 Queue Date,Tanggal antrian
 Queue Message,Pesan antrian
 Queue does not exist.,Antrian tidak ada
-Quote instance is required.,Contoh antrian di perlukan
+Quote instance is required.,Contoh antrian diperlukan
 Recipient Information,Penerima informasi
 Recommended size 1024px x 704px. Note: Image size affects the performance of your app.,Rekomendasi ukuran 1024px x 704px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda.
-Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rekomendasi ukuran 320px x 230px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda di bawah 50 KB untuk kinerja yang optimal.
-Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rekomendasi ukuran 320px x 258px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda di bawah 50 KB untuk kinerja yang optimal.
-Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.,Rekomendasi ukuran 320px x 367px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda di bawah 75 KB untuk kinerja yang optimal.
+Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rekomendasi ukuran 320px x 230px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda dibawah 50 KB untuk kinerja yang optimal.
+Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rekomendasi ukuran 320px x 258px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda dibawah 50 KB untuk kinerja yang optimal.
+Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.,Rekomendasi ukuran 320px x 367px. Catatan: Ukuran foto mempengaruhi kinerja dari aplikasi Anda. Jaga ukuran gambar Anda dibawah 75 KB untuk kinerja yang optimal.
 Recommended size 35px x 35px.,Rekomendasi ukuran 35px x 35px.
 Recommended size 768px x 294px. Note: Image size affects the performance of your app.,Rekomendasi ukuran 768px x 294px.Catatan Ukuran foto mempengaruhi kinerja dari aplikasi Anda.
 Recommended size 768px x 960px. Note: Image size affects the performance of your app.,Rekomendasi ukuran 768px x 960px.Catatan Ukuran foto mempengaruhi kinerja dari aplikasi Anda.
-Regular and confirmation passwords must be equal,Regular and confirmation passwords must be equal
+Regular and confirmation passwords must be equal,Reguler dan konfirmasi kata sandi harus sama
 Related Product Background Color,Terkait warna latar belakang produk
 Reset theme to default,Reset tema ke standar
 Resubmission Key,Kunci pengajuan ulang
@@ -412,7 +412,7 @@ Selected product is unavailable.,Pilihan roduk tidak tersedia
 Sender Information,Informasi pengirim
 Settings,Pengaturan
 Shipping address has been set.,Alamat pengiriman telah diatur
-Shipping method has been set.,Metode pengiriman telah di atur
+Shipping method has been set.,Metode pengiriman telah diatur
 Shop,Toko
 Shopping cart is empty.,Keranjang belanja kosong
 Sky Blue,Langit biru
@@ -432,9 +432,9 @@ Start Date - Year,Tanggal mulai -tahun
 State/Province,Negara/Provinsi
 Status,Status
 Store View,Tampilan toko
-Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px.,logo toko yang ditampilkan di halaman hak cipta dari aplikasi. Pilihan ukuran: 100px x 100px.
-Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.,logo toko yang ditampilkan di halaman hak cipta dari aplikasi. Pilihan ukuran: 200px x200px.
-Store logo that will be displayed on copyright page of application , logo toko yang akan ditampilkan di halaman hak cipta dari aplikasi
+Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px.,logo toko yang ditampilkan dihalaman hak cipta dari aplikasi. Pilihan ukuran: 100px x 100px.
+Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.,logo toko yang ditampilkan dihalaman hak cipta dari aplikasi. Pilihan ukuran: 200px x200px.
+Store logo that will be displayed on copyright page of application , logo toko yang akan ditampilkan dihalaman hak cipta dari aplikasi
 Street Address,Alamat Jalan
 Street Address 2,Alamat jalan 2
 Submission,Pengajuan
@@ -444,9 +444,9 @@ Submit,Pengajuan
 Submit App,Aplikasi pengajuan
 "Submit App ""%s""","Aplikasi pengajuan ""%s"""
 Submit App failure. %s,Pengajuan aplikasi gagal. %s
-Submit App failure. Invalid activation key provided,Pengajuan aplikasi gagal. Kunci aplikasi yang di sediakan tidak valid
+Submit App failure. Invalid activation key provided,Pengajuan aplikasi gagal. Kunci aplikasi yang disediakan tidak valid
 Submit Application,Ajukan aplikasi
-Submitted,Di ajukan
+Submitted,Diajukan
 Subtotal (Excl. Tax),Subtotal (Tidak termasuk pajak)
 Subtotal (Incl. Tax),Subtotal (Termasuk pajak)
 Summary of Your Review,Ringkasan dari tinjauan anda
@@ -462,18 +462,18 @@ Template Name,Nama kerangka
 "Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found.","Penciptaan kerangka diperbolehkan hanya untuk aplikasi yang memiliki  jenis perangkat iPhone, tapi ini jenis aplikasi belum ditemukan."
 Template does not exist.,Kerangka tidak ada
 Template for new AirMail Message does not exist.,Kerangka untuk pesan AirMail baru tidak ada.
-Template has been deleted.,Kerangka telah di hapus
+Template has been deleted.,Kerangka telah dihapus
 Thank you for registering!,Terimakasih telah mendaftar!
 Thank you for your purchase! ,Terimakasih atas pembelian Anda!
 "The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">click here</a>","Judul Kotak surat akan ditampilkan di tab More Info. Untuk memahami lebih lanjut tentang judul, silahkan <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">klik disini</a>"
 The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.,Ikon yang muncul di Android Market. Rekomendasi Ukuran: 512px x 512px. Ukuran maksimum: 1024 KB.
-Theme configurations are successfully reset.,Konfigurasi tema telah berhasil di reset.
-Theme name is not set.,Nama tema tidak di set.
+Theme configurations are successfully reset.,Konfigurasi tema telah berhasil direset.
+Theme name is not set.,Nama tema tidak diatur.
 There were some problems with the data.,Ada beberapa masalah dengan data.
-This email address was not found in our records.,Alamat email ini tidak di temukan di catatan kami.
+This email address was not found in our records.,Alamat email ini tidak ditemukan dicatatan kami.
 This icon will be  used for usersâ€™ devices in case if different than AppSore icon needed. ,Ikon ini akan digunakan untuk perangkat pengguna dalam halnya jika berbeda dari ikon AppSore yang dibutuhkan.
 This is the description that will appear in the iTunes marketplace. ,Ini adalah deskripsi yang akan muncul di pasar iTunes.
-"This is the name that will appear beneath your app when users install it to their device.  .  We recommend choosing a name that is 10-12 characters in length, and that your customers will recognize.","Ini adalah nama yang akan muncul di bawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. . Kami sarankan untuk memilih nama yang 10-12 karakter, dan bahwa pelanggan Anda akan mengenali."
+"This is the name that will appear beneath your app when users install it to their device.  .  We recommend choosing a name that is 10-12 characters in length, and that your customers will recognize.","Ini adalah nama yang akan muncul dibawah aplikasi Anda ketika pengguna menginstal ke perangkat mereka. . Kami sarankan untuk memilih nama yang 10-12 karakter, dan bahwa pelanggan Anda akan mengenali."
 "This will appear in the info section of your App (example:  Copyright 2010 â€“ Your Company, Inc.)","Ini akan muncul di bagian info dari aplikasi Anda (example:  Copyright 2010 â€“ nama perusahaan anda, Inc.)"
 Title,Judul
 Title bar,Judul Bar
@@ -486,7 +486,7 @@ Unable to cancel queue.,Tidak dapat membatalkan antrian
 Unable to collect cart totals.,Tidak dapat mengumpulkan total keranjang.
 Unable to delete queue.,Tidak dapat menghapus antrian.
 Unable to find an app to delete.,Tidak dapat menemukan apliksi untuk di hapus.
-Unable to find template to delete.,Tidak dapat menemukan kerangka untuk di hapus.
+Unable to find template to delete.,Tidak dapat menemukan kerangka untuk dihapus.
 Unable to get shipping methods list.,Tidak bisa mendapatkan daftar metode pengiriman.
 Unable to initialize MEP Checkout.,tidak dapat mengenali MEP Checkout.
 Unable to load application form.,Tidak dapat memuat form aplikasi.
@@ -500,9 +500,9 @@ Unable to save shipping address.,Tidak dapat menyimpan alamat pengiriman.
 Unable to save shipping method.,Tidak dapat menyimpan metode pengiriman.
 Unable to save template.,Tidak dapat menyimpan kerangka.
 Unable to start MEP Checkout.,Tidak dapat memulai MEP Checkout.
-Undefined,Tidak di tentukan
-Unknown Error,Galat tidak di ketahui
-Unknown Error.,Galat tidak di ketahui
+Undefined,Tidak ditentukan
+Unknown Error,Galat tidak diketahui
+Unknown Error.,Galat tidak diketahui
 Update Preview,Perbaruan tinjauan
 Urban Airship Push Notification,Notifikasi Push Airship kota
 Use as my default billing address,Gunakan sebagai alamat tagihan standar saya
@@ -512,10 +512,10 @@ Users will see this image as the first screen while your application is loading.
 View Details,Lihat detil
 View Gallery,Lihat galeri
 Website is offline.,Situs offline
-Wishlist has been cleared.,Daftar keinginan telah di hapus
-Wishlist has been updated.,Daftar keinginan telah di perbarui
-Wishlist has been updated. But there are accrued some errors while updating some items.,Daftar keinginan telah di perbarui. Tapi ada beberapa kesalahan sementara diperoleh memperbarui beberapa item.
-"Wrong Ipad background image orientation has been specified: ""%s"".","Orientasi gambar latar belakang ipad yang salah telah di tetapkan""%s""."
+Wishlist has been cleared.,Daftar keinginan telah dihapus
+Wishlist has been updated.,Daftar keinginan telah diperbarui
+Wishlist has been updated. But there are accrued some errors while updating some items.,Daftar keinginan telah diperbarui. Tapi ada beberapa kesalahan sementara diperoleh memperbarui beberapa item.
+"Wrong Ipad background image orientation has been specified: ""%s"".","Orientasi gambar latar belakang ipad yang salah telah ditetapkan""%s""."
 Wrong device type.,Jenis perangkat salah.
 Wrong email format,Format email salah.
 Wrong theme format.,Format tema salah.

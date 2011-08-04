@@ -38,17 +38,17 @@ Payflow Pro,Payflow Pro
 Payment Action,Aksi pembayaran
 Payment authorization error.,Galat otorisasi pembayaran
 Payment canceling error.,Galat pembatalan pembayaran.
-Payment capturing error.,Payment capturing error.
-Payment from Applicable Countries,Payment from Applicable Countries
-Payment from Specific Countries,Payment from Specific Countries
-Payment partial authorization error.,Payment partial authorization error.
-Payment refunding error.,Payment refunding error.
-Payment voiding error.,Payment voiding error.
-Processed Amount,Processed Amount
-Remaining Balance,Remaining Balance
-Severe 3D Secure Card Validation,Severe 3D Secure Card Validation
-Severe Validation Removes Chargeback Liability on Merchant,Severe Validation Removes Chargeback Liability on Merchant
-Shopping cart contents and/or address has been changed.,Shopping cart contents and/or address has been changed.
+Payment capturing error.,Galat Pengambilan Pembayaran.
+Payment from Applicable Countries,Pembayaran dari Negara terkait
+Payment from Specific Countries,Pembayaran dari Negara Tertentu
+Payment partial authorization error.,Galat otorisasi Pembayaran Parsial.
+Payment refunding error.,Galat Pengembalian Pembayaran.
+Payment voiding error.,Galat Pembatalan Pembayaran.
+Processed Amount,Jumlah yang diproses
+Remaining Balance,Sisa Saldo
+Severe 3D Secure Card Validation,Validasi Kartu Keamanan yang Berat 3D 
+Severe Validation Removes Chargeback Liability on Merchant,Validasi yang berat Menghapus Kewajiban Pembayaran balik pada Pedagang
+Shopping cart contents and/or address has been changed.,Isi keranjang belanja dan / atau alamat telah berubah.
 Sort Order,Urutkan pesanan
 Test Mode,Mode tes
 "The amount on your credit card is insufficient to complete your purchase. The available amount has been put on hold. To complete your purchase click OK and specify additional credit card number. To cancel the purchase and release the amount on hold, click Cancel.","Jumlah kartu kredit Anda tidak mencukupi untuk menyelesaikan pembelian Anda. Jumlah yang tersedia telah ditahan. Untuk melengkapi pembelian Anda klik OK dan menentukan nomor kartu kredit tambahan. Untuk membatalkan pembelian dan melepaskan jumlah yang ditahan, klik Batal."
@@ -65,6 +65,6 @@ authorize,Otorisasi
 authorize and capture,Otorisasi dan ambil
 capture,ambil
 failed,Gagal
-refund,"Pembayaran ke,bali"
+refund,Pembayaran kembali
 successful,berhasil
 void,Batal

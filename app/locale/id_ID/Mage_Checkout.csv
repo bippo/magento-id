@@ -1,5 +1,5 @@
-%s was added to your shopping cart.,%s di tambahkan pada keranjang belanjaan Anda.
-%s was updated in your shopping cart.,%s di perbarui pada keranjang belanjaan Anda.
+%s was added to your shopping cart.,%s ditambahkan pada keranjang belanjaan Anda.
+%s was updated in your shopping cart.,%s diperbarui pada keranjang belanjaan Anda.
 * Required Fields,* Dibutuhkan bidang
 Add New Address,Tambahkan alamat baru
 Add New Condition,Tambahkan kondisi baru
@@ -9,7 +9,7 @@ Add product to shopping cart,Tambahkan produk ke keranjang belanjaan
 Add product(s) to shopping cart,Tambahkan produk ke keranjang belanjaan
 Add to Cart,Tambahkan ke keranjang
 Add to Compare,Tambahkan ke perbandingan
-Add to Wishlist,Tambahkan ke daftar yang di inginkan
+Add to Wishlist,Tambahkan ke daftar yang diinginkan
 Additional Product Info,Info produk tambahan
 Address,Alamat
 Address %s of %s,Alamat %s dari%s
@@ -60,7 +60,7 @@ City,Kota
 Close,Tutup
 Company,Perusahaan
 Condition Name,Kondisi Nama
-Configurable Product Image,Gambar Produk yang dapat di konfigurasi
+Configurable Product Image,Gambar Produk yang dapat dikonfigurasi
 Configure Cart Item,Konfigurasi keranjang barang
 Confirm Password,Konfirmasi kata sandi
 Content,Isi
@@ -93,7 +93,7 @@ Display Cart Summary,Menampilkan ringkasan keranjang
 Display Shopping Cart Sidebar,Tampilan Belanja Bar Samping
 Display item quantities,Kuantitas tampilan barang
 Display number of items in cart,Jumlah tampilan dari barang di keranjang
-Display number of items in wishlist,Jumlah tampilan dari barang di daftar yang di inginkan
+Display number of items in wishlist,Jumlah tampilan dari barang pada daftar yang diinginkan
 Easy access to your order history and status,Akses mudah ke riwayat pesanan Anda dan status
 Edit,Sunting
 Edit Address,Sunting Alamat
@@ -142,7 +142,7 @@ Login,Masuk
 Login/Registration Before,Masuk/Sebelum Registrasi
 Manage Checkout Terms and Conditions,Kelola Checkout Syarat dan kondisi
 Maximum display Recently added item(s),Tampilan Maksimum Baru saja ditambahkan barang
-Maximum qty allowed for Shipping to multiple addresses is %s,Maksimum kuantitas diperbolehkan untuk Pengiriman ke beberapa alamat adalah% s
+Maximum qty allowed for Shipping to multiple addresses is %s,Maksimum kuantitas diperbolehkan untuk Pengiriman ke beberapa alamat adalah %s
 Move to Wishlist,Pindahkan kedaftar yang di inginkan
 Multishipping Checkout,Checkout multi pengiriman
 Multishipping Checkout Address (Any) Form,Checkout Multi pengiriman Form Alamat (Setiap)
@@ -203,7 +203,7 @@ Product Name,Nama Produk
 Products,Produk
 Qty,Kuantitas
 Qty:,Kuantitas:
-Quantity was recalculated from %d to %d,Jumlah itu dihitung ulang dari% d ke% d
+Quantity was recalculated from %d to %d,Jumlah itu dihitung ulang dari %d ke %d
 Quote Lifetime (days),Penawaran Seumur Hidup (hari)
 Quote item does not exist.,barang Penawaran tidak ada.
 Quote item is not found.,Barang Penawaran tidak ditemukan.
@@ -247,7 +247,7 @@ Shipping Method,Mengirim metode
 Shipping Methods,Mengrim metode
 Shipping To,Mengirim ke
 Shipping information,Mengiriminformasi
-Shipping method has not been selected yet,Mengirim informasi belum juga di pilih
+Shipping method has not been selected yet,Mengirim informasi belum juga dipilih
 Shipping methods in shopping cart,Menrim metode dalam keranjang belanja
 Shipping selection is not applicable.,Pengiriman pilihan tidak berlaku.
 Shopping Cart,Keranjang belanja

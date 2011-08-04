@@ -10,10 +10,10 @@ Default Link Title,Judul tautan standar
 Default Maximum Number of Downloads,Jumlah maksimum standar unduhan
 Default Sample Title,Contoh Judul Standar
 Disable Guest Checkout if cart contains downloadable items,Nonaktifkan Checkout tamu apakah keranjang berisi item yang diunduh
-Downloadable Information,Informasi yang dapat di unduh
-Downloadable Product,Produk yang dapat di unduh
-Downloadable Product Options,Pilihan produk yang dapat di unduh
-Downloadable product Section,Bagian produk yang dapat di unduh
+Downloadable Information,Informasi yang dapat diunduh
+Downloadable Product,Produk yang dapat diunduh
+Downloadable Product Options,Pilihan produk yang dapat diunduh
+Downloadable product Section,Bagian produk yang dapat diunduh
 Edit,Sunting
 Edit item parameters,Parameter penyuntingan barang
 Excl. Tax,Tidak termasuk pajak
@@ -21,8 +21,8 @@ File,Berkas
 File does not exists,Berkas tidak ada
 From:,Dari:
 Gift Message,Pesan hadiah
-"Go to <a href=""%s"">My Downloadable Products</a>","Pergi ke <a href=""%s"">Produk saya yang dapat di unduh</a>"
-Guest checkout will only work with shareable.,Checkout Tamu hanya akan bekerja pada yang dapat di bagikan
+"Go to <a href=""%s"">My Downloadable Products</a>","Pergi ke <a href=""%s"">Produk saya yang dapat diunduh</a>"
+Guest checkout will only work with shareable.,Checkout Tamu hanya akan bekerja pada yang dapat dibagikan
 In stock,Stok ada
 Incl. Tax,Termasuk pajak
 Invalid download URL host,URL host unduhan tidak berlaku
@@ -31,13 +31,13 @@ Invalid download link type,Jenis tautan unduhan tidak berlaku
 Invoiced,Faktur
 Link has expired.,Tautan kadaluarsa
 Link is not available.,Tautan tidak ada
-Links can be purchased separately,Tautan dapat di beli secara terpisah
+Links can be purchased separately,Tautan dapat dibeli secara terpisah
 Max. Downloads,Maksimal unduhan:
 Message:,Pesan:
 My Downloadable Products,Produk Unduhan
 Open Links in New Window,Buka tautan di jendela baru
 Order #,Pesanan#
-Order Item Status to Enable Downloads,Status Produk pesanan dapat di unduh
+Order Item Status to Enable Downloads,Status Produk pesanan dapat diunduh
 Order id cannot be null,Id pesanan tidak bisa batal
 Order item id cannot be null,Id barang pesanan tidak dapat batal
 Ordered,Di pesan
@@ -52,7 +52,7 @@ Remaining Downloads,Sisa unduhan
 Remove item,Hapus item
 Requested link doesn't exist.,Tautan yang diminta tidak ada
 Sample,Contoh Judul Standar
-Shareable,Dapat di bagi
+Shareable,Dapat dibagi
 Shipped,Dikirim
 "Sorry, the was an error getting requested content. Please contact store owner.","Maaf, kesalahan mendapatkan konten yang diminta. Silakan hubungi pemilik toko."
 "Sorry, there was an error getting requested content","Maaf, ada kesalahan mendapatkan konten yang diminta"
