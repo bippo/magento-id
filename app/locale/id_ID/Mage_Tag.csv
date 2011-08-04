@@ -64,18 +64,18 @@ Search Results for '%s' (<a href='%s'>RSS</a>),Hasil pencarian untuk '%s' (<a hr
 Search Terms,Syarat pencarian
 Status,Status
 Tag,Tag
-"Tag ""%s"" has already been added to the product.","Tag ""%s"" telah di tambahkan ke produk anda."
-"Tag ""%s"" has been added to the product.","Tag ""%s"" telah di tambahkan ke produk anda."
-"Tag ""%s"" has been rejected by administrator.","Tag ""%s"" telah di tolak oleh administrator."
+"Tag ""%s"" has already been added to the product.","Tag ""%s"" telah ditambahkan ke produk anda."
+"Tag ""%s"" has been added to the product.","Tag ""%s"" telah ditambahkan ke produk anda."
+"Tag ""%s"" has been rejected by administrator.","Tag ""%s"" telah ditolak oleh administrator."
 Tag Aggregation Data,Tag penggabungan data
 Tag Name,Nama tag
-Tagged Products List,Daftar produk di tag
+Tagged Products List,Daftar produk ditag
 Tags,Tag
 Tags List (All Available),Daftar tag  (semua tersedia)
 Tags List Before,Daftar tag sebelum
 Tags:,Tag:
 Telephone,Telephone
-The tag has been deleted.,Tag belum di hapus
+The tag has been deleted.,Tag belum dihapus
 There are no tags available.,Tidak ada tag yang tersedia.
 Unable to find any products tagged with '%s' in the current store,Tidak dapat menemukan produk dengan tag '%s' di toko saat ini
 "Unable to remove tag. Please, try again later.",Tidak dapat menghapus tag. Silakan dicoba lagi nanti.
@@ -86,6 +86,6 @@ View Customers,Lihat pelanggan
 View Products,Lihat produk
 XML,XML
 You have not tagged any products yet.,Anda belum pernah memberikan tag.
-Your tag was successfully deleted,Tag Anda telah berhasil di hapus
-Your tag was successfully saved,Tag Anda telah berhasil di simpan.
+Your tag was successfully deleted,Tag Anda telah berhasil dihapus
+Your tag was successfully saved,Tag Anda telah berhasil disimpan.
 ZIP/Post Code,Kode Pos

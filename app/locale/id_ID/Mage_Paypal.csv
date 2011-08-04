@@ -1,5 +1,5 @@
 -OR-,-OR-
-2-pixel perimeter around the header space.,2-piksel perimeter di sekitar ruang header.
+2-pixel perimeter around the header space.,2-piksel perimeter disekitar ruang header.
 3D Secure,Keamanan 3D
 3D Secure Card Validation,Validasi kartu keamanan 3D
 "3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Validasi keamanan 3D di butuhkan untuk kartu Maestro. Mendukung kartu kartu American Express di butuhkan persetujuan tambahan. Pelajari lebih lengkap di <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
@@ -17,8 +17,8 @@ API Username,Nama sandi API
 API Uses Proxy,Proxy pengguna API
 API/Integration,API/Integrasi
 API/Integration Settings,API/Pengaturan integrasi
-Ability for buyer to purchase without PayPal account.,Kemampuan pembeli untuk membeli tanpa account PayPal.
-Accept PayPal payments in your shopping cart. PayPal will process your credit card payments through the Payflow Pro Gateway.,Menerima pembayaran PayPal di keranjang belanja Anda. PayPal akan memproses pembayaran kartu kredit Anda melalui Gateway Payflow Pro.
+Ability for buyer to purchase without PayPal account.,Kemampuan pembeli untuk membeli tanpa akun PayPal.
+Accept PayPal payments in your shopping cart. PayPal will process your credit card payments through the Payflow Pro Gateway.,Menerima pembayaran PayPal dikeranjang belanja Anda. PayPal akan memproses pembayaran kartu kredit Anda melalui Gateway Payflow Pro.
 "Accept payments without customers leaving your website. Many popular web-hosting services and shopping carts come with the Payflow payment gateways built in, so they are easy to set up.","Menerima pembayaran tanpa pelanggan meninggalkan situs web Anda. Banyak web-hosting  populer dan keranjag belanja datang dengan gateway pembayaran Payflow dibangun, sehingga mereka mudah untuk mengatur."
 Acceptance Mark,Tanda Penerimaan
 Acceptance Mark Image,Gambar tanda penerimaan
@@ -58,7 +58,7 @@ Completion Date,Tanggal penyelesaian
 Connecting to PayPal SFTP server to fetch new reports. Are you sure you want to proceed?,Menghubungkan ke PayPal SFTP server untuk mengambil laporan baru. Apakah Anda yakin ingin melanjutkan?
 Countries Payment Applicable From,Pembayaran yang berlaku Negara-negara dari
 Coupon Redemption,Kupon penukaran
-Credit,Lredit
+Credit,Kredit
 Credit Card Settings,Pengaturan kartu kredit
 Currency Conversion required to cover negative balance,Konversi Mata Uang dibutuhkan untuk menutupi saldo negatif
 Custom,Khusus
@@ -76,7 +76,7 @@ Debug Mode,Mode debug
 Direct Payment API,Pembayaran langsung  API
 Discount,Diskon
 Displays on catalog pages and homepage.,Menampilkan pada halaman katalog dan beranda.
-Don't have a PayPal account? Simply enter your email address.,Tidak punya account PayPal? Cukup masukkan alamat email Anda.
+Don't have a PayPal account? Simply enter your email address.,Tidak punya akun PayPal? Cukup masukkan alamat email Anda.
 Don't have a PayPal merchant account? You can still accept credit card payments through the Payflow Pro Gateway.,Tidak memiliki rekening pedagang PayPal? Anda masih dapat menerima pembayaran kartu kredit melalui Gateway Payflow Pro.
 Dynamic,Dinamis
 EFT Funding (German banking),EFT Pendanaan (perbankan Jerman)
@@ -97,8 +97,8 @@ Express Checkout,Express Checkout
 Express Checkout (Payflow Edition) Settings,Pengaturan Express Checkout (Edisi Payflow)
 Express Checkout APIs,Express Checkout APIs
 Express Checkout Settings,Pengaturan Express Checkout
-Express Checkout and Order have been canceled.,Express Checkout dan pesanan telah di batalkan
-Express Checkout has been canceled.,Express Checkout telah di batalkan.
+Express Checkout and Order have been canceled.,Express Checkout dan pesanan telah dibatalkan
+Express Checkout has been canceled.,Express Checkout telah dibatalkan.
 Failed to fetch reports from '%s@%s'.,Gagal mengambil laporan dari '%s@%s'.
 Fee Amount,Jumlah biaya
 Fee Debit or Credit,Biaya debit atau kredit
@@ -185,7 +185,7 @@ N/A. International Unavailable,N/A. secara internasional tidak tersedia
 N/A. Merchant has indicated that CVV2 is not present on card,N/A. Pedagang telah mengindikasikan bahwa CVV2 tidak muncul pada kartu
 N/A. No response,N/A. Tidak ada respon
 N/A. Not allowed for MOTO (Internet/Phone) transactions,N/A. Tidak diperbolehkan untuk transaksi MOTO (Internet / Telepon)
-N/A. Not processed,N/A. Tidak di proses
+N/A. Not processed,N/A. Tidak diproses
 N/A. Retry,N/A. mencoba lagi
 N/A. Service not Supported,N/A. Layanan tidak mendukung
 N/A. Service not available,N/A. Layanan tidak tersedia
@@ -251,7 +251,7 @@ Payer Email,Email pembayar
 Payer Email: %s,Email Pembayarl: %s
 Payer ID,ID Pembayar
 Payer Status,Status pembayar
-Payer is not identified.,Pembayar tidak di tentukan
+Payer is not identified.,Pembayar tidak ditentukan
 Payflow Link (for USA and Canada),Tautan Payflow (untuk USA dan Canada)
 Payflow Link Settings,Pengaturan tautan Payflow
 Payflow Pro Gateway,Gateway Payflow Pro 
@@ -261,7 +261,7 @@ Payment Method,Metode pembayaran
 Payment Refund initiated by merchant,Pembayaran Kembali dimulai oleh pedagang
 Payment has been declined. Please try again.,Pembayaran telah ditolak. Silakan coba lagi.
 Payments by PayPal (150 X 40),Pembayaran oleh PayPal (150 X 40)
-Payments by PayPal (150 X 60),Pembayarab oleh PayPal (150 X 60)
+Payments by PayPal (150 X 60),Pembayaran oleh PayPal (150 X 60)
 "Payments by cards + seller protection - <strong style=""color:red"">Contact PayPal before activating</strong>","Pembayaran dengan kartu + perlindungan penjual- <strong style=""color:red"">Hubungi PayPal sebelum mengaktifkan</strong>"
 Paypal Billing Agreement Settings,Perjanjian Penagihan Pengaturan paypal
 Pending PayPal,paypal tertunda
@@ -319,10 +319,10 @@ Switch/Maestro,Ganti/Maestro
 Test Mode,Mode tes
 The background color for the checkout page around the header and payment form.,Warna background untuk halaman checkout sekitar header dan bentuk pembayaran.
 The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.,Warna latar belakang untuk header dari halaman checkout. Sensitif jenis huruf enam karakter heksadesimal kode warna HTML di ASCII.
-"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Gambar di kiri atas halaman checkout. Ukuran max adalah 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged."
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Gambar di kiri atas halaman checkout. Ukuran max adalah 750x90-pixel. <strong style=""color:red"">https</strong>sangat dianjurkan."
 The merchant account is not yet verified.,Rekening pedagang belum diverifikasi.
 The payment curency does not match any of the merchant\'s balances currency.,pembayaran kurs tidak dapat ditemukan pada mata uang pedagang saldo.
-The payment eCheck is not yet cleared.,Pembayaran eCheck belum di hapus
+The payment eCheck is not yet cleared.,Pembayaran eCheck belum dihapus
 The payment is authorized but not settled.,Pembayaran disahkan tetapi tidak diselesaikan.
 The payment is pending because it was made to an email address that is not yet registered or confirmed.,Pembayaran tertunda karena dibuat ke alamat email yang belum terdaftar atau dikukuhkan.
 The payment is pending while it is being reviewed by PayPal for risk.,Pembayaran tertunda ketika sedang ditinjau oleh PayPal untuk risiko.
@@ -380,7 +380,7 @@ Will appear as a payment option only for customers who have at least one active 
 WorldLink Withdrawal,Penarikan worldlink
 Would you like to sign a billing agreement to streamline further purchases with PayPal?,"Apakah Anda ingin menandatangani perjanjian penagihan untuk merampingkan pembelian lebih lanjut dengan PayPal?
 "
-Wrong PayPal Express Checkout Token specified.,PayPal Express Checkout salah Token di tentukan.
+Wrong PayPal Express Checkout Token specified.,PayPal Express Checkout salah Token ditentukan.
 Yes,Ya
 Yes. Matched Address and five-didgit ZIP,Ya. Mencocokan alamat dan lima-digit ZIP
 You will be redirected to the PayPal website in a few seconds.,Anda akan diarahkan ke situs PayPal dalam beberapa detik

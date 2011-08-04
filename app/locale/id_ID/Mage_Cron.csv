@@ -8,10 +8,10 @@ Invalid callback: %s::%s does not exist,Panggilan balik tidak valid:%s:: s% tida
 "Invalid model/method definition, expecting ""model/class::method"".","definisi model/metode tidak valid, mengharapkan ""model / kelas:: metode""."
 Missed if not run within,Terlewatkan jika tidak dijalankan di dalam
 Monthly,Bulanan
-No callbacks found,Tidak ada panggilan balik di temukan
+No callbacks found,Tidak ada panggilan balik ditemukan
 Schedule ahead for,Dijadwalkan lebih cepat untuk
 Success history lifetime,Sukses riwayat hidup
 Too late for the schedule,Terlambat untuk jadwal
 Unable to save Cron expression,Tidak dapak menyimpan ekspresi Cron
-Unknown error,Galat tidak di ketahui
+Unknown error,Galat tidak diketahui
 Weekly,Mingguan

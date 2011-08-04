@@ -27,11 +27,11 @@ Direct Sale,Penjualan langsung
 "E.g: ""black"".","Con: ""Hitam""."
 "E.g: ""white"".","Con: ""Putih""."
 Enabled,Aktif
-Exception not defined,Pengecualian tidak di tentukan
+Exception not defined,Pengecualian tidak ditentukan
 Font Family of the Ogone Template,Keluarga hurup dari kerangka ogone
 "For production, replace ""test"" with ""prod"". Example: https://secure.ogone.com/ncol/prod/orderstandard.asp","Untuk produksi, ganti ""test"" dengan ""prod"". Contoh: https://secure.ogone.com/ncol/prod/orderstandard.asp"
 Gateway URL,Gateway URL
-Horizontally grouped logo with group name on left,Secara horizontal dikelompokkan logo dengan nama grup di sebelah kiri
+Horizontally grouped logo with group name on left,Secara horizontal dikelompokkan logo dengan nama grup disebelah kiri
 Horizontally grouped logo with no group name,Secara horizontal dikelompokkan logo tanpa nama grup
 "If you choose ""No Operation"", Ogone will use default payment procedure setup in Ogone configuration.","Jika Anda memilih ""Tidak ada Operasi"", Ogone akan menggunakan standar pembayaran pengaturan prosedur dalam konfigurasi Ogone."
 "If you choose ""Ogone Template"", you will need to fill in all the following fields.","Jika Anda memilih ""Kerangka Ogone"", Anda akan perlu untuk mengisi semua kolom berikut."
@@ -40,29 +40,29 @@ Logo of the Ogone Template,Logo dari kerangka ogone
 Magento,Magento
 Ogone,Ogone
 Ogone Default Operation,operasi standar ogone
-Order can\'t save,Pesanan dapat/tidak dapat di simpan
+Order can\'t save,Pesanan dapat/tidak dapat disimpan
 PSPID,PSPID
 Payment Action,Aksi pembayaran
 Payment Template,Kerangka pembayaran
-Payment transaction has been declined.,Transaksi pembayaran telah di tolak
-"Pembayaran tidak menentu: Sebuah masalah teknis timbul selama proses pembayaran, memberikan hasil yang tak terduga","Pemba: A technical problem arose during payment process, giving unpredictable result"
-menunggu Ogone,Pending Ogone
+Payment transaction has been declined.,Transaksi pembayaran telah ditolak
+"Payment do not specify: A technical problem arose during payment process, giving unpredictable result","Pembayaran tidak menentu: Sebuah masalah teknis timbul selama proses pembayaran, memberikan hasil yang tak terduga"
+Pending Ogone,Ogone Tertunda
 "Please, wait a moment. This page will transfer your data to Ogone payment gateway in a few seconds.","Mohon, tunggu sebentar. Halaman ini akan mentransfer data ke Ogone gateway pembayaran dalam beberapa detik"
 Processed Ogone Payment,Memproses pembayaran ogone
-Processed by Ogone  ,di proses oleh ogone
+Processed by Ogone  ,diproses oleh ogone
 Processing Ogone Payment,Memproses pembayaran ogone
 SHA-1- OUT Signature,tanda tangan SHA-1- OUT 
 SHA-1-IN Signature,tanda tangan SHA-1-IN 
 Start Ogone Processing,mulai memproses ogone
 Table Background Color of the Ogone Template,Warna latar belakang tabel dari kerangka ogone
 Table Text Color of the Ogone Template,warna teks tabel dari kerangka ogone
-Text Color of the Ogone Template,warna teks dari kerangak ogone
+Text Color of the Ogone Template,warna teks dari kerangka ogone
 The hash is not valid,Hash tidak valid
-The order cannot be canceled for a system reason.,Pesanan tidak dapat di batalkan untuk alasan sistem
-The order cannot be saved for a system reason.,Pesanan tidak dapat di simpan untuk alasan sistem
-The order cannot be saved.,Pesanan tidak dapat di simpan
+The order cannot be canceled for a system reason.,Pesanan tidak dapat dibatalkan untuk alasan sistem
+The order cannot be saved for a system reason.,Pesanan tidak dapat disimpan untuk alasan sistem
+The order cannot be saved.,Pesanan tidak dapat disimpan
 The order is not valid,Pesanan tidak valid
-The order was canceled on ogone side.,Pesanan di batalkan pada sisi ogone
+The order was canceled on ogone side.,Pesanan dibatalkan pada sisi ogone
 Title,Judul
 Title of the Ogone Template,Judul dari kerangka ogone
 URL/filename of the logo.<br />The URL must be absolute and stored on a secure server.,URL/nama berkas dari logo.<br />URL harus mutlak dan disimpan pada server yang aman.

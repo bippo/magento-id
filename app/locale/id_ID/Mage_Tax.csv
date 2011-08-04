@@ -94,20 +94,20 @@ Tax Section,Bagian pajak
 Tax Titles,Judul pajak
 Tax rate cannot be removed. It exists in tax rule,Tarif pajak tidak dapat dihapus. Ini ada dalam aturan pajak
 "Tax rates at the same priority are added, others are compounded.","Tarif pajak pada prioritas yang sama ditambahkan, yang lain ditambah."
-The tax class has been deleted.,Kelas pajak telah di hapus.
-The tax class has been saved.,Kelas pajak telah di simpan.
-The tax rate has been deleted.,Kelas pajak telah di hapus.
+The tax class has been deleted.,Kelas pajak telah dihapus.
+The tax class has been saved.,Kelas pajak telah disimpan.
+The tax rate has been deleted.,Kelas pajak telah dihapus.
 The tax rate has been imported.,Kelas pajak telah di impor
-The tax rate has been saved.,Kelas pajak telah di simpan.
-The tax rule has been deleted.,Aturan pajak telah di hapus.
-The tax rule has been saved.,Aturan pajak telah di simpan.
+The tax rate has been saved.,Kelas pajak telah disimpan.
+The tax rule has been deleted.,Aturan pajak telah dihapus.
+The tax rule has been saved.,Aturan pajak telah disimpan.
 This class no longer exists,Kelas ini tidak ada
 This rule no longer exists,Aturan ini tidak ada
 This rule no longer exists.,Aturan ini tidak ada
 Total,Total
 Unit Price,Harga unit
-Whether catalog prices entered by admin include tax.,Baik harga katalog yang dimasukkan oleh admin sudah termasuk pajak.
-Whether shipping amounts entered by admin or obtained from gateways include tax.,Baik jumlah pengiriman yang dimasukkan oleh admin atau diperoleh dari gateway sudah termasuk pajak.
+Whether catalog prices entered by admin include tax.,Baik harga katalog yang dimasukan oleh admin sudah termasuk pajak.
+Whether shipping amounts entered by admin or obtained from gateways include tax.,Baik jumlah pengiriman yang dimasukan oleh admin atau diperoleh dari gateway sudah termasuk pajak.
 Yes,Ya
 You cannot delete this tax class as it is used for %d customer groups., Anda tidak dapat menghapus kelas ini pajak seperti yang digunakan untuk %d grup pelanggan.
 You cannot delete this tax class as it is used for %d products.,"Anda tidak dapat menghapus kelas ini pajak seperti yang digunakan untuk produk %d.

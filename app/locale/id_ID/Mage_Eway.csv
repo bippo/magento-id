@@ -1,8 +1,8 @@
 API Gateway URL,API Gateway URL
-Accepted Currency,Kurs yang di terima
+Accepted Currency,Kurs yang diterima
 An error has occurred,Galat telah terjadi
 Card Verification Number,Nomor verifikasi kartu
-"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">here</a> untuk melanjutkan belanja."
+"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">disini</a> untuk melanjutkan belanja."
 Credit Card Number,Nomor kartu kredit
 Credit Card Number: xxxx-%s,Nomor Kartu Kredit: xxxx-%s
 Credit Card Type,Jenis Kartu Kredit
@@ -10,12 +10,12 @@ Credit Card Type: %s,Jenis Kartu Kredit: %s
 Credit Card Types,Jenis kartu Kredit
 Credit Card Verification,Verifikasi Kartu Kredit
 Customer ID,ID Pelanggan
-Customer was redirected to eWAY.,Pelanggan telah di hubungkan ke eWAY.
+Customer was redirected to eWAY.,Pelanggan telah dihubungkan ke eWAY.
 Debug Flag,Debug Flag
 Enabled,Aktif
 Expiration Date,Tanggal kadaluarsa
-Name on Card,Nama pad kartu
-Name on the Card: %s,Nama Pad kartu: %s
+Name on Card,Nama pada kartu
+Name on the Card: %s,Nama Pada kartu: %s
 New Order Status,Status Pesanan Baru
 Payment from Applicable Countries,Pembayaran dari Negara terkait
 Payment from Specific Countries,Pembayaran dari Negara tertentu
@@ -23,7 +23,7 @@ Please Select,Silakan Pilih
 Selected currency code (%s) is not compatible with eWAY.,Pilihan kode Kurs (%s) tidak sesuai dengan eWAY.
 Sort Order,Jenis Pesanan
 The customer has successfully returned from eWAY.,Pelanggan telah berhasil kembali dari  eWAY.
-The customer was rejected by eWAY.,Pelanggan di tolak oleh eWAY.
+The customer was rejected by eWAY.,Pelanggan ditolak oleh eWAY.
 There has been an error processing your payment.,Ada masalah saat memproses pembayaran Anda.
 There has been an error processing your payment. Please try later or contact us for help.,Ada masalah saat memproses pembayaran Anda.Silakan coba lagi nanti atau hubungi kami untuk bantuan.
 Title,Judul

@@ -1,7 +1,7 @@
 %s,%s
 -- Please Select --,Silakan pilih
 Actions,Aksi
-Add Layout Update,Tambah perbaruan tamilan
+Add Layout Update,Tambah perbaruan tampilan
 Add New Widget Instance,Tambahkan Contoh Widget Baru
 All,Semua
 All Pages,Semua halaman
@@ -29,7 +29,7 @@ New Instance,Contoh baru
 New Widget Instance,contoh Widget baru
 Next page,Halaman berikut nya
 Non-Anchor Categories,Kategori non jangkar
-Not Selected,Tidak di pilih
+Not Selected,Tidak dipilih
 Page,Halaman
 Please Select Block Reference First,Silakan pilih terlebih dahulu Blok referensi
 Previous page,Halaman sebelum nya
@@ -42,17 +42,17 @@ Settings,Pengaturan
 Sort Order,Urutkan pesanan
 Sort Order of widget instances in the same block reference,Urutkan pesanan contoh widget pada referensi blok yang sama
 Specific %s,Spesifik %s
-Specified Page,Halaman di tentukan
+Specified Page,Halaman ditentukan
 Template,Kerangka
 The information in this tab has been changed.,Informasi pada tab ini telah berubah.
-The widget instance has been deleted.,Contoh widget telah di hapus.
-The widget instance has been saved.,Contoh widget telah di simpan.
+The widget instance has been deleted.,Contoh widget telah dihapus.
+The widget instance has been saved.,Contoh widget telah disimpan.
 This tab contains invalid data. Please solve the problem before saving.,Tab ini mengandung data yang tidak valid. Silahkan mengatasi masalah tersebut sebelum menyimpan.
 Thumbnail,Thumbnail
-Total %d records found,Total Catatan %d s di temukan
+Total %d records found,Total Catatan %d ditemukan
 Type,Jenis
-Unselect All,Tidak di pilih semua
-Unselect Visible,Tidak di pilih yang terlihat
+Unselect All,Tidak dipilih semua
+Unselect Visible,Tidak dipilih yang terlihat
 View,Lihat
 Widget,Widget
 "Widget ""%s""","Widget ""%s"""
@@ -61,10 +61,10 @@ Widget Instance,Contoh Widget
 Widget Instance Title,Judul contoh Widget
 Widget Options,Pilihan Widget
 Widget Type,Jenis Widget
-Widget Type is not specified,Jenis Widget tidak di tentukan
-Widget instance is not full complete to create.,Contoh Widget tidak sepenuhnya lengkap untuk di buat.
+Widget Type is not specified,Jenis Widget tidak ditentukan
+Widget instance is not full complete to create.,Contoh Widget tidak sepenuhnya lengkap untuk dibuat.
 Widgets,Widgets
-Wrong wigdet instance specified.,contoh wigdet yang salah di tentukan.
+Wrong wigdet instance specified.,contoh wigdet yang salah ditentukan.
 items selected,Barang terpilih
 of %s pages,dari %s halaman
 per page,Per Halaman

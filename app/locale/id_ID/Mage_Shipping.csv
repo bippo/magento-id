@@ -1,7 +1,7 @@
  for more information or ,Untuk informasi lebih lanjut atau
 # of Items (and above),# dari barang (dan diatas)
 # of Items vs. Destination,# dari barang vs. Destinasi
-Allow Shipping to Multiple Addresses,Izinkan Pengiriman ke bebrapa Alamat 
+Allow Shipping to Multiple Addresses,Izinkan Pengiriman ke beberapa Alamat 
 An error occurred while import table rates.,Terjadi galat saat mengimpor bagan tarif.
 Calculate Handling Fee,Perhitungan Biaya Penanganan
 Carrier:,Pembawa:
@@ -10,8 +10,8 @@ Close Window,Tutup jendela
 Condition,Kondisi
 Country,Negara
 Date,Tanggal
-Delivered on:,Di kirim pada:
-Delivered to:,Di kirim ke:
+Delivered on:,Dikirim pada:
+Delivered to:,Dikirim ke:
 Description,Deskripsi
 Displayed Error Message,Menampilkan pesan galat
 Enabled,Aktif
@@ -64,8 +64,8 @@ There is no tracking available.,Tidak ada pelacakan.
 Title,Judul
 Track:,Pelacak:
 Tracking Number:,Nomer Pelacakan.
-Tracking information is currently not available. Please ,Informasi pelacakan sedang tidak tersedia. Harap
-Tracking information is currently unavailable.,Informasi pelacakan sedang tidak tersedia. Harap
+Tracking information is currently not available. Please ,Informasi pelacakan sedang tidak tersedia. Mohon
+Tracking information is currently unavailable.,Informasi pelacakan sedang tidak tersedia. Mohon
 Type,Tipe
 Weight (and above),Berat (dan lebih)
 Weight vs. Destination,Berat vs. Tujuan

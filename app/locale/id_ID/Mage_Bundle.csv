@@ -21,12 +21,12 @@ From:,Dari:
 Gift Message,Pesan Hadiah
 Incl. Tax,Termasuk Pajak
 Input Type,Masukan Tipe
-Is Required,Di perlukan
+Is Required,Diperlukan
 Message:,Pesan:
 Multiple Select,Banyak Pilihan
 N/A,N/A
 No options of this product are available.,Tidak ada pilihan tersedia untuk produk ini
-None,Tak satupun
+None,Tidak satupun
 Percent,Persen
 Percent Discount,Persen Diskon
 Please enter search conditions to view products.,Masukkan kondisi pencarian untuk melihat produk.
@@ -36,11 +36,11 @@ Please specify product option(s),Silakan Tentukan Pilihan Produk
 Position,Posisi
 Price Range,Kisaran Harga
 Price Type,Tipe Harga
-Price as configured,Harga sebagai di konfigurasi
+Price as configured,Harga sebagai dikonfigurasi
 Qty:,Kuantitas:
 Radio Buttons,Tombol Radio
-Required options not selected.,Opsi yang di butuhkan tidak di pilih
-Selected required options not available.,Pilihan opsi yang di butuhkan tidak tersedia
+Required options not selected.,Opsi yang dibutuhkan tidak dipilih
+Selected required options not available.,Pilihan opsi yang dibutuhkan tidak tersedia
 Separately,Terpisah
 Ship Bundle Items,Mengirimkan Barang Bundel
 Shipment,Pengiriman
@@ -51,4 +51,4 @@ To,Ke
 To:,Ke:
 Together,Bersama
 Use Default Value,Gunakan Nilai Standar
-User Defined Qty,Gunakan Kuantitas yang di Tetapkan
+User Defined Qty,Gunakan Kuantitas yang ditetapkan

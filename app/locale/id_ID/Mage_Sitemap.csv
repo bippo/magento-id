@@ -9,7 +9,7 @@ Enabled,Aktif
 Error Email Recipient,Galat Penerima Email
 Error Email Sender,Galat Pengirim Email
 Error Email Template,Galat kerangka Email
-"File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server.","Berkas ""%s"" Tidak dapat di simpan. Silakan, Pastikan direktori ""%s"" dapat di tulis oleh web server."
+"File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server.","Berkas ""%s"" Tidak dapat disimpan. Silakan, Pastikan direktori ""%s"" dapat ditulis oleh web server."
 Filename,Nama berkas
 Frequency,Frekuensi
 Generate,Menghasilkan
@@ -40,7 +40,7 @@ Start Time,Waktu Mulai
 Store View,Tampilan toko
 This sitemap no longer exists,Sitemap ini sudah tidak ada
 Unable to find a sitemap to delete,Tidak menemukan sitemap untuk dihapus
-Unable to find a sitemap to generate,Tidak dapat menumukan sitemap untuk di buat
+Unable to find a sitemap to generate,Tidak dapat menumukan sitemap untuk dibuat
 Unable to generate a sitemap,tidak dapat membuat sebuah sitemap
 Valid values range from 0.0 to 1.0,Berlaku nilai berkisar dari  0.0 ke 1.0
 Weekly,Mingguan

@@ -1,9 +1,9 @@
-(Make sure you keep it in a safe place.),(Pastikan anda menyimpannya di tempat yang aman.)
+(Make sure you keep it in a safe place.),(Pastikan anda menyimpannya ditempat yang aman.)
 (Optional. Leave blank for no prefix),(Opsional.)
 (ver. %s),(ver. %s)
 "Additional path added after Base URL to access your Administrative Panel (e.g. admin, backend, control etc.).","Jalur adisional di tambahkan setelah dasar URL untuk mengakses panel administratif Anda (con. admin, backend, control dll.)."
 Admin Path,Jalur Admin
-After successfull installation please click the button below.,Setelah instalasi berhasil silahkan klik tombol di bawah ini.
+After successfull installation please click the button below.,Setelah instalasi berhasil silahkan klik tombol dibawah ini.
 "All packages were installed successfully, click 'Ok' to continue with installation","Semua paket berhasil diinstal, klik 'Ok' untuk melanjutkan instalasi"
 Alternatively you could try the 'Manual Downloads and Upgrades' method.,Sebagai alternatif Anda bisa mencoba 'Unduhan Manual dan Peningkatan' metode.
 Base URL,Dasar URL
@@ -27,7 +27,7 @@ Database Name cannot be empty.,Nama basis data tidak bisa kosong
 Database connection error.,Koneksi basis data galat.
 Database host,Hos basis data
 Database server does not support InnoDB storage engine,Server basis data tidak mendukung  InnoDB mesin penyimpan
-"Database server version does not match system requirements (required: %s, actual: %s)","Versi server basis data tidak sesuai sistem yang di butuhkan (dibutuhkan: %s, aktual: %s)"
+"Database server version does not match system requirements (required: %s, actual: %s)","Versi server basis data tidak sesuai sistem yang dibutuhkan (dibutuhkan: %s, aktual: %s)"
 Database user name,Nama Pengguna Basis data
 Database user password,Kata sandi pengguna Basis data
 Default Currency,Kurs standar
@@ -75,12 +75,12 @@ Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s
 "Magento uses this key to encrypt passwords, credit cards and more. If this field is left empty the system will create an encryption key for you and will display it on the next page.","Magento menggunakan kunci ini untuk mengenkripsi kata sandi, kartu kredit dan lainya. Jika bidang ini di biarkan kosong  sistem akun membuat kunci enkripsi untuk anda dan akan menampilkannya pada halaman berikutnya."
 Manual Downloads and Upgrades,Unduhan manual dan perbaruan
 "One from PHP Extensions ""%s"" must be loaded","Satu dari ekstensi PHP""%s"" harus dimuat"
-"PHP Extension ""%s"" must be loaded","Ekstensi PHP ""%s"" harus di muat"
+"PHP Extension ""%s"" must be loaded","Ekstensi PHP ""%s"" harus dimuat"
 PHP Extension '%s' loaded,Ekstensi PHP '%s' dimuat
 Package Management through the Web,Manajemen Paket melalui Web
 Password,Kata sandi
 Password Confirmation,Konfirmasi Kata sandi
-"Path ""%s"" must be writable","Jalur  ""%s"" harus dapat di tulis"
+"Path ""%s"" must be writable","Jalur  ""%s"" harus dapat ditulis"
 Personal Information,Informasi personal
 Please make sure that <code>mod_rewrite</code> is enabled in Apache configuration.,Silakan pastikan bahwa <code>mod_rewrite</code> diaktifkan dalam konfigurasi Apache.
 Please note that it is much less stable than beta.,Harap dicatat bahwa ini jauh lebih stabil daripada versi beta.
@@ -88,9 +88,9 @@ Please note that it is much less stable than beta.,Harap dicatat bahwa ini jauh 
 Please set all required settings before clicking Continue,Silahkan mengeset semua pengaturan yang diperlukan sebelum mengklik Lanjutkan
 Preferred stability: %s,Pilihan stabilitas: %s
 Proceed With Automatic Download (%s),Proses dengan unduh otomatis (%s)
-Provide a complete base URL for SSL connection. For example: %s,Menyediakan basis URL yang lengkap untuk koneksi SSL. Sebagai contoh:%s
+Provide a complete base URL for SSL connection. For example: %s,Menyediakan basis URL yang lengkap untuk koneksi SSL. Sebagai contoh: %s
 Report All Bugs,Laporkan semua Bug
-Required Fields,Bidang yang di perlukan
+Required Fields,Bidang yang diperlukan
 Response from server isn\'t valid.,Respon dari server valid\tidak valid.
 Run admin interface with SSL,Jalankan admin antarmuka dengan SSL
 Run this in your shell from Magento root folder:,Jalankan ini pada shell anda dari folder akar Magento:
@@ -104,8 +104,8 @@ Skip Secure URL validation before next step,Lewati validasi keamanan URL  sebelu
 "Table prefix should contain only letters (a-z), numbers (0-9) or underscore(_), first character should be a letter","Prefix tabel seharusnya berisi hanya huruf (a-z), angka (0-9) atau underscore (_), karakter pertama harus huruf a"
 Tables Prefix,Tabel Prefix
 "The URL ""%s"" is invalid.","URL ""%s"" tidak valid."
-"The URL ""%s"" is not accessible.","URL ""%s"" tidak dapat di akses."
-"The database server version does not match system requirements (required: %s, actual: %s).","Versi server database tidak sesuai persyaratan sistem (di butuhkan: %s, aktual: %s)."
+"The URL ""%s"" is not accessible.","URL ""%s"" tidak dapat diakses."
+"The database server version does not match system requirements (required: %s, actual: %s).","Versi server database tidak sesuai persyaratan sistem (dibutuhkan: %s, aktual: %s)."
 "The table prefix should contain only letters (a-z), numbers (0-9) or underscores (_), the first character should be a letter.","Prefix tabel harus mengandung hanya huruf (a-z), angka (0-9) atau garis bawah (_), karakter pertama harus huruf."
 "There was a problem installing Magento packages. Please read the log, correct errors and try again.","Terjadi masalah saat instalasi paket Magento. Silahkan baca log, memperbaiki kesalahan dan coba lagi."
 Time Zone,Zona waktu
@@ -118,6 +118,6 @@ User Password,Gunakan kata sandi
 Username,Nama pengguna
 Web access options,Pilihan akses web
 Welcome to Magento's Installation Wizard,Selamat datang pada Panduan instalasi Magento
-"You can specify server port, ex.: localhost:3307<br />If you are not using default UNIX socket, you can specify it here instead of host, ex.: /var/run/mysqld/mysqld.sock","Anda dapat menentukan port server, con.: localhost:3307<br />,Jika Anda tidak menggunakan standar socket UNIX, Anda dapat menentukan di sini bukan dari host con.: /var/run/mysqld/mysqld.sock"
+"You can specify server port, ex.: localhost:3307<br />If you are not using default UNIX socket, you can specify it here instead of host, ex.: /var/run/mysqld/mysqld.sock","Anda dapat menentukan port server, con.: localhost:3307<br />,Jika Anda tidak menggunakan standar socket UNIX, Anda dapat menentukan disini bukan dari host con.: /var/run/mysqld/mysqld.sock"
 You could enable this option to use web server rewrites functionality for improved search engines optimization.,Anda bisa mengaktifkan opsi ini untuk menggunakan server web ulang fungsi untuk meningkatkan optimasi mesin pencari.
 You're All Set,Anda semua diatur

@@ -9,12 +9,12 @@ Baltic,Baltik
 Billing Address,Alamat tagihan
 Billing to Name,Penagihan untuk Nama
 Categories,Kategori
-Category %s cannot be saved because of %s.,Kategori %s Tidak dapat di simpan karena %s.
+Category %s cannot be saved because of %s.,Kategori %s Tidak dapat disimpan karena %s.
 Central European,Eropa tengah
 Check Requirements,Cek permintaan
 Comments History,Riwayat komentar
-Create under default website,Buat di bawah situs standar
-Created At,Di buat pada
+Create under default website,Buat dibawah situs standar
+Created At,Dibuat pada
 Currency,Kurs
 Customer Name,Nama pelanggan
 Customers,Pelanggan
@@ -31,7 +31,7 @@ East Asian,Asia Timur
 Edit osCommerce Profile,Sunting Profil osCommerce
 Edit osCommerce Profile :: %s,Sunting profil osCommerce :: %s
 Email,Email
-Email %s cannot be saved because of %s.,Email %s Tidak bisa di simpan karena %s.
+Email %s cannot be saved because of %s.,Email %s Tidak bisa disimpan karena %s.
 Error for checking store locale!,Galat untuk pengecekan toko lokal!
 Final Price,Harga Akhir
 Finished profile execution.,Menyelesaikan eksekusi profil
@@ -66,7 +66,7 @@ Order Status,Status Pesanan
 Order Total,Total pesanan
 Order Totals,Total pesanan
 Orders,Pesanan
-Payment Information,Informasi pemabayaran
+Payment Information,Informasi pembayaran
 Please check at least an option in Import Options\n,Silakan periksa setidaknya pilihan dalam Pilihan Impor
 Please check default website or input website code in General Information\n,Silakan cek situs web standar atau kode input situs web dalam Informasi Umum
 Please select a timezone\n,Silakan pilih zona waktu
@@ -105,13 +105,13 @@ Start Running,Mulai menjalankan
 Subtotal,Subtotal
 System,Sistem
 Thai,Thai
-The data has been imported.,Data telah di impor
-The osCommerce profile has been deleted.,Profil osCommerce telah di hapus.
-The osCommerce profile has been saved.,Profil osCommerce telah di simpan.
+The data has been imported.,Data telah diimpor
+The osCommerce profile has been deleted.,Profil osCommerce telah dihapus.
+The osCommerce profile has been saved.,Profil osCommerce telah disimpan.
 This order no longer exists.,Pesanan tidak ada
 Timezone,Zona waktu
-"To import orders, Magento requires that customers also be imported.","Untuk megimpor pesanan, Magento membutuhkan pelanggan yang di impor."
-Total imported <strong>%s</strong> records (%s),Total di impor <strong>%s</strong> catat(%s)
+"To import orders, Magento requires that customers also be imported.","Untuk megimpor pesanan, Magento membutuhkan pelanggan yang diimpor."
+Total imported <strong>%s</strong> records (%s),Total diimpor <strong>%s</strong> catat(%s)
 Traditional Chinese,Bahasa tradisional cina
 Unicode,Unicode
 Updated At,Diperbarui pada

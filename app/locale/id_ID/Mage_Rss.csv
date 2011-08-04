@@ -29,7 +29,7 @@ Notified Date: %s<br/>,Tanggal Pemberitahuan: %s<br/>
 Order # %s Notification(s),Notifikasi pembelian # %s
 Order #%s created at %s,Pembelian #%s dibuat pada %s
 Pending product review(s),Tinjauan Produk Tertunda
-"Product: ""%s"" review By: %s","Produk: ""%s"" di tinjau oleh: %s"
+"Product: ""%s"" review By: %s","Produk: ""%s"" ditinjau oleh: %s"
 "Product: <a href=""%s"">%s</a> <br/>","Produk: <a href=""%s"">%s</a> <br/>"
 Products tagged with %s,Produk ditag dengan %s
 Purchased From: %s,Dipesan Dari: %s

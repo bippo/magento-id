@@ -1,11 +1,11 @@
 AUTHENTICATE,OTENTIKASI
 An error has occurred,Galat terjadi
-"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">here</a> Untuk melanjutkan belanja."
-Customer was redirected to Protx,Pelanggan di arahkan ke Protx
+"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">disini</a> Untuk melanjutkan belanja."
+Customer was redirected to Protx,Pelanggan diarahkan ke Protx
 DEFERRED,TANGGUHAN
 Debug,Debug
 Enabled,Aktif
-General contact email will be used if left empty.,Email kontak umum akan di gunakan jika di biarkan kosong.
+General contact email will be used if left empty.,Email kontak umum akan digunakan jika di biarkan kosong.
 Live,Tinggal
 Mode,Mode
 New Order Status,Status pesanan baru
@@ -17,10 +17,10 @@ Payment from Specific Countries,Pembayaran dari negara tertentu
 Protx Standard,Standar Protx
 Simulator,Simulator
 Sort Order,Urutan pesanan
-Store name will be used if left empty.,Nama toko akan di gunakan jika di biarkan kosong
+Store name will be used if left empty.,Nama toko akan digunakan jika dibiarkan kosong
 Test,Tes
 The customer has returned from Protx.,Pelanggan telah kembali dari Protx.
-The order %s was canceled by the customer.,Pesan %s telah di batalkan oleh pelanggan.
+The order %s was canceled by the customer.,Pesan %s telah dibatalkan oleh pelanggan.
 Title,Judul
 Transaction Description,Deskripsi transaksi
 Vendor Email,Vendor Email

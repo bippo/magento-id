@@ -16,14 +16,14 @@ Index Management,Kelola Indeks
 Index Mode,Mode Indeks
 Index Name,Nama Indeks
 Index mode,Mode indeks
-Indexer code is not defined.,Kode pengindekan tidak di tentukan
-Indexer model is not defined.,Model pengindekan tidak di tentukan
+Indexer code is not defined.,Kode pengindekan tidak ditentukan
+Indexer model is not defined.,Model pengindekan tidak ditentukan
 Indexer model should extend Mage_Index_Model_Indexer_Abstract.,Model pengindeks harus memperpanjang Mage_Index_Model_Indexer_Abstract.
 Last Run,Terakhir Dijalankan
 Manual Update,Perbarui Manual
 Mode,Mode
 Never,Tidak Pernah
-One or more of the Indexes are not up to date:,Satu atau lebig pengindeks tidak di perbarui
+One or more of the Indexes are not up to date:,Satu atau lebih pengindeks tidak diperbarui
 Pending Events,Event tertunda
 Please select Index(es),Silkan pilih indeks
 Please select Indexes,Silakan pilin indeks
@@ -35,7 +35,7 @@ Reindex Data,Re-indeks Data
 Reindex Required,Perlu Re-indeks
 Status,Status
 System,Sistem
-The index has been saved.,Indeks telah di simpan
+The index has been saved.,Indeks telah disimpan
 There was a problem with reindexing process.,Ada masalah dengan proses indeks ulang.
 There was a problem with saving process.,Ada masalah dengan proses penyimpanan.
 Total of %d index(es) have changed index mode.,Total dari %d indeks telah merubah mode indeks.

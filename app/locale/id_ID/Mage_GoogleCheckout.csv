@@ -9,7 +9,7 @@ Add Shipping Method,Tambah metode pengiriman
 Allowed Methods,Ijinkan metode
 Amount: %s,Jumlah: %s
 Auto-generated from GoogleCheckout Charge,Auto-generated Tarif dari GoogleCheckout
-Buyer account age: %s days,Pembeli akun umur:%s hari 
+Buyer account age: %s days,Pembeli akun umur: %s hari 
 CC Partial: xxxx-%s,CC Parsial: xxxx-%s
 CID Status: %s,CID Status: %s
 Carrier Calculated Methods,Metode penhitungan pengangkut
@@ -26,10 +26,10 @@ Default price:,Harga standar:
 Delivery Address Category,Kategori Alamat Pengiriman
 Delivery schedule,Jadwal pengiriman
 Disable Default Tax Tables,menonaktifkan skema pajak standar
-Eligible for protection: %s,Layak bagi perlindungan:%s
+Eligible for protection: %s,Layak bagi perlindungan: %s
 Enable,Aktifkan
 Enable Carrier Calculated,aktifkan Perhitungan pengangkut
-Enable Digital Delivery,Aktifkan Pengriman Digital
+Enable Digital Delivery,Aktifkan Pengiriman Digital
 Enable Flat Rate,Aktifkan Tarif rata
 Enable Merchant Calculated,Aktifkan Kalkulasi Penjual
 Enable this if your checkout request is too big and being cut off.,Aktifkan ini jika permintaan penyelesaian Anda terlalu besar dan dipotong.
@@ -54,9 +54,15 @@ Google Risk Information:,Informasi Risiko Google:
 Google order status change:,Perubahan Status Pesanan Google:
 Hide Cart Contents During Checkout,Sembunyikan Isi Keranjang selama proses chekcout
 IP Address: %s,Alamat IP: %s
+<<<<<<< HEAD
 "If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if ""Edit Cart"" link was activated.","Jika diaktifkan, isi keranjang akan disembunyikan setelah mengklik pada tombol Google Checkout di keranjang belanja, dan dikembalikan jika ""Edit Cart"" link diaktifkan."
 Invoice auto-created: %s,Faktur otomatis dibuat:%s
 Is Buyer Willing To Receive Marketing E-Mails: %s,Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mails:%s
+=======
+"If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if ""Edit Cart"" link was activated.","Jika diaktifkan, isi keranjang akan disembunyikan setelah mengklik pada tombol Google Checkout dikeranjang belanja, dan dikembalikan jika ""Edit Cart"" link diaktifkan."
+Invoice auto-created: %s,Faktur otomatis dibuat: %s
+Is Buyer Willing To Receive Marketing E-Mails: %s,Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mail: %s
+>>>>>>> andi
 Large - %s,Besar - %s
 Latest Charge: %s,Biaya Terakhir: %s
 Latest Chargeback: %s,Pembayaran balik terkhir: %s
@@ -67,7 +73,7 @@ Merchant ID,ID penjual
 Merchant Key,Kunci Penjual
 Method,Metode
 New order status,Status pesanan baru
-No,Todak
+No,Tidak
 "Optional, leave empty for home page.","Opsional, Kosongkan untuk beranda."
 Rate 1 Amount,Tingkat 1 Jumlah
 Rate 1 Ship To Applicable Countries,Tingkat 1 Pengiriman Untuk Negara Berlaku
@@ -90,8 +96,8 @@ Small - %s,Kecil - %s
 "
 Title,Judul
 Total Chargeback: %s,Total Bayar kembali: %s
-Total Charged: %s,Total tertagih:%s
-Total Refunded: %s,Total Pengembalian:%s
+Total Charged: %s,Total tertagih: %s
+Total Refunded: %s,Total Pengembalian: %s
 Transparent,Transparan
 United Kingdom,Inggris
 United States,Amerika serikat

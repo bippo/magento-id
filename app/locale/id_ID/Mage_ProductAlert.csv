@@ -1,6 +1,6 @@
 Alert Email Sender,Peringatan Email pengirim
-Alert subscription was deleted successfully,Peringatan Berlangganan berhasil di hapus
-Alert subscription was saved successfully,Peringatan berlamgganan berhasil di simpan
+Alert subscription was deleted successfully,Peringatan Berlangganan berhasil dihapus
+Alert subscription was saved successfully,Peringatan berlamgganan berhasil disimpan
 Allow alert when product comes back in stock,Ijinkan peringatan ketika produk kembali dalamstok
 Allow alert when product price changes,Ijinkan peringatan ketika harga produk berubah
 Click here not to receive alerts for this product,Klik disini untuk tidak menerima peringatan dari produk ini
@@ -15,7 +15,7 @@ Price:,Harga:
 Product Alerts,Peringatan produk
 Product Alerts Run Settings,Jalankan peraturan tanda produk
 Product alerts Cron error,Peringatan produk cron galat
-Product not found,Produk tidak di temukan
+Product not found,Produk tidak ditemukan
 Product price alert,Peringatan harga produk
 Product stock alert,Peringatan stok produk
 Sign up for price alert,Daftar untuk peringatan harga
