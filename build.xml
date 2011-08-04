@@ -5,10 +5,23 @@
     <target name="deploy"
 		description="Deploy translation pack files to $server config. Useful during development.">
 		<exec executable="rsync">
-			<arg line="-vza app ${server.user}@${server.host}:${server.dir}/" />
+			<arg value="-e"/><arg value="ssh -p${server.port}"/>
+			<arg value="-vza"/>
+			<arg value="app"/>
+			<arg value="${server.user}@${server.host}:${server.dir}/"/>
 		</exec>
+    	<antcall target="remote.flush"/>
     </target>
     
+	<target name="remote.flush" description="Flush Magento cache storage on server.">
+		<fail unless="server.host"/>
+		<fail unless="server.port"/>
+		<fail unless="server.user"/>
+		<fail unless="server.dir"/>
+		<sshexec host="${server.host}" username="${server.user}" port="${server.port}"
+			keyfile="${user.home}/.ssh/id_rsa" trust="true" command="rm -rvf ${server.dir}/var/cache/*"/>
+	</target>
+	
 	<target name="symlink" description="Create symlink in ${magento.dir}. It will not overwrite existing files/links.">
 		<fail unless="magento.dir"/>
 		<symlink link="${magento.dir}/app/locale/" resource="${basedir}/app/locale/id_ID" failonerror="false"/>
