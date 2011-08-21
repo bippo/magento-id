@@ -170,8 +170,8 @@ Email Address,Alamat email
 Email Sender,Email pengirim
 Email:,Email:
 Entity collection is expected.,Koleksi entitas yang diharapkan.
-Entity instance is not defined,Contoh entitas tidak di tentukan
-Entity object is undefined,Objek entitas tidak di tenukan
+Entity instance is not defined,Contoh entitas tidak ditentukan
+Entity object is undefined,Objek entitas tidak ditentukan
 Excel XML,Excel XML
 Failed to confirm customer account.,Gagal untuk mengkonfirmasi akun pelanggan
 Fax,Fax
@@ -228,11 +228,11 @@ Manage Addresses,Kelola Alamat
 Manage Customers,Kelola Pelanggan
 "Missing email, skipping the record","Email hilang, lewatkan catatan"
 "Missing firstname, skipping the record","Nama depan hilang, lewatkan catatan"
-"Missing lastname, skipping the record","nama belakang hilang, lewatkan catatan"
+"Missing lastname, skipping the record","Nama belakang hilang, lewatkan catatan"
 Month,Bulan
 My Account,Akun saya
 My Account Wrapper,Pembungkus akun saya
-My Dashboard,Kontrol panel saya
+My Dashboard,Dashboard saya
 My Orders,Pesanan saya
 Name,Nama
 Name and Address Options,Nama dan pilihan alamat
@@ -350,8 +350,8 @@ Share Customer Accounts,Berbagi akun pelanggan
 Ship to First name,Kirim ke nama depan
 Ship to Last name,Kirim ke nama belakang
 Shipped to First Name,dikirim ke nama depan
-Shipped to Last Name,di kirim ke nama belakang
-Shipped to Name,di kirim ke nama
+Shipped to Last Name,Dikirim ke nama belakang
+Shipped to Name,Dikirim ke nama
 Shipping Information,Mengirim informasi
 Shipping Method,Mengirim metode
 Shopping Cart,Keranjang belanja

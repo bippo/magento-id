@@ -86,7 +86,7 @@ Default Billing,Standar tagihan
 Default Shipping,Standar pengiriman
 Delete Condition,Hapus kondisi
 Details,Detil
-Disable Onepage Checkout,Checkout menonaktifkan satu halaman
+Disable Onepage Checkout,Menonaktifkan satu halaman Checkout 
 Disabled,Menonaktifkan
 Discount Codes,Kode diskon
 Display Cart Summary,Menampilkan ringkasan keranjang
@@ -145,11 +145,11 @@ Maximum display Recently added item(s),Tampilan Maksimum Baru saja ditambahkan b
 Maximum qty allowed for Shipping to multiple addresses is %s,Maksimum kuantitas diperbolehkan untuk Pengiriman ke beberapa alamat adalah %s
 Move to Wishlist,Pindahkan kedaftar yang di inginkan
 Multishipping Checkout,Checkout multi pengiriman
-Multishipping Checkout Address (Any) Form,Checkout Multi pengiriman Form Alamat (Setiap)
+Multishipping Checkout Address (Any) Form, Form Checkout Multi pengiriman Alamat (Setiap)
 Multishipping Checkout Billing Address Creation,Membuat alamat tagihan Checkout multi pengiriman
 Multishipping Checkout Billing Address Edit Form,Formulir sunting alamat tagihan Checkout multi pengiriman
 Multishipping Checkout Billing Address Selection,Pemilihan alamat tagihan checkout multi pengiriman
-Multishipping Checkout Billing Information Step,Step Langkah informasi tagihan checkout multi pengiriman
+Multishipping Checkout Billing Information Step,Langkah informasi tagihan checkout multi pengiriman
 Multishipping Checkout Customer Address Edit Form,Formulir sunting alamat pelanggan checkout multi pengiriman
 Multishipping Checkout Overview,Ikhtisar checkout multi pengiriman
 Multishipping Checkout Shipping Address Creation,Membuat alamat pengiriman checkout multi pengiriman
@@ -300,4 +300,4 @@ Your order has been received,Pesanan Anda telah di terima
 Your order number is ,Jumlah pesanan Anda adalah
 Zip/Postal Code,Zip/Kode pos
 osCommerce Orders,Pesanan osCommerce
-"separate by "",""","di pisahkan oleh "","""
+"separate by "",""","Dipisahkan oleh "","""

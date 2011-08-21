@@ -25,7 +25,7 @@ Database Connection,Koneksi basis data
 Database Name,Nama Basis data
 Database Name cannot be empty.,Nama basis data tidak bisa kosong
 Database connection error.,Koneksi basis data galat.
-Database host,Hos basis data
+Database host,Host basis data
 Database server does not support InnoDB storage engine,Server basis data tidak mendukung  InnoDB mesin penyimpan
 "Database server version does not match system requirements (required: %s, actual: %s)","Versi server basis data tidak sesuai sistem yang dibutuhkan (dibutuhkan: %s, aktual: %s)"
 Database user name,Nama Pengguna Basis data

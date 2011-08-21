@@ -248,7 +248,7 @@ brp
 "Invoice #%s,""Faktur #%s"";"
 "Invoice Comment Email Sender,""Komentar Faktur Pengirim Email"";"
 "Invoice Comment Email Template,""Komentar Faktur Kerangka Email"";"
-"Invoice Comment Email Template for Guest,""Kerangka Email komentar faktur untk tamu"";"
+"Invoice Comment Email Template for Guest,""Kerangka Email komentar faktur untuk tamu"";"
 "Invoice Comments,""Komentar faktur"";"
 "Invoice Date,""Tanggal Faktur"";"
 "Invoice Email Sender,""Pengirim faktur Email"";"
