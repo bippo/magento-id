@@ -12,7 +12,7 @@ Auto-generated from GoogleCheckout Charge,Auto-generated Tarif dari GoogleChecko
 Buyer account age: %s days,Pembeli akun umur: %s hari 
 CC Partial: xxxx-%s,CC Parsial: xxxx-%s
 CID Status: %s,CID Status: %s
-Carrier Calculated Methods,Metode penhitungan pengangkut
+Carrier Calculated Methods,Metode penghitungan pengangkut
 Cart Discount,Diskon keranjang
 Checkout Image Style,Checkout style gambar
 Continue Shopping URL,URL melanjutkan belanja
@@ -54,15 +54,9 @@ Google Risk Information:,Informasi Risiko Google:
 Google order status change:,Perubahan Status Pesanan Google:
 Hide Cart Contents During Checkout,Sembunyikan Isi Keranjang selama proses chekcout
 IP Address: %s,Alamat IP: %s
-<<<<<<< HEAD
-"If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if ""Edit Cart"" link was activated.","Jika diaktifkan, isi keranjang akan disembunyikan setelah mengklik pada tombol Google Checkout di keranjang belanja, dan dikembalikan jika ""Edit Cart"" link diaktifkan."
-Invoice auto-created: %s,Faktur otomatis dibuat:%s
-Is Buyer Willing To Receive Marketing E-Mails: %s,Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mails:%s
-=======
 "If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if ""Edit Cart"" link was activated.","Jika diaktifkan, isi keranjang akan disembunyikan setelah mengklik pada tombol Google Checkout dikeranjang belanja, dan dikembalikan jika ""Edit Cart"" link diaktifkan."
 Invoice auto-created: %s,Faktur otomatis dibuat: %s
 Is Buyer Willing To Receive Marketing E-Mails: %s,Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mail: %s
->>>>>>> andi
 Large - %s,Besar - %s
 Latest Charge: %s,Biaya Terakhir: %s
 Latest Chargeback: %s,Pembayaran balik terkhir: %s

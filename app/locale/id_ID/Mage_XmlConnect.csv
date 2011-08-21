@@ -1,5 +1,5 @@
-" "," "
-" But cart has some errors.","Tetapi keranjang memiliki beberapa galat."
+ , 
+ But cart has some errors.,Tetapi keranjang memiliki beberapa galat.
 """Description"" is more than %d characters long","""Deskripsi"" lebih dari %d panjang karakter"
 """Title"" is more than %d characters long","""Judul"" lebih dari %d panjang karakter"
 %1$s has been added to your wishlist.,%1$s Telah di tambahkan kedaftar keinginan Anda.
@@ -78,7 +78,7 @@ Application Key,Kunci aplikasi
 Application Master Secret,Rahasia master aplikasi
 Application Name,Nama Aplikasi
 Application Secret,Rahasia aplikasi
-"Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Menerapkan secara otomatis akan mengubah ukuran gambar ini untuk tampilan di dalam App Store dan usersï¿½ ï¿½ ï¿½ perangkat. Sebuah gloss (gradien) juga akan diterapkan, sehingga Anda tidak perlu untuk menerapkan gradien. Gambar harus setidaknya 512x512"
+"Apply will automatically resize this image for display in the App Store and on usersâ€™ devices.  A gloss (i.e. gradient) will also be applied, so you do not need to apply a gradient.  Image must be at least 512x512","Menerapkan secara otomatis akan mengubah ukuran gambar ini untuk tampilan di dalam App Store dan usersâ € ™ perangkat. Sebuah gloss (gradien) juga akan diterapkan, sehingga Anda tidak perlu untuk menerapkan gradien. Gambar harus setidaknya 512x512"
 Are you sure you want to cancel a message?,Apakah Anda yakin ingin menghapus pesan ini?
 Are you sure you want to delete a message?,Apakah Anda yakin ingin menghapus pesan ini?
 Are you sure you what to cancel selected records?,Apakah anda yakin untuk membatalkan catatan yang dipilih?
@@ -281,7 +281,7 @@ Loader Splash Screen,Pemuat layar splash
 Loader Splash Screen <br />(iPhone 4 retina),Pemuat layar splash<br />(iPhone 4 retina)
 Loader Splash Screen <br />(landscape mode),Pemuat layar splash <br />(mode landskap)
 Loader Splash Screen <br />(portrait mode),Pemuat layar splash <br />(mode potret)
-Loading Preview...,Memuat tinjauanï¿½
+Loading Preview...,Memuat tinjauan…
 Locations,Lokasi
 Log In,Masuk
 Login and password are required.,Login dan kata sandi dibutuhkan
@@ -485,7 +485,7 @@ Twitter Secret Key,kunci rahasia Twitter
 Unable to cancel queue.,Tidak dapat membatalkan antrian
 Unable to collect cart totals.,Tidak dapat mengumpulkan total keranjang.
 Unable to delete queue.,Tidak dapat menghapus antrian.
-Unable to find an app to delete.,Tidak dapat menemukan apliksi untuk di hapus.
+Unable to find an app to delete.,Tidak dapat menemukan apliksi untuk dihapus.
 Unable to find template to delete.,Tidak dapat menemukan kerangka untuk dihapus.
 Unable to get shipping methods list.,Tidak bisa mendapatkan daftar metode pengiriman.
 Unable to initialize MEP Checkout.,tidak dapat mengenali MEP Checkout.

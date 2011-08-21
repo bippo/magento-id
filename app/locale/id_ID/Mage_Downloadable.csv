@@ -3,7 +3,7 @@ An error occurred while saving the file(s).,Galat terjadi ketika menyimpan berka
 Availability: In stock.,Ketersediaan: Stok ada.
 Availability: Out of stock.,Ketersediaan: Stok habis.
 Back,Kembali
-"Can't connect to remote host, error: %s","Tidak dapat terhubung ke remot host, kesalahan:%s"
+"Can't connect to remote host, error: %s","Tidak dapat terhubung ke remot host, kesalahan:% s"
 Canceled,Dibatalkan
 Date,Tanggal
 Default Link Title,Judul tautan standar

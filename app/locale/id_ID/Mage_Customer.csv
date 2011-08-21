@@ -18,7 +18,7 @@
 """%s"" is not a valid image format","""%s"" format gambar tidak valid."
 """%s"" length must be equal to or greater than %s characters.","""%s"" panjang harus sama atau lebih besar dari %s karakter."
 """%s"" length must be less than or equal to %s characters.","panjang ""%s"" harus kurang dari atau sama dengan karakter %s."
-"""%s"" width exceeds allowed value of %s px.","lebar ""%s"" melebihi nilai yang diizinkan %s px."
+"""%s"" width exceeds allowed value of %s px.","lebar ""%s"" melebihi nilai yang diizinkan px%s."
 '%value%' appears to be a DNS hostname but cannot extract TLD part,%nilai%' tampaknya menjadi nama host DNS tetapi tidak dapat mengekstrak bagian TLD
 '%value%' appears to be a DNS hostname but cannot match TLD against known list,%nilai%'tampaknya menjadi nama host DNS tetapi tidak bisa cocok TLD terhadap daftar yang dikenal
 '%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%',%nilai%' tampaknya menjadi nama host DNS tetapi tidak bisa cocok terhadap skema nama host untuk TLD '%tld%'
@@ -82,10 +82,10 @@ Cancel,Batal
 Cannot save address.,Tidak dapat menyimpan alamat:
 Cannot save the customer.,Tidak dapat menyimpan pelanggan
 Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.,Tidak dapat berbagi akun pelanggan secara global karena pelanggan beberapa akun dengan email yang sama ada di beberapa situs Web dan tidak dapat digabungkan.
-Change Account Password,Ubah kata sandi akun
-Change Billing Address,Ubah alamat tagihan
-Change Password,Ubah kata sandi
-Change Shipping Address,Ubah alamat pengiriman
+Change Account Password,Rubah kata sandi akun
+Change Billing Address,Rubah alamat tagihan
+Change Password,Rubah kata sandi
+Change Shipping Address,Rubah alamat pengiriman
 City,Kota
 Company,Perusahaan
 Config,Konfiguransi
@@ -170,8 +170,8 @@ Email Address,Alamat email
 Email Sender,Email pengirim
 Email:,Email:
 Entity collection is expected.,Koleksi entitas yang diharapkan.
-Entity instance is not defined,Contoh entitas tidak di tentukan
-Entity object is undefined,Objek entitas tidak di tenukan
+Entity instance is not defined,Contoh entitas tidak ditentukan
+Entity object is undefined,Objek entitas tidak ditentukan
 Excel XML,Excel XML
 Failed to confirm customer account.,Gagal untuk mengkonfirmasi akun pelanggan
 Fax,Fax
@@ -228,14 +228,14 @@ Manage Addresses,Kelola Alamat
 Manage Customers,Kelola Pelanggan
 "Missing email, skipping the record","Email hilang, lewatkan catatan"
 "Missing firstname, skipping the record","Nama depan hilang, lewatkan catatan"
-"Missing lastname, skipping the record","nama belakang hilang, lewatkan catatan"
+"Missing lastname, skipping the record","Nama belakang hilang, lewatkan catatan"
 Month,Bulan
-My Account,Akun Saya
-My Account Wrapper,Wrapper Akun Saya
-My Dashboard,Dasbor Saya
-My Orders,Pesanan Saya
+My Account,Akun saya
+My Account Wrapper,Pembungkus akun saya
+My Dashboard,Dashboard saya
+My Orders,Pesanan saya
 Name,Nama
-Name and Address Options,Pilihan Nama dan Alamat
+Name and Address Options,Nama dan pilihan alamat
 Never,Tidak Pernah
 New Address,Alamat Baru
 New Address Entry,Entri Alamat Baru
@@ -296,14 +296,14 @@ Please enter your email below and we will send you a new password.,Silakan masuk
 Please enter your email below and we\'ll send you confirmation link for it.,Silakan masukkan email Anda di bawah ini dan kami akan mengirimkan tautan konfirmasi untuk itu.
 Please enter your email.,Silakan masukan email anda.
 Please select,Silakan pilih
-"Please select region, state or province","Silahkan pilih wilayah, negara bagian atau provinsi"
-"Please, check your email for confirmation key.","Silakan, periksa email Anda untuk kunci konfirmasi."
+"Please select region, state or province","Silahkan pilih wilayah, negara bagian atau provinsi"
+"Please, check your email for confirmation key.","Silakan, periksa email Anda untuk kunci konfirmasi."
 Prefix,awalan
 Prefix dropdown options,Awalan pilihan dropdown
 Price,Harga
 Primary Billing Address,Alamat Surat Menyurat
 Primary Shipping Address,Alamat Surat Menyurat
-"Problem saving the collection, aborting. Error: %s","Masalah saat menyimpan koleksi, membatalkan. Kesalahan: %s"
+"Problem saving the collection, aborting. Error: %s","Masalah saat menyimpan koleksi, membatalkan. Kesalahan: %s"
 Product,Produk
 Product ID,ID produk
 Product Name,Nama produk
@@ -336,7 +336,7 @@ Save Customer,Simpan pelanggan
 Save Customer Group,Simpan grup pelanggan
 Save Password,Simpan kata sandi
 Saved ,Simpan
-Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Titik koma (;).. Nilai dipisahkan koma <br/> Masukan di awal untuk pilihan pertamakosong <br/> Biarkan kosong untuk kolom teks terbuka.
+Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Titik koma (;).. Nilai dipisahkan koma <br/> Masukan di awal untuk pilihan pertamakosong <br/> Biarkan kosong untuk kolom teks terbuka.
 Send Welcome Email after Confirmation,Kirim email selamat datang setelah konfirmasi
 Send auto-generated password,Kirim kata sandi auto-generated
 Send confirmation link,Kirim tautan konfirmasi
@@ -350,8 +350,8 @@ Share Customer Accounts,Berbagi akun pelanggan
 Ship to First name,Kirim ke nama depan
 Ship to Last name,Kirim ke nama belakang
 Shipped to First Name,dikirim ke nama depan
-Shipped to Last Name,di kirim ke nama belakang
-Shipped to Name,di kirim ke nama
+Shipped to Last Name,Dikirim ke nama belakang
+Shipped to Name,Dikirim ke nama
 Shipping Information,Mengirim informasi
 Shipping Method,Mengirim metode
 Shopping Cart,Keranjang belanja
@@ -439,7 +439,7 @@ You are currently not subscribed to our newsletter.,Anda saat ini tidak berlangg
 You are currently subscribed to 'General Subscription'.,Anda saat ini terdaftar untuk 'Berlangganan Umum'.
 You are currently subscribed to our newsletter.,Anda saat ini tidak berlangganan buletin kami.
 You are now logged out,Anda sekarang keluar
-You have logged out and will be redirected to our homepage in 5 seconds.,Anda telah keluar dan akan diarahkan ke beranda kami dalam 5 detik.
+You have logged out and will be redirected to our homepage in 5 seconds.,Anda telah keluar dan akan diarahkan ke beranda kami dalam 5 detik.
 You have no additional address entries in your address book.,Anda tidak memiliki masukan alamat tambahan dalam buku alamat Anda.
 You have no additional entries in your address book.,Anda tidak memiliki masukan tambahan di buku alamat Anda
 You have no default billing address in your address book.,Anda tidak memiliki alamat standar penagihan di buku alamat Anda

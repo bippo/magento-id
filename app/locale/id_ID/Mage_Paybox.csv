@@ -1,4 +1,4 @@
---Please Select--,--Please Select--
+--Please Select--,Silakan Pilih
 AMEX,AMEX
 AURORE,AURORE
 Activated Key,Kunci aktivasi
@@ -46,7 +46,7 @@ NLD (Dutch),NLD (Belanda)
 Name of the Button on the Intermediary Page,Nama Tombol pada Halaman Perantara
 Name on Card,Nama pada kartu
 Name on the Card: %s,Nama pada kartu: %s
-New Order Status,Statsu pesanan baru
+New Order Status,Status pesanan baru
 "Only if the ""HTML From"" mode selected.","Hanya pada ""HTML dari"" mode dipilih."
 "Only with ""Command Line"" mode.","Hanya dengan ""Command Line"" mode."
 Order does not match.,Pesanan tidak sesuai

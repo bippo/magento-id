@@ -29,7 +29,7 @@ Direct Sale,Penjualan langsung
 Enabled,Aktif
 Exception not defined,Pengecualian tidak ditentukan
 Font Family of the Ogone Template,Keluarga hurup dari kerangka ogone
-"For production, replace ""test"" with ""prod"". Example: https://secure.ogone.com/ncol/prod/orderstandard.asp","Untuk produksi, ganti ""test"" dengan ""prod"". Contoh: https://secure.ogone.com/ncol/prod/orderstandard.asp"
+"For production, replace ""test"" with ""prod"". Example: https://secure.ogone.com/ncol/prod/orderstandard.asp","Untuk produksi, ganti ""tes"" dengan ""prod"". Contoh: https://secure.ogone.com/ncol/prod/orderstandard.asp"
 Gateway URL,Gateway URL
 Horizontally grouped logo with group name on left,Secara horizontal dikelompokkan logo dengan nama grup disebelah kiri
 Horizontally grouped logo with no group name,Secara horizontal dikelompokkan logo tanpa nama grup
@@ -49,7 +49,7 @@ Payment transaction has been declined.,Transaksi pembayaran telah ditolak
 Pending Ogone,Ogone Tertunda
 "Please, wait a moment. This page will transfer your data to Ogone payment gateway in a few seconds.","Mohon, tunggu sebentar. Halaman ini akan mentransfer data ke Ogone gateway pembayaran dalam beberapa detik"
 Processed Ogone Payment,Memproses pembayaran ogone
-Processed by Ogone  ,diproses oleh ogone
+Processed by Ogone  ,Diproses oleh ogone
 Processing Ogone Payment,Memproses pembayaran ogone
 SHA-1- OUT Signature,tanda tangan SHA-1- OUT 
 SHA-1-IN Signature,tanda tangan SHA-1-IN 

@@ -1,9 +1,9 @@
 %s already exist,%s Telah ada
 %s already exists,%s telah ada
 -- Please Select --,Silakan pilih
-"<strong style=""color:red"">Warning!</strong> When using CDN, in some cases JavaScript may not run properly if CDN is not in your subdomain","<strong style=""color:red"">Warning!</strong> ketika menggunakan CDN, dalam beberapa kasus JavaScript mungkin tidak berjalan dengan baik jika CDN tidak dalam subdomain anda"
+"<strong style=""color:red"">Warning!</strong> When using CDN, in some cases JavaScript may not run properly if CDN is not in your subdomain","<strong style=""color:red"">Peringatan!</strong> ketika menggunakan CDN, dalam beberapa kasus JavaScript mungkin tidak berjalan dengan baik jika CDN tidak dalam subdomain anda"
 A category object is required for determining the product request path.,Sebuah objek diperlukan untuk kategori menentukan jalur permintaan produk.
-Add Block Names to Hints,Tambahkan Blok Nama untuk petunjuk
+Add Block Names to Hints,Tambahkan blok nama untuk petunjuk
 Add Secret Key to URLs,Tambahkan kunci rahasia ke URLs
 Add Store Code to Urls,Tambahkan kode toko ke URLs
 Admin,Admin
@@ -36,7 +36,7 @@ Base Skin URL,Lapisan Dasar URL
 Base URL,Dasar URL
 Before modifying the store view code please make sure that it is not used in index.php,Sebelum memodifikasi kode tampilan toko pastikan bahwa itu tidak digunakan dalam index.php
 Before modifying the website code please make sure that it is not used in index.php,Sebelum memodifikasi kode situs pastikan bahwa itu tidak digunakan dalam index.php
-"Block with name ""%s"" already exists","Blok dengan nama ""%s"" sudah ada"
+"Block with name ""%s"" already exists","Blok dengan nama ""% s"" sudah ada"
 Browser Capabilities Detection,Deteksi Kemampuan Browser
 CSS Settings,pengaturan CSS
 Cache Storage Management,Pengaturan penyimpanan Cache
@@ -50,7 +50,7 @@ Cannot complete this operation from non-admin area.,Tidak dapat menyelesaikan op
 Cannot retrieve entity config: %s,Tidak bisa mengambil konfigurasi entitas: %s
 Card type does not match credit card number.,Jenis kartu tidak mencocokkan nomor kartu kredit.
 Code,Kode
-Controller file was loaded but class does not exist,Pengontrol file telah dimuat tapi tingkat tidak ada
+Controller file was loaded but class does not exist,Pengontrol berkas telah dimuat tapi tingkat tidak ada
 Cookie Domain,Domain Cookie
 Cookie Lifetime,Masa Cookie
 Cookie Path,Jalur Cookie
@@ -137,7 +137,7 @@ Invalid block type: %s,Tipe blok tidak valid: %s
 Invalid block: %s,blok tidak valid: %s
 "Invalid layout update argument, expected Mage_Core_Model_Layout_Element","Argumen perbaruan tampilan tidak valid, diharapkan Mage_Core_Model_Layout_Element"
 Invalid layout update handle,Penanganan perbaruan tampilan tidak valid
-"Invalid messages storage ""%s"" for layout messages initialization","Penyimpanan pesan tidak valid ""%s"" untuk inisialisasi tata letak pesan"
+"Invalid messages storage ""%s"" for layout messages initialization","Penyimpanan pesan tidak valid ""% s"" untuk inisialisasi tata letak pesan"
 Invalid transactional email code: ,Kode email transaksi tidak valid:
 Invalid websites configuration path: %s,Jalur konfigurasi situs tidak valid: %s
 Layout,Tampilan
@@ -146,8 +146,8 @@ Leave empty for access from any location,Biarkan kosong untuk akses dari setiap 
 Locale,lokal
 Locale options,Pilihan lokal
 Log Settings,Pengaturan log
-Logging from Mage::log(). File is located in {{base_dir}}/var/log,Masuk dari Mage::log(). Berkas di lokasikan di  {{base_dir}}/var/log
-Logging from Mage::logException(). File is located in {{base_dir}}/var/log,Masuk dari Mage::logException(). Berkas di lokasikan di {{base_dir}}/var/log
+Logging from Mage::log(). File is located in {{base_dir}}/var/log,Masuk dari Mage::log(). Berkas dilokasikan di  {{base_dir}}/var/log
+Logging from Mage::logException(). File is located in {{base_dir}}/var/log,Masuk dari Mage::logException(). Berkas dilokasikan di {{base_dir}}/var/log
 Logo Image Alt,Alternatif gambar logo
 Logo Image Src,Src gambar logo
 Manage Stores,Kelola toko
@@ -204,7 +204,7 @@ Please enter a valid month (1-12).,Silakan masukan bulan yang lengkap (1-12).
 Please enter a valid number in this field.,Silkan masukan nomor yang berlaku pada bidang ini
 Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,Masukan nomor telepon yang berlaku. misalnya (123) 456-7890 or 123-456-7890.
 Please enter a valid social security number. For example 123-45-6789.,Silakan masukan nomor jaminan sosial yang berlaku. misalnya 123-45-6789.
-Please enter a valid year (1900-%d).,Masukkan tahun yang berlaku (1900 -%d).
+Please enter a valid year (1900-%d).,Masukkan tahun yang berlaku (1900 -% d).
 Please enter a valid zip code.,Silakan masukan kode pos yang berlaku
 Please enter a valid zip code. For example 90602 or 90602-1234.,Masukan kode pos yang berlaku. Misalnya 90602 atau 90602-1234.
 Please enter issue number or start date for switch/solo card type.,Silakan masukkan nomor penerbitan atau tanggal mulai untuk beralih / jenis kartu tunggal
@@ -233,10 +233,10 @@ Please use only letters (a-z) or numbers (0-9) or spaces and # only in this fiel
 Please use only visible characters and spaces.,Silakan Gunakan hanya karakter yang terlihat dan ruang.
 "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",Silakan gunakan format tanggal: hh / bb / tttt. Misalnya 17/03/2006 untuk 17 Maret 2006.
 "Please wait, loading...","Silakan tunggu, memuat.."
-Polls,Polling
+Polls,Poling
 Port (25),Port (25)
 Profiler,Profiler
-Request Path for Specified Store,Permintaan Jalur untuk Toko Ditentukan
+Request Path for Specified Store,Permintaan Jalur untuk Toko ditentukan
 "Requested file may not include parent directory traversal (""../"", ""..\\ notation)""","Berkas yang diminta mungkin tidak memasukkan orangtua traversal direktori (""../"", "".. \ \ notasi)"""
 "Requested invalid store ""%s""","Toko yang diminta tidak berlaku ""%s"""
 Resource is not set,Sumber daya tidak diatur
