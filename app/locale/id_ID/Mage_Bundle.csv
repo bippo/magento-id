@@ -1,4 +1,4 @@
-* Required Fields,* Dibutuhkan Bidang
+* Required Fields,* Field yang dibutuhkan
 Select,Pilih
 Add New Option,Tambah Opsi Baru
 Add Selection,Tambah Pilihan
@@ -6,7 +6,7 @@ As low as,Mulai dari
 Bundle Items,Bundel Barang
 Bundle Product,Bundel Produk
 Buy %1$s with %2$s discount each,Beli %1$s dengan %2$s diskon masing masing
-Checkbox,Kotak Cek
+Checkbox,Checkbox
 Choose a selection...,Pilih seleksi …
 Close,Tutup
 Default,Standar
@@ -29,20 +29,20 @@ No options of this product are available.,Tidak ada pilihan tersedia untuk produ
 None,Tidak satupun
 Percent,Persen
 Percent Discount,Persen Diskon
-Please enter search conditions to view products.,Masukkan kondisi pencarian untuk melihat produk.
+Please enter search conditions to view products.,Silakan masukan kondisi pencarian untuk melihat produk.
 Please select options for product.,Silakan Pilih Opsi Untuk Produk
 Please select products to add,Silakan Pilih Produk untuk Menambah
-Please specify product option(s),Silakan Tentukan Pilihan Produk
+Please specify product option(s),Silakan tentukan Pilihan Produk
 Position,Posisi
 Price Range,Kisaran Harga
 Price Type,Tipe Harga
-Price as configured,Harga sebagai dikonfigurasi
+Price as configured,Harga sebagaimana dikonfigurasi
 Qty:,Kuantitas:
 Radio Buttons,Tombol Radio
-Required options not selected.,Opsi yang dibutuhkan tidak dipilih
+Required options not selected.,Opsi yang diperlukan tidak dipilih
 Selected required options not available.,Pilihan opsi yang dibutuhkan tidak tersedia
 Separately,Terpisah
-Ship Bundle Items,Mengirimkan Barang Bundel
+Ship Bundle Items,Mengirimkan barang yang dibundel
 Shipment,Pengiriman
 Store View Title,Tampilan Judul Toko
 "There is no defined renderer for ""%s"" option type","Tidak ada penyaji yang ditetapkan untuk jenis opsi ""%s"""

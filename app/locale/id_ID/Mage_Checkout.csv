@@ -1,6 +1,6 @@
 %s was added to your shopping cart.,%s ditambahkan pada keranjang belanjaan Anda.
 %s was updated in your shopping cart.,%s diperbarui pada keranjang belanjaan Anda.
-* Required Fields,* Dibutuhkan bidang
+* Required Fields,* Dibutuhkan field
 Add New Address,Tambahkan alamat baru
 Add New Condition,Tambahkan kondisi baru
 Add coupon code for shopping cart,Tambahakan kode kupon untuk keranjang belanjaan
@@ -73,7 +73,7 @@ Continue to Review Your Order,Lanjutkan ke tinjauan pesanan Anda
 Continue to Shipping Information,Lanjutkan ke informasi pengiriman
 Country,Negara
 "Coupon code ""%s"" is not valid.","Kode kupon ""%s"" Tidak berlaku."
-"Coupon code ""%s"" was applied successfully.","Kode kupon ""%s"" di terapkan secara sukses."
+"Coupon code ""%s"" was applied successfully.","Kode kupon ""%s"" diterapkan secara sukses."
 Coupon code was canceled successfully.,kode kupon di batalkan secara sukses
 Create Billing Address,Membuat alamat tagihan
 Create Shipping Address,Membuat alamat pengiriman
@@ -274,8 +274,8 @@ Terms and Conditions Information,Inforamsi syarat dan kondisi
 Terms and conditions,Terms and conditions
 Text,Teks
 Thank you for your purchase!,Terimakasih atas pembelian Anda
-"There are <a href=""%s""><strong>%s items</strong></a> in your cart.","Ada <a href=""%s""><kuat>%s barang</kuat></a> dalam keranjang anda."
-"There is <a href=""%s""><strong>1 item</strong></a> in your cart.","Ada <a href=""%s""><kuat>%s barang</kuat></a> dalam keranjang anda."
+"There are <a href=""%s""><strong>%s items</strong></a> in your cart.","Ada <a href=""%s""><strong>%s barang</strong></a> dalam keranjang anda."
+"There is <a href=""%s""><strong>1 item</strong></a> in your cart.","Ada <a href=""%s""><strong>%s barang</strong></a> dalam keranjang anda."
 There is already a customer registered using this email address,Sudah ada pelanggan yang terdaftar menggunakan alamat email ini
 There was an error processing your order. Please contact us or try again later.,Ada masalah saat memproses pesanan Anda. Silahkan hubungi kami atau coba lagi nanti.
 This condition no longer exists,Kondisi ini tidak ada lagi

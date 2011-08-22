@@ -10,7 +10,7 @@ Catalog Search,Pencarian katalog
 Don't see what you're looking for?,Tidak melihat apa yang Anda cari?
 Go,Ke
 Go to Home Page,Kembali ke Beranda
-Grid,Kisi
+Grid,grid
 Home,Beranda
 List,Daftar
 Maximum Query Length,Maksimum panjang pertanyaan
@@ -24,7 +24,7 @@ No items were found using the following search criteria.,Tidak ada item yang dit
 Popular Search Terms,Kata Kunci Populer
 Popular search terms,Kata kunci populer
 Relevance,Relevan
-Required Fields,Bidang yang di butuhkan
+Required Fields,Field yang di butuhkan
 Results,Hasil
 Search,Cari
 Search Settings,Setelan Pencarian
@@ -34,11 +34,11 @@ Search Type,Tipe Pencarian
 Search entire store here...,"Cari nama/jenis produk, atau kata kunci lain"
 Search results for '%s',Hasil pencarian untuk '%s'
 Search results for: '%s',Hasil pencarian untuk: '%s'
-Subscribe to Feed,Berlangganan ke Umpan
-There are no search terms available.,Barang yang di cari tidak tersedia
+Subscribe to Feed,Berlangganan ke feed
+There are no search terms available.,Barang yang dicari tidak tersedia
 Yes,ya
 You have to specify at least one search term,Anda harus menspesifikasikan setidaknya satu istilah pencarian
 Your search returns no results.,Hasil pencarian anda tidak ada.
 up to %s,Sampai %s
-<strong>%d item(s)</strong> were found using the following search criteria,<Kuat>% d ibarang (s) </ kuat> ditemukan dengan menggunakan kriteria pencarian berikut
+<strong>%d item(s)</strong> were found using the following search criteria,<strong>%d barang (s) </strong> ditemukan dengan menggunakan kriteria pencarian berikut
 Is product available for purchase with Google Checkout,Apakah produk yang tersedia untuk pembelian dengan Google Checkout

@@ -1,6 +1,6 @@
---Please Select--,silakan pilih
-API Login ID,API ID masuk
-Accepted Currency,Kurs yang diterima
+--Please Select--,--silakan pilih--
+API Login ID, ID masuk API
+Accepted Currency,Mata uang yang diterima
 Authorize.net Direct Post,Authorize.net Langsung Kirim
 Card Verification Number,Nomor verifikasi kartu
 Card Verification Number Visual Reference,Kartu Verifikasi Visual Nomor Referensi
@@ -33,8 +33,8 @@ Response hash validation failed. Transaction declined.,Respon hash gagal validas
 Sort Order,Jenis Pesanan
 Test Mode,Mode tes
 The order has been created.,Pesanan telah dibuat
-There was an error processing your order. Please contact us or try again later.,Ada masalah saat memproses pesanan Anda. Silahkan hubungi kami atau coba lagi nanti.
+There was an error processing your order. Please contact us or try again later.,Terjadi galat saat memproses pesanan Anda. Silahkan hubungi kami atau coba lagi nanti.
 Title,Judul
 Transaction Key,Kunci transaksi
 What is this?,Apa ini?
-You will be required to enter your payment details before you place an order.,Anda akan diminta untuk memasukkan rincian pembayaran Anda sebelum Anda memesan.
+You will be required to enter your payment details before you place an order.,Anda akan diminta untuk memasukan rincian pembayaran Anda sebelum Anda memesan.
