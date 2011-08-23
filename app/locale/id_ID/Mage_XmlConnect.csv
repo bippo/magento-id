@@ -1,18 +1,18 @@
  , 
- But cart has some errors.,Tetapi keranjang memiliki beberapa galat.
+ But cart has some errors.,Tetapi keranjang memiliki beberapa error.
 """Description"" is more than %d characters long","""Deskripsi"" lebih dari %d panjang karakter"
 """Title"" is more than %d characters long","""Judul"" lebih dari %d panjang karakter"
-%1$s has been added to your wishlist.,%1$s Telah di tambahkan kedaftar keinginan Anda.
+%1$s has been added to your wishlist.,%1$s Telah di tambahkan dalam wishlist Anda.
 %1$s incl tax.,%1$s termasuk pajak.
-%s API Key required.,%s dibutuhkan kunci API.
+%s API Key required.,%s dibutuhkan API Key.
 %s Application ID required.,%s ID aplikasi dibutuhkan.
-%s Secret Key required.,%s dibutuhkan kunci rahasia.
+%s Secret Key required.,%s dibutuhkan Secret Key.
 %s has been added to your cart.,%s telah ditambahkan pada keranjang Anda.
 "(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)","(Termasuk negara yang lebih dari yang tercantum dibawah ini Sebagai pemilik aplikasi, Anda bertanggung jawab untuk mematuhi hukum negara tertentu terkait dengan distribusi atau penjualan aplikasi Anda ke negara itu, termasuk negara asal Anda..)"
 10:40 AM,10:40 AM
 80px x 80px,80px x 80px
 80x80 px,80x80 px
-"A Catalog Only App will not support functions such as add to cart, add to wishlist, or login.","hanya sebuah aplikasi katalog  tidak akan mendukung fungsi-fungsi seperti add to cart, menambah Daftar Keinginan, atau masalah login."
+"A Catalog Only App will not support functions such as add to cart, add to wishlist, or login.","hanya sebuah aplikasi katalog  tidak akan mendukung fungsi-fungsi seperti tambah ke keranjang, tambah wishlist, atau login."
 A new password has been sent.,Kata sandi baru telah dikirim
 Account,Akun
 Account confirmation is required. Please check your email for the confirmation link.,Konfirmasi akun diperlukan. Silahkan periksa email Anda untuk tautan konfirmasi.
@@ -22,10 +22,10 @@ Activate,Aktivasi
 Activate PayPal Checkout,Activasi PayPal Checkout
 Activation Key,Kunci aktivasi
 Add App,Tambah App
-Add New Template,Tambah kerangka baru
+Add New Template,Tambah Template baru
 Add Page,Tambah halaman
 Add to Cart,Tambah ke keranjang
-Add to Wishlist,Tambah ke daftar keinginan
+Add to Wishlist,Tambah ke wishlist
 Additional Address,Alamat tambahan
 Additional Countries,Tambahan negara
 Address,Alamat
@@ -36,21 +36,21 @@ Address has been deleted.,Alamat telah dihapus
 Address has been saved.,Alamat telah disimpan.
 Administrative contact for this app and for app submission issues.,kontak administrasi untuk aplikasi ini dan untuk masalah pengajuan aplikasi.
 Advanced Settings,Pengaturan lanjutan
-"After submitting the App, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship\'s Terms of Service: <a href=""%2$s"" target=""_blank"">click here</a>.","Setelah mengirimkan aplikasi, harap hubungi <a href=""mailto:%1$s"">%1$s</a> Untuk menerima kunci aplikasi, rahasia aplikasi dan rahasia master aplikasi<br />Setelah menerima identitasnya ini, silahkan mengisi kolom yang sesuai.<br />Disamping, terimalah Airship Perkotaan Persyaratan Layanan: <a href=""%2$s"" target=""_blank"">Klik di sini</a>."
+"After submitting the App, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.<br />Upon receiving these credentials, please fill in the corresponding fields.<br />In addition, please accept Urban Airship\'s Terms of Service: <a href=""%2$s"" target=""_blank"">click here</a>.","Setelah memproses aplikasi, harap hubungi <a href=""mailto:%1$s"">%1$s</a> Untuk menerima kunci aplikasi, rahasia aplikasi dan rahasia master aplikasi<br />Setelah menerima identitasnya ini, silahkan mengisi kolom yang sesuai.<br />Disamping, terimalah Airship Perkotaan Persyaratan Layanan: <a href=""%2$s"" target=""_blank"">Klik di sini</a>."
 AirMail Message Queue,Antrian Pesan AirMail
 AirMail Messages Queue,Antrian Pesan AirMail
-AirMail Template Preview,Tinjauan kerangka AirMail
+AirMail Template Preview,Tinjauan Template AirMail
 AirMail message,Pesan AirMail
-AirMail templates,Kerangka AirMail
+AirMail templates,Template AirMail
 All locations,Semua lokasi
 An account with this email address already exists.,Akun dengan alamat email ini sudah ada.
-An error occurred while adding item to wishlist.,Galat terjadi ketika menambahkan barang ke daftar keinginan.
-An error occurred while deleting the address.,Galat terjadi ketika menghapus alamat.
-An error occurred while loading category filters.,Galat terjadi ketika memuat filter kategori .
-An error occurred while processing your order. Please contact us or try again later.,Galat terjadi ketika memproses pesanan Anda. Silakan hubungi kami atau cobalagi nanti.
-An error occurred while processing your request.,Galat terjadi ketika memproses permintaan Anda.
-An error occurred while removing item from wishlist.,Galat terjadi ketika menghapus barang dari daftar keinginan.
-An error occurred while removing items from wishlist.,Galat terjadi ketika menghapus barang dari daftar keinginan.
+An error occurred while adding item to wishlist.,error terjadi ketika menambahkan item ke wishlist.
+An error occurred while deleting the address.,error terjadi ketika menghapus alamat.
+An error occurred while loading category filters.,error terjadi ketika memuat filter kategori .
+An error occurred while processing your order. Please contact us or try again later.,error terjadi ketika memproses pesanan Anda. Silakan hubungi kami atau coba lagi nanti.
+An error occurred while processing your request.,error terjadi ketika memproses permintaan Anda.
+An error occurred while removing item from wishlist.,error terjadi ketika menghapus item dari wishlist.
+An error occurred while removing items from wishlist.,error terjadi ketika menghapus item dari wishlist.
 Analytics,Analitis
 Android,Android
 App Background,Latar belakang Aplikasi 
@@ -69,7 +69,7 @@ App code required.,Kode aplikasi dibutuhkan
 App does not exist.,Aplikasi tidak ada
 App has been deleted.,Aplikasi telah dihapus
 App has been saved.,Aplikasi telah disimpan
-App has been submitted.,Aplikasi telah diajukan.
+App has been submitted.,Aplikasi telah diproses.
 App model not loaded.,Model aplikasi tidak dimasukan
 App with specified code does not exist.,Aplikasi dengan kode tertentu tidak ada
 "Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)","Muncul pada bagian info aplikasi anda (contoh: Hak cipta 2010 – perusahaan anda, Inc.)"
@@ -96,24 +96,24 @@ Buy %1$s for %2$s each,Beli %1$s untk %2$s masing masing
 Buyer country is not allowed by store.,Negara pembeli tidak diijinkan oleh toko.
 Cache Lifetime (seconds),Cache Seumur Hidup (detik)
 Cache Management,Pengelolaan cache
-Can\'t add item to shopping cart.,Bisa\tidak bisa menambah barang ke keranjang belanja
+Can\'t add item to shopping cart.,Bisa\tidak bisa menambah item ke keranjang belanja
 Can\'t apply the coupon code.,Bisa\tidak bisa menerapkan kode kupon
-"Can\'t copy file ""%s"" to ""%s"".","Bisa\tidak bisa menyalin berkas""%s"" ke ""%s""."
-Can\'t create wishlist.,Bisa\tidak bisa membuat daftar keinginan
+"Can\'t copy file ""%s"" to ""%s"".","Bisa\tidak bisa menyalin file""%s"" ke ""%s""."
+Can\'t create wishlist.,Bisa\tidak bisa membuat wishlist
 Can\'t load XML.,Bisa\tidak bisa memasukan XML
 "Can\'t load application with code ""%s""","Bisa\tidak bisa memasukan aplikasi dengan kode ""%s"""
 Can\'t open submission form.,Bisa\ tidak bisa membuka pengajuan formulir
-"Can\'t read file ""%s"".","Bisa\tidak bisa membaca berkas""%s""."
-Can\'t remove the item.,Bisa\tidak bisa menghapus barang
+"Can\'t read file ""%s"".","Bisa\tidak bisa membaca file""%s""."
+Can\'t remove the item.,Bisa\tidak bisa menghapus item
 Can\'t reset theme.,Bisa\tidak bisa mereset tema.
 Can\'t save address.,Bisa\tidak bisa menyimpan alamat
 Can\'t save the customer.,Bisa\tidak bisa menyimpan pelanggan
 Can\'t save theme.,Bisa\tidak bisa menyimpan tema
 Can\'t show configuration.,Bisa\tidak bisa memunculkan konfigurasi
 Can\'t specify product.,Bisa\tidak bisa menentukan produk
-Can\'t submit application.,Bisa\tidak bisa mengajukan aplikasi
+Can\'t submit application.,Bisa\tidak bisa memproses aplikasi
 Can\'t update cart.,Bisa\tidak bisa memperbarui keranjang.
-"Can\'t write to file ""%s"".","Bisa\tidak bisa menulis berkas""%s""."
+"Can\'t write to file ""%s"".","Bisa\tidak bisa menulis file""%s""."
 Cancel,Batal
 Canceled,Dibatalkan
 Cancelled,Dibatalkan
@@ -128,7 +128,7 @@ Cart has some errors.,Keranjang mengalami beberapa masalah
 Cart is empty.,Keranjang kosong.
 Catalog Only App?,Hanya aplikasi katalog?
 Category Button Color,Warna tombol kategori
-Category Item Background Color,Warna latar belakang kategori barang
+Category Item Background Color,Warna latar belakang kategori item
 Chairs,Kursi
 Change Orientation,Ubah orientasi
 Change Password,Ubah kata sandi
@@ -169,7 +169,7 @@ Customer email not specified.,Email pelanggan tidak ditentukan
 Customer logout problem.,Masalah logout pelanggan
 Customer not logged in.,Pelanggan tidak logged in.
 Date Created,Tanggal dibuat
-Date Submitted,Tanggal diajukan
+Date Submitted,Tanggal diproses
 Date Updated,tanggal diperbarui
 Default Billing Address,Alamat tagihan standar
 Default Shipping Address,Alamat pengiriman standar
@@ -192,7 +192,7 @@ Edit AirMail Message,Sunting pesan AirMail
 Edit AirMail Message Queue #%s,Sunting antrian pesan AirMail#%s
 "Edit App ""%s""","Sunting Aplikasi ""%s"""
 Edit Filter,Sunting Filter
-"Edit Template ""%s""","Sunting kerangka ""%s"""
+"Edit Template ""%s""","Sunting Template ""%s"""
 Email,Email
 Email Address,Alamat Email
 Enable AirMail Message Push notification,Aktifkan Notifikasi Pesan push AirMail
@@ -202,11 +202,11 @@ Enable Flurry Analytics for the merchant.,Aktifkan analisa Flurry untuk pedagang
 Enable LinkedIn,Aktifkan LinkedIn
 Enable Standard Checkout,Aktifkan Checkout standar
 Enable Twitter,Aktifkan twitter
-"Error while processing file ""%s"".","Galat ketika memproses berkas ""%s""."
-"Error while reading data from Payment Bridge. Please, try again.",Galat saat membaca data dari Jembatan Pembayaran. Silakan coba lagi.
-"Error while uploading file ""%s"".","Galat ketika mengunggah berkas ""%s""."
-"Error while uploading file ""%s"". Disallowed file type. Only ""jpg"", ""jpeg"", ""gif"", ""png"" are allowed.","Galat ketika mengunggah berkas""%s"".Batasan jenis berkas . Hanya ""jpg"", ""jpeg"", ""gif"", ""png"" yang di ijinkan."
-Error.,Galat.
+"Error while processing file ""%s"".","error ketika memproses file ""%s""."
+"Error while reading data from Payment Bridge. Please, try again.",error saat membaca data dari Jembatan Pembayaran. Silakan coba lagi.
+"Error while uploading file ""%s"".","error ketika mengunggah file ""%s""."
+"Error while uploading file ""%s"". Disallowed file type. Only ""jpg"", ""jpeg"", ""gif"", ""png"" are allowed.","error ketika mengunggah file""%s"".Batasan jenis file . Hanya ""jpg"", ""jpeg"", ""gif"", ""png"" yang di ijinkan."
+Error.,error.
 Expiration Date - Month,Tanggal-Bulan kadaluarsa
 Expiration Date - Year,Tanggal- tahun kadaluarsa
 Extensions,Ekstensi
@@ -214,8 +214,8 @@ FILTERS APPLIED,FILTER DITERAPKAN
 Facebook API,Facebook API
 Facebook Application ID, Aplikasi ID Facebook
 Fax,Fax
-File can\'t be uploaded.,Berkas bisa\tidak bisa diunggah
-"File doesn\'t exist ""%s"".","Berkas tidak ada ""%s""."
+File can\'t be uploaded.,file bisa\tidak bisa diunggah
+"File doesn\'t exist ""%s"".","file tidak ada ""%s""."
 First Name,Nama awal
 Flurry API Code,Flurry kode API
 Flurry Analytics,Analisa Flurry
@@ -242,7 +242,7 @@ Icon that will appear on the user’s phone after they download your app.  You d
 Icons,Ikon
 "If leave this field empty, the message will be sent immediately","Jika membiarkan bidang ini kosong, pesan akan dikirim secepatnya"
 "If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.","Jika Anda ingin menonaktifkan cache pada sisi aplikasi, membiarkan bidang kosong. Peringatan! Ketika menonaktifkan cache, aplikasi akan mengambil waktu untuk memuat setiap halaman."
-Image file was not found.,Berkas gambar tidak ditemukan
+Image file was not found.,file gambar tidak ditemukan
 Image that appears on first screen while your app is loading. Required size: 1024px x 768px.,Gambar yang muncul dilayar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 1024px x 768px.
 Image that appears on first screen while your app is loading. Required size: 320px x 455px.,Gambar yang muncul dilayar pertama saat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 455px.
 Image that appears on first screen while your app is loading. Required size: 320px x 460px.,Gambar yang muncul dilayar pertamasaat aplikasi Anda sedang memuat. Ukuran yang dibutuhkan: 320px x 460px.
@@ -251,23 +251,23 @@ Image that appears on first screen while your app is loading. Required size: 768
 Images,Gambar
 In Queue,Dalam antrian
 In Stock,Dalam stok
-"In order to resubmit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Agar dapat mengirim ulang aplikasi Anda, Anda harus terlebih dahulu membeli <a href=""%s"" target=""_blank"">%s</a> dari MagentoCommerce"
-"In order to submit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Agar dapat mengirim ulang aplikasi Anda, Anda harus terlebih dahulu membeli <a href=""%s"" target=""_blank"">%s</a> dari MagentoCommerce"
+"In order to resubmit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Agar dapat memproses ulang aplikasi Anda, Anda harus terlebih dahulu membeli <a href=""%s"" target=""_blank"">%s</a> dari MagentoCommerce"
+"In order to submit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Agar dapat memproses ulang aplikasi Anda, Anda harus terlebih dahulu membeli <a href=""%s"" target=""_blank"">%s</a> dari MagentoCommerce"
 Inactive Tabs,Tab tidak aktif
 Invalid XML.,XML tidak valid
 Invalid current password.,Kata sandi saat ini tidak valid
 Invalid customer data.,Data pelanggan tidak valid
 Invalid data.,Data tidak valid.
 Invalid email address.,Alamat email tidak valid.
-Invalid item or wishlist.,Barang atau daftar keinginan tidak valid
+Invalid item or wishlist.,item atau wishlist tidak valid
 Invalid login or password.,login atau kata sandi tidak valid.
 Invalid shipping method.,Metode pengiriman tidak valid.
 Issue Number,Nomor terbitan
-It\'s not allowed to delete submitted application.,Tidak diijinkan untuk menghapus aplikasi pengajuan
-Item has been added to cart.,Barang telah ditambahkan ke keranjang
-Item has been deleted from cart.,Barang telah dihapus dari keranjang
-Item has been removed from wishlist.,Barang telah dihapus dari daftar keinginan.
-Items were updated. But can\'t update wishlist.,Barang telah diperbarui. Tetapi dapat\tidak dapat diperbarui dari daftar keinginan.
+It\'s not allowed to delete submitted application.,Tidak diijinkan untuk menghapus aplikasi yang diproses
+Item has been added to cart.,item telah ditambahkan ke keranjang
+Item has been deleted from cart.,item telah dihapus dari keranjang
+Item has been removed from wishlist.,item telah dihapus dari wishlist.
+Items were updated. But can\'t update wishlist.,item telah diperbarui. Tetapi dapat\tidak dapat diperbarui dari wishlist.
 Key,Kunci
 Keywords,Kata kunci
 Label,Label
@@ -275,8 +275,8 @@ Large iTunes Icon,Icon iTune besar
 Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Required size: 512px x 512px.,Ikon besar yang muncul di iTunes App Store. Anda tidak perlu menerapkan gradien atau pinggiran ringan (ini dilakukan secara otomatis oleh Apple). Ukuran yang dibutuhkan: 512px x 512px.
 Last Name,Nama akhir
 LinkedIn API,LinkedIn API
-LinkedIn API Key,Kunci LinkedIn API
-LinkedIn Secret Key,Kunci rahasia LinkedIn
+LinkedIn API Key,LinkedIn API Key
+LinkedIn Secret Key,LinkedIn Secret Key
 Loader Splash Screen,Pemuat layar splash
 Loader Splash Screen <br />(iPhone 4 retina),Pemuat layar splash<br />(iPhone 4 retina)
 Loader Splash Screen <br />(landscape mode),Pemuat layar splash <br />(mode landskap)
@@ -300,7 +300,7 @@ Maximum length is 255,Panjang maksimum adalah 255
 Merchant Label,Label pedagang
 Message Queue,Antrian pesan
 Message Settings,Pengaturan pesan
-Message Templates,Kerangka pesan
+Message Templates,Template pesan
 Message Title,Jiudul pesan
 Message Type,Jenis pesan
 "Message can be edited when status of the message is ""IN QUEUE"" only.","Pesan dapat disunting ketika status pesan adalah ""DI ANTRIAN"" saja."
@@ -316,19 +316,19 @@ New AirMail Message,Pesan AirMail baru
 New AirMail Message Queue,Antrian pesan AirMail baru
 New App,Aplikasi baru
 New Password,Kata sandi baru
-New Template,Kerangka baru
+New Template,Template baru
 Nickname,Nama panggilan
-No items were specifed to update.,Tidak ada barang yang di tentukan diperbarui
-No items were updated.,Tidak ada barang yang diperbarui
+No items were specifed to update.,Tidak ada item yang di tentukan diperbarui
+No items were updated.,Tidak ada item yang diperbarui
 No product selected.,Tidak ada produk yang dipilih
-"No such file ""%s"".","Tidak ada berkas""%s""."
-Not Submitted,Belum diajukan
+"No such file ""%s"".","Tidak ada file""%s""."
+Not Submitted,Belum diproses
 Notice,Catatan
 One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.,Satu atau lebih kata kunci yang menjelaskan aplikasi Anda. Kata kunci dicocokkan dengan pencarian pengguna di App Store dan kembali membantu hasil pencarian yang akurat. Pisahkan beberapa kata kunci dengan koma. 100 karakter maksimum.
 Onepage checkout is disabled.,Checkout satu halaman tidak aktif
 Only free apps are allowed in this version.,Hanya aplikasi gratis diijinkan pada versi ini
 "Only registered users can write reviews. Please, log in or register.","Hanya pengguna terdaftar yang dapat menulis tinjauan. Silahkan, login atau mendaftar."
-Options menu items,Pilihan menu barang.
+Options menu items,Pilihan menu item.
 POST data is not valid.,POST data tidak valid.
 Pages,Halaman
 Password,Kata sandi
@@ -338,8 +338,8 @@ Payment Bridge module unavailable.,Modul Payment Bridge tidak tersedia.
 Payment Method has been set.,Metode pembayaran telah diatur.
 Payment Methods,Metode pembayaran
 Payment method was successfully set.,Metode pembayaran telah berhasil diatur.
-Paypal Merchant Account Email.,Akun email Paypal pedagang.
-Paypal Merchant Account Username.,Katasandi akun Paypal pedagang.
+Paypal Merchant Account Email.,Akun email Paypal Merchant.
+Paypal Merchant Account Username.,Akun Pengguna Paypal Merchant.
 Please Select Application,Silakan pilih aplikasi
 Please Select Device Type,Silakan pilih jenis perangkat
 Please agree to all the terms and conditions before placing the order.,Silahkan menyetujui semua syarat dan ketentuan sebelum menempatkan pesanan.
@@ -349,7 +349,7 @@ Please enter the Activation Key.,Silakan masukan kunci aktivasi
 Please enter the Copyright.,Silakan masukan Hakcipta.
 Please enter the Description.,Silakan masukan deskripsi
 Please enter the Price.,Silakan masukan harga.
-Please enter the Resubmission Key.,Silakan masukan pengiriman ulang kunci.
+Please enter the Resubmission Key.,Silakan masukan pengiriman ulang Kunci.
 Please enter the Title.,Silakan masukan judul
 Please make sure your passwords match.,Pastikan bahwa kata sandi anda cocok
 Please select at least one country.,Silakan pilih paling sedikit satu negara
@@ -392,15 +392,15 @@ Regular and confirmation passwords must be equal,Reguler dan konfirmasi kata san
 Related Product Background Color,Terkait warna latar belakang produk
 Reset theme to default,Reset tema ke standar
 Resubmission Key,Kunci pengajuan ulang
-Resubmit,Pengajuan ulang
-Resubmit App,Pengajuan ulang aplikasi
-Resubmit Application,Pengajuan ulang aplikasi
+Resubmit,Proses ulang
+Resubmit App,Proses ulang App
+Resubmit Application,Proses ulang aplikasi
 Review,Tinjauan
 SORT BY:,URUTKAN OLEH:
 Save,Simpan
 Save Theme,Simpan tema
 Save and Continue Edit,Simpan dan lanjutkan sunting
-Save and Submit App,Simpan dan ajukan aplikasi
+Save and Submit App,Simpan dan proses App
 Save in address book,Simpan dalam buku alamat
 Screens:,Layar:
 Scroll Background Color,Scroll warna latar belakang
@@ -423,7 +423,7 @@ Some emails were not sent.,Beberapa email tidak terkirim
 Specified address does not exist.,Alamat tertentu tidak ada
 Specified invalid app code.,Kode aplikasi tertentu tidak valid.
 Specified invalid data.,Data tertentu tidak valid.
-Specified item does not exist in wishlist.,Item tertentu tidak ada dalam Daftar Keinginan.
+Specified item does not exist in wishlist.,Item tertentu tidak ada dalam wishlist.
 Standard Checkout,Standar Checkout
 "Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)","Checkout standar menggunakan metode checkout yang disediakan oleh Magento. Hanya metode pembayaran sebaris didukung. (e.g PayPal Direct, Authorize.Net, dll)"
 Start Date,Tanggal mulai
@@ -440,13 +440,13 @@ Street Address 2,Alamat jalan 2
 Submission,Pengajuan
 Submission Fields,Bidang pengajuan
 Submission History,Riwayat pengajuan
-Submit,Pengajuan
-Submit App,Aplikasi pengajuan
-"Submit App ""%s""","Aplikasi pengajuan ""%s"""
-Submit App failure. %s,Pengajuan aplikasi gagal. %s
-Submit App failure. Invalid activation key provided,Pengajuan aplikasi gagal. Kunci aplikasi yang disediakan tidak valid
-Submit Application,Ajukan aplikasi
-Submitted,Diajukan
+Submit,Proses
+Submit App,Proses App
+"Submit App ""%s""","Proses App ""%s"""
+Submit App failure. %s,Proses App gagal. %s
+Submit App failure. Invalid activation key provided,Proses App gagal. Activition Key yang disediakan tidak valid
+Submit Application,Proses aplikasi
+Submitted,Diproses
 Subtotal (Excl. Tax),Subtotal (Tidak termasuk pajak)
 Subtotal (Incl. Tax),Subtotal (Termasuk pajak)
 Summary of Your Review,Ringkasan dari tinjauan anda
@@ -456,13 +456,13 @@ Telephone,Telepon
 Tell a Friend,Berbagi teman
 Tell a Friend is disabled.,Berbagi teman tidak aktif
 Tell a Friend link has been sent.,Tautan berbagi teman telah dikirim
-Template,Kerangka
-Template Content,Isi kerangka
-Template Name,Nama kerangka
-"Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found.","Penciptaan kerangka diperbolehkan hanya untuk aplikasi yang memiliki  jenis perangkat iPhone, tapi ini jenis aplikasi belum ditemukan."
-Template does not exist.,Kerangka tidak ada
-Template for new AirMail Message does not exist.,Kerangka untuk pesan AirMail baru tidak ada.
-Template has been deleted.,Kerangka telah dihapus
+Template,Template
+Template Content,Isi template
+Template Name,Nama template
+"Template creation is allowed only for applications which have device type iPhone, but this kind of applications has not been found.","Penciptaan template diperbolehkan hanya untuk aplikasi yang memiliki  jenis perangkat iPhone, tapi ini jenis aplikasi belum ditemukan."
+Template does not exist.,template tidak ada
+Template for new AirMail Message does not exist.,template untuk pesan AirMail baru tidak ada.
+Template has been deleted.,Template telah dihapus
 Thank you for registering!,Terimakasih telah mendaftar!
 Thank you for your purchase! ,Terimakasih atas pembelian Anda!
 "The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">click here</a>","Judul Kotak surat akan ditampilkan di tab More Info. Untuk memahami lebih lanjut tentang judul, silahkan <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">klik disini</a>"
@@ -480,13 +480,13 @@ Title bar,Judul Bar
 To activate PayPal MEP payment method activate Express checkout first. ,Untuk mengaktifkan metode pembayaran PayPal MEP aktifkan Ekspres checkout dulu.
 Total incl. Tax: %1$s,Total termasuk pajak: %1$s
 Twitter API,Twitter API
-Twitter API Key,kunci Twitter API 
-Twitter Secret Key,kunci rahasia Twitter 
+Twitter API Key,Twitter API Key
+Twitter Secret Key,Secret Key Twitter 
 Unable to cancel queue.,Tidak dapat membatalkan antrian
 Unable to collect cart totals.,Tidak dapat mengumpulkan total keranjang.
 Unable to delete queue.,Tidak dapat menghapus antrian.
 Unable to find an app to delete.,Tidak dapat menemukan apliksi untuk dihapus.
-Unable to find template to delete.,Tidak dapat menemukan kerangka untuk dihapus.
+Unable to find template to delete.,Tidak dapat menemukan Template untuk dihapus.
 Unable to get shipping methods list.,Tidak bisa mendapatkan daftar metode pengiriman.
 Unable to initialize MEP Checkout.,tidak dapat mengenali MEP Checkout.
 Unable to load application form.,Tidak dapat memuat form aplikasi.
@@ -498,11 +498,11 @@ Unable to save app.,Tidak dapat menyimpan aplikasi.
 Unable to save message.,Tidak dapat menyimpan pesan.
 Unable to save shipping address.,Tidak dapat menyimpan alamat pengiriman.
 Unable to save shipping method.,Tidak dapat menyimpan metode pengiriman.
-Unable to save template.,Tidak dapat menyimpan kerangka.
+Unable to save template.,Tidak dapat menyimpan Template.
 Unable to start MEP Checkout.,Tidak dapat memulai MEP Checkout.
 Undefined,Tidak ditentukan
-Unknown Error,Galat tidak diketahui
-Unknown Error.,Galat tidak diketahui
+Unknown Error,Error tidak dikenal
+Unknown Error.,Error tidak dikenal
 Update Preview,Perbaruan tinjauan
 Urban Airship Push Notification,Notifikasi Push Airship kota
 Use as my default billing address,Gunakan sebagai alamat tagihan standar saya
@@ -512,9 +512,9 @@ Users will see this image as the first screen while your application is loading.
 View Details,Lihat detil
 View Gallery,Lihat galeri
 Website is offline.,Situs offline
-Wishlist has been cleared.,Daftar keinginan telah dihapus
-Wishlist has been updated.,Daftar keinginan telah diperbarui
-Wishlist has been updated. But there are accrued some errors while updating some items.,Daftar keinginan telah diperbarui. Tapi ada beberapa kesalahan sementara diperoleh memperbarui beberapa item.
+Wishlist has been cleared.,wishlist telah dihapus
+Wishlist has been updated.,wishlist telah diperbarui
+Wishlist has been updated. But there are accrued some errors while updating some items.,wishlist telah diperbarui. Tapi ada beberapa kesalahan sementara diperoleh memperbarui beberapa item.
 "Wrong Ipad background image orientation has been specified: ""%s"".","Orientasi gambar latar belakang ipad yang salah telah ditetapkan""%s""."
 Wrong device type.,Jenis perangkat salah.
 Wrong email format,Format email salah.
