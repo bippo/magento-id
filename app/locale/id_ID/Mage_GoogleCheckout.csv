@@ -1,99 +1,98 @@
-* Select shipping method,* Pilih metode pengiriman
-<br />Warning: <strong>%s</strong><br />,<br />Peringatan: <strong>%s</strong><br />
-"<strong style=""color:red"">Warning!</strong> This option disables the merchant calculated shipping. With this option, Google API ignores any attempt to affect shipping prices.","<strong style=""color:red"">Peringatan!</strong> Opsi ini menonaktifkan pengiriman dihitung pedagang. Dengan pilihan ini, Google API mengabaikan setiap usaha untuk mempengaruhi harga pengiriman."
-A virtual item to reflect the discount total,Suatu item virtual untuk mencerminkan total diskon
-A virtual item to reflect the tax total,Suatu item virtual untuk mencerminkan total pajak
-AVS Status: %s,AVS Status: %s
-Add,Tambah
-Add Shipping Method,Tambah metode pengiriman
-Allowed Methods,Ijinkan metode
-Amount: %s,Jumlah: %s
-Auto-generated from GoogleCheckout Charge,Auto-generated Tarif dari GoogleCheckout
-Buyer account age: %s days,Pembeli akun umur: %s hari 
-CC Partial: xxxx-%s,CC Parsial: xxxx-%s
-CID Status: %s,CID Status: %s
-Carrier Calculated Methods,Metode penghitungan pengangkut
-Cart Discount,Diskon keranjang
-Checkout Image Style,Checkout style gambar
-Continue Shopping URL,URL melanjutkan belanja
-Credit memo has been created automatically,Memo kredit telah dibuat secara otomatis
-Debug,Debug
-Default Package Height (in),Paket standar Tinggi (dalam)
-Default Package Length (in),Paket standar Panjang (dalam)
-Default Package Width (in),Paket standar lebar (dalam)
-Default price for methods,Harga standar untuk metode
-Default price:,Harga standar:
-Delivery Address Category,Kategori Alamat Pengiriman
-Delivery schedule,Jadwal pengiriman
-Disable Default Tax Tables,menonaktifkan skema pajak standar
-Eligible for protection: %s,Layak bagi perlindungan: %s
-Enable,Aktifkan
-Enable Carrier Calculated,aktifkan Perhitungan pengangkut
-Enable Digital Delivery,Aktifkan Pengiriman Digital
-Enable Flat Rate,Aktifkan Tarif rata
-Enable Merchant Calculated,Aktifkan Kalkulasi Penjual
-Enable this if your checkout request is too big and being cut off.,Aktifkan ini jika permintaan penyelesaian Anda terlalu besar dan dipotong.
-Expiration: %s,Masa habis: %s
-Financial: %s -> %s,Finansial: %s -> %s
-Free Shipping,Pengiriman Gratis
-Fulfillment: %s -> %s,Pemenuhan: %s -> %s
-Google API,Google API
-Google Authorization:,Google Otorisasi:
-Google Buyer Id: %s,Google Id pembeli: %s
-Google Charge:,Biaya google:
-Google Chargeback:,google Pembayaran balik:
-Google Checkout,Google Checkout
-Google Checkout Shipping - Carrier Calculated,Google Checkout Pengiriman - Perhitungan pembawa
-Google Checkout Shipping - Digital Delivery,Google Checkout mengirim - pengiriman digital
-Google Checkout Shipping - Flat Rate,Google Checkout Mengirim - Tarif rata
-Google Checkout Shipping - Merchant Calculated,Google Checkout Mengirim - Perhitungan Penjual
-Google Checkout: %s,Google Checkout: %s
-Google Order Number: %s,Jumlah pesanan Google: %s
-Google Refund:,Pembayaran kembali Google:
-Google Risk Information:,Informasi Risiko Google:
-Google order status change:,Perubahan Status Pesanan Google:
-Hide Cart Contents During Checkout,Sembunyikan Isi Keranjang selama proses chekcout
-IP Address: %s,Alamat IP: %s
-"If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if ""Edit Cart"" link was activated.","Jika diaktifkan, isi keranjang akan disembunyikan setelah mengklik pada tombol Google Checkout dikeranjang belanja, dan dikembalikan jika ""Edit Cart"" link diaktifkan."
-Invoice auto-created: %s,Faktur otomatis dibuat: %s
-Is Buyer Willing To Receive Marketing E-Mails: %s,Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mail: %s
-Large - %s,Besar - %s
-Latest Charge: %s,Biaya Terakhir: %s
-Latest Chargeback: %s,Pembayaran balik terkhir: %s
-Latest Refund: %s,Pengembalian terakhir: %s
-Location,Lokasi
-Medium - %s,Medium - %s
-Merchant ID,ID penjual
-Merchant Key,Kunci Penjual
-Method,Metode
-New order status,Status pesanan baru
-No,Tidak
+* Select shipping method,"* Pilih metode pengiriman"
+<br />Warning: <strong>%s</strong><br />,"<br />Peringatan: <strong>%s</strong><br />"
+"<strong style="color:red">Warning!</strong> This option disables the merchant calculated shipping. With this option, Google API ignores any attempt to affect shipping prices.","<strong style="color:red">Peringatan!</strong> Opsi ini menonaktifkan pengiriman dihitung pedagang. Dengan pilihan ini, Google API mengabaikan setiap usaha untuk mempengaruhi harga pengiriman."
+A virtual item to reflect the discount total,"Suatu item virtual untuk mencerminkan total diskon"
+A virtual item to reflect the tax total,"Suatu item virtual untuk mencerminkan total pajak"
+AVS Status: %s,"AVS Status: %s"
+Add,"Tambah"
+Add Shipping Method,"Tambah metode pengiriman"
+Allowed Methods,"Ijinkan metode"
+Amount: %s,"Jumlah: %s"
+Auto-generated from GoogleCheckout Charge,"Auto-generated Tarif dari GoogleCheckout"
+Buyer account age: %s days,"Pembeli akun umur: %s hari"
+CC Partial: xxxx-%s,"CC Parsial: xxxx-%s"
+CID Status: %s,"CID Status: %s"
+Carrier Calculated Methods,"Metode penghitungan pengangkut"
+Cart Discount,"Diskon keranjang"
+Checkout Image Style,"Checkout style gambar"
+Continue Shopping URL,"URL melanjutkan belanja"
+Credit memo has been created automatically,"Memo kredit telah dibuat secara otomatis"
+Debug,"Debug"
+Default Package Height (in),"Paket standar Tinggi (dalam)"
+Default Package Length (in),"Paket standar Panjang (dalam)"
+Default Package Width (in),"Paket standar lebar (dalam)"
+Default price for methods,"Harga standar untuk metode"
+Default price:,"Harga standar:"
+Delivery Address Category,"Kategori Alamat Pengiriman"
+Delivery schedule,"Jadwal pengiriman"
+Disable Default Tax Tables,"menonaktifkan skema pajak standar"
+Eligible for protection: %s,"Layak bagi perlindungan: %s"
+Enable,"Aktifkan"
+Enable Carrier Calculated,"aktifkan Perhitungan pengangkut"
+Enable Digital Delivery,"Aktifkan Pengiriman Digital"
+Enable Flat Rate,"Aktifkan Tarif rata"
+Enable Merchant Calculated,"Aktifkan Kalkulasi Penjual"
+Enable this if your checkout request is too big and being cut off.,"Aktifkan ini jika permintaan penyelesaian Anda terlalu besar dan dipotong."
+Expiration: %s,"Masa habis: %s"
+Financial: %s -> %s,"Finansial: %s -> %s"
+Free Shipping,"Pengiriman Gratis"
+Fulfillment: %s -> %s,"Pemenuhan: %s -> %s"
+Google API,"Google API"
+Google Authorization:,"Google Otorisasi:"
+Google Buyer Id: %s,"Google Id pembeli: %s"
+Google Charge:,"Biaya google:"
+Google Chargeback:,"google Pembayaran balik:"
+Google Checkout,"Google Checkout"
+Google Checkout Shipping - Carrier Calculated,"Google Checkout Pengiriman - Perhitungan pembawa"
+Google Checkout Shipping - Digital Delivery,"Google Checkout mengirim - pengiriman digital"
+Google Checkout Shipping - Flat Rate,"Google Checkout Mengirim - Tarif rata"
+Google Checkout Shipping - Merchant Calculated,"Google Checkout Mengirim - Perhitungan Penjual"
+Google Checkout: %s,"Google Checkout: %s"
+Google Order Number: %s,"Jumlah pesanan Google: %s"
+Google Refund:,"Pembayaran kembali Google:"
+Google Risk Information:,"Informasi Risiko Google:"
+Google order status change:,"Perubahan Status Pesanan Google:"
+Hide Cart Contents During Checkout,"Sembunyikan Isi Keranjang selama proses chekcout"
+IP Address: %s,"Alamat IP: %s"
+"If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if "Edit Cart" link was activated.","Jika diaktifkan,isi keranjang akan disembunyikan setelah mengklik pada tombol Google Checkout dikeranjang belanja, dan dikembalikan jika "Edit Cart" link diaktifkan."
+Invoice auto-created: %s,"Faktur otomatis dibuat: %s"
+Is Buyer Willing To Receive Marketing E-Mails: %s,"Apakah Bersedia Untuk Pembeli Menerima Pemasaran E-Mail: %s"
+Large - %s,"Besar - %s"
+Latest Charge: %s,"Biaya Terakhir: %s"
+Latest Chargeback: %s,"Pembayaran balik terkhir: %s"
+Latest Refund: %s,"Pengembalian terakhir: %s"
+Location,"Lokasi"
+Medium - %s,"Medium - %s"
+Merchant ID,"ID penjual"
+Merchant Key,"Kunci Penjual"
+Method,"Metode"
+New order status,"Status pesanan baru"
+No,"Tidak"
 "Optional, leave empty for home page.","Opsional, Kosongkan untuk beranda."
-Rate 1 Amount,Tingkat 1 Jumlah
-Rate 1 Ship To Applicable Countries,Tingkat 1 Pengiriman Untuk Negara Berlaku
-Rate 1 Ship to Specific Countries,Tingkat 1 Pengiriman ke Negara-Negara Tertentu
-Rate 1 Title,Tingkat 1 judul
-Rate 2 Amount,Tingkat 2 Jumlah
-Rate 2 Ship To Applicable Countries,Tingkat 2 Pengiriman Untuk Negara yang Berlaku
-Rate 2 Ship to Specific Countries,Tingkat 2 Pengiriman ke Negara-Negara Tertentu
-Rate 2 Title,Tingkat 2 judul
-Rate 3 Amount,Tingkat 3 Jumlah
-Rate 3 Ship To Applicable Countries,Tingkat 3 Pengiriman Untuk Negara yang Berlaku
-Rate 3 Ship to Specific Countries,Tingkat 3 Pengiriman ke Negara-Negara Tertentu
-Rate 3 Title,Tingkat 3 judul
-Remove,Hapus
-Required for live Google Checkout transactions.,Diperlukan untuk langsung Checkout transaksi Google.
-Sandbox,Kotak Pasir
-Secure Callback URL,URL panggilan ulang yang aman
-Small - %s,Kecil - %s
-"The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount","Jumlah pajak yang telah diterapkan berdasarkan informasi yang diterima dari Google Checkout, karena pajak jumlah yang diterima dari Google Checkout adalah berbeda dari jumlah pajak yang dihitung
-"
-Title,Judul
-Total Chargeback: %s,Total Bayar kembali: %s
-Total Charged: %s,Total tertagih: %s
-Total Refunded: %s,Total Pengembalian: %s
-Transparent,Transparan
-United Kingdom,Inggris
-United States,Amerika serikat
-White Background,Latar belakang putih
-You will be redirected to GoogleCheckout in a few seconds.,Anda akan diarahkan ke GoogleCheckout dalam beberapa detik.
+Rate 1 Amount,"Tingkat 1 Jumlah"
+Rate 1 Ship To Applicable Countries,"Tingkat 1 Pengiriman Untuk Negara Berlaku"
+Rate 1 Ship to Specific Countries,"Tingkat 1 Pengiriman ke Negara-Negara Tertentu
+Rate 1 Title,"Tingkat 1 judul"
+Rate 2 Amount,"Tingkat 2 Jumlah"
+Rate 2 Ship To Applicable Countries,"Tingkat 2 Pengiriman Untuk Negara yang Berlaku"
+Rate 2 Ship to Specific Countries,"Tingkat 2 Pengiriman ke Negara-Negara Tertentu"
+Rate 2 Title,"Tingkat 2 judul"
+Rate 3 Amount,"Tingkat 3 Jumlah"
+Rate 3 Ship To Applicable Countries,"Tingkat 3 Pengiriman Untuk Negara yang Berlaku"
+Rate 3 Ship to Specific Countries,"Tingkat 3 Pengiriman ke Negara-Negara Tertentu"
+Rate 3 Title,"Tingkat 3 judul"
+Remove,"Hapus"
+Required for live Google Checkout transactions.,"Diperlukan untuk langsung Checkout transaksi Google."
+Sandbox,"Kotak Pasir"
+Secure Callback URL,"URL panggilan ulang yang aman"
+Small - %s,"Kecil - %s"
+"The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount","Jumlah pajak yang telah diterapkan berdasarkan informasi yang diterima dari Google Checkout, karena pajak jumlah yang diterima dari Google Checkout adalah berbeda dari jumlah pajak yang dihitung"
+Title,"Judul"
+Total Chargeback: %s,"Total Bayar kembali: %s"
+Total Charged: %s,"Total tertagih: %s"
+Total Refunded: %s,"Total Pengembalian: %s"
+Transparent,"Transparan"
+United Kingdom,"Inggris"
+United States,"Amerika serikat"
+White Background,"Latar belakang putih"
+You will be redirected to GoogleCheckout in a few seconds.,"Anda akan diarahkan ke GoogleCheckout dalam beberapa detik."

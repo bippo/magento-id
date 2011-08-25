@@ -1,60 +1,60 @@
-Absolute path to private certificate file.,Jalur absolut ke berkas seritifikat pribadi.
-Absolute path to private key file.,Jalur absolut ke berkas kunci pribadi.
-Absolute path to public payment provider certificate file.,Jalur absolut untuk pembayaran penyedia jasa berkas sertifikat publik.
-An error has occurred,Galat telah terjadi.
-An error has occurred with the transaction #%s.,Galat terjadi dengan transaksi #%s.
-An error has occurred. You will be redirected back to store.,Galat terjadi. Anda akan diarahkan kemabli ke toko.
-An error occurred while processing your iDEAL transaction. Please contact the web shop or try again later. The transaction number is %s.,Terjadi galat saat memproses transaksi iDEAL Anda.Silakan hubungi web toko atau cobalagi nanti. Nomor transaksi adalah %s.
-Begin to check transaction status if order was made {N} hours ago.,Mulai untuk mengecek status transaksi jika pesanan di buat {N} satu jam yang lalu.
-Check Begin,Cek Mulai
-Check End,Cek berakhir
-"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">disini</a> untuk melanjutkan belanja."
-Customer has canceled payment.,Pelanggan telah membatalkan pembayaran.
-Customer has successfully returned from iDEAL.,Pelanggan telah berhasil kembali dari iDEAL.
+Absolute path to private certificate file.,"Jalur absolut ke file seritifikat pribadi."
+Absolute path to private key file.,"Jalur absolut ke file kunci pribadi."
+Absolute path to public payment provider certificate file.,"Jalur absolut untuk pembayaran penyedia jasa file sertifikat publik."
+An error has occurred,"error telah terjadi."
+An error has occurred with the transaction #%s.,"error terjadi dengan transaksi #%s."
+An error has occurred. You will be redirected back to store.,"error terjadi. Anda akan diarahkan kembali ke toko."
+An error occurred while processing your iDEAL transaction. Please contact the web shop or try again later. The transaction number is %s.,"Terjadi error saat memproses transaksi iDEAL Anda.Silakan hubungi web toko atau cobalagi nanti. Nomor transaksi adalah %s"
+Begin to check transaction status if order was made {N} hours ago.,"Mulai untuk mengecek status transaksi jika pesanan di buat {N} satu jam yang lalu."
+Check Begin,"Cek Mulai"
+Check End,"Cek berakhir"
+"Click <a href="%s">here</a> to continue shopping.","Klik <a href="%s">disini</a> untuk melanjutkan belanja."
+Customer has canceled payment.,"Pelanggan telah membatalkan pembayaran."
+Customer has successfully returned from iDEAL.,"Pelanggan telah berhasil kembali dari iDEAL."
 "Customer was redirected to iDEAL. Please, check the status of the transaction via the ING iDEAL Dashboard before delivery of the goods purchased.","Pelanggan diarahkan ke iDEAL. Silakan, cek status transaksi melalui ING iDEAL sebelum pengiriman barang yang dibeli."
-Customer was rejected by iDEAL.,Pelanggan telah ditolak oleh iDEAL.
-Debug,Debug
-Do not check transaction status if order older than {N} days.,Jangan cek status transaksi jika Pesanan lebih dari {N} hari.
-Dutch,Belanda
-Enabled,Aktif
-English,Inggris
-Ideal: %s,Ideal: %s
-In minutes. Minimum is 1 minute and maximum is 60.,Dalam menit. Minimum  1 menit dan maksimum adalah 60 menit.
-Issuer,Penerbit
-Issuer: %s,Penerbit: %s
-Language,Bahasa
-Leave empty for default value.,Biarkan kosong untuk nilai standar
-Merchant ID,ID penjual
-Merchant Key,Kunci penjual
-New Order Status,Status order baru
-Notification from iDEAL was received with status %s.,Notifikasi dari iDEAL telah di terima dengan status %s.
-Notification from iDEAL was received with status %s. The invoice was created. Please check the status of a transaction via the ING iDEAL Dashboard before delivery of the goods purchased.,Pemberitahuan dari iDEAL diterima dengan status %s. Faktur telah dibuat. Silakan cek status transaksi melalui ING iDEAL  Panel kontrol sebelum pengiriman barang yang dibeli.
-Payment from Applicable Countries,Pembayaran dari Negara terkait
-Payment from Specific Countries,Pembayaran dari Negara-Negara Tertentu
-Payment was canceled by the customer.,Pembayaran di batalkan oleh pelanggan.
-Please Select,Silakan pilih.
-Private Certificate,Sertifikat pribadi
-Private Key,Kunci pribadi
-Private Key Password,Kata sandi kunci pribadi
-Required fields are missing.,Bidang yang di minta hilang
-Secure URL (production),URL keamanan (produksi)
-Secure URL (test mode),URL keamanan (Mode tes)
-Selected currency code (%s) is not compatible with iDEAL.,kode mata uang yang di pilih (%s) tidak sesuai dengan iDEAL.
-Sort Order,Urutkan pesanan
-Store name will be used if left empty.,Nama toko akan digunakan jika dibiarkan kosong.
-Test Mode,Mode tes
-The customer canceled payment.,Pelanggan membatalkan pembayaran
-The customer has returned from iDEAL.,Pelanggan telah kembali dari iDEAL.
-The customer was redirected to iDEAL.,Pelanggan di teruskan ke iDEAL.
-Title,Judul
-Transaction Description,Deskripsi transaksi
-Transaction Expire Period,Periode kadaluarsa transaksi
-Transaction Status Update: canceled by the customer.,Perbaruan status transaksi: dibatalkan oleh pelanggan.
-Transaction Status Update: finished successfully.,Perbaruan status transaksi: Selesai dengan sukses.
-Transaction Status Update: rejected by iDEAL.,Perbaruan status transaksi: ditolak oleh  iDEAL.
-You will be redirected to bank in a few seconds.,Anda akan di arahkan ke bank dalam beberapa detik.
-You will be redirected to iDEAL in a few seconds.,Anda akan di arahkan ke iDEAL dalam beberapa detik.
-You will be redirected to the website of your bank when you place an order.,Anda akan di arahkan ke situs dari bank Anda ketika menempatkan pesanan. 
-iDEAL Advanced, tingkat lanjut iDEAL
-iDEAL Basic,Dasar iDEAL
-iDEAL Certificate,Sertifikat iDEAL
+Customer was rejected by iDEAL.,"Pelanggan telah ditolak oleh iDEAL."
+Debug,"Debug"
+Do not check transaction status if order older than {N} days.,"Jangan cek status transaksi jika Pesanan lebih dari {N} hari."
+Dutch,"Belanda"
+Enabled,"Aktif"
+English,"Inggri"s
+Ideal: %s,"Ideal: %s"
+In minutes. Minimum is 1 minute and maximum is 60.,"Dalam menit. Minimum  1 menit dan maksimum adalah 60 menit."
+Issuer,"Penerbit"
+Issuer: %s,"Penerbit: %s"
+Language,"Bahasa"
+Leave empty for default value.,"Biarkan kosong untuk nilai standar"
+Merchant ID,"ID penjual"
+Merchant Key,"Kunci penjual"
+New Order Status,"Status order baru"
+Notification from iDEAL was received with status %s.,"Notifikasi dari iDEAL telah diterima dengan status %s."
+Notification from iDEAL was received with status %s. The invoice was created. Please check the status of a transaction via the ING iDEAL Dashboard before delivery of the goods purchased.,"Pemberitahuan dari iDEAL diterima dengan status %s. Faktur telah dibuat. Silakan cek status transaksi melalui ING iDEAL  Panel kontrol sebelum pengiriman barang yang dibeli."
+Payment from Applicable Countries,"Pembayaran dari Negara terkait"
+Payment from Specific Countries,"Pembayaran dari Negara-Negara Tertentu"
+Payment was canceled by the customer.,"Pembayaran di batalkan oleh pelanggan."
+Please Select,"Silakan pilih."
+Private Certificate,"Sertifikat pribadi"
+Private Key,"Kunci pribadi"
+Private Key Password,"Kata sandi kunci pribadi"
+Required fields are missing.,"Bidang yang diminta hilang"
+Secure URL (production),"URL keamanan (produksi)"
+Secure URL (test mode),"URL keamanan (Mode tes)"
+Selected currency code (%s) is not compatible with iDEAL.,"kode mata uang yang di pilih (%s) tidak sesuai dengan iDEAL."
+Sort Order,"Urutkan pesanan"
+Store name will be used if left empty.,"Nama toko akan digunakan jika dibiarkan kosong."
+Test Mode,"Mode tes"
+The customer canceled payment.,"Pelanggan membatalkan pembayaran"
+The customer has returned from iDEAL.,"Pelanggan telah kembali dari iDEAL."
+The customer was redirected to iDEAL.,"Pelanggan di teruskan ke iDEAL."
+Title,"Judul"
+Transaction Description,"Deskripsi transaksi"
+Transaction Expire Period,"Periode kadaluarsa transaksi"
+Transaction Status Update: canceled by the customer.,"Perbaruan status transaksi: dibatalkan oleh pelanggan."
+Transaction Status Update: finished successfully.,"Perbaruan status transaksi: Selesai dengan sukses."
+Transaction Status Update: rejected by iDEAL.,"Perbaruan status transaksi: ditolak oleh  iDEAL."
+You will be redirected to bank in a few seconds.,"Anda akan di arahkan ke bank dalam beberapa detik."
+You will be redirected to iDEAL in a few seconds.,"Anda akan di arahkan ke iDEAL dalam beberapa detik."
+You will be redirected to the website of your bank when you place an order.,"Anda akan di arahkan ke situs dari bank Anda ketika menempatkan pesanan."
+iDEAL Advanced," tingkat lanjut iDEAL"
+iDEAL Basic,"Dasar iDEAL"
+iDEAL Certificate,"Sertifikat iDEAL"

@@ -1,41 +1,41 @@
--- Please select --,-- Silahkan Pilih --
-Allowed currencies,Mata Uang yang dibolehkan
-Base currency,Mata uang dasar
-Cannot retrieve rate from %s,Tidak dapat mendapatkan kurs untuk %s
-Connection timeout in seconds,Koneksi terputus dalam beberapa detik
-Continue &raquo;,Lanjut &raquo;
-Country,Negara
-Country API,Negara API
-Country and Format Type combination should be unique,Negara dan Format Jenis kombinasi harus unik
-Currency,Mata uang
-Currency Options,Pilihan mata uang
-Currency Setup,Pengaturan mata uang
-Currency Update Warnings,Peringatan perbaruan mata uang
-Default Display Currency,Tampilan standar mata uang
-Directory,Direktori
-Enabled,Aktif
-Error Email Recipient,Penerima Email Galat
-Error Email Sender,Pengirim Email Galat
-Error Email Template,Kerangka Email galat
-FATAL ERROR:,KESALAHAN FATAL:
-Frequency,Frekuensi
-Installed Currencies,Mata uang yang terinstal
-Invalid Import Service Specified,Layanan Impor yang disebutkan Salah
-Invalid country code: %s,Kode negara tidak valid: %s
-Invalid rates received,Kurs yang diterima Salah
-Invalid target currency,Mata Uang tujuan Salah
-List of countries,Daftar negara
-List of regions in specified country,Daftar wilayah dalam negara tertentu
-Region,Wilayah
-Region API,Wilyah API
-Scheduled Import Settings,Jadwal pengaturan impor
-Select Your Currency,Pilih Kurs Anda
-Service,Layanan
-Start Time,Waktu mulai
-State/Province,Negara bagian/Provinsi
-Strikeiron Email Update Warnings,Peringatan Perbaruan Email Strikeiron
-Unable to initialize import model,Tidak bisa menginisialisasi model impor
-"Undefined rate from ""%s-%s""","Kurs tidak terdefinisi dari ""%s-%s"""
-WARNING:,PERINGATAN:
-Webservicex,Webservicex
-Your current currency is: %s,Mata uang anda sekarang: %s
+-- Please select --,"-- Silahkan Pilih --"
+Allowed currencies,"Mata Uang yang dibolehkan"
+Base currency,"Mata uang dasar"
+Cannot retrieve rate from %s,"Tidak dapat mendapatkan kurs untuk %s"
+Connection timeout in seconds,"Koneksi terputus dalam beberapa detik"
+Continue &raquo;,"Lanjut &raquo;"
+Country,"Negara"
+Country API,"Negara API"
+Country and Format Type combination should be unique,"Negara dan Format Jenis kombinasi harus unik"
+Currency,"Mata uang"
+Currency Options,"Pilihan mata uang"
+Currency Setup,"Pengaturan mata uang"
+Currency Update Warnings,"Peringatan perbaruan mata uang"
+Default Display Currency,"Tampilan standar mata uang"
+Directory,"Direktori"
+Enabled,"Aktif"
+Error Email Recipient,"Penerima Email Error"
+Error Email Sender,"Pengirim Email Error"
+Error Email Template,"Template Email Error"
+FATAL ERROR:,"KESALAHAN FATAL:"
+Frequency,"Frekuensi"
+Installed Currencies,"Mata uang yang terinstal"
+Invalid Import Service Specified,"Layanan Impor yang disebutkan Salah"
+Invalid country code: %s,"Kode negara tidak valid: %s"
+Invalid rates received,"Kurs yang diterima Salah"
+Invalid target currency,"Mata Uang tujuan Salah"
+List of countries,"Daftar negara"
+List of regions in specified country,"Daftar wilayah dalam negara tertentu"
+Region,"Wilayah"
+Region API,"Wilayah API"
+Scheduled Import Settings,"Jadwal pengaturan impor"
+Select Your Currency,"Pilih Kurs Anda"
+Service,"Layanan"
+Start Time,"Waktu mulai"
+State/Province,"Negara bagian/Provinsi"
+Strikeiron Email Update Warnings,"Peringatan Perbaruan Email Strikeiron"
+Unable to initialize import model,"Tidak bisa menginisialisasi model impor"
+"Undefined rate from "%s-%s","Kurs tidak terdefinisi dari "%s-%s""
+WARNING:,"PERINGATAN:"
+Webservicex,"Webservicex"
+Your current currency is: %s,"Mata uang anda sekarang: %s"

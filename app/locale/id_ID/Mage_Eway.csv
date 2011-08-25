@@ -1,38 +1,38 @@
-API Gateway URL,API Gateway URL
-Accepted Currency,Kurs yang diterima
-An error has occurred,Galat telah terjadi
-Card Verification Number,Nomor verifikasi kartu
-"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s"">disini</a> untuk melanjutkan belanja."
-Credit Card Number,Nomor kartu kredit
-Credit Card Number: xxxx-%s,Nomor Kartu Kredit: xxxx-%s
-Credit Card Type,Jenis Kartu Kredit
-Credit Card Type: %s,Jenis Kartu Kredit: %s
-Credit Card Types,Jenis kartu Kredit
-Credit Card Verification,Verifikasi Kartu Kredit
-Customer ID,ID Pelanggan
-Customer was redirected to eWAY.,Pelanggan telah dihubungkan ke eWAY.
-Debug Flag,Debug Flag
-Enabled,Aktif
-Expiration Date,Tanggal kadaluarsa
-Name on Card,Nama pada kartu
-Name on the Card: %s,Nama Pada kartu: %s
-New Order Status,Status Pesanan Baru
-Payment from Applicable Countries,Pembayaran dari Negara terkait
-Payment from Specific Countries,Pembayaran dari Negara tertentu
-Please Select,Silakan Pilih
-Selected currency code (%s) is not compatible with eWAY.,Pilihan kode Kurs (%s) tidak sesuai dengan eWAY.
-Sort Order,Jenis Pesanan
-The customer has successfully returned from eWAY.,Pelanggan telah berhasil kembali dari  eWAY.
-The customer was rejected by eWAY.,Pelanggan ditolak oleh eWAY.
-There has been an error processing your payment.,Ada masalah saat memproses pembayaran Anda.
-There has been an error processing your payment. Please try later or contact us for help.,Ada masalah saat memproses pembayaran Anda.Silakan coba lagi nanti atau hubungi kami untuk bantuan.
-Title,Judul
-Use Beagle Anti-Fraud,Gunakan Beagle Anti-Penipuan
-What is this?,Apakah ini?
-You will be redirected to eWAY 3D-Secure in a few seconds.,Anda akan diarahkan ke Eway 3D-Secure dalam beberapa detik.
-You will be redirected to eWAY 3D-Secure website when you place an order.,Anda akan diarahkan ke situs eWAY 3D-Secure  ketika Anda memesan.
-You will be redirected to eWAY in a few seconds.,Anda akan diarahkan ke eWAY dalam beberapa detik.
-You will be redirected to eWAY website when you place an order.,Anda akan diarahkan ke situs eWAY saat Anda memesan.
-eWAY 3D-Secure,eWAY 3D-Secure
-eWAY Direct,eWAY Direct
-eWAY Shared,eWAY Shared
+API Gateway URL,"API Gateway URL"
+Accepted Currency,"Kurs yang diterima"
+An error has occurred,"Error telah terjadi"
+Card Verification Number,"Nomor verifikasi kartu"
+"Click <a href="%s">here</a> to continue shopping.","Klik <a href="%s">disini</a> untuk melanjutkan belanja."
+Credit Card Number,"Nomor kartu kredit"
+Credit Card Number: xxxx-%s,"Nomor Kartu Kredit: xxxx-%s"
+Credit Card Type,"Jenis Kartu Kredit"
+Credit Card Type: %s,"Jenis Kartu Kredit: %s"
+Credit Card Types,"Jenis kartu Kredit"
+Credit Card Verification,"Verifikasi Kartu Kredit"
+Customer ID,"ID Pelanggan"
+Customer was redirected to eWAY.,"Pelanggan telah dihubungkan ke eWAY."
+Debug Flag,"Debug Flag"
+Enabled,"Aktif"
+Expiration Date,"Tanggal kadaluarsa"
+Name on Card,"Nama pada kartu"
+Name on the Card: %s,"Nama Pada kartu: %s"
+New Order Status,"Status Pesanan Baru"
+Payment from Applicable Countries,"Pembayaran dari Negara terkait"
+Payment from Specific Countries,"Pembayaran dari Negara tertentu"
+Please Select,"Silakan Pilih"
+Selected currency code (%s) is not compatible with eWAY.,"Pilihan kode Kurs (%s) tidak sesuai dengan eWAY."
+Sort Order,"Jenis Pesanan"
+The customer has successfully returned from eWAY.,"Pelanggan telah berhasil kembali dari  eWAY."
+The customer was rejected by eWAY.,"Pelanggan ditolak oleh eWAY."
+There has been an error processing your payment.,"Ada masalah saat memproses pembayaran Anda."
+There has been an error processing your payment. Please try later or contact us for help.,"Ada masalah saat memproses pembayaran Anda.Silakan coba lagi nanti atau hubungi kami untuk bantuan."
+Title,"Judul"
+Use Beagle Anti-Fraud,"Gunakan Beagle Anti-Penipuan"
+What is this?,"Apakah ini?"
+You will be redirected to eWAY 3D-Secure in a few seconds.,"Anda akan diarahkan ke Eway 3D-Secure dalam beberapa detik."
+You will be redirected to eWAY 3D-Secure website when you place an order.,"Anda akan diarahkan ke situs eWAY 3D-Secure  ketika Anda memesan."
+You will be redirected to eWAY in a few seconds.,"Anda akan diarahkan ke eWAY dalam beberapa detik."
+You will be redirected to eWAY website when you place an order.,"Anda akan diarahkan ke situs eWAY saat Anda memesan."
+eWAY 3D-Secure,"eWAY 3D-Secure"
+eWAY Direct,"eWAY Direct"
+eWAY Shared,"eWAY Shared"

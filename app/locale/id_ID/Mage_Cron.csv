@@ -1,17 +1,17 @@
-Cron (Scheduled Tasks) - all the times are in minutes,Cron (Tugas Terjadwal) - semua waktu dalam menit
-Daily,Harian
-Failure history lifetime,Riwayat kegagalan
-For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.,Untuk URL yang benar dihasilkan selama cron berjalan pastikan bahwa URL Basis Web> Aman dan tidak aman secara eksplisit ditetapkan.
-Generate schedules every,Hasilkan jadwal setiap
-History cleanup every,Bersihkan Riwayat semua
-Invalid callback: %s::%s does not exist,Panggilan balik tidak valid:% s:: s% tidak ada
-"Invalid model/method definition, expecting ""model/class::method"".","definisi model/metode tidak valid, mengharapkan ""model / kelas:: metode""."
-Missed if not run within,Terlewatkan jika tidak dijalankan di dalam
-Monthly,Bulanan
-No callbacks found,Tidak ada panggilan balik ditemukan
-Schedule ahead for,Dijadwalkan lebih cepat untuk
-Success history lifetime,Sukses riwayat hidup
-Too late for the schedule,Terlambat untuk jadwal
-Unable to save Cron expression,Tidak dapak menyimpan ekspresi Cron
-Unknown error,Galat tidak diketahui
-Weekly,Mingguan
+Cron (Scheduled Tasks) - all the times are in minutes,"Cron (Tugas Terjadwal) - semua waktu dalam menit"
+Daily,"Harian"
+Failure history lifetime,"Riwayat kegagalan"
+For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.,"Untuk URL yang benar dihasilkan selama cron berjalan pastikan bahwa URL Basis Web> Aman dan tidak aman secara eksplisit ditetapkan."
+Generate schedules every,"Hasilkan jadwal setiap"
+History cleanup every,"Bersihkan Riwayat semua"
+Invalid callback: %s::%s does not exist,"Panggilan balik tidak valid:% s:: s% tidak ada"
+"Invalid model/method definition, expecting "model/class::method".","definisi model/metode tidak valid, mengharapkan "model / kelas:: metode"."
+Missed if not run within,"Terlewatkan jika tidak dijalankan di dalam"
+Monthly,"Bulanan"
+No callbacks found,"Tidak ada panggilan balik ditemukan"
+Schedule ahead for,"Dijadwalkan lebih cepat untuk"
+Success history lifetime,"Sukses riwayat masa pakai"
+Too late for the schedule,"Terlambat untuk jadwal"
+Unable to save Cron expression,"Tidak dapak menyimpan ekspresi Cron"
+Unknown error,"error tidak diketahui"
+Weekly,"Mingguan"

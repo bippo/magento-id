@@ -1,80 +1,80 @@
-Account login,Akun login
-Account password,Akun kata sandi
-Active,Aktif
-Add Attribute Mapping,Tambah atribut maping
-Add New Attribute,Tambah atribut baru
-Add to Google Base,Tambah ke Google Base
-Are you sure?,Apakah Anda yakin?
-Attribute,Atribut
-Attribute Set,Atur atribut
-Attribute Set and Item Type,Atur atribut dan jenis barang
-Attributes,Atribut
-Attributes Set,Atur atribut
-Attributes mapping,Atribut mapping
-AuthSub,AuthSub
-Available Products,Produk tersedia
-Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.,Mata uang dasar harus di set ke %s untuk %s dalam konfigurasi sistem. Jika harga item tidak akan benar di Google Base.
-British Pound Sterling,Poundsterling Inggris
-Cannot update Google Base Item for Store '%s',Tidak dapat memperbarui item Google Base untuk toko  '%s'
-Captcha confirmation error: %s,Konfirmasi Captcha Galat: %s
-Captcha confirmed successfully,Captcha berhasil dikonfirmasi
-Clicks,Klik
-ClientLogin,Login Klien
-Confirm,Konfirmasi
-Current Mapping will be reloaded. Continue?,Mapping terbaru akan dimuat ulang. Lanjutkan?
-"Custom attribute, no mapping","Atribut khusus, tidak ada mapping."
-Default Store (%s),Toko standar  (%s)
-Delete,Hapus
-Delete Mapping,Hapus mapping
-Edit Item Type,Sunting jenis item
-"Edit Item Type ""%s""","Sunting jenis Item""%s"""
-Error: %s,Galat: %s
-Euro,Eropa
-Expires,Kadaluarsa
-Germany,Jerman
-Google Base,Google Base
-Google Base Attribute,Atribut Google Base 
-Google Base ID,ID Google Base
-Google Base Item Type,Jenis item Google Base
-Google Base Item type,Jenis item Google Base
-Google Base Items,Item Google Base
-Hide,Sembunyikan
-Impr.,Impr.
-Invalid Product Model for Google Base Item,Model produk tidak valid untuk Item Google Base
-Item Type was deleted,Jenis item telah dihapus
-Item Types,Jenis Item
-Item model is not specified to delete Google Base entry,Model item tidak ditentukan untuk menghapus entri Google Base
-Item type was successfully saved,Jenis item telah berhasil disimpan
-Items,Item
-Manage Attribute Mapping,Kelola Atribut Mapping
-Manage Attributes,Kelola Atribut
-Manage Items,Kelola Item
-New Item Type,Jenis Item baru
-No,Tidak
-No items were deleted from Google Base,Tidak ada item yang di hapus dari Google Base
-No items were published,Tidak ada item yang dipublish
-No items were saved as Inactive items,Tidak ada item disimpan sebagai item tidak aktif
-No products were added to Google Base,Tidak ada produk ditambahkan ke Google Base
-Object model is not specified to save Google Base entry.,Model objek tidak ditentukan untuk menyimpan entri Google Base.
+Account login,"Akun login"
+Account password,"Akun kata sandi"
+Active,"Aktif"
+Add Attribute Mapping,"Tambah atribut maping"
+Add New Attribute,"Tambah atribut baru"
+Add to Google Base,"Tambah ke Google Base"
+Are you sure?,"Apakah Anda yakin?"
+Attribute,"Atribut"
+Attribute Set,"Atur atribut"
+Attribute Set and Item Type,"Atur atribut dan jenis barang"
+Attributes,"Atribut"
+Attributes Set,"Atur atribut"
+Attributes mapping,"Atribut mapping"
+AuthSub,"AuthSub"
+Available Products,"Produk tersedia"
+Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.,"Mata uang dasar harus di set ke %s untuk %s dalam konfigurasi sistem. Jika harga item tidak akan benar di Google Base."
+British Pound Sterling,"Poundsterling Inggris"
+Cannot update Google Base Item for Store '%s',"Tidak dapat memperbarui item Google Base untuk toko  '%s'"
+Captcha confirmation error: %s,"Konfirmasi Captcha error: %s"
+Captcha confirmed successfully,"Captcha berhasil dikonfirmasi"
+Clicks,"Klik"
+ClientLogin,"Login Klien"
+Confirm,"Konfirmasi"
+Current Mapping will be reloaded. Continue?,"Mapping terbaru akan dimuat ulang. Lanjutkan?"
+"Custom attribute," no mapping","Atribut khusus," tidak ada mapping."
+Default Store (%s),"Toko standar  (%s)"
+Delete,"Hapus"
+Delete Mapping,"Hapus mapping"
+Edit Item Type,"Sunting jenis item"
+"Edit Item Type "%s","Sunting jenis Item"%s"
+Error: %s,"error: %s"
+Euro,"Eropa"
+Expires,"Kadaluarsa"
+Germany,"Jerman"
+Google Base,"Google Base"
+Google Base Attribute,"Atribut Google Base"
+Google Base ID,"ID Google Base"
+Google Base Item Type,"Jenis item Google Base"
+Google Base Item type,"Jenis item Google Base"
+Google Base Items,"Item Google Base"
+Hide,"Sembunyikan"
+Impr.,"Impr."
+Invalid Product Model for Google Base Item,"Model produk tidak valid untuk Item Google Base"
+Item Type was deleted,"Jenis item telah dihapus"
+Item Types,"Jenis Item"
+Item model is not specified to delete Google Base entry,"Model item tidak ditentukan untuk menghapus entri Google Base"
+Item type was successfully saved,"Jenis item telah berhasil disimpan"
+Items,"Item"
+Manage Attribute Mapping,"Kelola Atribut Mapping"
+Manage Attributes,"Kelola Atribut"
+Manage Items,"Kelola Item"
+New Item Type,"Jenis Item baru"
+No,"Tidak"
+No items were deleted from Google Base,"Tidak ada item yang di hapus dari Google Base"
+No items were published,"Tidak ada item yang dipublish"
+No items were saved as Inactive items,"Tidak ada item disimpan sebagai item tidak aktif"
+No products were added to Google Base,"Tidak ada produk ditambahkan ke Google Base"
+Object model is not specified to save Google Base entry.,"Model objek tidak ditentukan untuk menyimpan entri Google Base."
 "Please, select Attribute Set and Google Item Type to load attributes","Mohon, Pilih pengaturan atribut dan jenis item google untuk memuat atribut "
-Product Name,Nama produk
-Publish,Publish
-Published,Dipublish
-Remove,Hapus
-Save Mapping,Simpan mapping
-Synchronize,Singkronisasi
-Target Country,Target negara
-This action will update items statistics and remove the items which are not available in Google Base. Continue?,Tindakan ini akan memperbarui statistik item dan menghapus item yang tidak tersedia di Google Base. Lanjutkan?
+Product Name,"Nama produk"
+Publish,"Publish"
+Published,"Dipublish"
+Remove,"Hapus"
+Save Mapping,"Simpan mapping"
+Synchronize,"Singkronisasi"
+Target Country,"Target negara"
+This action will update items statistics and remove the items which are not available in Google Base. Continue?,"Tindakan ini akan memperbarui statistik item dan menghapus item yang tidak tersedia di Google Base. Lanjutkan?"
 "Total of %d items(s) were successfully deleted, Total of %d items(s) were successfully updated","Total dari barang %d yang berhasil dihapus , Total dari barang  %d yang berhasil diperbarui"
-Total of %d items(s) were successfully published,Total dari barang  %d yang berhasil dipublish
-Total of %d items(s) were successfully removed from Google Base,Total dari barang  %d telah berhasil dihapus dari Google Base
-Total of %d items(s) were successfully saved as Inactive items,Total dari barang  %d telah berhasil disimpan sebagai item tidak aktif
-Total of %d product(s) were successfully added to Google Base,Total dari Produk %d yang berhasil ditambahkan ke Google Base
-US Dollar,Dollar AS
+Total of %d items(s) were successfully published,"Total dari barang  %d yang berhasil dipublish"
+Total of %d items(s) were successfully removed from Google Base,"Total dari barang  %d telah berhasil dihapus dari Google Base"
+Total of %d items(s) were successfully saved as Inactive items,"Total dari barang  %d telah berhasil disimpan sebagai item tidak aktif"
+Total of %d product(s) were successfully added to Google Base,"Total dari Produk %d yang berhasil ditambahkan ke Google Base"
+US Dollar,"Dollar AS"
 "Unable to connect to Google Base. Please, check Account settings in configuration.","Tidak dapat terhubung ke Google Base. Silakan, periksa pengaturan Akun dalam konfigurasi."
-United Kingdom,Inggris Raya
-United States,Amerika Serikat
-Update Google Base item when product is updated,Perbarui item Google Base ketika produk diperbarui
-View Available Products,Lihat produk yang tersedia
-View Item in Google Base,Lihat item di Google Base
-Yes,Ya
+United Kingdom,"Inggris Raya"
+United States,"Amerika Serikat"
+Update Google Base item when product is updated,"Perbarui item Google Base ketika produk diperbarui"
+View Available Products,"Lihat produk yang tersedia"
+View Item in Google Base,"Lihat item di Google Base"
+Yes,"Ya"

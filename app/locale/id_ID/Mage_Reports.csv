@@ -1,143 +1,143 @@
-Abandoned carts,Keranjang yang ditinggalkan
-Action,Aksi
-Add to Cart,Tambah ke keranjang
-Add to Compare,Tambah ke perbandingan
-Add to Wishlist,Tambah ke daftar keinginan
-Applied Coupon,Kupon Terapan
-Avg. approved rating,Rata rata peringkat yang disetujui
-Avg. rating,Rata rata peringkat
-Bestsellers,Terlaris
-Bought from wishlists,Dibeli dari daftar keinginan
-CSV,CSV
-Carrier/Method,Pembawa/Metode
-Carts,Keranjang
-Coupons,Kupon
-Created at,Dibuat pada
-Customer,Pelanggan
-Customer Name,Nama pelanggan
-Customer Tags,Tag pelanggan
-Customers,Pelanggan
-Customers Report,Laporan pelanggan
-Customers Reviews,Tinjauan pelanggan
-Customers Tags,Tag pelanggan
-Customers by number of orders,Pelanggan oleh jumlah pesanan
-Customers by orders total,Pelanggan oleh total pesanan
-Customers that have wishlist: %s%,Pelanggan yang mempunyai daftar keinginan: %s%
-Day,Hari
-Default Recently Compared Products count,Standar baru di bandingkan dengan hitungan produk
-Default Recently Viewed Products count,Standar baru dilihat dari hitungan produk
-Detail,Detil
-Discounts,Diskon
-Downloads,Unduh
-Email,Email
-Empty Rows,Baris kosong
-Excel XML,Excel XML
-Filter,Filter
-First Name,Nama Pertama
-Guest,Tamu
-Hits,Hits
-ID,ID
-Invalid date specified,Data tidak valid ditentukan
-Invoiced,Faktur
-Items Ordered,Barang dipesan
-Items in Cart,Barang dalam pesanan
-Last Name,Nama akhir
-Last Review,Tinjauan terakhir
-Link,Tautan
-Low stock,Stok rendah
-Month,Bulan
-Most Viewed,Paling banyak dilihat
-Most viewed,Paling banyak dilihat
-Name,Nama
-New Accounts,Akun baru
-Number Added,Jumlah ditambahkan
-Number Fulfilled,Jumlah dipenuhi
-Number Of Historical Uses,Jumlah dari penggunaan riwayat
-Number Of Reviews,Jumlah dari tinjauan
-Number Of Uses,Jumlah penggunaan
-Number Purchased,Jumlah pembelian
-Number Viewed,Jumlah dilihat
-Number of Items,Jumlah dari barang
-Number of Invoiced Orders,Jumlah dari pesanan faktur
-Number of New Accounts,Jumlah dari akun baru
-Number of Orders,Jumlah dari pesanan
-Number of Refunded Orders,Jumlah dari pesanan yang dikembalikan
-Number of Reviews,Jumlah dari tinjauan
-Number of Total Tags,Jumlah dari total tag
-Number of Unique Tags,Jumlah dari tag unik
-Number of Views,Jumlah dari tampilan
-Number of items bought from a wishlist: %s,Jumlah barang yang dibeli dari daftar keinginan: %s
-Number of times deleted,Jumlah dari waktu yang dihapus
-Number of times wishlists have been shared (emailed): %s,Sejumlah daftar keinginan saat telah dibagi (dikirim melalui email): %s
-Number of wishlist conversions: %s,Sejumlah konversi Daftar Keinginan: %s
-Number of wishlist referrals: %s,Jumlah arahan Daftar Keinginan: %s
-Number of wishlists: %s,Jumlah daftar keinginan: %s
-Offline Refunded,Yang dikembalikan Offline
-Online Refunded,Yang dikembalikan online
-Orders,Pesanan
-Out of stock,Habis
-Poducts Report,Laporan produk
-Popular Tags,Tag populer
-Popularity,Popularitas
-Price,Harga
-Product Name,Nama Produk
-Product Reviews,Tinjauan Produk
-Product Sku,SKU produk
-Product Tags,Tag produk
-Products,Produk
-Products Report,Laporan produk
-Products Reviews,Tinjauan produk
-Products Sold,Produk terjual
-Products Tags,Tag produk
-Products in carts,Produk dalam keranjang
-Purchases,Pembelian
-Quantity Ordered,Kuantitas pesanan
-Quantity of Items,Kuantitas barang
-Rate,Tingkat
-Recently Compared Products,Produk yang dibandingkan saat ini
-Recently Viewed Products,Produk yang dilihat sekarang
-Recently Viewed/Compared Products,Yang Terakhir Dilihat / Dibandingkan dengan Produk
-Refunded,Dikembalikan
-Reports,Laporan
-Results,Hasil
-Revenue,Pendapatan
-Review,Tinjauan
-Reviews,Tinjauan
-Reviews for %s,Tinjauan untuk %s
-Sales,Penjualan
-Sales Report,Laporan penjualan
-Search Terms,Syarat pencarian
-Shipping,Pengiriman
-Shopping Cart,Keranjang belanja
-Show for Current,Tampilkan untuk saat ini
-Stock Qty,Kuantitas stok
-Submitted In,Disampaikan pada
-Submitted On,Disampaikan pada
-Subtotal,Subtotal
-Tag,Tag
-"Tag ""%s"" details","Tag ""%s"" detil"
-Tag Detail,Tag Detil
-Tag Name,Nama tag
-Tag use,Penggunaan tag
-Tags submited by %s,Tag dikirim oleh %s
-Tags submitted to %s,Tag dikirim ke %s
-Tax,Pajak
-Tax Amount,Jumlah pajak
-Title,Judul
-Total,Total
-Total Invoiced,Total faktur
-Total Invoiced Captured,Total pengambilan faktur
-Total Invoiced not Captured,Total faktur yang tidak diambil
-Total Refunded,Total dikembalikan
-Total Shipping,Total pengiriman
-Total Tags,Total Tag
-Total invoiced,Total Faktur
-Total refunded,Total dikembalikan
-Updated at,Diperbarui pada
-Visible In,Dilihat dalam
-Wishlist Report,Laporan daftar keinginan
-Wishlist vs. Regular Order,Daftar Keinginan vs Pesanan rutin
-Wishlists,Daftar keinginan
-Year,Tahun
-Your Recently Compared,Terakhirkali yang Anda bandingkan
-Your Recently Viewed,Terakhirkali yang Anda lihat
+Abandoned carts,"Keranjang yang ditinggalkan"
+Action,"Aksi"
+Add to Cart,"Tambah ke keranjang"
+Add to Compare,"Tambah ke perbandingan"
+Add to Wishlist,"Tambah ke daftar keinginan"
+Applied Coupon,"Kupon Terapan"
+Avg. approved rating,"Rata rata peringkat yang disetujui"
+Avg. rating,"Rata rata peringkat"
+Bestsellers,"Terlaris"
+Bought from wishlists,"Dibeli dari daftar keinginan"
+CSV,"CSV"
+Carrier/Method,"Pembawa/Metode"
+Carts,"Keranjang"
+Coupons,"Kupon"
+Created at,"Dibuat pada"
+Customer,"Pelanggan"
+Customer Name,"Nama pelanggan"
+Customer Tags,"Tag pelanggan"
+Customers,"Pelanggan"
+Customers Report,"Laporan pelanggan"
+Customers Reviews,"Tinjauan pelanggan"
+Customers Tags,"Tag pelanggan"
+Customers by number of orders,"Pelanggan oleh jumlah pesanan"
+Customers by orders total,"Pelanggan oleh total pesanan"
+Customers that have wishlist: %s%,"Pelanggan yang mempunyai daftar keinginan: %s%"
+Day,"Hari"
+Default Recently Compared Products count,"Standar baru di bandingkan dengan hitungan produk"
+Default Recently Viewed Products count,"Standar baru dilihat dari hitungan produk"
+Detail,"Detil"
+Discounts,"Diskon"
+Downloads,"Unduh"
+Email,"Email"
+Empty Rows,"Baris kosong"
+Excel XML,"Excel XML"
+Filter,"Filter"
+First Name,"Nama Pertama"
+Guest,"Tamu"
+Hits,"Hits"
+ID,"ID"
+Invalid date specified,"Data tidak valid ditentukan"
+Invoiced,"Faktur"
+Items Ordered,"Barang dipesan"
+Items in Cart,"Barang dalam pesanan"
+Last Name,"Nama akhir"
+Last Review,"Tinjauan terakhir"
+Link,"Tautan"
+Low stock,"Stok rendah"
+Month,"Bulan"
+Most Viewed,"Paling banyak dilihat"
+Most viewed,"Paling banyak dilihat"
+Name,"Nama"
+New Accounts,"Akun baru"
+Number Added,"Jumlah ditambahkan"
+Number Fulfilled,"Jumlah dipenuhi"
+Number Of Historical Uses,"Jumlah dari penggunaan riwayat"
+Number Of Reviews,"Jumlah dari tinjauan"
+Number Of Uses,"Jumlah penggunaan"
+Number Purchased,"Jumlah pembelian"
+Number Viewed,"Jumlah dilihat"
+Number of Items,"Jumlah dari barang"
+Number of Invoiced Orders,"Jumlah dari pesanan faktur"
+Number of New Accounts,"Jumlah dari akun baru"
+Number of Orders,"Jumlah dari pesanan"
+Number of Refunded Orders,"Jumlah dari pesanan yang dikembalikan"
+Number of Reviews,"Jumlah dari tinjauan"
+Number of Total Tags,"Jumlah dari total tag"
+Number of Unique Tags,"Jumlah dari tag unik"
+Number of Views,"Jumlah dari tampilan"
+Number of items bought from a wishlist: %s,"Jumlah barang yang dibeli dari daftar keinginan: %s"
+Number of times deleted,"Jumlah dari waktu yang dihapus"
+Number of times wishlists have been shared (emailed): %s,"Sejumlah daftar keinginan saat telah dibagi (dikirim melalui email): %s"
+Number of wishlist conversions: %s,"Sejumlah konversi Daftar Keinginan: %s"
+Number of wishlist referrals: %s,"Jumlah arahan Daftar Keinginan: %s"
+Number of wishlists: %s,"Jumlah daftar keinginan: %s"
+Offline Refunded,"Yang dikembalikan Offline"
+Online Refunded,"Yang dikembalikan online"
+Orders,"Pesanan"
+Out of stock,"Habis"
+Poducts Report,"Laporan produk"
+Popular Tags,"Tag populer"
+Popularity,"Popularitas"
+Price,"Harga"
+Product Name,"Nama Produk"
+Product Reviews,"Tinjauan Produk"
+Product Sku,"SKU produk"
+Product Tags,"Tag produk"
+Products,"Produk"
+Products Report,"Laporan produk"
+Products Reviews,"Tinjauan produk"
+Products Sold,"Produk terjual"
+Products Tags,"Tag produk"
+Products in carts,"Produk dalam keranjang"
+Purchases,"Pembelian"
+Quantity Ordered,"Kuantitas pesanan"
+Quantity of Items,"Kuantitas barang"
+Rate,"Tingkat"
+Recently Compared Products,"Produk yang dibandingkan saat ini"
+Recently Viewed Products,"Produk yang dilihat sekarang"
+Recently Viewed/Compared Products,"Yang Terakhir Dilihat / Dibandingkan dengan Produk"
+Refunded,"Dikembalikan"
+Reports,"Laporan"
+Results,"Hasil"
+Revenue,"Pendapatan"
+Review,"Tinjauan"
+Reviews,"Tinjauan"
+Reviews for %s,"Tinjauan untuk %s"
+Sales,"Penjualan"
+Sales Report,"Laporan penjualan"
+Search Terms,"Syarat pencarian"
+Shipping,"Pengiriman"
+Shopping Cart,"Keranjang belanja"
+Show for Current,"Tampilkan untuk saat ini"
+Stock Qty,"Kuantitas stok"
+Submitted In,"Disampaikan pada"
+Submitted On,"Disampaikan pada"
+Subtotal,"Subtotal"
+Tag,"Tag"
+"Tag "%s" details","Tag "%s" detil"
+Tag Detail,"Tag Detil"
+Tag Name,"Nama tag"
+Tag use,"Penggunaan tag"
+Tags submited by %s,"Tag dikirim oleh %s"
+Tags submitted to %s,"Tag dikirim ke %s"
+Tax,"Pajak"
+Tax Amount,"Jumlah pajak"
+Title,"Judul"
+Total,"Total"
+Total Invoiced,"Total faktur"
+Total Invoiced Captured,"Total pengambilan faktur"
+Total Invoiced not Captured,"Total faktur yang tidak diambil"
+Total Refunded,"Total dikembalikan"
+Total Shipping,"Total pengiriman"
+Total Tags,"Total Tag"
+Total invoiced,"Total Faktur"
+Total refunded,"Total dikembalikan"
+Updated at,"Diperbarui pada"
+Visible In,"Dilihat dalam"
+Wishlist Report,"Laporan daftar keinginan"
+Wishlist vs. Regular Order,"Daftar Keinginan vs Pesanan rutin"
+Wishlists,"Daftar keinginan"
+Year,"Tahun"
+Your Recently Compared,"Terakhirkali yang Anda bandingkan"
+Your Recently Viewed,"Terakhirkali yang Anda lihat"

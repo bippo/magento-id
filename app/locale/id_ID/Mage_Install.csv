@@ -1,123 +1,120 @@
-(Make sure you keep it in a safe place.),(Pastikan anda menyimpannya ditempat yang aman.)
-(Optional. Leave blank for no prefix),(Opsional.)
-(ver. %s),(ver. %s)
+(Make sure you keep it in a safe place.),"(Pastikan anda menyimpannya ditempat yang aman.)"
+(Optional. Leave blank for no prefix),"(Opsional.Biarkan kosong tanpa prefix)"
+(ver. %s),"(ver. %s)
 "Additional path added after Base URL to access your Administrative Panel (e.g. admin, backend, control etc.).","Jalur adisional di tambahkan setelah dasar URL untuk mengakses panel administratif Anda (con. admin, backend, control dll.)."
-Admin Path,Jalur Admin
-After successfull installation please click the button below.,Setelah instalasi berhasil silahkan klik tombol dibawah ini.
+Admin Path,"Jalur Admin"
+After successfull installation please click the button below.,"Setelah instalasi berhasil silahkan klik tombol dibawah ini."
 "All packages were installed successfully, click 'Ok' to continue with installation","Semua paket berhasil diinstal, klik 'Ok' untuk melanjutkan instalasi"
-Alternatively you could try the 'Manual Downloads and Upgrades' method.,Sebagai alternatif Anda bisa mencoba 'Unduhan Manual dan Peningkatan' metode.
-Base URL,Dasar URL
+Alternatively you could try the 'Manual Downloads and Upgrades' method.,"Sebagai alternatif Anda bisa mencoba 'Unduhan Manual dan Peningkatan' metode."
+Base URL,"Dasar URL"
 "Before you continue to your store, please make a note of your encryption key (Magento uses it to encrypt passwords, credit cards and more).","Sebelum Anda melanjutkan ke toko Anda, silakan membuat catatan dari kunci enkripsi Anda (Magento menggunakan untuk mengenkripsi password, kartu kredit dan lebih)."
-Check out our,Lihat kami
-Check this box only if it is not possible to automatically validate Base URL.,Centang kotak ini jika tidak mungkin untuk secara otomatis memvalidasi Basis URL.
+Check out our,"Lihat kami"
+Check this box only if it is not possible to automatically validate Base URL.,"Centang kotak ini jika tidak mungkin untuk secara otomatis memvalidasi Basis URL."
 "Check this box only if it is not possible to automatically validate Secure URL, for example if HTTP authentication is required.","Centang kotak ini jika tidak mungkin untuk secara otomatis memvalidasi Keamanan URL, misalnya jika otentikasi HTTP diperlukan."
-Choose this if you would like to test frontend and backend functionality.,Pilih ini jika Anda ingin menguji fungsionalitas ujung depan dan dan ujung belakang.
-Configuration,Konsfigurasi
-Confirm Password,Konfirmasi kata sandi
-Connection,Koneksi
-Continue,Lanjutkan
-Continue After Manual Download,Lanjutkan setelah unduhan manual
-Continue Full Download / SVN Installation,Lanjutkan unduhan penuh/ Instalasi SVN
-Create Admin Account,Membuat akun admin
-Currently this is the most stable state available for Magento packages.,Saat ini adalah keadaan paling stabil yang tersedia untuk paket Magento.
-Database,Basis data
-Database Connection,Koneksi basis data
-Database Name,Nama Basis data
-Database Name cannot be empty.,Nama basis data tidak bisa kosong
-Database connection error.,Koneksi basis data galat.
-Database host,Host basis data
-Database server does not support InnoDB storage engine,Server basis data tidak mendukung  InnoDB mesin penyimpan
+Choose this if you would like to test frontend and backend functionality.,"Pilih ini jika Anda ingin menguji fungsionalitas ujung depan dan dan ujung belakang."
+Configuration,"Konsfigurasi"
+Confirm Password,"Konfirmasi kata sandi"
+Connection,"Koneksi"
+Continue,"Lanjutkan"
+Continue After Manual Download,"Lanjutkan setelah unduhan manual"
+Continue Full Download / SVN Installation,"Lanjutkan unduhan penuh/ Instalasi SVN"
+Create Admin Account,"Membuat akun admin"
+Currently this is the most stable state available for Magento packages.,"Saat ini adalah keadaan paling stabil yang tersedia untuk paket Magento."
+Database,"Basis data"
+Database Connection,"Koneksi basis data"
+Database Name,"Nama Basis data"
+Database Name cannot be empty.,"Nama basis data tidak bisa kosong"
+Database connection error.,"Koneksi basis data error."
+Database host,"Host basis data"
+Database server does not support InnoDB storage engine,"Server basis data tidak mendukung  InnoDB mesin penyimpan"
 "Database server version does not match system requirements (required: %s, actual: %s)","Versi server basis data tidak sesuai sistem yang dibutuhkan (dibutuhkan: %s, aktual: %s)"
-Database user name,Nama Pengguna Basis data
-Database user password,Kata sandi pengguna Basis data
-Default Currency,Kurs standar
-Download,Unduh
-Download Magento Core Modules and Updates,Unduh Magento Inti dan perbarui.
-"Downloading and installing Magento, please wait...","Mengunduh dan menginstal Magento, mohon tunggu..."
-Email,Email
-Email Address,Alamat email
-Enable Charts,Aktifkan bagan
-Enable this option if you want the charts to be displayed on Dashboard.,Aktifkan opsi ini jika Anda ingin bagan yang akan ditampilkan pada Dashboard.
-Enable this option only if you have SSL available.,Aktifkan pilihan ini jika anda memiliki ketersediaan SSL.
-Encryption Key,Kunci enkripsi.
-File system,Sistem berkas
-First Name,Nama awal
-Full Download / SVN Installation,Dowload penuh /instalasi SVN
-Get ready to experience Open-Source eCommerce Evolved.,Bersiaplah untuk pengalaman Open-Source eCommerce Evolved.
-Go to Backend,ke Backend
-Go to Frontend,Ke Frontend
-Having trouble installing Magento?,Memiliki kesulitan menginstal Magento?
-Help Us to Keep Magento Healthy,Membantu kita untuk menjaga Magento yang sehat
-Host,Host
-I agree to the above terms and conditions,Saya setuju dengan syarat dan kondisi diatas.
+Database user name,"Nama Pengguna Basis data"
+Database user password,"Kata sandi pengguna Basis data"
+Default Currency,"Kurs standar"
+Download,"Unduh"
+Download Magento Core Modules and Updates,"Unduh Magento Inti dan perbarui."
+"Downloading and installing Magento, please wait...","Mengunduh dan menginstal Magento," mohon tunggu..."
+Email,"Email"
+Email Address,"Alamat email"
+Enable Charts,"Aktifkan bagan"
+Enable this option if you want the charts to be displayed on Dashboard.,"Aktifkan opsi ini jika Anda ingin bagan yang akan ditampilkan pada Dashboard."
+Enable this option only if you have SSL available.,"Aktifkan pilihan ini jika anda memiliki ketersediaan SSL."
+Encryption Key,"Kunci enkripsi."
+File system,"Sistem file"
+First Name,"Nama awal"
+Full Download / SVN Installation,"Dowload penuh /instalasi SVN"
+Get ready to experience Open-Source eCommerce Evolved.,"Bersiaplah untuk pengalaman Open-Source eCommerce Evolved."
+Go to Backend,"ke Backend"
+Go to Frontend,"Ke Frontend"
+Having trouble installing Magento?,"Memiliki kesulitan menginstal Magento?"
+Help Us to Keep Magento Healthy,"Membantu kita untuk menjaga Magento yang sehat"
+Host,"Host"
+I agree to the above terms and conditions,"Saya setuju dengan syarat dan kondisi diatas."
 "If you are a developer and would like to have the latest public updates, choose this option.","Jika Anda seorang pengembang dan ingin memiliki pembaruan umum terbaru, pilih opsi ini."
-"If you are running PHP as CGI, your PHP processes may run under the same user as the user you used when uploading Magento files.","Jika Anda menjalankan PHP sebagai CGI,proses PHP Anda di bawah pengguna yang sama sebagai pengguna yang digunakan saat meng-unggah berkas Magento."
+"If you are running PHP as CGI, your PHP processes may run under the same user as the user you used when uploading Magento files.","Jika Anda menjalankan PHP sebagai CGI,proses PHP Anda di bawah pengguna yang sama sebagai pengguna yang digunakan saat meng-unggah file Magento."
 "If you are running install wizard over previously downloaded and installed Magento installation, proceed with this method.","Jika Anda menjalankan panduan menginstal lebih dari yang sebelumnya diunduh dan diinstal pemasangan Magento, lanjutkan dengan metode ini."
 "If you do not wish or are not able to have Magento folders writeable for the web process, you could use PEAR executable located in the root of Magento installation.","Jika Anda tidak ingin atau tidak dapat memiliki folder Magento ditulisi untuk proses web, Anda bisa menggunakan PEAR dieksekusi terletak di root dari instalasi Magento."
-"If you have downloaded the full package or installed Magento through SVN, you should skip packages installation and validation by clicking the button below.","Jika Anda telah mengunduh paket lengkap atau dipasang Magento melalui SVN, Anda harus melewatkan pemasangan paket dan validasi dengan mengklik tombol di bawah ini.
-"
-"If you wish to manage Magento packages through the web admin interface, you will need to have web writeable permissions applied to all Magento folders and files.","Jika Anda ingin mengelola paket Magento melalui antarmuka web admin, Anda akan perlu memiliki izin ditulisi web diterapkan untuk semua folder dan berkas Magento.
-"
-"If your server is running on MS Windows, most probably you will not need to change anything.","Jika server Anda berjalan pada MS Windows, kemungkinan besar Anda tidak akan perlu mengubah apa pun."
-In other cases you will need to make Magento files writeable for the user that the web server process is running under.,"Dalam kasus lain Anda akan perlu untuk membuat berkas Magento dapat di tulisi untuk pengguna bahwa proses web server yang berjalan di bawah.
-"
-Installation,Instalasi
-Installation Guide,Panduan instalasi
-Last Name,Nama belakang
-Locale,Lokal
-Locale settings,Pengaturan Lokal
-Localization,Pelokalan
-Login Information,Informasi Masuk
-Magento,Magento
-Magento Connect Manager Deployment,Magento menghubungkan penerapan manajer
-Magento Installation Wizard,Panduan instalasi Magento
-Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.,Magento adalah merek dagang dari  Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.
-"Magento uses this key to encrypt passwords, credit cards and more. If this field is left empty the system will create an encryption key for you and will display it on the next page.","Magento menggunakan kunci ini untuk mengenkripsi kata sandi, kartu kredit dan lainya. Jika bidang ini di biarkan kosong  sistem akun membuat kunci enkripsi untuk anda dan akan menampilkannya pada halaman berikutnya."
-Manual Downloads and Upgrades,Unduhan manual dan perbaruan
-"One from PHP Extensions ""%s"" must be loaded","Satu dari ekstensi PHP""%s"" harus dimuat"
-"PHP Extension ""%s"" must be loaded","Ekstensi PHP ""%s"" harus dimuat"
-PHP Extension '%s' loaded,Ekstensi PHP '%s' dimuat
-Package Management through the Web,Manajemen Paket melalui Web
-Password,Kata sandi
-Password Confirmation,Konfirmasi Kata sandi
-"Path ""%s"" must be writable","Jalur  ""%s"" harus dapat ditulis"
-Personal Information,Informasi personal
-Please make sure that <code>mod_rewrite</code> is enabled in Apache configuration.,Silakan pastikan bahwa <code>mod_rewrite</code> diaktifkan dalam konfigurasi Apache.
-Please note that it is much less stable than beta.,Harap dicatat bahwa ini jauh lebih stabil daripada versi beta.
+"If you have downloaded the full package or installed Magento through SVN, you should skip packages installation and validation by clicking the button below.","Jika Anda telah mengunduh paket lengkap atau dipasang Magento melalui SVN, Anda harus melewatkan pemasangan paket dan validasi dengan mengklik tombol di bawah ini."
+"If you wish to manage Magento packages through the web admin interface, you will need to have web writeable permissions applied to all Magento folders and files.","Jika Anda ingin mengelola paket Magento melalui antarmuka web admin, Anda akan perlu memiliki izin ditulisi web diterapkan untuk semua folder dan file Magento."
+"If your server is running on MS Windows, most probably you will not need to change anything.","Jika server Anda berjalan pada MS Windows," kemungkinan besar Anda tidak akan perlu mengubah apa pun."
+In other cases you will need to make Magento files writeable for the user that the web server process is running under.,"Dalam kasus lain Anda akan perlu untuk membuat file Magento dapat di tulisi untuk pengguna bahwa proses web server yang berjalan di bawah."
+Installation,"Instalasi"
+Installation Guide,"Panduan instalasi"
+Last Name,"Nama belakang"
+Locale,"Lokal"
+Locale settings,"Pengaturan Lokal"
+Localization,"Pelokalan"
+Login Information,"Informasi Masuk"
+Magento,"Magento"
+Magento Connect Manager Deployment,"Magento menghubungkan penerapan manajer"
+Magento Installation Wizard,"Panduan instalasi Magento"
+Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.,"Magento adalah merek dagang dari  Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc."
+"Magento uses this key to encrypt passwords, credit cards and more. If this field is left empty the system will create an encryption key for you and will display it on the next page.","Magento menggunakan kunci ini untuk mengenkripsi kata sandi, kartu kredit dan lainya. Jika field ini di biarkan kosong  sistem akun membuat kunci enkripsi untuk anda dan akan menampilkannya pada halaman berikutnya."
+Manual Downloads and Upgrades,"Unduhan manual dan perbaruan"
+"One from PHP Extensions "%s" must be loaded","Satu dari ekstensi PHP"%s" harus dimuat"
+"PHP Extension "%s" must be loaded","Ekstensi PHP "%s" harus dimuat"
+PHP Extension '%s' loaded,"Ekstensi PHP '%s' dimuat"
+Package Management through the Web,"Manajemen Paket melalui Web"
+Password,"Kata sandi"
+Password Confirmation,"Konfirmasi Kata sandi"
+"Path "%s" must be writable","Jalur  "%s" harus dapat ditulis"
+Personal Information,"Informasi personal"
+Please make sure that <code>mod_rewrite</code> is enabled in Apache configuration.,"Silakan pastikan bahwa <code>mod_rewrite</code> diaktifkan dalam konfigurasi Apache."
+Please note that it is much less stable than beta.,"Harap dicatat bahwa ini jauh lebih stabil daripada versi beta."
 "Please note that only UNIX, Linux and Mac OSX shells are currently supported. For Windows use the '%s' option.","Harap dicatat bahwa hanya sistem opersi UNIX, Linux dan Mac OSX  saat ini didukung. Untuk Windows menggunakan opsi '%s'."
-Please set all required settings before clicking Continue,Silahkan mengeset semua pengaturan yang diperlukan sebelum mengklik Lanjutkan
-Preferred stability: %s,Pilihan stabilitas: %s
-Proceed With Automatic Download (%s),Proses dengan unduh otomatis (%s)
-Provide a complete base URL for SSL connection. For example: %s,Menyediakan basis URL yang lengkap untuk koneksi SSL. Sebagai contoh: %s
-Report All Bugs,Laporkan semua Bug
-Required Fields,Bidang yang diperlukan
-Response from server isn\'t valid.,Respon dari server valid\tidak valid.
-Run admin interface with SSL,Jalankan admin antarmuka dengan SSL
-Run this in your shell from Magento root folder:,Jalankan ini pada shell anda dari folder akar Magento:
-Save session data in,Simpan sesi data dalam
-Save session files in,Simpan sesi berkas dalam
-Secure Base URL,Basis keamanan URL
-Session storage options,Sesi pilihan penyimpanan
-Setting preferred state to: %s,Pengaturan kondisi lebih memilih: %s
-Skip Base URL validation before next step,Lewati validasi Basis URL sebelum langkah berikutnya
-Skip Secure URL validation before next step,Lewati validasi keamanan URL  sebelum langkah berikutnya
+Please set all required settings before clicking Continue,"Silahkan mengeset semua pengaturan yang diperlukan sebelum mengklik Lanjutkan"
+Preferred stability: %s,"Pilihan stabilitas: %s"
+Proceed With Automatic Download (%s),"Proses dengan unduh otomatis (%s)"
+Provide a complete base URL for SSL connection. For example: %s,"Menyediakan basis URL yang lengkap untuk koneksi SSL. Sebagai contoh: %s"
+Report All Bugs,"Laporkan semua Bug"
+Required Fields,"field yang diperlukan"
+Response from server isn\'t valid.,"Respon dari server valid\tidak valid"
+Run admin interface with SSL,"Jalankan admin antarmuka dengan SSL"
+Run this in your shell from Magento root folder:,"Jalankan ini pada shell anda dari folder akar Magento:"
+Save session data in,"Simpan sesi data dalam"
+Save session files in,"Simpan sesi file dalam"
+Secure Base URL,"Basis keamanan URL"
+Session storage options,"Sesi pilihan penyimpanan"
+Setting preferred state to: %s,"Pengaturan kondisi lebih memilih: %s"
+Skip Base URL validation before next step,"Lewati validasi Basis URL sebelum langkah berikutnya"
+Skip Secure URL validation before next step,"Lewati validasi keamanan URL  sebelum langkah berikutnya"
 "Table prefix should contain only letters (a-z), numbers (0-9) or underscore(_), first character should be a letter","Prefix tabel seharusnya berisi hanya huruf (a-z), angka (0-9) atau underscore (_), karakter pertama harus huruf a"
-Tables Prefix,Tabel Prefix
-"The URL ""%s"" is invalid.","URL ""%s"" tidak valid."
-"The URL ""%s"" is not accessible.","URL ""%s"" tidak dapat diakses."
+Tables Prefix,"Tabel Prefix"
+"The URL "%s" is invalid.","URL "%s" tidak valid."
+"The URL "%s" is not accessible.","URL "%s" tidak dapat diakses."
 "The database server version does not match system requirements (required: %s, actual: %s).","Versi server database tidak sesuai persyaratan sistem (dibutuhkan: %s, aktual: %s)."
 "The table prefix should contain only letters (a-z), numbers (0-9) or underscores (_), the first character should be a letter.","Prefix tabel harus mengandung hanya huruf (a-z), angka (0-9) atau garis bawah (_), karakter pertama harus huruf."
 "There was a problem installing Magento packages. Please read the log, correct errors and try again.","Terjadi masalah saat instalasi paket Magento. Silahkan baca log, memperbaiki kesalahan dan coba lagi."
-Time Zone,Zona waktu
-"Url ""%s"" is invalid","URL ""%s"" tidak valid."
-"Url ""%s"" is not accessible","URL ""%s"" tidak dapat di akses."
-Use Secure URLs (SSL),Gunakan keamanan URLs (SSL)
-Use Web Server (Apache) Rewrites,Gunakan server web (Apache) Tulis ulang
-User Name,Nama pengguna
-User Password,Gunakan kata sandi
-Username,Nama pengguna
-Web access options,Pilihan akses web
-Welcome to Magento's Installation Wizard,Selamat datang pada Panduan instalasi Magento
+Time Zone,"Zona waktu"
+"Url "%s" is invalid","URL "%s" tidak valid."
+"Url "%s" is not accessible","URL "%s" tidak dapat di akses."
+Use Secure URLs (SSL),"Gunakan keamanan URLs (SSL)"
+Use Web Server (Apache) Rewrites,"Gunakan server web (Apache) Tulis ulang"
+User Name,"Nama pengguna"
+User Password,"Gunakan kata sandi"
+Username,"Nama pengguna"
+Web access options,"Pilihan akses web"
+Welcome to Magento's Installation Wizard,"Selamat datang pada Panduan instalasi Magento"
 "You can specify server port, ex.: localhost:3307<br />If you are not using default UNIX socket, you can specify it here instead of host, ex.: /var/run/mysqld/mysqld.sock","Anda dapat menentukan port server, con.: localhost:3307<br />,Jika Anda tidak menggunakan standar socket UNIX, Anda dapat menentukan disini bukan dari host con.: /var/run/mysqld/mysqld.sock"
-You could enable this option to use web server rewrites functionality for improved search engines optimization.,Anda bisa mengaktifkan opsi ini untuk menggunakan server web ulang fungsi untuk meningkatkan optimasi mesin pencari.
-You're All Set,Anda semua diatur
+You could enable this option to use web server rewrites functionality for improved search engines optimization.,"Anda bisa mengaktifkan opsi ini untuk menggunakan server web ulang fungsi untuk meningkatkan optimasi mesin pencari."
+You're All Set,"Anda semua diatur"

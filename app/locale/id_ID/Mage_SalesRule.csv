@@ -1,102 +1,102 @@
-"%d Shopping Cart Price Rules based on ""%s"" attribute have been disabled.","%d Harga Keranjang Belanja Aturan berdasarkan atribut ""%s"" telah dinonaktifkan."
-Actions,Aksi
-Active,Aktif
-Add New Rule,Tambah aturan baru
-Apply,Terapkan
-Apply To,Terapkan ke
-Apply the rule only if the following conditions are met (leave blank for all products),Terapkan aturan jika kondisi berikut terpenuhi (biarkan kosong untuk semua produk)
-Apply the rule only to cart items matching the following conditions (leave blank for all items),Terapkan aturan hanya untuk barang keranjang yang cocok dengan kondisi berikut (biarkan kosong untuk semua barang)
-Apply the rule to cart items matching the following conditions,Terapkan aturan untuk barang keranjang yang cocok dengan kondisi berikut
-Apply to Shipping Amount,Terapkan ke akun pengiriman
-Auto,Otomatis
-Buy X get Y free (discount amount is Y),Beli X  mendapatkan gratis  Y  (jumlah diskon adalah Y)
-By Fixed Amount,Oleh jumlah tetap
-By Fixed value,Oleh nilai tetap
-By Percentage,Oleh persentasi
-By Percentage of the Original Price,Oleh persentasi dari harga asli
-Can\'t acquire coupon.,Tidak bisa mendapatkan kupon.
-Cart Attribute,Atribut keranjang
-Catalog,Katalog
-Conditions,Kondisi
-Conditions combination,Kombinasi kondisi
-Coupon,Kupon
-Coupon Code,Kode kupon
-Customer Groups,Grup pelanggan
-Customer is new buyer: %s,Pelanggan adalah pembeli baru: %s
-Customer registered: %s,Pelanggan terdaftar: %s
-Date Expire,Masa kadaluarsa
-Date Start,Tanggal mulai
-Default Label,Label standar
-Default Rule Label for All Store Views,Label aturan standar untuk semua tampilan toko
-Delete Rule,Hapus aturan
-Description,Deskripsi
-Description: %s,Deskripsi: %s
-Discount Amount,Jumlah diskon
-Discount Qty Step (Buy X),Langkah kuantitas diskon (Beli X)
-Edit Rule,Sunting aturan
-Edit Rule '%s',Sunting aturan '%s'
-Expire at: %s,Kadaluarsa pada: %s
-FOUND,DITEMUKAN
-Fixed amount discount,Diskon jumlah tetap
-Fixed amount discount for whole cart,Diskon jumlah tetap untuk seluruh keranjang
-For matching items only,Hanya untuk barang yang cocok
-For shipment with matching items,Untuk pengiriman dengan barang yang cocok
-Free Shipping,Pengiriman Gratis
-From Date,Dari tanggal
-General Information,Informasi umum
-ID,ID
-Inactive,Tidak aktif
-Item totals are not set for rule.,Total barang yang tidak diatur untuk aturan
-Labels,Label
-Maximum Qty Discount is Applied To,Diskon kuantitas maksimum diterapkan ke:
-NOT FOUND,TIDAK DITEMUKAN
-NOT LOGGED IN,TIDAK MASUK
-Name: %s,Nama: %s
-New Rule,Aturan baru
-No,Tidak
-No Coupon,Bukan kupon
-Number of Uses,Jumlah penggunaan
-Payment Method,Metode pembayaran
-Percent of product price discount,Persen dari diskon harga produk
-Period,Periode
-Price in cart,Harga dalam keranjang
-Priority,Prioritas
-Product attribute combination,Kombinasi atribut produk
-Products subselection,Produk sebelum dipilih
-Promotions,Promosi
-Public In RSS Feed,Publik pada RSS Feed
-Quantity in cart,Kuantitas dikeranjang
-Row total in cart,Baris total dikeranjang
-Rule Information,Informasi aturan
-Rule Name,Nama Aturan
-Rule was successfully deleted,Aturan berhasil dihapus
-Rule was successfully saved,Aturan berhasil disimpan
-Save Rule,Simpan Aturan
-Shipping Country,Negara Pengiriman
-Shipping Method,Metode Pengiriman
-Shipping Postcode,Kode Pos Pengiriman
-Shipping Region,Wilayah Pengiriman
-Shipping State/Province,Negara Bagian/Provinsi Pengiriman
-Shopping Cart Price Rule,Aturan Harga Keranjang Belanja
-Shopping Cart Price Rules,Aturan Harga Keranjang Belanja
-Special price,Harga spesial
-Start at: %s,Mulai dari: %s
-Status,Status
-Stop further rules processing,Hentikan memproses aturan lebih lanjut
-Subtotal,Subtotal
-The page you are trying to save no longer exists,Halaman yang akan ada simpan sudha tidak ada
-This rule no longer exists,Aturan ini sudah tidak ada
-To Date,Ke Tanggal
-To Fixed Amount,Ke Nilai Tetap
-To Fixed Value,Ke Nilai Tetap
-To Percentage,Ke Persentasi
-To Percentage of the original price,Ke Persentasi dari harga awal
-Total Items Quantity,Total kuantitas barang
-Total Weight,Total Berat
-Unable to find a page to delete,Tidak dapat menemukan halaman untuk dihapus
-Update prices using the following information,Perbaharui harga dengan menggunakan informasi berikut
-Update product's %s %s: %s,Perbarui produk %s %s: %s
-Update the Product,Perbarui Produk
-Uses per coupon,Penggunaan per kupon
-Uses per customer,Penggunaan per pelanggan
-Yes,Ya
+"%d Shopping Cart Price Rules based on "%s" attribute have been disabled.","%d Harga Keranjang Belanja Aturan berdasarkan atribut "%s" telah dinonaktifkan."
+Actions,"Aksi"
+Active,"Aktif"
+Add New Rule,"Tambah aturan baru"
+Apply,"Terapkan"
+Apply To,"Terapkan ke"
+Apply the rule only if the following conditions are met (leave blank for all products),"Terapkan aturan jika kondisi berikut terpenuhi (biarkan kosong untuk semua produk)"
+Apply the rule only to cart items matching the following conditions (leave blank for all items),"Terapkan aturan hanya untuk barang keranjang yang cocok dengan kondisi berikut (biarkan kosong untuk semua barang)"
+Apply the rule to cart items matching the following conditions,"Terapkan aturan untuk barang keranjang yang cocok dengan kondisi berikut"
+Apply to Shipping Amount,"Terapkan ke akun pengiriman"
+Auto,"Otomatis"
+Buy X get Y free (discount amount is Y),"Beli X  mendapatkan gratis  Y  (jumlah diskon adalah Y)"
+By Fixed Amount,"Oleh jumlah tetap"
+By Fixed value,"Oleh nilai tetap"
+By Percentage,"Oleh persentasi"
+By Percentage of the Original Price,"Oleh persentasi dari harga asli"
+Can\'t acquire coupon.,"Tidak bisa mendapatkan kupon."
+Cart Attribute,"Atribut keranjang"
+Catalog,"Katalog"
+Conditions,"Kondisi"
+Conditions combination,"Kombinasi kondisi"
+Coupon,"Kupon"
+Coupon Code,"Kode kupon"
+Customer Groups,"Grup pelanggan"
+Customer is new buyer: %s,"Pelanggan adalah pembeli baru: %s"
+Customer registered: %s,"Pelanggan terdaftar: %s"
+Date Expire,"Masa kadaluarsa"
+Date Start,"Tanggal mulai"
+Default Label,"Label standar"
+Default Rule Label for All Store Views,"Label aturan standar untuk semua tampilan toko"
+Delete Rule,"Hapus aturan"
+Description,"Deskripsi"
+Description: %s,"Deskripsi: %s"
+Discount Amount,"Jumlah diskon"
+Discount Qty Step (Buy X),"Langkah kuantitas diskon (Beli X)"
+Edit Rule,"Sunting aturan"
+Edit Rule '%s',"Sunting aturan '%s'"
+Expire at: %s,"Kadaluarsa pada: %s"
+FOUND,"DITEMUKAN"
+Fixed amount discount,"Diskon jumlah tetap"
+Fixed amount discount for whole cart,"Diskon jumlah tetap untuk seluruh keranjang"
+For matching items only,"Hanya untuk barang yang cocok"
+For shipment with matching items,"Untuk pengiriman dengan barang yang cocok"
+Free Shipping,"Pengiriman Gratis"
+From Date,"Dari tanggal"
+General Information,"Informasi umum"
+ID,"ID"
+Inactive,"Tidak aktif"
+Item totals are not set for rule.,"Total barang yang tidak diatur untuk aturan"
+Labels,"Label"
+Maximum Qty Discount is Applied To,"Diskon kuantitas maksimum diterapkan ke:"
+NOT FOUND,"TIDAK DITEMUKAN"
+NOT LOGGED IN,"TIDAK MASUK"
+Name: %s,"Nama: %s"
+New Rule,"Aturan baru"
+No,"Tidak"
+No Coupon,"Bukan kupon"
+Number of Uses,"Jumlah penggunaan"
+Payment Method,"Metode pembayaran"
+Percent of product price discount,"Persen dari diskon harga produk"
+Period,"Periode"
+Price in cart,"Harga dalam keranjang"
+Priority,"Prioritas"
+Product attribute combination,"Kombinasi atribut produk"
+Products subselection,"Produk sebelum dipilih"
+Promotions,"Promosi"
+Public In RSS Feed,"Publik pada RSS Feed"
+Quantity in cart,"Kuantitas dikeranjang"
+Row total in cart,"Baris total dikeranjang"
+Rule Information,"Informasi aturan"
+Rule Name,"Nama Aturan"
+Rule was successfully deleted,"Aturan berhasil dihapus"
+Rule was successfully saved,"Aturan berhasil disimpan"
+Save Rule,"Simpan Aturan"
+Shipping Country,"Negara Pengiriman"
+Shipping Method,"Metode Pengiriman"
+Shipping Postcode,"Kode Pos Pengiriman"
+Shipping Region,"Wilayah Pengiriman"
+Shipping State/Province,"Negara Bagian/Provinsi Pengiriman"
+Shopping Cart Price Rule,"Aturan Harga Keranjang Belanja"
+Shopping Cart Price Rules,"Aturan Harga Keranjang Belanja"
+Special price,"Harga spesial"
+Start at: %s,"Mulai dari: %s"
+Status,"Status"
+Stop further rules processing,"Hentikan memproses aturan lebih lanjut"
+Subtotal,"Subtotal"
+The page you are trying to save no longer exists,"Halaman yang akan ada simpan sudha tidak ada"
+This rule no longer exists,"Aturan ini sudah tidak ada"
+To Date,"Ke Tanggal"
+To Fixed Amount,"Ke Nilai Tetap"
+To Fixed Value,"Ke Nilai Tetap"
+To Percentage,"Ke Persentasi"
+To Percentage of the original price,"Ke Persentasi dari harga awal"
+Total Items Quantity,"Total kuantitas barang"
+Total Weight,"Total Berat"
+Unable to find a page to delete,"Tidak dapat menemukan halaman untuk dihapus"
+Update prices using the following information,"Perbaharui harga dengan menggunakan informasi berikut"
+Update product's %s %s: %s,"Perbarui produk %s %s: %s"
+Update the Product,"Perbarui Produk"
+Uses per coupon,"Penggunaan per kupon"
+Uses per customer,"Penggunaan per pelanggan"
+Yes,"Ya"

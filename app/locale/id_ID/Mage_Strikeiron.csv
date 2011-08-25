@@ -1,47 +1,47 @@
-%s is not supported currency.,%s Kurs tidak mendukung.
-Accept,Menerima
-Basic,Dasar
-Cannot retreive rate from strikeirion.,Pengambilan tidak dapat rate dari strikeirion.
-Cannot retrieve rate from %s to %s,Tidak dapat mengambil rate dari %s ke %s
-Check all email servers,Cek semua server email
-Complete,Lengkap
-Country/Region/Postal code combination,Negara / Wilayah / kombinasi Kode pos
-Customer Tax Class,Tingkat pajak pelanggan
-Email Verification,Verifikasi email
-Email address cannot be verified. Please check again and make sure your email address entered correctly.,Alamat email tidak dapat diverifikasi. Silakan cek kembali dan pastikan alamat email anda dimasukkan dengan benar.
-Enable US address verification,Aktifkan verifikasi alamat AS
-Enable email verification,Aktifkan verifikasi email
-Enable foreign exchange rate,Aktifkan kurs mata uang asing
-Enable global address verification,Memungkinkan verifikasi alamat global
-Enable sales and use tax,Aktifkan penjualan dan penggunaan pajak
-Error Email Recipient,Galat penerima email
-Error Email Sender,Galat pengirim email
-Error Email Template,Galat kerangka email
-Error address action,Galat langkah alamat
-Foreign Exchange Rates,Kurs Mata Uang Asing
-Global Address Verification,Verifikasi alamat global
+%s is not supported currency.,"%s Kurs tidak mendukung."
+Accept,"Menerima"
+Basic,"Dasar"
+Cannot retreive rate from strikeirion.,"Pengambilan tidak dapat rate dari strikeirion."
+Cannot retrieve rate from %s to %s,"Tidak dapat mengambil rate dari %s ke %s"
+Check all email servers,"Cek semua server email"
+Complete,"Lengkap"
+Country/Region/Postal code combination,"Negara / Wilayah / kombinasi Kode pos"
+Customer Tax Class,"Tingkat pajak pelanggan"
+Email Verification,"Verifikasi email"
+Email address cannot be verified. Please check again and make sure your email address entered correctly.,"Alamat email tidak dapat diverifikasi. Silakan cek kembali dan pastikan alamat email anda dimasukkan dengan benar."
+Enable US address verification,"Aktifkan verifikasi alamat AS"
+Enable email verification,"Aktifkan verifikasi email"
+Enable foreign exchange rate,"Aktifkan kurs mata uang asing"
+Enable global address verification,"Memungkinkan verifikasi alamat global"
+Enable sales and use tax,"Aktifkan penjualan dan penggunaan pajak"
+Error Email Recipient,"Error penerima email"
+Error Email Sender,"Error pengirim email"
+Error Email Template,"Error kerangka email"
+Error address action,"Error langkah alamat"
+Foreign Exchange Rates,"Kurs Mata Uang Asing"
+Global Address Verification,"Verifikasi alamat global"
 "If type is complete and zip code belongs to multiple tax rates, choose to charge minimum tax rate or maximum tax rate.","Jika jenis lengkap dan kode pos termasuk beberapa tarif pajak, memilih untuk mengenakan biaya minimum atau tingkat pajak tarif pajak maksimum."
-Invalid email address,Alamat email tidak valid
-Maximum tax rate,Tarif pajak maksimum
-Minimum tax rate,Tarif pajak minimum
-Password,Kata sandi
-Pop up warning and accept,Pop up peringatan dan penerimaan
-Product Tax Class,Tingkat pajak produk
-Reject,Tolak
-Sales and Use Tax,Penjualan dan pajak pengguna
-Sales and Use Tax Type,Penjualan dan jenis pajak pengguna
-Strikeiron,Strikeiron
-Strikeiron Config,konfigurasi Strikeiron
-Strikeiron Section,Bagian Strikeiron
-Strikeiron foreign exchange rate is disabled,Strikeiron asing nilai tukar dinonaktifkan
-Tax,Pajak
-There is an error in retrieving tax rate. Please contact us,Ada galat dalam mengambil tarif pajak. Silahkan hubungi kami
-There is an error in verifying an email. Please contact us.,Ada galat dalam memverifikasi email. Silahkan hubungi kami.
-There is no more hits remaining for the foreign Exchange Rate Service.,Tidak ada lebih banyak hits yang tersisa untuk Layanan Nilai Tukar asing.
-There is no response back from Strikeiron server,Tidak ada respon balik dari  Strikeiron server 
-US Address Verification,Verifikasi alamat AS
-Undetermined email action,Tindakan Email belum ditentukan 
-Use,Pengguna
-User ID,ID pengguna
-Verify address in admin,Verifikasi alamat pada admin
-Verify email in admin,Verifikasi email pada admin
+Invalid email address,"Alamat email tidak valid"
+Maximum tax rate,"Tarif pajak maksimum"
+Minimum tax rate,"Tarif pajak minimum"
+Password,"Kata sandi"
+Pop up warning and accept,"Pop up peringatan dan penerimaan"
+Product Tax Class,"Tingkat pajak produk"
+Reject,"Tolak"
+Sales and Use Tax,"Penjualan dan pajak pengguna"
+Sales and Use Tax Type,"Penjualan dan jenis pajak pengguna"
+Strikeiron,"Strikeiron"
+Strikeiron Config,"konfigurasi Strikeiron"
+Strikeiron Section,"Bagian Strikeiron"
+Strikeiron foreign exchange rate is disabled,"Strikeiron asing nilai tukar dinonaktifkan"
+Tax,"Pajak"
+There is an error in retrieving tax rate. Please contact us,"Ada Error dalam mengambil tarif pajak. Silahkan hubungi kami"
+There is an error in verifying an email. Please contact us.,"Ada Error dalam memverifikasi email. Silahkan hubungi kami."
+There is no more hits remaining for the foreign Exchange Rate Service.,"Tidak ada lebih banyak hits yang tersisa untuk Layanan Nilai Tukar asing."
+There is no response back from Strikeiron server,"Tidak ada respon balik dari  Strikeiron server"
+US Address Verification,"Verifikasi alamat AS"
+Undetermined email action,"Tindakan Email belum ditentukan"
+Use,"Pengguna"
+User ID,"ID pengguna"
+Verify address in admin,"Verifikasi alamat pada admin"
+Verify email in admin,"Verifikasi email pada admin"
