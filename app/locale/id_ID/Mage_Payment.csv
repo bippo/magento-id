@@ -15,7 +15,7 @@
 "Billing Period Unit","Unit peiode tagihan"
 "Billing period unit is not defined or wrong.","Unit Penagihan jangka waktu tidak ditentukan atau salah. "
 "Cannot retrieve payment method instance.","Tidak dapat mengambil contoh metode pembayaran. "
-"Cannot retrieve the payment info model object., "Tidak dapat mengambil objek informasi model pembayaran."
+"Cannot retrieve the payment info model object.","Tidak dapat mengambil objek informasi model pembayaran."
 "Cannot retrieve the payment method model object.","Tidak dapat mengambil objek metode pembayaran model. "
 "Card Verification Number","Kartu Verifikasi Nomor "
 "Centinel API URL","Centinel API URL"

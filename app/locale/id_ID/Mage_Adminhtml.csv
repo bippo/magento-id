@@ -274,7 +274,7 @@
 "Current Configuration Scope:","Cakupan Konfigurasi Sekarang:"
 "Current Release Information","Informasi Rilis Sekarang"
 "Custom","Custom"
-"Custom Variable "%s","Variabel Custom "%s""
+"Custom Variable ""%s","Variabel Custom ""%s"""
 "Custom Variables","Variabel Custom"
 "Customer","Pelanggan"
 "Customer Group:","Kelompok Pelanggan:"
@@ -562,9 +562,9 @@
 "Magento Connect","Menghubungkan Magento"
 "Magento Connect Manager","Magento Connect Manager"
 "Magento Logo","Logo Magento"
-"Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.,"Magento adalah merek dagang dari Irubin Consulting Inc. DBA Varien. Hak mengkopi &copy;" %s Irubin Consulting Inc.";;;",,,
+"Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.","Magento adalah merek dagang dari Irubin Consulting Inc. DBA Varien. Hak mengkopi &copy;"" %s Irubin Consulting Inc."
 "Magento ver. %s","Magento ver. %s"
-"Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.,"Magento&trade; adalah sebuah merk dagang dari Magento Inc.<br/>Copyright &copy;" %s Magento Inc.";;",,,
+"Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.","Magento&trade; adalah sebuah merk dagang dari Magento Inc.<br/>Copyright &copy;"" %s Magento Inc."
 "Main Tabs","Main Tabs"
 "Make Inactive","Membuat Tidak aktif"
 "Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).","Pastikan bahwa pengkodean data pada file konsisten dan disimpan dalam satu pengkodean yang didukung (UTF-8 or ANSI)."
@@ -1157,7 +1157,7 @@
 "Warning: All related AirMail messages will be deteted!\n Are you sure you want to do this?","Peringatan: Semua pesan yang terkait dengan pos udara akan dihapus!\n Apakah Anda yakin Ingin melakukan hal ini?"
 "Warning: Please do not close the window during importing/exporting data","Peringatan: Mohon Jangan tutup Jendela selama mengimpor/mengeskpor data"
 "Watermark File for %s","tanda air bidang untuk %s"
-"We appreciate our merchants\' feedback, please <a href="#" onclick="surveyAction(\'yes\'); return false;">take our survey</a> to provide insight on the features you would like included in Magento. <a href="#" onclick="surveyAction(\'no\'); return false;">Remove this notification</a>,"Kami Menghargai Para Penjual\' Mohon, Masukan <a href="#" di klik="Aksi Survey(\'ya\');Pengembalian keliru;">ambil survey kami</a> untuk memberikan wawasan tentang ciri khas yang akan Anda sukai termasuk pada Magento. <a href=""#"" di klik=""Aksi survey(\'tidak\')"; Pengembalian salah;">Hapus notifikasi ini</a>"",,,
+"We appreciate our merchants\' feedback, please <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">take our survey</a> to provide insight on the features you would like included in Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Remove this notification</a>","Kami Menghargai Para Penjual, Mohon Masukan <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">ambil survey kami</a> untuk memberikan wawasan tentang ciri khas yang akan Anda sukai termasuk pada Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Hapus notifikasi ini</a>"
 "We detected that your JavaScript seem to be disabled.","Kami mendeteksi bahwa JavaScript Anda tampaknya dinonaktifkan."
 "We\'re in our typing table, coding away more features for Magento. Thank you for your patience.","Kami Pada Meja Ketik Kami, pengkodean jauh lebih banyak fitur Untuk Magento. Terima kasih atas kesabaran Anda."
 "Web Section","Bagian Jaringan"
