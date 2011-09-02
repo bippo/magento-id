@@ -6,7 +6,7 @@
 "Can not find required columns: ","Tidak bisa menemukan kolom yang diminta:"
 "Can not get autoincrement value","Tidak bisa mendapatkan nilai auto increment"
 "Check Data","Cek data"
-"Column names has duplicates","Nama kolom telah diduplikasi"
+"Column names have duplicates","Column names have duplicates"
 "Column names is empty or is not an array","Nama kolom kosong atau tidak ada di susunan"
 "Column names: ""%s"" are invalid","Nama kolom: ""%s"" tidak valid"
 "Continue","Lanjutkan"
