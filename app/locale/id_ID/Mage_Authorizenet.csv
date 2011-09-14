@@ -20,7 +20,7 @@
 "Merchant's Email","Email penjual"
 "Minimum Order Total","Total pesanan minimum"
 "New Order Status","Status pesanan baru"
-"Order saving error: %s","Order saving error: %s"
+"Order saving error: %s","Menyimpan Order error: %s"
 "Payment Action","Aksi pembayaran"
 "Payment authorization error.","Error otorisasi pembayaran."
 "Payment authorization error. Transacion id is empty.","Error otorisasi pembayaran. Id transaksi kosong."
