@@ -19,7 +19,7 @@
 		<fail unless="server.user"/>
 		<fail unless="server.dir"/>
 		<sshexec host="${server.host}" username="${server.user}" port="${server.port}"
-			keyfile="${user.home}/.ssh/id_rsa" trust="true" command="rm -rvf ${server.dir}/var/cache/*"/>
+			keyfile="${user.home}/.ssh/id_rsa" trust="true" command="rm -rf ${server.dir}/var/cache/*"/>
 	</target>
 	
 	<target name="symlink" description="Create symlink in ${magento.dir}. It will not overwrite existing files/links.">
