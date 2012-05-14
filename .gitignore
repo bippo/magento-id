@@ -3,3 +3,4 @@
 /config.gradle
 .ant
 deploy.properties
+/development.properties

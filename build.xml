@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="magento-id">
+    <property file="development.properties"/>
     <property file="deploy.properties"/>
     
     <target name="deploy"
@@ -22,7 +23,7 @@
 			keyfile="${user.home}/.ssh/id_rsa" trust="true" command="rm -rf ${server.dir}/var/cache/*"/>
 	</target>
 	
-	<target name="symlink" description="Create symlink in ${magento.dir}. It will not overwrite existing files/links.">
+	<target name="symlink.create" description="Create symlink in ${magento.dir}. It will not overwrite existing files/links.">
 		<fail unless="magento.dir"/>
 		<symlink link="${magento.dir}/app/locale/" resource="${basedir}/app/locale/id_ID" failonerror="false"/>
 	</target>
