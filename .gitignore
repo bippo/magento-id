@@ -1,6 +1,7 @@
-.gradle
-.settings
+/.gradle
+/.settings
 /config.gradle
-.ant
-deploy.properties
+/.ant
+/deploy.properties
 /development.properties
+/.directory
