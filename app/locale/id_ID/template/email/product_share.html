@@ -18,5 +18,21 @@ Use vars: {{var var_name}}
 "var product_name":"Product Name",
 "var message":"Sender Message"}
 @-->
+{{template config_path="design/email/header"}}
+{{inlinecss file="email-inline.css"}}
 
-Selamat datang, {{htmlescape var=$name}}<br /><br />Silahkan melihat <a href="{{var product_url}}">{{var product_name}}</a><br /><br />Pesan: <br />{{var message}}<br /><br />
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td class="action-content">
+            <h1>Selamat datang, {{htmlescape var=$name}}</h1>
+            <p>Silahkan melihat <a href="{{var product_url}}">{{var product_name}}</a></p>
+            <table cellspacing="0" cellpadding="0" class="message-container">
+                <tr>
+                    <td><strong>Pesan:</strong> {{var message}}</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+{{template config_path="design/email/footer"}}
