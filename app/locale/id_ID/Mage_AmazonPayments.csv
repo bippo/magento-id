@@ -1,7 +1,7 @@
 " Select Shipping Method","Pilih Metode Pengiriman"
 "<br/>Trace confirmation request:<br/>%s","<br/> Melacak permintaan konfirmasi: <br/>%s"
 "Access Key","Akses Key"
-"Access Key ID","Access Key ID"
+"Access Key ID","Akses Key ID"
 "Amazon Simple Pay","Amazon Pay Sederhana"
 "Amazon Simple Pay notification error","Amazon Simple Pay kesalahan pemberitahuan"
 "Amazon Simple Pay service capture confirmation error: confirmation request amount is not equal to the amount of order.","Amazon Simple layanan Pay kesalahan konfirmasi capture: permintaan konfirmasi jumlah tidak sama dengan jumlah pesanan."

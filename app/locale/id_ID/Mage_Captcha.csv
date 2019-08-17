@@ -12,7 +12,7 @@
 "Forms","Forms"
 "If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available."
 "Incorrect CAPTCHA.","Incorrect CAPTCHA."
-"Number of Symbols","Number of Symbols"
+"Number of Symbols","Nomor of Simbol"
 "Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login"
 "Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Please specify 8 symbols at the most. Range allowed (e.g. 3-5)"
 "Please type the letters below","Please type the letters below"
