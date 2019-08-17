@@ -1,6 +1,10 @@
 <!--@subject {{var subject}} @-->
-Magento<br>
+{{template config_path="design/email/header"}}
+<p>
+{{var store.getFrontendName()}}<br>
 Alamat Email Moneybookers: {{var email_addr}}<br>
 ID Pelanggan Moneybookers: {{var customer_id}}<br>
 URL: {{var url}}<br>
-Bahasa: {{var language}}<br>
+Bahasa: {{var language}}
+</p>
+{{template config_path="design/email/footer"}}
