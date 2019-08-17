@@ -25,6 +25,7 @@
 "Path","Jalur"
 "Please create the specified folder ""%s"" before saving the sitemap.","Silakan membuat folder ""%s"" yang ditentukan sebelum menyimpan sitemap."
 "Please define correct path","Silakan tentukan jalur yang benar"
+"Please enter a sitemap name with at most %s characters.","Silakan enter a sitemap name with at most %s characters."
 "Please make sure that ""%s"" is writable by web-server.","Pastikan bahwa ""%s"" ditulis oleh web-server."
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in the filename. No spaces or other characters are allowed.","Silakan gunakan hanya huruf (a-z atau A-Z), angka (0-9) atau garis bawah (_) dalam nama file. Tidak ada spasi atau karakter lain yang diperbolehkan."
 "Priority","Prioritas"
