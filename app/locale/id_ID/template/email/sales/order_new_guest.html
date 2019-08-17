@@ -26,7 +26,7 @@
     <tr>
         <td class="email-heading">
             <h1>Dear {{htmlescape var=$order.getCustomerName()}}</h1>
-            <p>Terima kasih atas pesanan anda di {{var store.getFrontendName()}}.</p>
+            <p>Terima kasih atas pesanan Anda di {{var store.getFrontendName()}}.</p>
 
             <p>Anda dapat memeriksa status pesanan dengan <a href="{{store url="customer/account/"}}">masuk ke dalam akun anda</a>.</p>
         </td>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td class="order-details">
-            <h3>Pesanan anda <span class="no-link">#{{var order.increment_id}}</span> <small>(ditempatkan pada <span class="no-link">{{var order.getCreatedAtFormated('long')}}</span>)</small></h3>
+            <h3>Pesanan anda <span class="no-link">#{{var order.increment_id}}</span> <small>(ditempatkan pada {{var order.getCreatedAtFormated('long')}})</small></h3>
         </td>
     </tr>
     <tr class="order-information">
